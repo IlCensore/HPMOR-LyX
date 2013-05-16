@@ -1,0 +1,3117 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Empathy
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+I
+\end_layout
+
+\end_inset
+
+t
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ wasn't every day you got to see Harry Potter beg.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+“
+\emph on
+Pleeaaase,
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ whined Harry Potter.
+\end_layout
+
+\begin_layout Standard
+Fred and George shook their heads again, smiling.
+\end_layout
+
+\begin_layout Standard
+There was an agonized look on Harry Potter's face.
+ “But I 
+\emph on
+told
+\emph default
+ you how I did the one with Kevin Entwhistle's cat, and Hermione and the
+ vanishing soda, and I 
+\emph on
+can't
+\emph default
+ tell you about the Sorting Hat or the Remembrall or Professor Snape…”
+\end_layout
+
+\begin_layout Standard
+Fred and George shrugged and turned to leave.
+\end_layout
+
+\begin_layout Standard
+“If you ever do figure it out,” said the Weasley twins, “be sure to let
+ us know.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You're evil! You're both evil!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Fred and George firmly closed the door to the empty classroom behind them,
+ and made sure to keep the grin on their faces for a while, just in case
+ Harry Potter could see through doors.
+\end_layout
+
+\begin_layout Standard
+Then they turned a corner and their faces sagged.
+\end_layout
+
+\begin_layout Standard
+“I don't suppose Harry's guesses 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ gave you any ideas?” they said to each other at the same time, and then
+ their shoulders slumped further.
+\end_layout
+
+\begin_layout Standard
+Their last relevant memory was of Flume refusing to help them, though they
+ couldn't remember 
+\emph on
+what
+\emph default
+ they'd asked him to do…
+\end_layout
+
+\begin_layout Standard
+…but they must have looked elsewhere and found 
+\emph on
+someone
+\emph default
+ to help them do 
+\emph on
+something
+\emph default
+ illegal, or they wouldn't have agreed to be Obliviated afterward.
+\end_layout
+
+\begin_layout Standard
+How had they 
+\emph on
+possibly
+\emph default
+ been able to get all that done on just forty Galleons?
+\end_layout
+
+\begin_layout Standard
+At first they'd worried that they'd forged evidence so good that Harry actually
+ 
+\emph on
+would
+\emph default
+ end up married to Ginny… but they'd thought of that too, it seemed.
+ The Wizengamot proceedings had been tampered with 
+\emph on
+again
+\emph default
+ to put them back the way they'd been originally, the fake betrothal contract
+ had vanished from its dragon-guarded vault in Gringotts, and so on.
+ It was pretty scary, actually.
+ Most people now thought the 
+\emph on
+Daily Prophet
+\emph default
+ had just made the whole thing up for unguessable reasons, and the 
+\emph on
+Quibbler
+\emph default
+ had helpfully twisted the knife deeper with the next day's headline, HARRY
+ POTTER SECRETLY BETROTHED TO LUNA LOVEGOOD.
+\end_layout
+
+\begin_layout Standard
+Whoever they'd hired would tell them after the statute of limitations expired,
+ they desperately hoped.
+ But meanwhile it was awful, they'd pulled their greatest prank ever, maybe
+ the greatest prank in the history of pranking, and they 
+\emph on
+couldn't remember how.
+
+\emph default
+ It was crazy, they'd been able to think of a way the 
+\emph on
+first
+\emph default
+ time, so why couldn't they see it now after 
+\emph on
+knowing
+\emph default
+ everything they'd done?
+\end_layout
+
+\begin_layout Standard
+Their only consolation was that Harry didn't know they didn't know.
+\end_layout
+
+\begin_layout Standard
+Not even Mum had questioned them about it, despite the obvious Weasley connectio
+n.
+ Whatever had been done, it was far out of the reach of any Hogwarts student…
+ except possibly 
+\emph on
+one
+\emph default
+, who, if certain rumors were true, might have done it by snapping his fingers.
+ 
+\emph on
+Harry
+\emph default
+ had been questioned under Veritaserum, he'd told them… with Dumbledore
+ present and giving the Aurors scary looks.
+ The Aurors had asked just enough to determine that Harry hadn't pulled
+ the prank himself or disappeared anyone, and then gotten the heck out of
+ Hogwarts.
+\end_layout
+
+\begin_layout Standard
+Fred and George had wondered whether to feel insulted about Harry Potter
+ being questioned by the Aurors for 
+\emph on
+their
+\emph default
+ prank, but the look on 
+\emph on
+Harry's
+\emph default
+ face, probably for exactly the same reason, made everything worth it.
+\end_layout
+
+\begin_layout Standard
+Unsurprisingly, Rita Skeeter and the editor of the 
+\emph on
+Daily Prophet
+\emph default
+ had both vanished and were probably in another country by now.
+ They 
+\emph on
+would've
+\emph default
+ liked to be able to tell their family about that part.
+ Dad would have congratulated them, they thought, after Mum had finished
+ killing them and Ginny had burned the remains.
+\end_layout
+
+\begin_layout Standard
+But everything was still all right, they'd tell Dad someday, and meanwhile…
+\end_layout
+
+\begin_layout Standard
+…meanwhile Dumbledore had happened to sneeze while passing them in the hallway,
+ and a small package had accidentally dropped out of his pockets, and inside
+ had been two matched wardbreaker's monocles of 
+\emph on
+incredible
+\emph default
+ quality.
+ The Weasley twins had tested their new monocles on the “forbidden” third-floor
+ corridor, making a quick trip to the magic mirror and back, and they hadn't
+ been able to see 
+\emph on
+all
+\emph default
+ the detection webs clearly, but the monocles had shown a 
+\emph on
+lot
+\emph default
+ more than they'd seen the first time.
+\end_layout
+
+\begin_layout Standard
+Of course they would have to be very careful never to get caught with the
+ monocles in their possession, or they would end up in the Headmaster's
+ office getting a stern lecture and maybe even threats of expulsion.
+\end_layout
+
+\begin_layout Standard
+It was good to know that not everyone who got Sorted into Gryffindor grew
+ up to be Professor McGonagall.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry was in a white room, windowless, featureless, sitting before a desk,
+ facing an expressionless man in formal robes of solid black.
+\end_layout
+
+\begin_layout Standard
+The room was screened against detection, and the man had performed exactly
+ twenty-seven spells before saying so much as “Hello, Mr.
+ Potter.”
+\end_layout
+
+\begin_layout Standard
+It was oddly appropriate that the man in black was about to try reading
+ Harry's mind.
+\end_layout
+
+\begin_layout Standard
+“Prepare yourself,” the man said tonelessly.
+\end_layout
+
+\begin_layout Standard
+A human mind, Harry's Occlumency book had said, was only exposed to a Legilimens
+ along certain 
+\emph on
+surfaces
+\emph default
+.
+ If you failed to defend your surfaces, the Legilimens would go 
+\emph on
+through
+\emph default
+ and be able to access any part of you which their own mind was able to
+ comprehend…
+\end_layout
+
+\begin_layout Standard
+…which tended not to be much.
+ Human minds, it seemed, were hard for humans to understand on any level
+ but the shallowest.
+ Harry had wondered if knowing lots of cognitive science could make him
+ an incredibly powerful Legilimens, but repeated experience had 
+\emph on
+finally
+\emph default
+ driven into him the lesson that he needed to get a little less excited
+ in his anticipations about this sort of thing.
+ It wasn't as if any cognitive scientist understood humans well enough to
+ make one.
+\end_layout
+
+\begin_layout Standard
+To learn the counter, Occlumency, the first step was to imagine yourself
+ to be a different person, pretending it as thoroughly as you could, immersing
+ yourself entirely in that alternate persona.
+ You wouldn't always have to do that, but in the beginning, it was how you
+ learned where your surfaces were.
+ The Legilimens would try to read you, and you would feel it happening if
+ you paid close enough attention, you would sense them trying to enter.
+ And your job was to make sure that they always touched your imaginary persona
+ and not the real one.
+\end_layout
+
+\begin_layout Standard
+When you were good enough at that, you could imagine being a very 
+\emph on
+simple
+\emph default
+ sort of person, pretend to be a rock, and make a habit of leaving the pretense
+ in place where all your surfaces were.
+ That was a standard Occlumency barrier.
+ Pretending to be a rock was hard to learn, but easy to do afterward, and
+ the exposed surface of a mind was much shallower than its interior, so
+ with enough practice you could keep it up as a background habit.
+\end_layout
+
+\begin_layout Standard
+Or if you were a 
+\emph on
+perfect Occlumens
+\emph default
+, you could race 
+\emph on
+ahead
+\emph default
+ of any probes, answering queries as fast as they were asked, so that the
+ Legilimens would enter through your surfaces and see a mind indistinguishable
+ from whoever you were pretending to be.
+\end_layout
+
+\begin_layout Standard
+Even the best Legilimens could be fooled that way.
+ If a perfect Occlumens claimed they were dropping their Occlumency barriers,
+ there was no way to know if they were lying.
+ Worse, you might not know you were dealing with a perfect Occlumens.
+ They were rare, but the fact that they existed meant you couldn't trust
+ Legilimency on 
+\emph on
+anyone.
+\end_layout
+
+\begin_layout Standard
+It was a sad commentary on how little human beings understood each other,
+ how little any wizard comprehended the depths lying beneath the mind's
+ surface, that you could fool the best human telepaths by pretending to
+ be someone else.
+\end_layout
+
+\begin_layout Standard
+But then human beings only understood each other in the first place by pretendin
+g.
+ You didn't make predictions about people by modeling the hundred trillion
+ synapses in their brain as separate objects.
+ Ask the best social manipulator on Earth to build you an Artificial Intelligenc
+e from scratch, and they'd just give you a dumb look.
+ You predicted people by telling 
+\emph on
+your
+\emph default
+ brain to act like theirs.
+ You 
+\emph on
+put yourself in their place
+\emph default
+.
+ If you wanted to know what an angry person would do, you activated your
+ own brain's anger circuitry, and whatever that circuitry output, that was
+ your prediction.
+ What did the neural circuitry for anger actually look like inside? Who
+ knew? The best social manipulator on Earth might not know what neurons
+ 
+\emph on
+were
+\emph default
+, and neither might the best Legilimens.
+\end_layout
+
+\begin_layout Standard
+Anything a Legilimens could 
+\emph on
+understand
+\emph default
+, an Occlumens could 
+\emph on
+pretend
+\emph default
+ to be.
+ It was the same trick either way 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ probably implemented by the same neural circuitry in both cases, a single
+ set of control circuits for reconfiguring your own brain to act as a model
+ of someone else's.
+\end_layout
+
+\begin_layout Standard
+And so the race between telepathic offense and telepathic defense had been
+ a decisive win for defense.
+ Otherwise the entire magical world, maybe even the whole Earth, would have
+ been a very different place…
+\end_layout
+
+\begin_layout Standard
+Harry took a deep breath, and concentrated.
+ There was a slight smile on his face.
+\end_layout
+
+\begin_layout Standard
+For 
+\emph on
+once,
+\emph default
+ just 
+\emph on
+once,
+\emph default
+ Harry hadn't gotten shortchanged in the mysterious powers department.
+\end_layout
+
+\begin_layout Standard
+After almost a month of work, and more on a whim than any real hunch, Harry
+ had decided to make himself coldly angry and then try the book's Occlumency
+ exercises again.
+ At that point he'd mostly given up hope on that sort of thing, but it had
+ still seemed worth a quick try 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He'd run through all the book's hardest exercises in two hours, and the
+ next day he'd gone and told Professor Quirrell he was ready.
+\end_layout
+
+\begin_layout Standard
+His dark side, it had turned out, was very, 
+\emph on
+very
+\emph default
+ good at pretending to be other people.
+\end_layout
+
+\begin_layout Standard
+Harry thought of his standard trigger, from the first time he'd gone over
+ entirely to his dark side…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Severus paused, looking quite pleased with himself.
+ “And that will be… five points? No, let us make it an even ten points from
+ Ravenclaw for backchat.”
+\end_layout
+
+\begin_layout Standard
+Harry's smile grew chillier, and he regarded the black-robed man who thought
+ he was going to read Harry's mind.
+\end_layout
+
+\begin_layout Standard
+And then Harry turned into someone else entirely, someone who had seemed
+ appropriate to the occasion.
+\end_layout
+
+\begin_layout Standard
+…in a white room, windowless, featureless, sitting before a desk, facing
+ an expressionless man in formal robes of solid black.
+\end_layout
+
+\begin_layout Standard
+Kimball Kinnison regarded the black-robed man who thought he was going to
+ read the mind of a Second-Stage Lensman of the Galactic Patrol.
+\end_layout
+
+\begin_layout Standard
+To say that Kimball Kinnison was confident of the outcome would be an understate
+ment.
+ He had been trained by Mentor of Arisia, the most powerful mind known to
+ this or any other universe, and the mere wizard sitting across from him
+ would see precisely what the Gray Lensman wanted him to see…
+\end_layout
+
+\begin_layout Standard
+…the mind of the boy he was currently disguised as, an innocent child named
+ Harry Potter.
+\end_layout
+
+\begin_layout Standard
+“I'm ready,” said Kimball Kinnison in nervous tones that were exactly appropriat
+e for an eleven-year-old boy.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Legilimens,
+\emph default
+” said the black-robed wizard.
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+\end_layout
+
+\begin_layout Standard
+The black-robed wizard blinked, as if he'd seen something so shocking that
+ it had been enough to make even 
+\emph on
+his
+\emph default
+ eyelids move.
+ His voice wasn't quite toneless as he said, “The Boy-Who-Lived has a 
+\emph on
+mysterious dark side?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The heat slowly crept up into Harry's cheeks.
+\end_layout
+
+\begin_layout Standard
+“Well,” the man said.
+ His face had now settled back into perfect calm.
+ “Excuse me.
+ Mr.
+ Potter, it is good to know your advantages, but that is not the same as
+ being wildly overconfident in them.
+ You may indeed be able to learn Occlumency at eleven years of age.
+ This astounds me.
+ I had thought Mr.
+ Dumbledore was pretending to be insane again.
+ Your dissociative talent is so strong that I am surprised to find no other
+ signs of childhood abuse, and you may become a perfect Occlumens in time.
+ But there is a considerable difference between that and expecting to put
+ up a successful Occlumency barrier on your first attempt.
+ That is merely ridiculous.
+ Did you feel anything as I read your mind?”
+\end_layout
+
+\begin_layout Standard
+Harry shook his head, now blushing furiously.
+\end_layout
+
+\begin_layout Standard
+“Then pay closer attention next time.
+ The goal is not to create a perfect image on your first day of lessons.
+ The goal is to learn where your surfaces are.
+ Prepare yourself.”
+\end_layout
+
+\begin_layout Standard
+Harry tried to pretend to be Kimball Kinnison again, tried to pay more attention
+, but his thoughts were a little scattered and he was suddenly aware of
+ all the things he shouldn't be thinking about…
+\end_layout
+
+\begin_layout Standard
+Oh, this was going to suck.
+\end_layout
+
+\begin_layout Standard
+Harry gritted his teeth.
+ At least the instructor would be Obliviated afterward.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Legilimens.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+There was a pause 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+…in a white room, windowless, featureless, sitting before a desk, facing
+ an expressionless man in formal robes of solid black.
+\end_layout
+
+\begin_layout Standard
+It was their fourth day, on a Sunday evening.
+ When you paid this much, you got your sessions any darned time you wanted,
+ never mind the concept of weekends.
+\end_layout
+
+\begin_layout Standard
+“Hello, Mr.
+ Potter,” the telepath said tonelessly, having cast the full suite of privacy
+ spells.
+\end_layout
+
+\begin_layout Standard
+“Hello, Mr.
+ Bester,” Harry said wearily.
+ “Let's just get the initial shock out of the way, shall we?”
+\end_layout
+
+\begin_layout Standard
+“You managed to surprise me?” the man said, now sounding slightly interested.
+ “Well then.” He pointed his wand and stared into Harry's eyes.
+ “
+\emph on
+Legilimens.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+There was a pause, and then the black-robed wizard jerked as if someone
+ had touched him with a cattle prod.
+\end_layout
+
+\begin_layout Standard
+“The Dark Lord is 
+\emph on
+alive?
+\emph default
+” he choked.
+ His eyes were suddenly wild.
+ “
+\emph on
+Dumbledore turns himself invisible and sneaks into girls' dorm rooms?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry sighed and looked down at his watch.
+ In about another three seconds…
+\end_layout
+
+\begin_layout Standard
+“So,” the man said.
+ He hadn't quite recovered his tonelessness.
+ “You genuinely believe you're going to discover the secret rules of magic
+ and become all-powerful.”
+\end_layout
+
+\begin_layout Standard
+“That's right,” Harry said evenly, still looking at his watch.
+ “I'm 
+\emph on
+that
+\emph default
+ overconfident.”
+\end_layout
+
+\begin_layout Standard
+“I wonder.
+ It seems the Sorting Hat thinks you'll be the next Dark Lord.”
+\end_layout
+
+\begin_layout Standard
+“And 
+\emph on
+you
+\emph default
+ know I'm trying pretty hard 
+\emph on
+not
+\emph default
+ to be, and you saw that we already had a long discussion about whether
+ you were willing to teach me Occlumency, and in the end you decided to
+ do it, so can we just get this over with?”
+\end_layout
+
+\begin_layout Standard
+“All right,” said the man exactly six seconds later, same as last time.
+ “Prepare yourself.” He paused, and then said, his voice rather wistful,
+ “Though I 
+\emph on
+do
+\emph default
+ wish I could remember that trick with the gold and silver.”
+\end_layout
+
+\begin_layout Standard
+Harry was finding himself very disturbed by how reproducible human thoughts
+ were when you reset people back to the same initial conditions and exposed
+ them to the same stimuli.
+ It was dispelling illusions that a good reductionist wasn't supposed to
+ have in the first place.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry was in a rather bad mood as he stomped out of his Herbology class
+ the next Monday morning.
+\end_layout
+
+\begin_layout Standard
+Hermione was seething alongside him.
+\end_layout
+
+\begin_layout Standard
+The other children were still inside, a bit slow to assemble their things
+ because they were gibbering excitedly to each other about Ravenclaw winning
+ the year's second Quidditch match.
+\end_layout
+
+\begin_layout Standard
+It seemed that last night after dinner, a girl had flown around on a broomstick
+ for thirty minutes and then caught some sort of giant mosquito.
+ There were other facts about what had happened during this match, but they
+ were irrelevant.
+\end_layout
+
+\begin_layout Standard
+Harry had missed this exciting sports event due to his Occlumency lesson,
+ and also having a life.
+\end_layout
+
+\begin_layout Standard
+He had then avoided all conversations in the Ravenclaw dorm, weren't Quieting
+ Charms and magical trunks wonderful.
+ He had eaten breakfast at the Gryffindor table.
+\end_layout
+
+\begin_layout Standard
+But Harry couldn't avoid Herbology, and the Ravenclaws had talked about
+ it before class, and after class, and 
+\emph on
+during class,
+\emph default
+ until Harry had looked up from the baby furcot whose diaper he was changing,
+ and announced loudly that some of them were trying to learn about 
+\emph on
+plants
+\emph default
+ and Snitches didn't grow on anything so could they all 
+\emph on
+please
+\emph default
+ shut up about Quidditch.
+ Everyone else present had given him shocked looks, except Hermione, who'd
+ looked like she wanted to applaud, and Professor Sprout, who had awarded
+ him a point for Ravenclaw.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+A
+\emph default
+ point for Ravenclaw.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+One
+\emph default
+ point.
+\end_layout
+
+\begin_layout Standard
+The seven idiots on their idiot brooms playing their idiot game had earned
+ 
+\emph on
+one hundred and ninety points
+\emph default
+ for Ravenclaw.
+\end_layout
+
+\begin_layout Standard
+It seemed that Quidditch scores 
+\emph on
+added directly onto the House points total.
+\end_layout
+
+\begin_layout Standard
+In other words, catching a golden mosquito was worth 150 House points.
+\end_layout
+
+\begin_layout Standard
+Harry couldn't even 
+\emph on
+imagine
+\emph default
+ what he would have to do to earn one hundred and fifty House points.
+\end_layout
+
+\begin_layout Standard
+Besides, y'know, rescuing 
+\emph on
+a hundred and fifty Hufflepuffs,
+\emph default
+ or coming up with 
+\emph on
+fifteen ideas as good as putting protective shells on time machines,
+\emph default
+ or inventing 
+\emph on
+one thousand five hundred creative ways to kill people,
+\emph default
+ or being Her\SpecialChar \-
+mione Granger for the 
+\emph on
+entire year
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“We should kill them,” Harry said to Hermione, who was walking beside him
+ with an equally offended air.
+\end_layout
+
+\begin_layout Standard
+“Who?” said Hermione.
+ “The Quidditch team?”
+\end_layout
+
+\begin_layout Standard
+“I was thinking of everyone involved in any way with Quidditch anywhere,
+ but the Ravenclaw team would be a start, yes.”
+\end_layout
+
+\begin_layout Standard
+Hermione's lips were pursed disapprovingly.
+ “You 
+\emph on
+do
+\emph default
+ know that killing people is wrong, Harry?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said.
+\end_layout
+
+\begin_layout Standard
+“Okay, just checking,” Hermione said.
+ “Let's get the Seeker first.
+ I've read some Agatha Christie mysteries, do you know how we can get her
+ onto a train?”
+\end_layout
+
+\begin_layout Standard
+“Two students plotting murder,” said a dry voice.
+ “How shocking.”
+\end_layout
+
+\begin_layout Standard
+From around a nearby corner strolled a man in lightly spotted robes, his
+ greasy hair falling long and unkempt about his shoulders.
+ Deadly danger seemed to radiate out from him, filling the hallway with
+ improperly mixed potions and accidental falls and people dying in bed of
+ what the Aurors would rule to be natural causes.
+\end_layout
+
+\begin_layout Standard
+Without thinking about it at all, Harry stepped in front of Hermione.
+\end_layout
+
+\begin_layout Standard
+There was an intake of breath from behind him, and then a moment later Hermione
+ brushed past and stepped in front of 
+\emph on
+him.
+
+\emph default
+ “Run, Harry!” she said.
+ “Boys shouldn't have to be in danger.”
+\end_layout
+
+\begin_layout Standard
+Severus Snape smiled mirthlessly.
+ “Amusing.
+ I request a moment of your time, Potter, if you can tear yourself away
+ from your flirtations with Miss Granger.”
+\end_layout
+
+\begin_layout Standard
+Suddenly there was a very worried look on Hermione's face.
+ She turned to Harry and opened her mouth, then paused, looking distressed.
+\end_layout
+
+\begin_layout Standard
+“Oh, don't worry, Miss Granger,” said Severus's silky voice.
+ “I promise to return your beau unmaimed.” His smile vanished.
+ “Now Potter and I are about to go off and have a private conversation,
+ just by ourselves.
+ I hope it is clear that you are not invited, but just in case, consider
+ that an order from a Hogwarts professor.
+ I'm sure a good little girl like you won't disobey.”
+\end_layout
+
+\begin_layout Standard
+And Severus turned and walked back around the corner.
+ “Coming, Potter?” his voice said.
+\end_layout
+
+\begin_layout Standard
+“Um,” Harry said to Hermione.
+ “Can I just sort of go off and follow him and let 
+\emph on
+you
+\emph default
+ work out what I should say to make sure you're not all worried and offended?”
+\end_layout
+
+\begin_layout Standard
+“No,” Hermione said, her voice trembling.
+\end_layout
+
+\begin_layout Standard
+Severus's laughter echoed from around the corner.
+\end_layout
+
+\begin_layout Standard
+Harry bowed his head.
+ “Sorry,” he said lowly, “really,” and he went off after the Potions Master.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“So,” Harry said.
+ There were no other sounds now but two pairs of legs, the long and the
+ short, padding across a random stone corridor.
+ The Potions Master was striding quickly but not too fast for Harry to keep
+ up, and insofar as Harry could apply the concept of directionality to Hogwarts,
+ they were moving away from the frequented areas.
+ “What's this about?”
+\end_layout
+
+\begin_layout Standard
+“I don't suppose you could explain,” Severus said dryly, “why the two of
+ you were plotting to murder Cho Chang?”
+\end_layout
+
+\begin_layout Standard
+“I don't suppose 
+\emph on
+you
+\emph default
+ could explain,” Harry said dryly, “in your capacity as an official of the
+ Hogwarts school system, why catching a golden mosquito is deemed an academic
+ accomplishment worthy of a hundred and fifty House points?”
+\end_layout
+
+\begin_layout Standard
+A smile crossed Severus's lips.
+ “Dear me, and I thought you were supposed to be perceptive.
+ Are you truly so incapable of understanding your classmates, Potter, or
+ do you dislike them too much to try? If Quidditch scores did not count
+ toward the House Cup then none of them would care about House points at
+ all.
+ It would merely be an obscure contest for students like you and Miss Granger.”
+\end_layout
+
+\begin_layout Standard
+It was a shockingly good answer.
+\end_layout
+
+\begin_layout Standard
+And that shock brought Harry's mind fully awake.
+\end_layout
+
+\begin_layout Standard
+In retrospect it shouldn't have been surprising that Severus understood
+ his students, understood them very well indeed.
+\end_layout
+
+\begin_layout Standard
+He had been reading their minds.
+\end_layout
+
+\begin_layout Standard
+And…
+\end_layout
+
+\begin_layout Standard
+…the book said that a successful Legilimens was extremely rare, rarer than
+ a perfect Occlumens, because almost no one had enough mental discipline.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Mental discipline?
+\end_layout
+
+\begin_layout Standard
+Harry had collected stories about a man who routinely lost his temper in
+ class and blew up at young children.
+\end_layout
+
+\begin_layout Standard
+…but this same man, when Harry had spoken of the Dark Lord still being alive,
+ had responded instantly and perfectly 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ reacting in precisely the way that someone completely ignorant would react.
+\end_layout
+
+\begin_layout Standard
+The man stalked about Hogwarts with the air of an assassin, radiating danger…
+\end_layout
+
+\begin_layout Standard
+…which was exactly 
+\emph on
+not
+\emph default
+ what a real assassin should do.
+ Real assassins should look like meek little accountants until they killed
+ you.
+\end_layout
+
+\begin_layout Standard
+He was the Head of House for proud and aristocratic Slytherin, and he wore
+ a robe with spotted stains from bits of potions and ingredients, which
+ two minutes of magic could have removed.
+\end_layout
+
+\begin_layout Standard
+Harry noticed that he was confused.
+\end_layout
+
+\begin_layout Standard
+And his threat estimate of the 
+\emph on
+Head of House Slytherin
+\emph default
+ shot up astronomically.
+\end_layout
+
+\begin_layout Standard
+Dumbledore had seemed to think Severus was his, and there'd been nothing
+ to contradict that; the Potions Master had been “scary but not abusive”,
+ as promised.
+ So, Harry had reasoned earlier, this was Fellowship business.
+ If Severus had been planning harm, surely he wouldn't have come to get
+ Harry in front of Hermione, a witness, when he could have simply waited
+ for some time when Harry was alone…
+\end_layout
+
+\begin_layout Standard
+Harry quietly bit his lip.
+\end_layout
+
+\begin_layout Standard
+“I once knew a boy who truly adored Quidditch,” said Severus Snape.
+ “He was an utter pillock.
+ Just as you and I would expect, we two.”
+\end_layout
+
+\begin_layout Standard
+“What 
+\emph on
+is
+\emph default
+ this?” Harry said slowly.
+\end_layout
+
+\begin_layout Standard
+“Patience, Potter.”
+\end_layout
+
+\begin_layout Standard
+Severus turned his head, and then glided with his assassin's bearing into
+ a nearby opening in the corridor walls, a smaller and narrower hallway
+ leading off.
+\end_layout
+
+\begin_layout Standard
+Harry followed him, wondering if it would be smarter to simply run away.
+\end_layout
+
+\begin_layout Standard
+They turned and made another turn, and came to a dead end, a simple blank
+ wall.
+ If Hogwarts had actually been built, rather than conjured or summoned or
+ birthed or whatever, Harry would have had some sharp words for the architect
+ about paying people to build hallways that didn't go anywhere.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Quietus,
+\emph default
+” said Severus, and a few other things as well.
+\end_layout
+
+\begin_layout Standard
+Harry leaned back, folded his arms across his chest, and watched Severus's
+ face.
+\end_layout
+
+\begin_layout Standard
+“Looking me in the eyes, Potter?” said Severus Snape.
+ “Your Occlumency lessons cannot have progressed far enough for you to block
+ Legilimency.
+ But then perhaps they have progressed far enough for you to detect it.
+ Since I cannot know otherwise, I will not risk trying.” The man smiled thinly.
+ “And the same will hold for Dumbledore, I think.
+ Which is why we are 
+\emph on
+now
+\emph default
+ having this little talk.”
+\end_layout
+
+\begin_layout Standard
+Harry's eyes widened involuntarily.
+\end_layout
+
+\begin_layout Standard
+“To begin with,” Severus said, eyes glittering, “I should like you to promise
+ not to speak of our conversations to 
+\emph on
+anyone
+\emph default
+.
+ So far as the school is concerned, we are discussing your Potions homework.
+ Whether or not they believe that is unimportant.
+ So far as Dumbledore and McGonagall are concerned, I am violating Draco
+ Malfoy's confidences in me, and neither of us think it proper to speak
+ further of the particulars.”
+\end_layout
+
+\begin_layout Standard
+Harry's brain tried to calculate the ramifications and implications of this
+ and ran out of swap space.
+\end_layout
+
+\begin_layout Standard
+“Well?” said the Potions Master.
+\end_layout
+
+\begin_layout Standard
+“All right,” Harry said slowly.
+ It was hard to see how having a conversation and being unable to tell anyone
+ could be more constraining than 
+\emph on
+not
+\emph default
+ having it, in which case you 
+\emph on
+also
+\emph default
+ couldn't tell anyone the contents.
+ “I promise.”
+\end_layout
+
+\begin_layout Standard
+Severus was watching Harry intently.
+ “You said once in the Headmaster's office that you would not tolerate bullying
+ or abuse.
+ And so I wonder, Harry Potter.
+ Just how much do you resemble your father?”
+\end_layout
+
+\begin_layout Standard
+“Unless we're talking about Michael Verres-Evans,” Harry said, “the answer
+ is that I know very little about James Potter.”
+\end_layout
+
+\begin_layout Standard
+Severus nodded, as though to himself.
+ “There is a fifth-year Slytherin.
+ A boy named Lesath Lestrange.
+ He is being bullied by Gryffindors.
+ I am… constrained, in my ability to deal with such situations.
+ 
+\emph on
+You
+\emph default
+ could help him, perhaps.
+ If you wished.
+ I am not asking you for a favor, and will not owe you one.
+ It is simply an opportunity to do as you will.”
+\end_layout
+
+\begin_layout Standard
+Harry stared at Severus, thinking.
+\end_layout
+
+\begin_layout Standard
+“Wondering if it's a trap?” said Severus, a faint smile crossing his lips.
+ “It is not.
+ It 
+\emph on
+is
+\emph default
+ a test.
+ Call it curiosity on my part.
+ But Lesath's troubles are real, as are my own difficulties in intervening.”
+\end_layout
+
+\begin_layout Standard
+That was the trouble with other people knowing you were a good guy.
+ Even if you knew they knew, you still couldn't ignore the bait.
+\end_layout
+
+\begin_layout Standard
+And if his father had protected students from bullies too… it didn't matter
+ if Harry knew why Severus had told him.
+ It still made him feel warm inside, and proud, and made it impossible to
+ walk away.
+\end_layout
+
+\begin_layout Standard
+“Fine,” Harry said.
+ “Tell me about Lesath.
+ Why is he being bullied?”
+\end_layout
+
+\begin_layout Standard
+Severus's face lost the faint smile.
+ “You think there are 
+\emph on
+reasons
+\emph default
+, Potter?”
+\end_layout
+
+\begin_layout Standard
+“Perhaps not,” Harry said quietly.
+ “But the thought had occurred to me that he might have pushed some unimportant
+ mudblood girl down the stairs.”
+\end_layout
+
+\begin_layout Standard
+“Lesath Lestrange,” Severus said, his voice now cold, “is the son of Bellatrix
+ Black, the most fanatic and evil servant of the Dark Lord.
+ Lesath is the acknowledged bastard of Rabastan Lestrange.
+ Shortly after the Dark Lord's death, Bellatrix and Rabastan and Rabastan's
+ brother Rodolphus were captured while torturing Alice and Frank Longbottom.
+ All three are in Azkaban for life.
+ The Longbottoms were driven insane by repeated Cruciatus and remain in
+ St.
+ Mungo's incurable ward.
+ Is any of that a good reason to bully him, Potter?”
+\end_layout
+
+\begin_layout Standard
+“It is no reason at all,” Harry said, still quietly.
+ “And Lesath himself has done no wrong that you know?”
+\end_layout
+
+\begin_layout Standard
+The faint smile crossed Severus's lips again.
+ “He is no more a saint than anyone else.
+ But he has pushed no mudblood girls down the stairs, not that I ever heard.”
+\end_layout
+
+\begin_layout Standard
+“Or saw in his mind,” said Harry.
+\end_layout
+
+\begin_layout Standard
+Severus's expression was chill.
+ “I did not invade his privacy, Potter.
+ I looked within the Gryffindors, rather.
+ He is simply a convenient target for their little satisfactions.”
+\end_layout
+
+\begin_layout Standard
+A cold wash of anger ran down Harry's spine, and he had to remind himself
+ that Severus might not be a trustworthy source of information.
+\end_layout
+
+\begin_layout Standard
+“And you think,” Harry said, “that an intervention by Harry Potter, the
+ Boy-Who-Lived, might prove effective.”
+\end_layout
+
+\begin_layout Standard
+“Indeed,” said Severus Snape, and told Harry when and where the Gryffindors
+ were planning their next little game.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There is a main hallway running through the middle of Hogwarts's second
+ floor on the north-south axis, and near the center of this hallway there
+ is an opening into a short corridor which goes a dozen paces back before
+ turning at a right angle, making an L-shape, and then goes a dozen paces
+ more before it ends at a bright, wide window, looking out from three stories
+ above upon the light drizzle falling over the east grounds of Hogwarts.
+ Standing by the window you can hear nothing of the main hallway, and no
+ one in the hallway would hear what went on by the window.
+ If you think there is anything odd about this, you haven't been in Hogwarts
+ very long.
+\end_layout
+
+\begin_layout Standard
+Four boys in red-trimmed robes are laughing, and a boy in green-trimmed
+ robes is screaming and grabbing frantically onto the edges of the opened
+ window with his hands, as the four boys make as though to push him out.
+ It's just a joke, of course, and besides, a fall from that height wouldn't
+ kill a wizard.
+ All good fun.
+ If you think there is anything odd about this 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What are you doing?
+\emph default
+” says a sixth boy's voice.
+\end_layout
+
+\begin_layout Standard
+The four boys in red-trimmed robes spin around with sudden starts, and the
+ boy in green-trimmed robes frantically pushes himself away from the window
+ and falls to the floor, face streaked with tears.
+\end_layout
+
+\begin_layout Standard
+“Oh,” says the most handsome of the boys in red-trimmed robes, sounding
+ relieved, “it's 
+\emph on
+you.
+
+\emph default
+ Hey, Lessy, you know who this is?”
+\end_layout
+
+\begin_layout Standard
+There isn't any answer from the boy on the floor, who's trying to get his
+ sniffling under control, and the boy in the red-trimmed robes draws back
+ his leg for a kick 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Stop it!
+\emph default
+” shouts the sixth boy.
+\end_layout
+
+\begin_layout Standard
+The boy in the red-trimmed robes wobbles as he aborts the kick.
+ “Um,” he says, “do 
+\emph on
+you
+\emph default
+ know who this is?”
+\end_layout
+
+\begin_layout Standard
+The sixth boy's breathing sounds strange.
+ “Lesath Lestrange,” he says, his breath coming in short pants, “and 
+\emph on
+he
+\emph default
+ didn't do anything to my parents, he was five years old.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Neville Longbottom stared at the four huge fifth-year bullies in front of
+ him, trying very hard to control his trembling.
+\end_layout
+
+\begin_layout Standard
+He should have just told Harry Potter no.
+\end_layout
+
+\begin_layout Standard
+“Why are 
+\emph on
+you
+\emph default
+ defending him?” said the handsome one, slowly, sounding puzzled with the
+ first hints of offense.
+ “He's a 
+\emph on
+Slytherin.
+
+\emph default
+ And a 
+\emph on
+Lestrange.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“He's a boy who lost his parents,” said Neville Longbottom.
+ “I know how that is.” He didn't know where the words had come from.
+ It sounded too cool, like something Harry Potter would say.
+\end_layout
+
+\begin_layout Standard
+The trembling went on, though.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Who
+\emph default
+ do you think you 
+\emph on
+are?
+\emph default
+” said the handsome one, starting to sound angry.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I am Neville, the last scion of the Noble and Most Ancient House of Longbottom
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Neville couldn't say it.
+\end_layout
+
+\begin_layout Standard
+“I think he's a 
+\emph on
+traitor
+\emph default
+,” said one of the other Gryffindors, and there was a sudden sinking sensation
+ in Neville's stomach.
+\end_layout
+
+\begin_layout Standard
+He'd known it, he'd just known it.
+ Harry Potter had been wrong after all.
+ Bullies wouldn't stop only because Neville Longbottom told them to
+\begin_inset space ~
+\end_inset
+
+stop.
+\end_layout
+
+\begin_layout Standard
+The handsome one took a step forward, and the three others followed.
+\end_layout
+
+\begin_layout Standard
+“So that's how it is for you,” Neville said, amazed at how steady his voice
+ was.
+ “It doesn't matter to you if it's Lesath Lestrange or Neville Longbottom.”
+\end_layout
+
+\begin_layout Standard
+Lesath Lestrange let out a sudden gasp, from where he was lying on the
+\begin_inset space ~
+\end_inset
+
+floor.
+\end_layout
+
+\begin_layout Standard
+“Evil is evil,” snarled the same boy who'd spoken before, “and if you're
+ friends with evil, you're evil too.”
+\end_layout
+
+\begin_layout Standard
+The four took another step forward.
+\end_layout
+
+\begin_layout Standard
+Lesath rose, wobbling, to his feet.
+ His face was gray, and he took a few steps forward, and leaned against
+ the wall, and didn't say anything.
+ His eyes were fixed on the turn in the hallway, the way out.
+\end_layout
+
+\begin_layout Standard
+“Friends,” Neville said.
+ Now his voice was going up a bit in pitch.
+ “Yes, I have friends.
+ One of them is the Boy-Who-Lived.”
+\end_layout
+
+\begin_layout Standard
+A couple of the Gryffindors looked suddenly worried.
+ The handsome one didn't flinch.
+ “Harry Potter isn't here,” he said, his voice hard, “and if he was, I don't
+ think he'd like to see a Longbottom defending a Lestrange.”
+\end_layout
+
+\begin_layout Standard
+And the Gryffindors took another long step forward, and behind them, Le\SpecialChar \-
+sath
+ crept along the wall, waiting for his chance.
+\end_layout
+
+\begin_layout Standard
+Neville swallowed, and raised his right hand with his thumb and forefinger
+ pressed together.
+\end_layout
+
+\begin_layout Standard
+He shut his eyes, because Harry Potter had made him promise not to
+\begin_inset space ~
+\end_inset
+
+peek.
+\end_layout
+
+\begin_layout Standard
+If this didn't work, he was never trusting anyone again.
+\end_layout
+
+\begin_layout Standard
+His voice came out surprisingly clear, considering.
+\end_layout
+
+\begin_layout Standard
+“Harry James Potter-Evans-Verres.
+ Harry James Potter-Evans-Verres.
+ Harry James Potter-Evans-Verres.
+ By the debt that you owe me and the power of your true name I summon you,
+ I open the way for you, I call upon you to manifest yourself before me.”
+\end_layout
+
+\begin_layout Standard
+Neville snapped his fingers.
+\end_layout
+
+\begin_layout Standard
+And then Neville opened his eyes.
+\end_layout
+
+\begin_layout Standard
+Lesath Lestrange was staring at him.
+\end_layout
+
+\begin_layout Standard
+The four Gryffindors were staring at him.
+\end_layout
+
+\begin_layout Standard
+The handsome one started to chuckle, and that set off the other three.
+\end_layout
+
+\begin_layout Standard
+“Was Harry Potter supposed to step around the corner or something?” said
+ the handsome one.
+ “Aw.
+ Looks like you've been stood up.”
+\end_layout
+
+\begin_layout Standard
+The handsome one took a menacing step forward toward Neville.
+\end_layout
+
+\begin_layout Standard
+The other three followed in lockstep.
+\end_layout
+
+\begin_layout Standard
+“Ahem,” said Harry Potter from behind them, leaning against the wall by
+ the window, in the dead end of the hallway, where nobody could possibly
+ have gotten to without being seen.
+\end_layout
+
+\begin_layout Standard
+If watching people scream always felt this good, Neville could sort of understan
+d why people became bullies.
+\end_layout
+
+\begin_layout Standard
+Harry Potter stalked forward, placing himself between Lesath Lestrange and
+ the others.
+ He swept his icy gaze across the boys in red-trimmed robes, and then his
+ eyes came to rest on the handsome one, the ringleader.
+ “Mr.
+ Carl Sloper,” said Harry Potter.
+ “I believe I have comprehended this situation fully.
+ If Lesath Lestrange has ever committed a single evil himself, rather than
+ being born to the wrong parents, the fact is not known to 
+\emph on
+you.
+
+\emph default
+ If I am mistaken in this, Mr.
+ Sloper, I suggest you inform me at once.”
+\end_layout
+
+\begin_layout Standard
+Neville saw the fear and awe on the other boys' faces.
+ He was feeling it himself.
+ Harry had 
+\emph on
+claimed
+\emph default
+ it would all be a trick, but how could it be?
+\end_layout
+
+\begin_layout Standard
+“But he's a 
+\emph on
+Lestrange
+\emph default
+,” said the ringleader.
+\end_layout
+
+\begin_layout Standard
+“He's a boy who 
+\emph on
+lost his parents
+\emph default
+,” Harry Potter said, his voice growing even colder.
+\end_layout
+
+\begin_layout Standard
+This time all three of the other Gryffindors flinched.
+\end_layout
+
+\begin_layout Standard
+“So,” said Harry Potter.
+ “You saw that Neville didn't want you tormenting an innocent boy on behalf
+ of the Longbottoms.
+ This failed to move you.
+ If I tell you that the Boy-Who-Lived 
+\emph on
+also
+\emph default
+ thinks you are in the wrong, that what you did today was a terrible mistake,
+ does that make a difference?”
+\end_layout
+
+\begin_layout Standard
+The ringleader took a step toward Harry.
+\end_layout
+
+\begin_layout Standard
+The others did 
+\emph on
+not
+\emph default
+ follow him.
+\end_layout
+
+\begin_layout Standard
+“Carl,” one of them said, swallowing.
+ “Maybe we should go.”
+\end_layout
+
+\begin_layout Standard
+“They say you're going to be the next Dark Lord,” the ringleader said, staring
+ at Harry.
+\end_layout
+
+\begin_layout Standard
+A grin crossed Harry Potter's face.
+ “They also say I'm secretly betrothed to Ginevra Weasley and there's a
+ prophecy about us conquering France.” The smile faded.
+ “Since you're determined to force the issue, Mr.
+ Carl Sloper, let me make things clear.
+ 
+\emph on
+Leave Lesath alone.
+
+\emph default
+ I will know if you don't.”
+\end_layout
+
+\begin_layout Standard
+“So Lessy snarked to you,” said the ringleader coldly.
+\end_layout
+
+\begin_layout Standard
+“Sure,” said Harry Potter dryly, “and he also told me what you did today
+ after you left Charms class, in a private secluded place where no one could
+ see you, with a certain Hufflepuff girl wearing a white ribbon in her hair
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+The ringleader's jaw dropped in shock.
+\end_layout
+
+\begin_layout Standard
+“Eep,” said one of the other Gryffindors in a high-pitched voice, and spun
+ on his heels and ran around the corner.
+ His footsteps rapidly pattered away and faded.
+\end_layout
+
+\begin_layout Standard
+And then there were six.
+\end_layout
+
+\begin_layout Standard
+“Ah,” said Harry Potter, “there goes a slightly intelligent young man.
+ The rest of you could stand to learn from Bertram Kirke's example, before
+ you get into, shall we say, trouble.”
+\end_layout
+
+\begin_layout Standard
+“Are you threatening to snark on us?” said the handsome Gryffindor, his
+ voice trying to be angry, and rather wavering.
+ “Bad things happen to snarkers.”
+\end_layout
+
+\begin_layout Standard
+The other two Gryffindors started slowly moving back.
+\end_layout
+
+\begin_layout Standard
+Harry Potter started laughing.
+ “Oh, you did not just say that.
+ Are you 
+\emph on
+really
+\emph default
+ trying to intimidate me? 
+\emph on
+Me?
+\emph default
+ Now honestly, do you think you're scarier than Peregrine Derrick, Severus
+ Snape or for that matter You-Know-Who?”
+\end_layout
+
+\begin_layout Standard
+Even the ringleader flinched at that.
+\end_layout
+
+\begin_layout Standard
+Harry Potter raised his hand, fingers poised, and all three of the Gryffindors
+ leaped backward, and one of them blurted “Don't 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ !”
+\end_layout
+
+\begin_layout Standard
+“See,” said Harry Potter, “this is where I snap my fingers and you become
+ part of a hilariously amusing story that will be told with much nervous
+ laughter at dinner tonight.
+ But the thing is, people I trust keep telling me not to do that.
+ Professor McGonagall told me I was taking the easy way out of everything
+ and Professor Quirrell says I need to learn how to lose.
+ So you remember that story where I let myself get beaten up by some older
+ Slytherins? We could do that.
+ You could bully me for a while and I could let you.
+ Only you remember that part at the end where I tell my many, many friends
+ inside this school not to do anything about it? This time we'll skip that
+ part.
+ So go ahead.
+ Bully me.”
+\end_layout
+
+\begin_layout Standard
+Harry Potter stepped forward, his arms opened wide in invitation.
+\end_layout
+
+\begin_layout Standard
+The three Gryffindors broke and ran, and Neville had to sidestep quickly
+ to avoid getting run over.
+\end_layout
+
+\begin_layout Standard
+There was silence, as their footsteps faded, and then more silence after
+ that.
+\end_layout
+
+\begin_layout Standard
+And then there were three.
+\end_layout
+
+\begin_layout Standard
+Harry Potter drew a deep breath, then exhaled.
+ “Whew,” he said.
+ “How are you doing, Neville?”
+\end_layout
+
+\begin_layout Standard
+Neville's voice came out in a high-pitched squeak.
+ “Okay, 
+\emph on
+that
+\emph default
+ was really cool.”
+\end_layout
+
+\begin_layout Standard
+A grin flashed across Harry Potter's face.
+ “
+\emph on
+You
+\emph default
+ were pretty cool too, you know.”
+\end_layout
+
+\begin_layout Standard
+Neville knew that Harry Potter was just saying that, trying to make him
+ feel good, and it still started a warm glow inside his chest.
+\end_layout
+
+\begin_layout Standard
+Harry turned toward Lesath Lestrange 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Are you okay, Lestrange?” said Neville before Harry could open his mouth.
+\end_layout
+
+\begin_layout Standard
+Now there was something you didn't expect to find yourself saying, ever.
+\end_layout
+
+\begin_layout Standard
+Lesath Lestrange turned slowly, and stared at Neville, his face tight, no
+ longer crying, tears glistening as they dried.
+\end_layout
+
+\begin_layout Standard
+“You think you know how it is?” said Lesath, his voice high and shaking.
+ “
+\emph on
+You think you know?
+\emph default
+ My parents are in 
+\emph on
+Azkaban,
+\emph default
+ I try not to think about it and they always remind me, they think it's
+ 
+\emph on
+great
+\emph default
+ that Mother is there in the cold and the dark with the Dementors sucking
+ away her life, I wish I was like Harry Potter, at least his parents aren't
+ hurting, my parents are always hurting, every second of every day, I wish
+ I was like you, at least you can see your parents sometimes, at least you
+ know they loved you, if Mother ever loved me the Dementors will have eaten
+ that thought by now 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Neville's eyes were wide with shock.
+ He hadn't expected this.
+\end_layout
+
+\begin_layout Standard
+Lesath turned to Harry Potter, whose eyes were full of horror.
+\end_layout
+
+\begin_layout Standard
+Lesath flung himself on the floor in front of Harry Potter, touched his
+ forehead to the ground, and whispered, “Help me, Lord.”
+\end_layout
+
+\begin_layout Standard
+There was an awful silence.
+ Neville couldn't think of a single thing to say, and from the naked shock
+ on Harry's face, he couldn't think of anything either.
+\end_layout
+
+\begin_layout Standard
+“They say you can do anything, please, please my Lord, get my parents out
+ of Azkaban, I'll be your loyal servant forever, my life will be yours and
+ my death as well, only please 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 027-help_me__lord_harry_by_dinosaurusgede-d319iu7.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Lesath,” Harry said, his voice breaking, “Lesath, I can't, I can't really
+ do things like that, it's all just stupid tricks.”
+\end_layout
+
+\begin_layout Standard
+“It's 
+\emph on
+not!
+\emph default
+” said Lesath, his voice high and desperate.
+ “I 
+\emph on
+saw
+\emph default
+ it, the stories are true, you 
+\emph on
+can!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry swallowed.
+ “Lesath, I set the whole thing up with Neville, we planned it all out in
+ advance, ask him!”
+\end_layout
+
+\begin_layout Standard
+They had, though Harry hadn't said 
+\emph on
+how
+\emph default
+ he was going to do any of it…
+\end_layout
+
+\begin_layout Standard
+When Lesath looked up from the floor his face was ghastly, and his voice
+ came out in a shriek that hurt Neville's ears.
+ “
+\emph on
+You son of a mudblood! You could get her out, you just won't! I got down
+ on my knees and begged you and you still won't help! I should have known,
+ you're the Boy-Who-Lived, you think she belongs there!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+can't!
+\emph default
+” Harry said, his voice as desperate as Lesath's.
+ “It's not a question of what I want, I don't have the 
+\emph on
+power!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Lesath rose to his feet, and spat on the floor in front of Harry, and then
+ turned and walked away.
+ When he was around the corner the sound of his feet sped up, and as they
+ faded Neville thought he heard a single sob.
+\end_layout
+
+\begin_layout Standard
+And then there were two.
+\end_layout
+
+\begin_layout Standard
+Neville looked at Harry.
+\end_layout
+
+\begin_layout Standard
+Harry looked at Neville.
+\end_layout
+
+\begin_layout Standard
+“Wow,” Neville said quietly.
+ “He didn't seem very grateful for being rescued.”
+\end_layout
+
+\begin_layout Standard
+“He thought I could help him,” Harry said, his voice hoarse.
+ “He had hope for the first time in years.”
+\end_layout
+
+\begin_layout Standard
+Neville swallowed, and said it.
+ “I'm sorry.”
+\end_layout
+
+\begin_layout Standard
+“Wha?” said Harry, sounding totally confused.
+\end_layout
+
+\begin_layout Standard
+“I wasn't grateful when you helped me 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Every single thing you said before was completely right,” said the Boy-Who-Live
+d.
+\end_layout
+
+\begin_layout Standard
+“No,” Neville said, “it wasn't.”
+\end_layout
+
+\begin_layout Standard
+They simultaneously gave brief sad smiles, each condescending to the other.
+\end_layout
+
+\begin_layout Standard
+“I know this wasn't real,” said Neville, “I know I couldn't have done anything
+ if you hadn't been here, but thanks for letting me pretend.”
+\end_layout
+
+\begin_layout Standard
+“Give me a break,” said Harry.
+\end_layout
+
+\begin_layout Standard
+Harry had turned from Neville, and was staring out the window at the gloomy
+ clouds.
+\end_layout
+
+\begin_layout Standard
+A completely ridiculous thought came to Neville.
+ “Are you feeling guilty because you can't get Lesath's parents out of Azkaban?”
+\end_layout
+
+\begin_layout Standard
+“No,” said Harry.
+\end_layout
+
+\begin_layout Standard
+A few seconds went by.
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Harry.
+\end_layout
+
+\begin_layout Standard
+“You're silly,” said Neville.
+\end_layout
+
+\begin_layout Standard
+“I am aware of this,” said Harry.
+\end_layout
+
+\begin_layout Standard
+“Do you have to do literally 
+\emph on
+anything
+\emph default
+ anyone asks you?”
+\end_layout
+
+\begin_layout Standard
+The Boy-Who-Lived turned back and looked at Neville again.
+ “
+\emph on
+Do?
+\emph default
+ No.
+ Feel guilty about not doing? Yes.”
+\end_layout
+
+\begin_layout Standard
+Neville was having trouble finding words.
+ “Once the Dark Lord died, Bellatrix Black was literally the most evil person
+ in the entire world and that was 
+\emph on
+before
+\emph default
+ she went to Azkaban.
+ She tortured my mother and father into insanity because she wanted to find
+ out what happened to the Dark Lord
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I know,” Harry said quietly.
+ “I get that, but 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No! You 
+\emph on
+don't!
+\emph default
+ She had a 
+\emph on
+reason
+\emph default
+ for doing that, and my parents were both Aurors! It's not even 
+\emph on
+close
+\emph default
+ to the worst thing she's ever done!” Neville's voice was shaking.
+\end_layout
+
+\begin_layout Standard
+“Even so,” said the Boy-Who-Lived, his eyes distant as they stared off into
+ somewhere else, some other place that Neville couldn't imagine.
+ “There might be some incredibly clever solution that makes it possible
+ to save everyone and let them all live happily ever after, and if only
+ I was smart enough I would have thought of it by now 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“You have problems,” said Neville.
+ “You think you ought to be what Lesath Lestrange thinks you are.”
+\end_layout
+
+\begin_layout Standard
+“Yeah,” said the Boy-Who-Lived, “that pretty much nails it.
+ Every time someone cries out in prayer and I can't answer, I feel guilty
+ about not being God.”
+\end_layout
+
+\begin_layout Standard
+Neville didn't quite understand that, but… “That doesn't sound good.”
+\end_layout
+
+\begin_layout Standard
+Harry sighed.
+ “I understand that I have a problem, and I know what I need to do to solve
+ it, all right? I'm working on it.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry watched Neville leave.
+\end_layout
+
+\begin_layout Standard
+Of course Harry hadn't said what the solution was.
+\end_layout
+
+\begin_layout Standard
+The solution, obviously, was to hurry up and become God.
+\end_layout
+
+\begin_layout Standard
+Neville's footsteps moved off, and soon could no longer be heard.
+\end_layout
+
+\begin_layout Standard
+And then there was one.
+\end_layout
+
+\begin_layout Standard
+“Ahem,” said Severus Snape's voice from directly behind him.
+\end_layout
+
+\begin_layout Standard
+Harry let out a small scream and instantly hated himself.
+\end_layout
+
+\begin_layout Standard
+Slowly, Harry turned around.
+\end_layout
+
+\begin_layout Standard
+The tall greasy man in the spotted robes was leaning against the wall in
+ the same position Harry had occupied.
+\end_layout
+
+\begin_layout Standard
+“A fine invisibility cloak, Potter,” drawled the Potions Master.
+ “Much is explained.”
+\end_layout
+
+\begin_layout Standard
+Oh, bloody crap.
+\end_layout
+
+\begin_layout Standard
+“And perhaps I have been in Dumbledore's company too long,” said Severus,
+ “but I cannot help but wonder if that is 
+\emph on
+the
+\emph default
+ Cloak of Invisibility.”
+\end_layout
+
+\begin_layout Standard
+Harry immediately turned into someone who'd never heard of the Cloak of
+ Invisibility and who was 
+\emph on
+exactly
+\emph default
+ as smart as Harry thought Severus thought Harry was.
+\end_layout
+
+\begin_layout Standard
+“Oh, possibly,” said Harry.
+ “I trust you realize the implications, if it is?”
+\end_layout
+
+\begin_layout Standard
+Severus's voice was condescending.
+ “You have no idea what I'm talking about, do you, Potter? A rather clumsy
+ try at fishing.”
+\end_layout
+
+\begin_layout Standard
+(Professor Quirrell had remarked over their lunch that Harry really needed
+ to conceal his state of mind better than putting on a blank face when someone
+ discussed a dangerous topic, and had explained about one-level deceptions,
+ two-level deceptions, and so on.
+ So either Severus 
+\emph on
+was
+\emph default
+ in fact modeling Harry as a one-level player, which made Severus himself
+ two-level, and Harry's three-level move had been successful; or Severus
+ was a four-level player and wanted Harry to 
+\emph on
+think
+\emph default
+ the deception had been successful.
+ Harry, smiling, had asked Professor Quirrell what level 
+\emph on
+he
+\emph default
+ played at, and Professor Quirrell, also smiling, had responded, 
+\emph on
+One level higher than you
+\emph default
+.)
+\end_layout
+
+\begin_layout Standard
+“So you were watching this whole time,” said Harry.
+ “Disillusionment, I think it's called.”
+\end_layout
+
+\begin_layout Standard
+A thin smile.
+ “It would have been foolish of me to take the slightest risk that you came
+ to harm.”
+\end_layout
+
+\begin_layout Standard
+“And you wanted to see the results of your test firsthand,” said Harry.
+ “So.
+ Am I like my father?”
+\end_layout
+
+\begin_layout Standard
+A strange sad expression came over the man, one that looked foreign to his
+ face.
+ “I should sooner say, Harry Potter, that you resemble 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Severus stopped short.
+\end_layout
+
+\begin_layout Standard
+He stared at Harry.
+\end_layout
+
+\begin_layout Standard
+“Lestrange called you a son of a mudblood,” Severus said slowly.
+ “It didn't seem to bother you much.”
+\end_layout
+
+\begin_layout Standard
+Harry furrowed his eyebrows.
+ “Not under those circumstances, no.”
+\end_layout
+
+\begin_layout Standard
+“You'd just helped him,” Severus said.
+ His eyes were intent on Harry.
+ “And he threw it back in your face.
+ Surely that isn't something you'd just forgive?”
+\end_layout
+
+\begin_layout Standard
+“He'd just been through a pretty harrowing experience,” Harry said.
+ “And I don't think being rescued by first-years helped his pride much,
+ either.”
+\end_layout
+
+\begin_layout Standard
+“I suppose it was easy enough to forgive,” Severus said, and his voice was
+ odd, “since Lestrange means nothing to you.
+ Just some strange Slytherin.
+ If it was a friend, perhaps, you would have felt far more injured by what
+ he said.”
+\end_layout
+
+\begin_layout Standard
+“If he were a friend,” Harry said, “all the more reason to forgive him.”
+\end_layout
+
+\begin_layout Standard
+There was a long silence.
+ Harry felt, and he couldn't have said why or from where, that the air was
+ filling up with a dreadful tension, like water rising, and rising, and
+ rising.
+\end_layout
+
+\begin_layout Standard
+Then Severus smiled, looking suddenly relaxed once more, and all the tension
+ vanished.
+\end_layout
+
+\begin_layout Standard
+“You are a very forgiving person,” Severus said, still smiling.
+ “I suppose your stepfather, Michael Verres-Evans, was the one who taught
+ it to you.”
+\end_layout
+
+\begin_layout Standard
+“More like Dad's science fiction and fantasy collection,” said Harry.
+ “Sort of my fifth parent, really.
+ I've lived the lives of all the characters in all my books, and all their
+ mighty wisdom thunders in my head.
+ Somewhere in there was someone like Lesath, I expect, though I couldn't
+ say who.
+ It wasn't hard to put myself in his shoes.
+ And it was my books that told me what to do about it, too.
+ The good guys forgive.”
+\end_layout
+
+\begin_layout Standard
+Severus gave a light, amused laugh.
+ “I'm afraid I wouldn't know much about what good people do.”
+\end_layout
+
+\begin_layout Standard
+Harry looked at him.
+ That was kind of sad, actually.
+ “I'll lend you some novels with good people in them, if you like.”
+\end_layout
+
+\begin_layout Standard
+“I should like to ask your advice about something,” Severus said, his voice
+ casual.
+ “I know of another fifth-year Slytherin who was being bullied by Gryffindors.
+ He was wooing a beautiful Muggleborn girl, who came across him being bullied,
+ and tried to rescue him.
+ And he called her a mudblood, and that was the end for them.
+ He apologized, many times, but she never forgave him.
+ Have you any thoughts for what he could have said or done, to win from
+ her the forgiveness you gave Lestrange?”
+\end_layout
+
+\begin_layout Standard
+“Erm,” Harry said, “based on only that information, I'm not sure 
+\emph on
+he
+\emph default
+ was the main one who had a problem.
+ I'd have told him not to date someone that incapable of forgiveness.
+ Suppose they'd gotten married, can you imagine life in that household?”
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+\end_layout
+
+\begin_layout Standard
+“Oh, but she 
+\emph on
+could
+\emph default
+ forgive,” Severus said with amusement in his voice.
+ “Why, afterward, she went off and became the girlfriend of the bully.
+ Tell me, why would she forgive the bully, and not the bullied?”
+\end_layout
+
+\begin_layout Standard
+Harry shrugged.
+ “At a wild guess, because the bully had hurt someone 
+\emph on
+else
+\emph default
+ very badly, and the bullied had hurt 
+\emph on
+her
+\emph default
+ just a little, and to her that just felt far more unforgivable somehow.
+ Or, not to put too fine a point on it, was the bully handsome? Or for that
+ matter, rich?”
+\end_layout
+
+\begin_layout Standard
+There was another pause.
+\end_layout
+
+\begin_layout Standard
+“Yes to both,” said Severus.
+\end_layout
+
+\begin_layout Standard
+“And there you have it,” said Harry.
+ “Not that I've ever been through high school myself, but my books give
+ me to understand that there's a certain kind of teenage girl who'll be
+ outraged by a single insult if the boy is plain or poor, yet who can somehow
+ find room in her heart to forgive a rich and handsome boy his bullying.
+ She was shallow, in other words.
+ Tell whoever it was that she wasn't worthy of him and he needs to get over
+ it and move on and next time date girls who are deep instead of pretty.”
+\end_layout
+
+\begin_layout Standard
+Severus stared at Harry in silence, his eyes glittering.
+ The smile had faded, and though Severus's face twitched, it did not return.
+\end_layout
+
+\begin_layout Standard
+Harry was starting to feel a bit nervous.
+ “Um, not that I've got any experience in the area myself, obviously, but
+ I think that's what a wise adviser from my books would say.”
+\end_layout
+
+\begin_layout Standard
+There was more silence and more glittering.
+\end_layout
+
+\begin_layout Standard
+It was probably a good time to change the subject.
+\end_layout
+
+\begin_layout Standard
+“So,” Harry said.
+ “Did I pass your test, whatever it was?”
+\end_layout
+
+\begin_layout Standard
+“I think,” Severus said, “that there should be no more conversations between
+ us, Potter, and you would be exceedingly wise never to speak of this one.”
+\end_layout
+
+\begin_layout Standard
+Harry blinked.
+ “Would you mind telling me what I did wrong?”
+\end_layout
+
+\begin_layout Standard
+“You offended me,” said Severus.
+ “And I no longer trust your cunning.”
+\end_layout
+
+\begin_layout Standard
+Harry stared at Severus, taken rather aback.
+\end_layout
+
+\begin_layout Standard
+“But you have given me well-meant advice,” said Severus Snape, “and so I
+ will give you true advice in return.” His voice was almost perfectly steady.
+ Like a string stretched almost perfectly horizontal, despite the massive
+ weight hanging from its middle, by a million tons of tension pulling at
+ either end.
+ “You almost died today, Potter.
+ In the future, never share your wisdom with anyone unless you know exactly
+ what you are both talking about.”
+\end_layout
+
+\begin_layout Standard
+Harry's mind finally made the connection.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You
+\emph default
+ were that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Harry's mouth snapped shut as the 
+\emph on
+almost died
+\emph default
+ part sank in, two seconds too late.
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Severus, “I was.”
+\end_layout
+
+\begin_layout Standard
+And the terrible tension flooded back into the room like water pressurized
+ at the bottom of the ocean.
+\end_layout
+
+\begin_layout Standard
+Harry couldn't breathe.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Lose.
+ Now.
+\end_layout
+
+\begin_layout Standard
+“I didn't know,” Harry whispered.
+ “I'm s-”
+\end_layout
+
+\begin_layout Standard
+“No,” said Severus.
+ Just that one word.
+\end_layout
+
+\begin_layout Standard
+Harry stood there in silence, his mind frantically searching for options.
+ Se\SpecialChar \-
+verus stood between him and the window, which was a real pity, because
+ a fall from that height wouldn't kill a wizard.
+\end_layout
+
+\begin_layout Standard
+“Your books betrayed you, Potter,” said Severus, still in that voice stretched
+ tight by a million tons of pull.
+ “They did not tell you the one thing you needed to know.
+ You cannot learn from stories what it is like to lose the one you love.
+ That is something you could never understand without feeling it yourself.”
+\end_layout
+
+\begin_layout Standard
+“My father,” Harry whispered.
+ It was his best guess, the one thing that might save him.
+ “My father tried to protect you from the bullies.”
+\end_layout
+
+\begin_layout Standard
+A ghastly smile stretched across Severus's face, and the man moved toward
+ Harry.
+\end_layout
+
+\begin_layout Standard
+And past him.
+\end_layout
+
+\begin_layout Standard
+“Goodbye, Potter,” said Severus, not looking back on his way out.
+ “We shall have little to say to each other from today on.”
+\end_layout
+
+\begin_layout Standard
+And at the corner, the man stopped, and without turning, spoke one final
+ time.
+\end_layout
+
+\begin_layout Standard
+“Your father was the bully,” said Severus Snape, “and what your mother saw
+ in him was something I never did understand until this day.”
+\end_layout
+
+\begin_layout Standard
+He left.
+\end_layout
+
+\begin_layout Standard
+Harry turned and walked toward the window.
+ His shaking hands went onto the ledge.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Never give anyone wise advice unless you know exactly what you're both talking
+ about.
+ Got it.
+\end_layout
+
+\begin_layout Standard
+Harry stared out at the clouds and the light drizzle for a while.
+ The window looked out on the east grounds, and it was afternoon, so if
+ the sun was visible through the clouds at all, Harry couldn't see it.
+\end_layout
+
+\begin_layout Standard
+His hands had stopped shaking, but there was a tight feeling in Harry's
+ chest, like it was being compressed by metal bands.
+\end_layout
+
+\begin_layout Standard
+So his father had been a bully.
+\end_layout
+
+\begin_layout Standard
+And his mother had been shallow.
+\end_layout
+
+\begin_layout Standard
+Maybe they'd grown up later.
+ Good people like Professor McGonagall did seem to think the world of them,
+ and it might not be 
+\emph on
+only
+\emph default
+ because they were heroic martyrs.
+\end_layout
+
+\begin_layout Standard
+Of course, that was scant consolation when you were eleven and about to
+ turn into a teenager, and wondering what sort of teenager you might become.
+\end_layout
+
+\begin_layout Standard
+So very terrible.
+\end_layout
+
+\begin_layout Standard
+So very sad.
+\end_layout
+
+\begin_layout Standard
+Such an awful life Harry led.
+\end_layout
+
+\begin_layout Standard
+Learning that his genetic parents hadn't been perfect, why, he ought to
+ spend awhile moping about that, feeling sorry for himself.
+\end_layout
+
+\begin_layout Standard
+Maybe he could complain to Lesath Lestrange.
+\end_layout
+
+\begin_layout Standard
+Harry had read about Dementors.
+ Cold and darkness surrounded them, and fear, they sucked away all your
+ happy thoughts and in that absence all your worst memories rose to the
+ surface.
+\end_layout
+
+\begin_layout Standard
+He could imagine himself in Lesath's shoes, knowing that his parents were
+ in Azkaban for life, that place from which no one had ever escaped.
+\end_layout
+
+\begin_layout Standard
+And Lesath would be imagining himself in his mother's place, in the cold
+ and the darkness and the fear, alone with all of her worst memories, even
+ in her dreams, every second of every day.
+\end_layout
+
+\begin_layout Standard
+For an instant Harry imagined his own Mum and Dad in Azkaban with the Dementors
+ sucking out their life, draining away the happy memories of their love
+ for him.
+ Just for an instant, before his imagination blew a fuse and called an emergency
+ shutdown and told him never to imagine that again.
+\end_layout
+
+\begin_layout Standard
+Was it right to do that to anyone, even the second most evil person in the
+ world?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No,
+\emph default
+ said the wisdom of Harry's books, 
+\emph on
+not if there's any other way, any other way at all.
+\end_layout
+
+\begin_layout Standard
+And unless the wizarding justice system was as perfect as their prisons
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and that sounded rather improbable, all things considered 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ somewhere in Azkaban was a person who was entirely innocent, and probably
+ more than one.
+\end_layout
+
+\begin_layout Standard
+There was a burning sensation in Harry's throat, and moisture gathering
+ in his eyes, and he wanted to teleport all of Azkaban's prisoners to safety
+ and call down fire from the sky and blast that terrible place down to bedrock.
+ But he couldn't, because he wasn't God.
+\end_layout
+
+\begin_layout Standard
+And Harry remembered what Professor Quirrell had said beneath the star\SpecialChar \-
+light:
+ 
+\emph on
+Sometimes, when this flawed world seems unusually hateful, I wonder whether
+ there might be some other place, far away, where I should have been… But
+ the stars are so very, very far away… And I wonder what I would dream about,
+ if I slept for a long, long time.
+\end_layout
+
+\begin_layout Standard
+Right now this flawed world seemed unusually hateful.
+\end_layout
+
+\begin_layout Standard
+And Harry couldn't understand Professor Quirrell's words, it might have
+ been an alien that had spoken, or an Artificial Intelligence, something
+ built along such different lines from Harry that his brain couldn't be
+ forced to operate in that mode.
+\end_layout
+
+\begin_layout Standard
+You couldn't leave your home planet while it still contained a place like
+ Azkaban.
+\end_layout
+
+\begin_layout Standard
+You had to stay and fight.
+\end_layout
+
+\end_body
+\end_document

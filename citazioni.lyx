@@ -1,0 +1,408 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+I
+\end_layout
+
+\end_inset
+
+t’s
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\noun on
+ a terrific series,subtle and dramatic and stimulating
+\noun default
+.
+ Yudkowsky gets it, and lots else.
+ Smart guy, good writer.
+ Poses hugely terrific questions that I, too, had thought of...
+ and a number that I hadn't.
+ Enjoyed all references to the Enlightenment.
+ I wish all Potter fans would go here, and try on a bigger, bolder and more
+ challenging tale.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+---
+\end_layout
+
+\end_inset
+
+ 
+\family sans
+\emph on
+David Brin
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vfill
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+O
+\end_layout
+
+\end_inset
+
+h
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\noun on
+Thoth Trismegistus, oh Ma’at, oh Ganesha, oh sweet lady Eris…
+\noun default
+ I have not laughed so hard in years! [...] Read it and laugh.
+ Read it and learn.
+ Eliezer re-invents Harry Potter as a skeptic genius who sets himself the
+ task of figuring out just how all this “magic” stuff works.
+ Strongly recommended.
+ And if you manage to learn about sources of cognitive bias like the Planning
+ Fallacy and the Bystander Effect (among others) while your sides are hurting
+ with laughter, so much the better.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+---
+\end_layout
+
+\end_inset
+
+ 
+\family sans
+\emph on
+Eric S.
+ Raymond
+\end_layout
+
+\begin_layout Standard
+\align block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vfill
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+H
+\end_layout
+
+\end_inset
+
+arry
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\noun on
+Potter and the Methods of Rationality is the sort of thing that would technicall
+y be called a fanfic, but is more appropriately named a work of sheer genius.
+
+\noun default
+ It takes the basic Harry Potter story and asks `what if, instead of a boy
+ locked in a closet, he was a child genius raised by a loving pair of adoptive
+ parents who brought science, reason, and modern thinking to the wizarding
+ world?'
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align block
+LOVE.
+ IT.
+ Read it, seriously.
+ It will change your way of looking at the world.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+---
+\end_layout
+
+\end_inset
+
+ 
+\family sans
+\emph on
+Rachel Aaron
+\end_layout
+
+\begin_layout Standard
+\align block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vfill
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+T
+\end_layout
+
+\end_inset
+
+his
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\noun on
+ is a book whose title still makes me laugh and yet it may just turn out
+ to be one of the greatest books ever written.
+
+\noun default
+ The writing is shockingly good, the plotting is some of the best in all
+ of literature, and the stories are simply pure genius.
+ I fear this book may never get the accolades it deserves, because it’s
+ too hard to look past the silly name and publishing model, but I hope you,
+ dear reader, are wiser than that! A must-read.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+---
+\end_layout
+
+\end_inset
+
+ 
+\family sans
+\emph on
+Aaron Swartz
+\end_layout
+
+\end_body
+\end_document

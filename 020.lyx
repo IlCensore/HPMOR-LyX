@@ -1,0 +1,2495 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Bayes' Theorem
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+H
+\end_layout
+
+\end_inset
+
+arry
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ stared up at the gray ceiling of the small room, from where he lay on the
+ portable yet soft bed that had been placed there.
+ He'd eaten quite a lot of Professor Quirrell's snacks 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ intricate confections of chocolate and other substances, dusted with sparkling
+ sprinkles and jeweled with tiny sugar gems, looking highly expensive and
+ proving, in fact, to be quite tasty.
+ Harry hadn't felt the least bit guilty about it either, 
+\emph on
+this
+\emph default
+ he had 
+\emph on
+earned
+\emph default
+.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He hadn't tried to sleep.
+ Harry had a feeling that he wouldn't like what happened when he closed
+ his eyes.
+\end_layout
+
+\begin_layout Standard
+He hadn't tried to read.
+ He wouldn't have been able to focus.
+\end_layout
+
+\begin_layout Standard
+Funny how Harry's brain just seemed to keep on running and running, never
+ shutting down no matter how tired it got.
+ It got stupider but it refused to 
+\emph on
+switch off.
+\end_layout
+
+\begin_layout Standard
+But there was, there really and truly was a feeling of triumph.
+\end_layout
+
+\begin_layout Standard
+Anti-Dark-Lord-Harry program, +1 point didn't 
+\emph on
+begin
+\emph default
+ to cover it.
+ Harry wondered what the Sorting Hat would say 
+\emph on
+now
+\emph default
+, if he could put it on his head.
+\end_layout
+
+\begin_layout Standard
+No 
+\emph on
+wonder
+\emph default
+ Professor Quirrell had accused Harry of heading down the path of a Dark
+ Lord.
+ Harry had been too slow on the uptake, he should have seen the parallel
+ right away 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Understand that the Dark Lord did not win that day.
+ His goal was to learn martial arts, and yet he left without a single lesson.
+\end_layout
+
+\begin_layout Standard
+Harry had entered the Potions class with the intent to learn Potions.
+ He'd left without a single lesson.
+\end_layout
+
+\begin_layout Standard
+And Professor Quirrell had heard, and understood with frightening precision,
+ and reached out and yanked Harry off that path, the path that led to his
+ becoming a copy of You-Know-Who.
+\end_layout
+
+\begin_layout Standard
+There was a knock at the door.
+ “Classes are over,” said Professor Quirrell's quiet voice.
+\end_layout
+
+\begin_layout Standard
+Harry approached the door and found himself suddenly nervous.
+ Then the tension diminished as he heard Professor Quirrell's footsteps
+ moving away from the door.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What on Earth is that about? Is it what's going to get him fired eventually?
+\end_layout
+
+\begin_layout Standard
+Harry opened the door, and saw that Professor Quirrell was now waiting several
+ bodylengths away.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Does Professor Quirrell feel it too?
+\end_layout
+
+\begin_layout Standard
+They walked across the now-deserted stage to Professor Quirrell's desk,
+ which Professor Quirrell leaned on; and Harry, as before, stopped short
+ of the dais.
+\end_layout
+
+\begin_layout Standard
+“So,” Professor Quirrell said.
+ There was a friendly sense about him somehow, even though his face still
+ kept its usual seriousness.
+ “What was it you wanted to talk to me about, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I have a mysterious dark side.
+
+\emph default
+ But Harry couldn't just blurt it out like that.
+\end_layout
+
+\begin_layout Standard
+“Professor Quirrell,” Harry said, “am I off the path to becoming a Dark
+ Lord, now?”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell looked at Harry.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” he said solemnly, with only a slight grin, “a word of advice.
+ There is such a thing as a performance which is too perfect.
+ Real people who have just been beaten and humiliated for fifteen minutes
+ do not stand up and graciously forgive their enemies.
+ It is the sort of thing you do when you're trying to 
+\emph on
+convince
+\emph default
+ everyone you're not Dark, not 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+I can't believe this! You can't have every possible observation confirm
+ your theory!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“And that was a 
+\emph on
+trifle
+\emph default
+ too much indignation.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What on Earth do I have to do to convince you?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“To convince me that you harbor no ambitions of becoming a Dark Lord?” said
+ Professor Quirrell, now looking outright amused.
+ “I suppose you could just raise your right hand.”
+\end_layout
+
+\begin_layout Standard
+“What?” Harry said blankly.
+ “But I can raise my right hand whether or not I 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry stopped, feeling rather stupid.
+\end_layout
+
+\begin_layout Standard
+“Indeed,” said Professor Quirrell.
+ “You can just as easily do it either way.
+ There is nothing you can do to convince me because I would know that was
+ exactly what you were trying to do.
+ And if we are to be even more precise, then while I suppose it is barely
+ possible that perfectly good people exist even though I have never met
+ one, it is nonetheless 
+\emph on
+improbable
+\emph default
+ that someone would be beaten for fifteen minutes and then stand up and
+ feel a great surge of kindly forgiveness for his attackers.
+ On the other hand it is 
+\emph on
+less
+\emph default
+ improbable that a young child would imagine this as the 
+\emph on
+role to play
+\emph default
+ in order to convince his teacher and classmates that he is not the next
+ Dark Lord.
+ The import of an act lies not in what that act 
+\emph on
+resembles on the surface,
+\emph default
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, but in the states of mind which make that act more or less probable.”
+\end_layout
+
+\begin_layout Standard
+Harry blinked.
+ He'd just had the dichotomy between the representativeness heuristic and
+ the Bayesian definition of evidence explained to him by a wizard.
+\end_layout
+
+\begin_layout Standard
+“But then again,” said Professor Quirrell, “anyone can want to impress their
+ friends.
+ That need not be Dark.
+ So without it being any kind of admission, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, tell me honestly.
+ What thought was in your mind at the moment when you forbade any vengeance?
+ Was that thought a true impulse to forgiveness? Or was it an awareness
+ of how your classmates would see the act?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Sometimes we make our own phoenix song.
+\end_layout
+
+\begin_layout Standard
+But Harry didn't say it out loud.
+ It was clear that Professor Quirrell wouldn't believe him, and would probably
+ respect him less for trying to utter such a transparent lie.
+\end_layout
+
+\begin_layout Standard
+After a few moments of silence, Professor Quirrell smiled with satisfaction.
+ “Believe it or not, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the professor, “you need not fear me for having discovered
+ your secret.
+ I am 
+\emph on
+not
+\emph default
+ going to tell you to give up on becoming the next Dark Lord.
+ If I could turn back the hands of time and somehow remove that ambition
+ from the mind of my child self, the self of this present time would not
+ benefit from the alteration.
+ For as long as I thought that was my goal, it drove me to study and learn
+ and refine myself and become stronger.
+ We become what we are meant to be by following our desires wherever they
+ lead.
+ That is the insight of Salazar.
+ Ask me to show you to the library section which holds those same books
+ I read as a thirteen-year-old, and I will happily lead the way.”
+\end_layout
+
+\begin_layout Standard
+“For the love of crap,” Harry said, and sat down on the hard marble floor,
+ and then lay back on the floor, staring up at the distant arches of the
+ ceiling.
+ It was as close as he could come to collapsing in despair without hurting
+ himself.
+\end_layout
+
+\begin_layout Standard
+“Still too much indignation,” observed Professor Quirrell.
+ Harry wasn't looking but he could hear the suppressed laughter in the voice.
+\end_layout
+
+\begin_layout Standard
+Then Harry realized.
+\end_layout
+
+\begin_layout Standard
+“Actually, I think I know what's confusing you here,” Harry said.
+ “That was what I wanted to talk to you about, in fact.
+ Professor Quirrell, I think that what you're seeing is my mysterious dark
+ side.”
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+\end_layout
+
+\begin_layout Standard
+“Your… dark side…”
+\end_layout
+
+\begin_layout Standard
+Harry sat up.
+ Professor Quirrell was regarding him with one of the strangest expressions
+ Harry had seen on anyone's face, let alone anyone as dignified as Professor
+ Quirrell.
+\end_layout
+
+\begin_layout Standard
+“It happens when I get angry,” Harry explained.
+ “My blood runs cold, everything gets cold, everything seems perfectly clear…
+ In retrospect it's been with me for a while 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ in my first year of Muggle school, someone tried to take away my ball during
+ recess and I held it behind my back and kicked him in the solar plexus
+ which I'd read was a weak point, and the other kids didn't bother me after
+ that.
+ And I bit a math teacher when she wouldn't accept my dominance.
+ But it's only just recently that I've been under enough stress to notice
+ that it's an actual, you know, mysterious dark side, and not just an anger
+ management problem like the school psychologist said.
+ And I don't have any super magical powers when it happens, that was one
+ of the first things I checked.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell rubbed his nose.
+ “Let me think about this,” he said.
+\end_layout
+
+\begin_layout Standard
+Harry waited in silence for a full minute.
+ He used that time to stand up, which was more difficult than he had expected.
+\end_layout
+
+\begin_layout Standard
+“Well,” Professor Quirrell said after a while.
+ “I suppose there 
+\emph on
+was
+\emph default
+ something you could say that would convince me.”
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+have
+\emph default
+ already guessed that my dark side is really just another part of me and
+ that the answer isn't to never become angry but to learn to stay in control
+ by accepting it, I'm not dumb or anything and I've seen this story enough
+ times to know where it's going, but it's hard and you seem like the person
+ to help me.”
+\end_layout
+
+\begin_layout Standard
+“Well… yes… very perspicacious of you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I must say… that side of you is, as you seem to have already surmised,
+ your intent to kill, which as you say is a part of you…”
+\end_layout
+
+\begin_layout Standard
+“And needs to be trained,” Harry said, completing the pattern.
+\end_layout
+
+\begin_layout Standard
+“And needs to be trained, yes.” That strange expression was still on Professor
+ Quirrell's face.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, if you truly do not wish to be the next Dark Lord, then what was
+ the ambition which the Sorting Hat tried to convince you to abandon, the
+ ambition for which you were Sorted into Slytherin?”
+\end_layout
+
+\begin_layout Standard
+“I was Sorted into 
+\emph on
+Ravenclaw!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said Professor Quirrell, now with a much more usual-looking dry
+ smile, “I know you are accustomed to everyone around you being a fool,
+ but please do not mistake me for one of them.
+ The likelihood that the Sorting Hat would play its first prank in eight
+ hundred years while it was upon your head is so small as to not be worth
+ considering.
+ I suppose it is barely possible that you snapped your fingers and invented
+ some simple and clever way to defeat the anti-tampering spells upon the
+ Hat, though I myself can think of no such method.
+ But by far the most probable explanation is that Dumbledore decided he
+ was not happy with the Hat's choice for the Boy-Who-Lived.
+ This is evident to anyone with the tiniest smidgin of common sense, so
+ your secret is safe at Hogwarts.”
+\end_layout
+
+\begin_layout Standard
+Harry opened his mouth, then closed it again with a feeling of complete
+ helplessness.
+ Professor Quirrell was wrong, but wrong in such a convincing way that Harry
+ was starting to think that it simply 
+\emph on
+was
+\emph default
+ the rational judgment given the evidence available to Professor Quirrell.
+ There were times, never 
+\emph on
+predictable
+\emph default
+ times but still sometimes, when you would get improbable evidence and the
+ best knowable guess would be wrong.
+ If you had a medical test that was only wrong one time in a thousand, sometimes
+ it would still be wrong anyway.
+\end_layout
+
+\begin_layout Standard
+“Can I ask you never to repeat what I'm about to say?” said Harry.
+\end_layout
+
+\begin_layout Standard
+“Absolutely,” said Professor Quirrell.
+ “Consider me asked.”
+\end_layout
+
+\begin_layout Standard
+Harry wasn't a fool either.
+ “Can I consider you to have said yes?”
+\end_layout
+
+\begin_layout Standard
+“Very good, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ You may indeed so consider.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Professor Quirrell 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“I won't repeat what you're about to say,” Professor Quirrell said, smiling.
+\end_layout
+
+\begin_layout Standard
+They both laughed, then Harry turned serious again.
+ “The Sorting Hat did seem to think I was going to end up as a Dark Lord
+ unless I went to Hufflepuff,” Harry said.
+ “But I don't 
+\emph on
+want
+\emph default
+ to be one.”
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter…” said Professor Quirrell.
+ “Don't take this the wrong way.
+ I promise you will not be graded on the answer.
+ I only want to know your own, honest reply.
+ Why not?”
+\end_layout
+
+\begin_layout Standard
+Harry had that 
+\emph on
+helpless
+\emph default
+ feeling again.
+ 
+\emph on
+Thou shalt not become a Dark Lord
+\emph default
+ was such an obvious theorem in his moral system that it was hard to describe
+ the actual proof steps.
+ “Um, people would get hurt?”
+\end_layout
+
+\begin_layout Standard
+“Surely you've wanted to hurt people,” said Professor Quirrell.
+ “You wanted to hurt those bullies today.
+ Being a Dark Lord means that people you 
+\emph on
+want
+\emph default
+ to hurt get hurt.”
+\end_layout
+
+\begin_layout Standard
+Harry floundered for words and then decided to simply go with the obvious.
+ “First of all, just because I want to hurt someone doesn't mean it's right
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“What makes something right, if not your wanting it?”
+\end_layout
+
+\begin_layout Standard
+“Ah,” Harry said, “preference utilitarianism.”
+\end_layout
+
+\begin_layout Standard
+“Pardon me?” said Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“It's the ethical theory that the good is what satisfies the preferences
+ of the most people 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No,” Professor Quirrell said.
+ His fingers rubbed the bridge of his nose.
+ “I don't think that's quite what I was trying to say.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, in the end people all do what they want to do.
+ Sometimes people give names like `right' to things they want to do, but
+ how could we possibly act on anything 
+\emph on
+but
+\emph default
+ our own desires?”
+\end_layout
+
+\begin_layout Standard
+“Well, obviously,” Harry said.
+ “I couldn't 
+\emph on
+act
+\emph default
+ on moral considerations if they lacked the power to move me.
+ But that doesn't mean my wanting to hurt those Slytherins has the power
+ to move me 
+\emph on
+more
+\emph default
+ than moral considerations!”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell blinked.
+\end_layout
+
+\begin_layout Standard
+“Not to mention,” Harry said, “being a Dark Lord would mean that a lot of
+ innocent bystanders got hurt too!”
+\end_layout
+
+\begin_layout Standard
+“Why does that matter to you?” Professor Quirrell said.
+ “What have they done for you?”
+\end_layout
+
+\begin_layout Standard
+Harry laughed.
+ “Oh, now 
+\emph on
+that
+\emph default
+ was around as subtle as 
+\emph on
+Atlas Shrugged.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“Pardon me?” Professor Quirrell said again.
+\end_layout
+
+\begin_layout Standard
+“It's a book that my parents wouldn't let me read because they thought it
+ would corrupt me, so of course I read it anyway and I was offended they
+ thought I would fall for any traps that obvious.
+ Blah blah blah, appeal to my sense of superiority, other people are trying
+ to keep me down, blah blah blah.”
+\end_layout
+
+\begin_layout Standard
+“So you're saying I need to make my traps less obvious?” said Professor
+ Quirrell.
+ He tapped a finger on his cheek, looking thoughtful.
+ “I can work on that.”
+\end_layout
+
+\begin_layout Standard
+They both laughed.
+\end_layout
+
+\begin_layout Standard
+“But to stay with the current question,” said Professor Quirrell, “what
+ 
+\emph on
+have
+\emph default
+ all these other people done for you?”
+\end_layout
+
+\begin_layout Standard
+“Other people have done 
+\emph on
+huge
+\emph default
+ amounts for me!” Harry said.
+ “My parents took me in when my parents died because they were 
+\emph on
+good people,
+\emph default
+ and to become a Dark Lord is to betray that!”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was silent for a time.
+\end_layout
+
+\begin_layout Standard
+“I confess,” said Professor Quirrell quietly, “when I was your age, that
+ thought could not ever have come to me.”
+\end_layout
+
+\begin_layout Standard
+“I'm sorry,” Harry said.
+\end_layout
+
+\begin_layout Standard
+“Don't be,” said Professor Quirrell.
+ “It was long ago, and I resolved my parental issues to my own satisfaction.
+ So you are held back by the thought of your parents' disapproval? Does
+ that mean that if they died in an accident, there would be nothing left
+ to stop you from 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No,” Harry said.
+ “Just no.
+ It is their 
+\emph on
+impulse to kindness
+\emph default
+ which sheltered me.
+ That impulse is not only in my parents.
+ And that impulse is what would be betrayed.”
+\end_layout
+
+\begin_layout Standard
+“In any case, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, you have not answered my original question,” said Professor Quirrell
+ finally.
+ “What 
+\emph on
+is
+\emph default
+ your ambition?”
+\end_layout
+
+\begin_layout Standard
+“Oh,” said Harry.
+ “Um..” He organized his thoughts.
+ “To understand everything important there is to know about the universe,
+ apply that knowledge to become omnipotent, and use that power to rewrite
+ reality because I have some objections to the way it works now.”
+\end_layout
+
+\begin_layout Standard
+There was a slight pause.
+\end_layout
+
+\begin_layout Standard
+“Forgive me if this is a stupid question, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said Professor Quirrell, “but are you 
+\emph on
+sure
+\emph default
+ you did not just confess to wanting to be a Dark Lord?”
+\end_layout
+
+\begin_layout Standard
+“That's only if you use your power for evil,” explained Harry.
+ “If you use the power for good, you're a Light Lord.”
+\end_layout
+
+\begin_layout Standard
+“I see,” Professor Quirrell said.
+ He tapped his other cheek with a finger.
+ “I suppose I can work with that.
+ But Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, while the scope of your ambition is worthy of Salazar himself, how
+ exactly do you propose to go about it? Is step one to become a great fighting
+ wizard, or Head Unspeakable, or Minister of Magic, or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Step one is to become a scientist.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was looking at Harry as if he'd just turned into a cat.
+\end_layout
+
+\begin_layout Standard
+“A scientist,” Professor Quirrell said after a while.
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+\end_layout
+
+\begin_layout Standard
+“A 
+\emph on
+scientist?
+\emph default
+” repeated Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said.
+ “I shall achieve my objectives through the power… of 
+\emph on
+Science!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“A 
+\emph on
+scientist!
+\emph default
+” said Professor Quirrell.
+ There was genuine indignation on his face, and his voice had grown stronger
+ and sharper.
+ “You could be the best of all my students! The greatest fighting wizard
+ to come out of Hogwarts in five decades! I cannot picture you wasting your
+ days in a white lab coat doing pointless things to rats!”
+\end_layout
+
+\begin_layout Standard
+“Hey!” said Harry.
+ “There's more to science than that! Not that there's anything 
+\emph on
+wrong
+\emph default
+ with experimenting on rats, of course.
+ But science 
+\emph on
+is
+\emph default
+ how you go about understanding and controlling the universe 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Fool,” said Professor Quirrell, in a voice of quiet, bitter intensity.
+ “You're a fool, Harry Potter.” He passed a hand over his face, and when
+ that hand had passed, his face was calmer.
+ “Or more likely you have not yet found your true ambition.
+ May I strongly recommend that you try to become a Dark Lord instead? I
+ will do anything I can to help as a matter of public service.”
+\end_layout
+
+\begin_layout Standard
+“You don't like science,” Harry said slowly.
+ “Why not?”
+\end_layout
+
+\begin_layout Standard
+“Those fool Muggles will kill us all someday!” Professor Quirrell's voice
+ had grown louder.
+ “They will end it! End all of it!”
+\end_layout
+
+\begin_layout Standard
+Harry was feeling a bit lost here.
+ “What are we talking about here, nuclear weapons?”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Yes
+\emph default
+, nuclear weapons!” Professor Quirrell was almost shouting now.
+ “Even He-Who-Must-Not-Be-Named never used those, perhaps because he didn't
+ want to rule over a heap of ash! They never should have been made! And
+ it will only get worse with time!” Professor Quirrell was standing up straight
+ instead of leaning on his desk.
+ “There are gates you do not open, there are seals you do not breach! The
+ fools who can't resist meddling are killed by the lesser perils early on,
+ and the survivors all know that there are secrets you 
+\emph on
+do not share
+\emph default
+ with anyone who lacks the intelligence and the discipline to discover them
+ for themselves! Every powerful wizard knows that! Even the most terrible
+ Dark Wizards know that! And those idiot Muggles can't seem to figure it
+ out! The eager little fools who discovered the secret of nuclear weapons
+ didn't keep it to themselves, they told their 
+\emph on
+fool
+\emph default
+ politicians and now 
+\emph on
+we
+\emph default
+ must live under the constant threat of annihilation!”
+\end_layout
+
+\begin_layout Standard
+This was a rather different way of looking at things than Harry had grown
+ up with.
+ It had never occurred to him that nuclear physicists should have formed
+ a conspiracy of silence to keep the secret of nuclear weapons from anyone
+ not smart enough to be a nuclear physicist.
+ The thought was intriguing, if nothing else.
+ Would they have had secret passwords? Would they have had masks?
+\end_layout
+
+\begin_layout Standard
+(Actually, for all Harry knew, there 
+\emph on
+were
+\emph default
+ all sorts of incredibly destructive secrets which physicists kept to themselves
+, and the secret of nuclear weapons was the only one that had escaped into
+ the wild.
+ The world would look the same to him either way.)
+\end_layout
+
+\begin_layout Standard
+“I'll have to think about that,” Harry said to Professor Quirrell.
+ “It's a new idea to me.
+ And one of the 
+\emph on
+hidden
+\emph default
+ secrets of science, passed down from a few rare teachers to their grad
+ students, is how to avoid flushing new ideas down the toilet the instant
+ you hear one you don't like.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell blinked again.
+\end_layout
+
+\begin_layout Standard
+“Is there any sort of science you 
+\emph on
+do
+\emph default
+ approve of?” said Harry.
+ “Medicine, maybe?”
+\end_layout
+
+\begin_layout Standard
+“Space travel,” said Professor Quirrell.
+ “But the Muggles seem to be dragging their feet on the one project which
+ might have let wizardkind escape this planet before they blow it up.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ “I'm a big fan of the space program too.
+ At least we have that much in common.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell looked at Harry.
+ Something flickered in the professor's eyes.
+ “I will have your word, your promise and your oath never to speak of what
+ follows.”
+\end_layout
+
+\begin_layout Standard
+“You have it,” Harry said immediately.
+\end_layout
+
+\begin_layout Standard
+“See to it that you keep your oath or you will not like the results,” said
+ Professor Quirrell.
+ “I will now cast a rare and powerful spell, not on you, but on the classroom
+ around us.
+ Stand still, so that you do not touch the boundaries of the spell once
+ it has been cast.
+ You must not interact with the magic which I am maintaining.
+ Look only.
+ Otherwise I will end the spell.” Professor Quirrell paused.
+ “And try not to fall over.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded, puzzled and anticipatory.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell raised his wand and said something that Harry's ears
+ and mind couldn't grasp at all, words that bypassed awareness and vanished
+ into oblivion.
+\end_layout
+
+\begin_layout Standard
+The marble in a short radius around Harry's feet stayed constant.
+ All the other marble of the floor vanished, the walls and ceilings vanished.
+\end_layout
+
+\begin_layout Standard
+Harry stood on a small circle of white marble in the midst of an endless
+ field of stars, burning terribly bright and unwavering.
+ There was no Earth, no Moon, no Sun that Harry recognized.
+ Professor Quirrell stood in the same place as before, floating in the midst
+ of the starfield.
+ The Milky Way was already visible as a great wash of light and it grew
+ brighter as Harry's vision adjusted to the darkness.
+\end_layout
+
+\begin_layout Standard
+The sight wrenched at Harry's heart like nothing he had ever seen.
+\end_layout
+
+\begin_layout Standard
+“Are we… in space…?”
+\end_layout
+
+\begin_layout Standard
+“No,” said Professor Quirrell.
+ His voice was sad, and reverent.
+ “But it is a true image.”
+\end_layout
+
+\begin_layout Standard
+Tears came into Harry's eyes.
+ He wiped them away frantically, he would not miss this for some stupid
+ water blurring his vision.
+\end_layout
+
+\begin_layout Standard
+The stars were no longer tiny jewels set in a giant velvet dome, as they
+ were in the night sky of Earth.
+ Here there was no sky above, no surrounding sphere.
+ Only points of perfect light against perfect blackness, an infinite and
+ empty void with countless tiny holes through which shone the brilliance
+ from some unimaginable realm beyond.
+\end_layout
+
+\begin_layout Standard
+In space, the stars 
+\emph on
+looked
+\emph default
+ terribly, terribly, terribly far away.
+\end_layout
+
+\begin_layout Standard
+Harry kept on wiping his eyes, over and over.
+\end_layout
+
+\begin_layout Standard
+“Sometimes,” Professor Quirrell said in a voice so quiet it almost wasn't
+ there, “when this flawed world seems unusually hateful, I wonder whether
+ there might be some other place, far away, where I should have been.
+ I cannot seem to imagine what that place might be, and if I can't even
+ imagine it then how can I believe it exists? And yet the universe is so
+ very, very wide, and perhaps it might exist anyway? But the stars are so
+ very, very far away.
+ It would take a long, long time to get there, even if I knew the way.
+ And I wonder what I would dream about, if I slept for a long, long time…”
+\end_layout
+
+\begin_layout Standard
+Though it felt like sacrilege, Harry managed a whisper.
+ “Please let me stay here awhile.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell nodded, where he stood unsupported against the stars.
+\end_layout
+
+\begin_layout Standard
+It was easy to forget the small circle of marble on which you stood, and
+ your own body, and become a point of awareness which might have been still,
+ or might have been moving.
+ With all distances incalculable there was no way to tell.
+\end_layout
+
+\begin_layout Standard
+There was a time of no time.
+\end_layout
+
+\begin_layout Standard
+And then the stars vanished, and the classroom returned.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry,” said Professor Quirrell, “but we're about to have company.”
+\end_layout
+
+\begin_layout Standard
+“It's fine,” Harry whispered.
+ “It was enough.” He would never forget this day, and not because of the
+ unimportant things that had happened earlier.
+ He would learn how to cast that spell if it was the last thing he ever
+ learned.
+\end_layout
+
+\begin_layout Standard
+Then the heavy oaken doors of the classroom blasted off their hinges and
+ skittered across the marble floor with a high-pitched shriek.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+QUIRINUS! HOW DARE YOU!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Like a vast thundercloud, an ancient and powerful wizard blew into the room,
+ a look of such incandescent rage upon his face that the stern look he had
+ earlier turned upon Harry seemed like nothing.
+\end_layout
+
+\begin_layout Standard
+There was a wrench of disorientation in Harry's mind as the part that wanted
+ to run away screaming from the scariest thing it had ever seen ran away,
+ rotating into place a part of him which could take the shock.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+None
+\emph default
+ of Harry's facets were happy about having their star-gazing interrupted.
+ “Headmaster Albus Percival 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry started to say in icy tones.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+WHAM.
+
+\emph default
+ Professor Quirrell's hand came down hard upon his desk.
+ “
+\emph on
+Mr.
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph on
+Potter!
+\emph default
+” barked Professor Quirrell.
+ “This is the 
+\emph on
+Headmaster of Hogwarts
+\emph default
+ and you are a mere student! You will address him appropriately!”
+\end_layout
+
+\begin_layout Standard
+Harry looked at Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was giving Harry a stern glare.
+\end_layout
+
+\begin_layout Standard
+Neither of them smiled.
+\end_layout
+
+\begin_layout Standard
+Dumbledore's long strides had come to a halt before where Harry stood in
+ front of the dais and Professor Quirrell stood by his desk.
+ The Headmaster stared in shock at both of them.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry,” Harry said in meekly polite tones.
+ “Headmaster, thank you for wanting to protect me, but Professor Quirrell
+ did the right thing.”
+\end_layout
+
+\begin_layout Standard
+Slowly, Dumbledore's expression changed from something that would vaporize
+ steel into something merely angry.
+ “I heard students saying that this man had you abused by older Slytherins!
+ That he forbade you to defend yourself!”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ “He knew exactly what was wrong with me and he showed me how to fix it.”
+\end_layout
+
+\begin_layout Standard
+“Harry, 
+\emph on
+what are you talking about?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“I was teaching him how to lose,” Professor Quirrell said dryly.
+ “It's an important life skill.”
+\end_layout
+
+\begin_layout Standard
+It was apparent that Dumbledore still didn't understand, but his voice had
+ lowered in register.
+ “Harry…” he said slowly.
+ “If there's any threat the Defense Professor has offered you to prevent
+ you from complaining 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You lunatic, after today of all days do you really think I 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Headmaster,” Harry said, trying to look abashed, “what's wrong with me
+ isn't that I keep quiet about abusive professors.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell chuckled.
+ “Not perfect, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, but good enough for your first day.
+ Headmaster, did you stay long enough to hear about the fifty-one points
+ for Ravenclaw, or did you storm out as soon as you heard the first part?”
+\end_layout
+
+\begin_layout Standard
+A brief look of disconcertment crossed Dumbledore's face, followed by surprise.
+ “Fifty-one points for Ravenclaw?”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell nodded.
+ “He wasn't expecting them, but it seemed appropriate.
+ Tell Professor McGonagall that I think the story of what Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter went through to earn back the lost points will do just as well to
+ make her point.
+ No, Headmaster, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter didn't tell me anything.
+ It's easy to see which part of today's events are her work, just as I know
+ that the final compromise was your own suggestion.
+ Though I wonder how on Earth Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter was able to gain the upper hand over both Snape and you and then
+ Professor McGonagall was able to gain the upper hand over him.”
+\end_layout
+
+\begin_layout Standard
+Somehow Harry managed to control his face.
+ Was it 
+\emph on
+that
+\emph default
+ obvious to a real Slytherin?
+\end_layout
+
+\begin_layout Standard
+Dumbledore came closer to Harry, scrutinizing.
+ “Your color looks a little off, Harry,” the old wizard said.
+ He peered closely at Harry's face.
+ “What did you have for lunch today?”
+\end_layout
+
+\begin_layout Standard
+“What?” Harry said, his mind wobbling in sudden confusion.
+ Why would Dumbledore be asking about deep-fried lamb and thin-sliced broccoli
+ when that was just about the 
+\emph on
+last
+\emph default
+ probable cause of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The old wizard straightened up.
+ “Never mind, then.
+ I think you're fine.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell coughed, loudly and deliberately.
+ Harry looked at the professor, and saw that Professor Quirrell was staring
+ sharply at Dumbledore.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Ah-hem!
+\emph default
+” Professor Quirrell said again.
+\end_layout
+
+\begin_layout Standard
+Dumbledore and Professor Quirrell locked eyes, and something seemed to pass
+ between them.
+\end_layout
+
+\begin_layout Standard
+“If you don't tell him,” Professor Quirrell said then, “I will, even if
+ you fire me for it.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore sighed and turned back to Harry.
+ “I apologize for invading your mental privacy, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” the Headmaster said formally.
+ “I had no purpose except to determine if Professor Quirrell had done the
+ same.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What?
+\end_layout
+
+\begin_layout Standard
+The confusion lasted just exactly as long as it took Harry to understand
+ what had just happened.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ !
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Gently, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said Professor Quirrell.
+ His face was hard, however, as he stared at Dumbledore.
+\end_layout
+
+\begin_layout Standard
+“Legilimency is sometimes mistaken for common sense,” said the Headmaster.
+ “But it leaves traces which another skillful Legilimens can detect.
+ That was all I looked for, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, and I asked you an irrelevant question to ensure you wouldn't think
+ about anything important while I looked.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You should have asked first!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell shook his head.
+ “No, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, the Headmaster had some justification for his concerns, and had
+ he asked for permission you would have thought of exactly those things
+ you did not wish him to see.” Professor Quirrell's voice grew sharper.
+ “I am rather more concerned, Headmaster, that you saw no need to tell him
+ afterward!”
+\end_layout
+
+\begin_layout Standard
+“You have now made it more difficult to confirm his mental privacy on future
+ occasions,” Dumbledore said.
+ He favored Professor Quirrell with a cold look.
+ “Was that your intention, I wonder?”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's expression was implacable.
+ “There are too many Legilimens in this school.
+ I insist that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter receive instruction in Occlumency.
+ Will you permit me to be his tutor?”
+\end_layout
+
+\begin_layout Standard
+“Absolutely not,” Dumbledore said at once.
+\end_layout
+
+\begin_layout Standard
+“I did not think so.
+ Then since 
+\emph on
+you
+\emph default
+ have deprived him of my free services, 
+\emph on
+you
+\emph default
+ will pay for Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter's tutoring by a licensed Occlumency instructor.”
+\end_layout
+
+\begin_layout Standard
+“Such services do not come cheaply,” Dumbledore said, looking at Professor
+ Quirrell in some surprise.
+ “Although I do have certain connections
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell shook his head firmly.
+ “No.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter will ask his account manager at Gringotts to recommend a neutral
+ instructor.
+ With respect, Headmaster Dumbledore, after the events of this morning I
+ must protest you or your friends having access to Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter's mind.
+ I must also insist that the instructor have taken an Unbreakable Vow to
+ reveal nothing, and that he agree to be Obliviated of each session immediately
+ afterward.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore was frowning.
+ “Such services are 
+\emph on
+extremely
+\emph default
+ expensive, as you well know, and I cannot help but wonder why 
+\emph on
+you
+\emph default
+ deem them necessary.”
+\end_layout
+
+\begin_layout Standard
+“If it's money that's the problem,” Harry spoke up, “I have some ideas for
+ making large amounts of money quickly 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Thank you Quirinus, your wisdom is now quite evident and I am sorry for
+ disputing it.
+ Your concern for Harry Potter does you credit, as well.”
+\end_layout
+
+\begin_layout Standard
+“You're welcome,” said Professor Quirrell.
+ “I hope you will not object if I go on making him a particular focus of
+ my attentions.” Professor Quirrell's face was now very serious, and very
+ still.
+\end_layout
+
+\begin_layout Standard
+Dumbledore looked at Harry.
+\end_layout
+
+\begin_layout Standard
+“It is my own wish also,” Harry said.
+\end_layout
+
+\begin_layout Standard
+“So that's how it is to be…” the old wizard said slowly.
+ Something strange passed across his face.
+ “Harry… you must realize that if you choose this man as your teacher and
+ your friend, your first mentor, then one way or another you will lose him,
+ and the manner in which you lose him may or may not allow you to ever get
+ him back.”
+\end_layout
+
+\begin_layout Standard
+That hadn't occurred to Harry.
+ But there 
+\emph on
+was
+\emph default
+ that jinx on the Defense position… one which had apparently worked with
+ perfect regularity for decades…
+\end_layout
+
+\begin_layout Standard
+“Probably,” said Professor Quirrell quietly, “but he will have the full
+ use of me while I last.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore sighed.
+ “I suppose it is economical, at least, since as the Defense Professor you're
+ 
+\emph on
+already
+\emph default
+ doomed in some unknown fashion.”
+\end_layout
+
+\begin_layout Standard
+Harry had to work hard to suppress his expression as he realized what Dumbledore
+ had actually been implying.
+\end_layout
+
+\begin_layout Standard
+“I will inform Madam Pince that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter is allowed to obtain books on Occlumency,” said Dumbledore.
+\end_layout
+
+\begin_layout Standard
+“There is preliminary training which you must do on your own,” said Professor
+ Quirrell to Harry.
+ “And I do suggest that you hurry up on it.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+\end_layout
+
+\begin_layout Standard
+“I'll take my leave of you then,” said Dumbledore.
+ He nodded to both Harry and Professor Quirrell, and departed, walking a
+ bit slowly.
+\end_layout
+
+\begin_layout Standard
+“Can you cast the spell again?” Harry said the moment Dumbledore was gone.
+\end_layout
+
+\begin_layout Standard
+“Not today,” said Professor Quirrell quietly, “and not tomorrow either,
+ I'm afraid.
+ It takes a lot out of me to cast, though less to keep going, and so I usually
+ prefer to maintain it as long as possible.
+ This time I cast it on impulse.
+ Had I thought, and realized we might be interrupted 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Dumbledore was now Harry's least favorite person in the entire world.
+\end_layout
+
+\begin_layout Standard
+They both sighed.
+\end_layout
+
+\begin_layout Standard
+“Even if I only ever see it once,” Harry said, “I will never stop being
+ grateful to you.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell nodded.
+\end_layout
+
+\begin_layout Standard
+“Have you heard of the Pioneer program?” Harry said.
+ “They were probes that would fly by different planets and take pictures.
+ Two of the probes would end up on trajectories that took them out of the
+ Solar System and into interstellar space.
+ So they put a golden plaque on the probes, with a picture of a man, and
+ a woman, and showing where to find our Sun in the galaxy.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was silent for a moment, then smiled.
+ “Tell me, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, can you guess what thought went through my mind when I finished
+ assembling the thirty-seven items on the list of things I would never do
+ as a Dark Lord? Put yourself in my shoes 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ imagine yourself in my place 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and guess.”
+\end_layout
+
+\begin_layout Standard
+Harry imagined himself looking over a list of thirty-seven things not to
+ do once he became a Dark Lord.
+\end_layout
+
+\begin_layout Standard
+“You decided that if you had to follow the 
+\emph on
+whole
+\emph default
+ list 
+\emph on
+all
+\emph default
+ the time, there wouldn't be much point in becoming a Dark Lord in the first
+ place,” Harry said.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Precisely
+\emph default
+,” said Professor Quirrell.
+ He was grinning.
+ “So I am going to violate rule two 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ which was simply `don't brag' 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and tell you about something I have done.
+ I don't see how the knowledge could do any harm.
+ And I strongly suspect you would have figured it out anyway, once we knew
+ each other well enough.
+ Nonetheless… I shall have your oath never to speak of what I am about to
+ tell.”
+\end_layout
+
+\begin_layout Standard
+“You have it!” Harry had a feeling this was going to be 
+\emph on
+really
+\emph default
+ good.
+\end_layout
+
+\begin_layout Standard
+“I subscribe to a Muggle bulletin which keeps me informed of progress on
+ space travel.
+ I didn't hear about Pioneer 10 until they reported its launch.
+ But when I discovered that Pioneer 11 would also be leaving the Solar System
+ forever,” Professor Quirrell said, his grin the widest that Harry had yet
+ seen from him, “I snuck into NASA, I did, and I cast a lovely little spell
+ on that lovely golden plaque which will make it last a lot longer than
+ it otherwise would.”
+\end_layout
+
+\begin_layout Standard
+…
+\end_layout
+
+\begin_layout Standard
+…
+\end_layout
+
+\begin_layout Standard
+…
+\end_layout
+
+\begin_layout Standard
+“Yes,” Professor Quirrell said, who now seemed to be standing around fifty
+ feet taller, “I thought that was how you might react.”
+\end_layout
+
+\begin_layout Standard
+…
+\end_layout
+
+\begin_layout Standard
+…
+\end_layout
+
+\begin_layout Standard
+…
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+“…I can't think of anything to say.”
+\end_layout
+
+\begin_layout Standard
+“'You win' seems appropriate,” said Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“You win,” Harry said immediately.
+\end_layout
+
+\begin_layout Standard
+“See?” said Professor Quirrell.
+ “We can only imagine what giant heap of trouble you would have gotten into
+ if you had been unable to say that.”
+\end_layout
+
+\begin_layout Standard
+They both laughed.
+\end_layout
+
+\begin_layout Standard
+A further thought occurred to Harry.
+ “You didn't add any extra information to the plaque, did you?”
+\end_layout
+
+\begin_layout Standard
+“Extra information?” said Professor Quirrell, sounding as if the idea had
+ never occurred to him before and he was quite intrigued.
+\end_layout
+
+\begin_layout Standard
+Which made Harry rather suspicious, considering that it'd taken less than
+ a minute for 
+\emph on
+Harry
+\emph default
+ to think of it.
+\end_layout
+
+\begin_layout Standard
+“Maybe you included a holographic message like in 
+\emph on
+Star Wars?
+\emph default
+” said Harry.
+ “Or… hm.
+ A portrait seems to store a whole human brain's worth of information… you
+ couldn't have added any extra mass to the probe, but maybe you could've
+ turned an existing part into a portrait of yourself? Or you found a volunteer
+ dying of a terminal illness, snuck them into NASA, and cast a spell to
+ make sure their 
+\emph on
+ghost
+\emph default
+ ended up in the plaque 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” Professor Quirrell said, his voice suddenly sharp, “a spell requiring
+ a human death would certainly be classified by the Ministry as Dark Arts,
+ regardless of circumstances.
+ Students should not be heard talking about such things.”
+\end_layout
+
+\begin_layout Standard
+And the amazing thing about the way Professor Quirrell said it was how perfectly
+ it maintained plausible deniability.
+ It had been said in exactly the appropriate tone for someone who wasn't
+ willing to discuss such things and thought students should steer away from
+ them.
+ Harry honestly 
+\emph on
+didn't know
+\emph default
+ whether Professor Quirrell was just waiting to talk about it until after
+ Harry had learned to protect his mind.
+\end_layout
+
+\begin_layout Standard
+“Got it,” Harry said.
+ “I won't talk with anyone else about that idea.”
+\end_layout
+
+\begin_layout Standard
+“Please be discreet about the whole matter, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” Professor Quirrell said.
+ “I prefer to go through my life without attracting public notice.
+ You will find nothing in the newspapers about Quirinus Quirrell until I
+ decided it was time for me to teach Defense at Hogwarts.”
+\end_layout
+
+\begin_layout Standard
+That seemed a little sad, but Harry understood.
+ Then Harry realized the implications.
+ “So just how much awesome stuff 
+\emph on
+have
+\emph default
+ you done that no one else knows about 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Oh, some,” said Professor Quirrell.
+ “But I think that's quite enough for today, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I confess I am feeling a bit tired 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I understand.
+ And 
+\emph on
+thank you.
+
+\emph default
+ For 
+\emph on
+everything
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell nodded, but he was leaning harder on his desk.
+\end_layout
+
+\begin_layout Standard
+Harry quickly took his leave.
+\end_layout
+
+\end_body
+\end_document

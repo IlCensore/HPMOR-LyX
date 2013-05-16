@@ -1,0 +1,2768 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Lateral Thinking
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+A
+\end_layout
+
+\end_inset
+
+s
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ soon as he walked into the Defence classroom on Wednesday, Harry knew that
+ 
+\emph on
+this
+\emph default
+ subject was going to be 
+\emph on
+different
+\emph default
+.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was, for a start, the largest classroom he had yet seen at Hogwarts,
+ akin to a major university classroom, with layered tiers of desks facing
+ a gigantic flat stage of white marble.
+ The classroom was high up in the castle 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ on the fifth floor 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and Harry knew that was as much explanation as he'd get for where a room
+ like this was supposed to fit.
+ It was becoming clear that Hogwarts simply did not 
+\emph on
+have
+\emph default
+ a geometry, Euclidean or otherwise; it had connections, not directions.
+\end_layout
+
+\begin_layout Standard
+Unlike a university hall, there weren't rows of folding seats; instead there
+ were quite ordinary Hogwarts wooden desks and wooden chairs, lined up in
+ a curve across each level of the classroom.
+ Except that each desk had a flat, white, rectangular, mysterious object
+ propped up on it.
+\end_layout
+
+\begin_layout Standard
+In the center of the gigantic platform, on a small raised dais of darker
+ marble, was a lone teacher's desk.
+ At which Quirrell sat slumped over in his chair, head lolled back, drooling
+ slightly over his robes.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Now what does that remind me of…?
+\end_layout
+
+\begin_layout Standard
+Harry had arrived at the lesson so early that no other students were there
+ yet.
+ (The English language was defective when it came to describing time travel;
+ in particular, English lacked any words capable of expressing how convenient
+ it was.) Quirrell didn't seem to be… functional… at the moment, and Harry
+ didn't particularly feel like approaching Quirrell anyway.
+\end_layout
+
+\begin_layout Standard
+Harry selected a desk, climbed up to it, sat down, and retrieved the Defence
+ textbook.
+ He was around seven-eighths of the way through 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ he'd planned on finishing the book before this lesson, actually, but he
+ was running behind schedule and had already used the Time-Turner twice
+ today.
+\end_layout
+
+\begin_layout Standard
+Soon there were sounds as the classroom began to fill up.
+ Harry ignored them.
+\end_layout
+
+\begin_layout Standard
+“Potter? What are 
+\emph on
+you
+\emph default
+ doing here?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+That
+\emph default
+ voice didn't belong here.
+ Harry looked up.
+ “Draco? What are 
+\emph on
+you
+\emph default
+ doing in oh my god you have 
+\emph on
+minions
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+One of the lads standing behind Draco seemed to have rather a lot of muscle
+ for an eleven-year-old, and the other was poised in a suspiciously balanced-loo
+king stance.
+\end_layout
+
+\begin_layout Standard
+The white-blonde-haired boy smiled rather smugly and gestured behind him.
+ “Potter, I introduce to you Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe,” his hand moved from Muscles to Balance, “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle.
+ Vincent, Gregory, this is Harry Potter.”
+\end_layout
+
+\begin_layout Standard
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle tilted his head and gave Harry a look that was probably supposed to
+ mean something but ended up just looking squinty.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe said “Please to meetcha” in a tone that sounded like he was trying
+ to lower his voice as far as it could go.
+\end_layout
+
+\begin_layout Standard
+A fleeting expression of consternation crossed Draco's face, but was quickly
+ replaced by his superior grin.
+\end_layout
+
+\begin_layout Standard
+“You have 
+\emph on
+minions!
+\emph default
+” Harry repeated.
+ “Where do 
+\emph on
+I
+\emph default
+ get minions?”
+\end_layout
+
+\begin_layout Standard
+Draco's smirk grew wider.
+ “I'm afraid, Potter, that the first step is to be Sorted into Slytherin
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 016-where_can_i_get_minions_by_dinosaurusgede-d32nw84.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“What? That's not fair!”
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and then for your families to have an arrangement from before you were
+ born.”
+\end_layout
+
+\begin_layout Standard
+Harry looked at Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle.
+ They both seemed to be trying very hard to loom.
+ That is, they were leaning forwards, hunching over their shoulders, sticking
+ their necks out and staring at him.
+\end_layout
+
+\begin_layout Standard
+“Um… hold on,” said Harry.
+ “This was arranged 
+\emph on
+years
+\emph default
+ ago?”
+\end_layout
+
+\begin_layout Standard
+“Exactly, Potter.
+ I'm afraid you're out of luck.”
+\end_layout
+
+\begin_layout Standard
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle produced a toothpick and began cleaning his teeth, still looming.
+\end_layout
+
+\begin_layout Standard
+“And,” said Harry, “Lucius insisted that you were 
+\emph on
+not
+\emph default
+ to grow up knowing your bodyguards, and that you were only to meet them
+ on your first day of school.”
+\end_layout
+
+\begin_layout Standard
+That wiped the grin from Draco's face.
+ “Yes, Potter, we all know you're brilliant, the whole school knows by now,
+ you can stop showing off 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“So they've been told their 
+\emph on
+whole lives
+\emph default
+ that they're going to be your minions and they've spent 
+\emph on
+years
+\emph default
+ imagining what minions are supposed to be like
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Draco winced.
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and what's worse, they 
+\emph on
+do
+\emph default
+ know 
+\emph on
+each other
+\emph default
+ and they've been 
+\emph on
+practising
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“The boss told ya to shut it,” rumbled Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle bit down on his toothpick, holding it between his teeth, and used
+ one hand to crack the knuckles on the other.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I told you not to do this in front of Harry Potter!”
+\end_layout
+
+\begin_layout Standard
+The two looked a bit sheepish and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle quickly put the toothpick back in a pocket of his robes.
+\end_layout
+
+\begin_layout Standard
+But the moment Draco turned away from them to face Harry again, they went
+ back to looming.
+\end_layout
+
+\begin_layout Standard
+“I apologise,” Draco said stiffly, “for the insult which these 
+\emph on
+imbeciles
+\emph default
+ have offered you.”
+\end_layout
+
+\begin_layout Standard
+Harry gave a meaningful look to Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle.
+ “I'd say you're being a little harsh on them, Draco.
+ 
+\emph on
+I
+\emph default
+ think they're acting exactly the way I'd want 
+\emph on
+my
+\emph default
+ minions to act.
+ I mean, if I had any minions.”
+\end_layout
+
+\begin_layout Standard
+Draco's jaw dropped.
+\end_layout
+
+\begin_layout Standard
+“Hey, Gregory, you don' think he's tryna lure us away from the boss, do
+ ya?”
+\end_layout
+
+\begin_layout Standard
+“I'm sure Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter wouldn't be that foolish.”
+\end_layout
+
+\begin_layout Standard
+“Oh, I wouldn't dream of it,” Harry said smoothly.
+ “It's just something to keep in mind if your current employer seems unappreciat
+ive.
+ Besides, it never hurts to have other offers while you're negotiating your
+ working conditions, right?”
+\end_layout
+
+\begin_layout Standard
+“What's 
+\emph on
+he
+\emph default
+ doin' in Ravenclaw?”
+\end_layout
+
+\begin_layout Standard
+“I can't imagine, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe.”
+\end_layout
+
+\begin_layout Standard
+“Both of you 
+\emph on
+shut up
+\emph default
+,” Draco said through gritted teeth.
+ “That's an 
+\emph on
+order
+\emph default
+.” With a visible effort, he transferred his attention to Harry again.
+ “Anyway, what're you doing in the Slytherin Defence class?”
+\end_layout
+
+\begin_layout Standard
+Harry frowned.
+ “Hold on.” His hand went into his pouch.
+ “Timetable.” He looked over the parchment.
+ “Defence, 2:30pm, and right now it's…” Harry looked at his mechanical watch,
+ which read 11:23.
+ “2:23, unless I've lost track of time.
+ Did I?” If he had, well, Harry knew how to get to whatever lesson he was
+ 
+\emph on
+supposed
+\emph default
+ to be at.
+ God he loved his Time-Turner and someday, when he was old enough, they
+ would get married.
+\end_layout
+
+\begin_layout Standard
+“No, that sounds right,” Draco said, looking puzzled.
+ His gaze turned to look over the rest of the auditorium, which was filling
+ with green-trimmed robes and…
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Gryffindorks!
+\emph default
+” spat Draco.
+ “What're 
+\emph on
+they
+\emph default
+ doing here?”
+\end_layout
+
+\begin_layout Standard
+“Hm,” Harry said.
+ “Professor Quirrell did say… I forget his exact words… that he would be
+ ignoring some of the Hogwarts teaching conventions.
+ Maybe he just combined all his classes.”
+\end_layout
+
+\begin_layout Standard
+“Huh,” said Draco.
+ “You're the first Ravenclaw in here.”
+\end_layout
+
+\begin_layout Standard
+“Yup.
+ Got here early.”
+\end_layout
+
+\begin_layout Standard
+“What're you doing all the way in the back row, then?”
+\end_layout
+
+\begin_layout Standard
+Harry blinked.
+ “I dunno, seemed like a good place to sit?”
+\end_layout
+
+\begin_layout Standard
+Draco made a scoffing sound.
+ “You couldn't get any further away from the teacher if you tried.” The blonde-ha
+ired boy leaned slightly closer.
+ “Anyway, is it true about what you said to Derrick and his crew?”
+\end_layout
+
+\begin_layout Standard
+“Who's Derrick?”
+\end_layout
+
+\begin_layout Standard
+“You hit him with a pie?”
+\end_layout
+
+\begin_layout Standard
+“Two pies, actually.
+ What am I supposed to have said to him?”
+\end_layout
+
+\begin_layout Standard
+“That he wasn't doing anything cunning or ambitious and he was a disgrace
+ to Salazar Slytherin.” Draco was staring intently at Harry.
+\end_layout
+
+\begin_layout Standard
+“That… sounds about right,” Harry said.
+ “I think it was more like, `is this some kind of incredibly clever plot
+ that will gain you a future advantage or is it really as much of a disgrace
+ to the memory of Salazar Slytherin as it looks like' or something like
+ that.
+ I don't remember the exact words.”
+\end_layout
+
+\begin_layout Standard
+“You're confusing everyone, you know,” said the blonde-haired boy.
+\end_layout
+
+\begin_layout Standard
+“Huh?” Harry said in honest confusion.
+\end_layout
+
+\begin_layout Standard
+“Warrington said that spending a long time under the Sorting Hat is one
+ of the warning signs of a major Dark Wizard.
+ Everyone was talking about it, wondering if they should start sucking up
+ to you just in case.
+ Then you went and protected a bunch of 
+\emph on
+Hufflepuffs,
+\emph default
+ for Merlin's sake.
+ 
+\emph on
+Then
+\emph default
+ you told Derrick he's a disgrace to Salazar Slytherin's memory! What's
+ anyone 
+\emph on
+supposed
+\emph default
+ to think?”
+\end_layout
+
+\begin_layout Standard
+“That the Sorting Hat decided to put me in the House of `Slytherin! Just
+ kidding! Ravenclaw!' and I've been acting accordingly.”
+\end_layout
+
+\begin_layout Standard
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle both giggled, causing Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle to quickly clap a hand to his mouth.
+\end_layout
+
+\begin_layout Standard
+“We'd better go get our seats,” Draco said.
+ He hesitated, straightened a bit, spoke a bit more fomally.
+ “But I do want to continue our last conversation and I accept your conditions.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ “Would you mind terribly if I waited until Saturday afternoon? I'm in a
+ bit of a contest right now.”
+\end_layout
+
+\begin_layout Standard
+“A contest?”
+\end_layout
+
+\begin_layout Standard
+“See if I can read all my textbooks as fast as Hermione Granger did.”
+\end_layout
+
+\begin_layout Standard
+“Granger,” Draco echoed.
+ His eyes narrowed.
+ “The mudblood who thinks she's Merlin? If you're trying to show 
+\emph on
+her
+\emph default
+ up then all Slytherin wishes you the 
+\emph on
+very
+\emph default
+ best luck, Potter, and I won't bother you `til Saturday.” Draco inclined
+ his head respectfully, and wandered off, tailed by his minions.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oh, this is going to be
+\emph default
+ so 
+\emph on
+much fun to juggle, I can already tell.
+\end_layout
+
+\begin_layout Standard
+The classroom was filling up rapidly now with all four colors of trim: green,
+ red, yellow, and blue.
+ Draco and his two friends seemed to be in the midst of trying to acquire
+ three contiguous front-row seats 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ already occupied, of course.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle were looming vigorously, but it didn't seem to be having much effect.
+\end_layout
+
+\begin_layout Standard
+Harry bent over his Defence textbook and continued reading.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At 2:35pm, when most of the seats were taken and no one else seemed to be
+ coming in, Professor Quirrell gave a sudden jerk in his chair and sat up
+ straight, and his face appeared on all the flat, white rectangular objects
+ that were propped up on the students' desks.
+\end_layout
+
+\begin_layout Standard
+Harry was taken by surprise, both by the sudden appearance of Professor
+ Quirrell's face and by the resemblance to Muggle television.
+ There was something both nostalgic and sad about that, it seemed so much
+ like a piece of home and yet it wasn't really…
+\end_layout
+
+\begin_layout Standard
+“Good afternoon, my young apprentices,” said Professor Quirrell.
+ His voice seemed to come from the desk screen and to be speaking directly
+ to Harry.
+ “Welcome to your first lesson in Battle Magic, as the founders of Hogwarts
+ would have put it; or, as it happens to be called in the late twentieth
+ century, Defence Against the Dark Arts.”
+\end_layout
+
+\begin_layout Standard
+There was a certain amount of frantic scrabbling as students, taken by surprise,
+ reached for their parchment or notebooks.
+\end_layout
+
+\begin_layout Standard
+“No,” Professor Quirrell said.
+ “Don't bother writing down what this subject was once called.
+ No such pointless question will count toward your marks in any of my lessons.
+ That is a promise.”
+\end_layout
+
+\begin_layout Standard
+Many students sat straight up at that, looking rather shocked.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was smiling thinly.
+ “Those of you who have wasted time by reading your useless first-year Defence
+ textbooks 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Someone made a choking sound.
+ Harry wondered if it was Hermione.
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ may have gotten the impression that although this subject is called Defence
+ Against the Dark Arts, it is actually about how to defend against Nightmare
+ Butterflies, which cause mildly bad dreams, or Acid Slugs, which can dissolve
+ all the way through a two-inch wooden beam given most of a day.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell stood up, shoving his chair back from the desk.
+ The screen on Harry's desk followed his every move.
+ Professor Quirrell strode towards the front of the classroom, and bellowed:
+\end_layout
+
+\begin_layout Standard
+“The Hungarian Horntail is taller than a dozen men! It breathes fire so
+ quickly and so accurately that it can melt a Snitch in midflight! One Killing
+ Curse will bring it down!”
+\end_layout
+
+\begin_layout Standard
+There were gasps from the students.
+\end_layout
+
+\begin_layout Standard
+“The Mountain Troll is more dangerous than the Hungarian Horntail! It is
+ strong enough to bite through steel! Its hide is resistant enough to withstand
+ Stunning Hexes and Cutting Charms! Its sense of smell is so acute that
+ it can tell from afar whether its prey is part of a pack, or alone and
+ vulnerable! Most fearsome of all, the troll is unique among magical creatures
+ in continuously maintaining a form of Transfiguration on itself 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it is always transforming into its own body.
+ If you somehow succeed in ripping off its arm it will grow another within
+ seconds! Fire and acid will produce scar tissue which can temporarily confuse
+ a troll's regenerative powers 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ for an hour or two! They are smart enough to use clubs as tools! The mountain
+ troll is the third most perfect killing machine in all Nature! One Killing
+ Curse will bring it down.”
+\end_layout
+
+\begin_layout Standard
+The students were looking rather shocked.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was smiling rather grimly.
+ “Your sad excuse for a third-year Defence textbook will suggest to you
+ that you expose the mountain troll to sunlight, which will freeze it in
+ place.
+ This, my young apprentices, is the sort of useless knowledge you will never
+ find in my lessons.
+ You do not encounter mountain trolls in open daylight! The idea that you
+ should use sunlight to stop them is the result of foolish textbook authors
+ trying to show off their mastery of minutia at the expense of practicality.
+ Just because there is a ridiculously obscure way of dealing with mountain
+ trolls does not mean you should actually try to use it! The Killing Curse
+ is unblockable, unstoppable, and works every single time on anything with
+ a brain.
+ If, as an adult wizard, you find yourself incapable of using the Killing
+ Curse, then you can simply Apparate away! Likewise if you are facing the
+ second most perfect killing machine, a Dementor.
+ You just Apparate away!”
+\end_layout
+
+\begin_layout Standard
+“Unless, of course,” Professor Quirrell said, his voice now lower and harder,
+ “you are under the influence of an anti-Apparition jinx.
+ No, there is exactly one monster which can threaten you once you are fully
+ grown.
+ The single most dangerous monster in all the world, so dangerous that nothing
+ else comes close.
+ The Dark Wizard.
+ That is the only thing that will still be able to threaten you.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's lips were set in a thin line.
+ “I will reluctantly teach you enough trivia for a passing mark on the Ministry-
+mandated portions of your first-year finals.
+ Since your exact mark on these sections will make no difference to your
+ future life, anyone who wants more than a passing mark is welcome to waste
+ their own time studying our pathetic excuse for a textbook.
+ The title of this subject is not Defence Against Minor Pests.
+ You are here to learn how to defend yourselves against the Dark Arts.
+ Which means, let us be very clear on this, defending yourselves against
+ Dark Wizards.
+ People with wands who want to hurt you and who will likely succeed in doing
+ so unless you hurt them first! There is no defence without offence! There
+ is no defence without fighting! This reality is deemed too harsh for eleven-yea
+r-olds by the fat, overpaid, Auror-guarded politicians who mandated your
+ curriculum.
+ To the abyss with those fools! You are here for the subject that has been
+ taught at Hogwarts for eight hundred years! Welcome to your first year
+ of Battle Magic!”
+\end_layout
+
+\begin_layout Standard
+Harry started applauding.
+ He couldn't help himself, it was too inspiring.
+\end_layout
+
+\begin_layout Standard
+Once Harry started clapping there was some scattered response from Gryf\SpecialChar \-
+findor,
+ and more from Slytherin, but most students simply seemed too stunned to
+ react.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell made a cutting gesture, and the applause died instantly.
+ “Thank you very much,” said Professor Quirrell.
+ “Now to practicalities.
+ I have combined all my first-year Battle classes into one, which allows
+ me to offer you twice as much classroom time as Doubles sessions 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+There were gasps of horror.
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ an increased load which I will make up to you by not assigning any homework.”
+\end_layout
+
+\begin_layout Standard
+The gasps of horror cut off abruptly.
+\end_layout
+
+\begin_layout Standard
+“Yes, you heard me correctly.
+ I will teach you to fight, not to write twelve inches on fighting due Monday.”
+\end_layout
+
+\begin_layout Standard
+Harry desperately wished he'd sat next to Hermione so he could see the look
+ on her face now, but on the other hand he was pretty sure he was imagining
+ it accurately.
+\end_layout
+
+\begin_layout Standard
+Also Harry was in love.
+ It would be a three-way wedding: him, the Time-Turner, and Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“For those of you who so choose, I have arranged some after-school activities
+ that I think you will find quite interesting as well as educational.
+ Do you want to show the world your 
+\emph on
+own
+\emph default
+ abilities instead of watching fourteen other people play Quidditch? More
+ than seven people can fight in an army.”
+\end_layout
+
+\begin_layout Standard
+Hot 
+\emph on
+damn.
+\end_layout
+
+\begin_layout Standard
+“These and other after-school activities will also earn you Quirrell points.
+ What are Quirrell points, you ask? The House point system does not suit
+ my needs, because it makes House points too rare.
+ I prefer to let my students know how they are doing more frequently than
+ that.
+ And on the rare occasions I offer you a written test, it will mark itself
+ as you go along, and if you get too many related questions wrong, your
+ test will show the names of students who got those questions right, and
+ those students will be able to earn Quirrell points by helping you.”
+\end_layout
+
+\begin_layout Standard
+…wow.
+ Why didn't the other professors use a system like that?
+\end_layout
+
+\begin_layout Standard
+“What good are Quirrell points, you wonder? For a start, ten Quirrell points
+ will be worth one House point.
+ But they will earn you other favors as well.
+ Would you like to take your exam at an unusual time? Is there a particular
+ session you would very much prefer to skip? You will find that I can be
+ very flexible on behalf of students who have accumulated enough Quirrell
+ points.
+ Quirrell points will control the generalship of the armies.
+ And for Christmas 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ just before the Christmas break 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I will grant someone a wish.
+ Any school-related feat that lies within my power, my influence, or above
+ all, my ingenuity.
+ Yes, I was in Slytherin and I am offering to formulate a cunning plot on
+ your behalf, if that is what it takes to accomplish your desire.
+ This wish will go to whoever has earned the most Quirrell points within
+ all seven years.”
+\end_layout
+
+\begin_layout Standard
+That would be Harry.
+\end_layout
+
+\begin_layout Standard
+“Now leave your books and loose items at your desks 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ they will be safe, the screens will watch over them for you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and come down onto this platform.
+ It's time to play a game called Who's the Most Dangerous Student in the
+ Classroom.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry twisted his wand in his right hand and said “
+\emph on
+Ma-ha-su!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There was another high-pitched “bing” from the floating blue sphere that
+ Professor Quirrell had assigned to Harry as his target.
+ That particular sound meant a perfect strike, which Harry had been gotten
+ on nine out of his last ten attempts.
+\end_layout
+
+\begin_layout Standard
+Somewhere Professor Quirrell had dug up a spell that was incredibly easy
+ to pronounce, 
+\emph on
+and
+\emph default
+ had a ridiculously simple wand motion, 
+\emph on
+and
+\emph default
+ had a tendency to hit wherever you were currently looking at.
+ Professor Quirrell had disdainfully proclaimed that real battle magic was
+ far more difficult than this.
+ That the hex was entirely useless in actual combat.
+ That it was a barely ordered burst of magic whose only real content was
+ the aiming, and that it would produce, when it hit, a pain briefly equivalent
+ to being punched hard in the nose.
+ That the sole purpose of this test was to see who was a fast learner, since
+ Professor Quirrell was certain no one would have previously encountered
+ this hex or anything like it.
+\end_layout
+
+\begin_layout Standard
+Harry didn't care about any of that.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Ma-ha-su!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+red bolt of energy
+\emph default
+ shot out of his wand and struck the target and the blue sphere once again
+ made the bing which meant the spell had 
+\emph on
+actually worked for him.
+\end_layout
+
+\begin_layout Standard
+Harry was feeling like a real wizard for the first time since he'd come
+ to Hogwarts.
+ He wished the target would dodge like the little spheres that Ben Kenobi
+ had used for training Luke, but for some reason Professor Quirrell had
+ instead lined up all the students and targets in neat orders which made
+ sure they wouldn't fire on each other.
+\end_layout
+
+\begin_layout Standard
+So Harry lowered his wand, skipped to the right, snapped up his wand and
+ twisted and shouted “
+\emph on
+Ma-ha-su!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There was a lower-pitched “dong” which meant he'd gotten it almost right.
+\end_layout
+
+\begin_layout Standard
+Harry put his wand into his pocket, skipped back to the left and drew and
+ fired another red bolt of energy.
+\end_layout
+
+\begin_layout Standard
+The high-pitched bing which resulted was easily one of the most satisfying
+ sounds he'd heard in his life.
+ Harry wanted to scream in triumph at the top of his lungs.
+ 
+\emph on
+I CAN DO MAGIC! FEAR ME, LAWS OF PHYSICS, I'M COMING TO VIOLATE YOU!
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Ma-ha-su!
+\emph default
+” Harry's voice was loud, but hardly noticeable over the steady chant of
+ similar cries from around the classroom platform.
+\end_layout
+
+\begin_layout Standard
+“Enough,” said Professor Quirrell's amplified voice.
+ (It didn't sound loud.
+ It sounded like normal volume, coming from just behind your left shoulder,
+ no matter where you were standing relative to Professor Quirrell.) “I see
+ that all of you have succeeded at least once now.” The target-spheres turned
+ red and began to drift up towards the ceiling.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was standing on the raised dais in the center of the
+ platform, leaning slightly on his teacher's desk with one hand.
+\end_layout
+
+\begin_layout Standard
+“I told you,” Professor Quirrell said, “that we would play a game called
+ Who's the Most Dangerous Student in the Classroom.
+ There is one student in this classroom who mastered the Sumerian Simple
+ Strike Hex faster than anyone else 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Oh blah blah blah.
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and went on to help seven other students.
+ For which she has earned the first seven Quirrell points awarded to your
+ year.
+ Come forth, Hermione Granger.
+ It is time for the next stage of the game.”
+\end_layout
+
+\begin_layout Standard
+Hermione Granger began striding forwards, a mixed look of triumph and apprehensi
+on on her face.
+ The Ravenclaws looked on proudly, the Slytherins with glares, and Harry
+ with frank annoyance.
+ Harry had done fine this time.
+ He was probably even in the upper half of the class, now that everyone
+ had been faced with an equally unfamiliar spell and Harry had read all
+ the way through Adalbert Waffling's 
+\emph on
+Magical Theory
+\emph default
+.
+ And yet 
+\emph on
+Hermione was still doing better
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Somewhere in the back of his mind was the fear that Hermione was simply
+ smarter than him.
+\end_layout
+
+\begin_layout Standard
+But for now Harry was going to pin his hopes on the known facts that (a)
+ Hermione had read a lot more than the standard textbooks and (b) Adalbert
+ Waffling was an uninspired sod who'd written 
+\emph on
+Magical Theory
+\emph default
+ to pander to a school board that didn't think much of eleven-year-olds.
+\end_layout
+
+\begin_layout Standard
+Hermione reached the central dais and stepped up.
+\end_layout
+
+\begin_layout Standard
+“Hermione Granger mastered a completely unfamiliar spell in two minutes,
+ almost a full minute faster than the next runner-up.” Professor Quirrell
+ turned slowly in place to look at all the students watching them.
+ “Could Miss Granger's intelligence make her the most dangerous student
+ in the classroom? Well? What do you think?”
+\end_layout
+
+\begin_layout Standard
+No one seemed to be thinking anything at the moment.
+ Even Harry wasn't sure what to say.
+\end_layout
+
+\begin_layout Standard
+“Let's find out, shall we?” said Professor Quirrell.
+ He turned back to Hermione, and gestured toward the wider class.
+ “Select any student you like and cast the Simple Strike Hex on them.”
+\end_layout
+
+\begin_layout Standard
+Hermione froze where she stood.
+\end_layout
+
+\begin_layout Standard
+“Come now,” Professor Quirrell said smoothly.
+ “You have cast this spell perfectly over fifty times.
+ It is not permanently harmful or even all that painful.
+ It hurts as much as a hard punch and lasts only a few seconds.” Professor
+ Quirrell's voice grew harder.
+ “This is a direct order from your professor, Miss Granger.
+ Choose a target and fire a Simple Strike Hex.”
+\end_layout
+
+\begin_layout Standard
+Hermione's face was screwed up in horror and her wand was trembling in her
+ hand.
+ Harry's own fingers were clenching his own wand hard in sympathy.
+ Even though he could see what Professor Quirrell was trying to do.
+ Even though he could see the point Professor Quirrell was trying to make.
+\end_layout
+
+\begin_layout Standard
+“If you do 
+\emph on
+not
+\emph default
+ raise your wand and fire, Miss Granger, you will lose a Quirrell point.”
+\end_layout
+
+\begin_layout Standard
+Harry stared at Hermione, willing her to look in his direction.
+ His right hand was softly tapping his own chest.
+ 
+\emph on
+Pick me, I'm not afraid…
+\end_layout
+
+\begin_layout Standard
+Hermione's wand twitched in her hand; then her face relaxed, and she lowered
+ her wand to her side.
+\end_layout
+
+\begin_layout Standard
+“No,” said Hermione Granger.
+\end_layout
+
+\begin_layout Standard
+Her voice was calm, and even though it wasn't loud, everyone heard it in
+ the silence.
+\end_layout
+
+\begin_layout Standard
+“Then I must deduct one point from you,” said Professor Quirrell.
+ “This is a test, and you have failed it.”
+\end_layout
+
+\begin_layout Standard
+That reached her.
+ Harry could see it.
+ But she kept her shoulders straight.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's voice was sympathetic and seemed to fill the whole
+ room.
+ “Knowing things isn't always enough, Miss Granger.
+ If you cannot give and receive violence on the order of stubbing your toe,
+ then you cannot defend yourself and you will not pass Defence.
+ Please rejoin your classmates.”
+\end_layout
+
+\begin_layout Standard
+Hermione walked back towards the Ravenclaw cluster.
+ Her face looked peaceful and Harry, for some odd reason, wanted to start
+ clapping.
+ Even though Professor Quirrell had been 
+\emph on
+right
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“So,” Professor Quirrell said.
+ “It becomes clear that Hermione Gran\SpecialChar \-
+ger is not the most dangerous student
+ in the classroom.
+ Who do you think might actually be the most dangerous person here? 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ besides me, of course.”
+\end_layout
+
+\begin_layout Standard
+Without even thinking, Harry turned to look at the Slytherin contingent.
+\end_layout
+
+\begin_layout Standard
+“Draco, of the Noble and Most Ancient House of Malfoy,” said Professor Quirrell.
+ “It seems that many of your fellow pupils are looking in your direction.
+ Come forth, if you would.”
+\end_layout
+
+\begin_layout Standard
+Draco did so, walking with a certain pride in his bearing.
+ He stepped onto the dais and looked up at Professor Quirrell with a smile.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy,” Professor Quirrell said.
+ “Fire.”
+\end_layout
+
+\begin_layout Standard
+Harry would have tried to stop it if there'd been time but in one smooth
+ motion Draco spun on the Ravenclaw contingent and raised his wand and said
+ “
+\emph on
+Mahasu!
+\emph default
+” like it was all one syllable and Hermione was saying “Ow!” and that was
+ that.
+\end_layout
+
+\begin_layout Standard
+“Well struck,” said Professor Quirrell.
+ “Two Quirrell points to you.
+ But tell me, why did you target Miss Granger?”
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+\end_layout
+
+\begin_layout Standard
+Finally Draco said, “Because she stood out the most.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's lips turned up in a thin smile.
+ “And that is the true reason why Draco Malfoy is dangerous.
+ Had he selected any other, that child would more likely resent being singled
+ out, and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy would more probably make an enemy.
+ And while Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy might have given some other justification for selecting her, that
+ would have served him no purpose save to alienate some of you, while others
+ are already cheering him whether he says anything or not.
+ Which is to say that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy is dangerous because he knows who to strike and who not to strike,
+ how to make allies and avoid making enemies.
+ Two more Quirrell points to you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy.
+ And as you have demonstrated an exemplary virtue of Slytherin, I think
+ that Salazar's House has earned a point as well.
+ You may rejoin your friends.”
+\end_layout
+
+\begin_layout Standard
+Draco bowed slightly and walked back to the Slytherin contingent.
+ Some clapping started from the green-trimmed robes, but Professor Quirrell
+ made a cutting gesture and silence fell again.
+\end_layout
+
+\begin_layout Standard
+“It might seem that our game is done,” said Professor Quirrell.
+ “And yet there is a single student in this classroom who is more dangerous
+ than the scion of Malfoy.”
+\end_layout
+
+\begin_layout Standard
+And 
+\emph on
+now
+\emph default
+ for some reason there seemed to be an awful lot of people looking at…
+\end_layout
+
+\begin_layout Standard
+“Harry Potter.
+ Come forth.”
+\end_layout
+
+\begin_layout Standard
+This did not bode well.
+\end_layout
+
+\begin_layout Standard
+Harry reluctantly walked towards where Professor Quirrell stood on his raised
+ dais, still leaning slightly against his teacher's desk.
+\end_layout
+
+\begin_layout Standard
+The nervousness of being put into the spotlight seemed to be sharpening
+ Harry's wits as he approached the dais, and his mind was ruffling through
+ possibilities for what Professor Quirrell might think could demonstrate
+ Harry's dangerousness.
+ Would he be asked to cast a spell? To defeat a Dark Lord?
+\end_layout
+
+\begin_layout Standard
+Demonstrate his supposed immunity to the Killing Curse? Surely Professor
+ Quirrell was too smart for 
+\emph on
+that
+\emph default
+…
+\end_layout
+
+\begin_layout Standard
+Harry stopped well short of the dais, and Professor Quirrell didn't ask
+ him to come any closer.
+\end_layout
+
+\begin_layout Standard
+“The irony is,” said Professor Quirrell, “you all looked at the right person
+ for entirely the wrong reasons.
+ You are thinking,” Professor Quirrell's lips twisted, “that Harry Potter
+ has defeated the Dark Lord, and so must be very dangerous.
+ Bah.
+ He was one year old.
+ Whatever quirk of fate killed the Dark Lord likely had little to do with
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter's abilities as a fighter.
+ But after I heard rumors of one Ravenclaw facing down five older Slytherins,
+ I interviewed several eyewitnesses and came to the conclusion that Harry
+ Potter would be my most dangerous student.”
+\end_layout
+
+\begin_layout Standard
+A jolt of adrenaline poured into Harry's system, making him stand up straighter.
+ He didn't know what conclusion Professor Quirrell had come to, but that
+ couldn't be good.
+\end_layout
+
+\begin_layout Standard
+“Ah, Professor Quirrell 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry started to say.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell looked amused.
+ “You're thinking that I've come up with a wrong answer, aren't you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter? You will learn to expect better of 
+\emph on
+me
+\emph default
+.” Professor Quirrell straightened from where he had leaned on the desk.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, all things have their accustomed uses.
+ Give me ten unaccustomed uses of objects in this room for combat!”
+\end_layout
+
+\begin_layout Standard
+For a moment Harry was rendered speechless by the sheer, raw shock of having
+ been understood.
+\end_layout
+
+\begin_layout Standard
+And then the ideas started to pour out.
+\end_layout
+
+\begin_layout Standard
+“There are desks which are heavy enough to be fatal if dropped from a great
+ height.
+ There are chairs with metal legs that could impale someone if driven hard
+ enough.
+ The air in this classroom would be deadly by its absence, since people
+ die in vacuum, and it can serve as a carrier for poison gases.”
+\end_layout
+
+\begin_layout Standard
+Harry had to stop briefly for breath, and into that pause Professor Quirrell
+ said:
+\end_layout
+
+\begin_layout Standard
+“That's three.
+ You need ten.
+ The rest of the class thinks that you've already used up the whole contents
+ of the classroom.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Ha!
+\emph default
+ The floor can be removed to create a spike pit to fall into, the ceiling
+ can be collapsed on someone, the walls can serve as raw material for Transfigur
+ation into any number of deadly things 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ knives, say.”
+\end_layout
+
+\begin_layout Standard
+“That's six.
+ But surely you're scraping the bottom of the barrel now?”
+\end_layout
+
+\begin_layout Standard
+“I haven't even started! Just look at all the people! Having a Gryf\SpecialChar \-
+findor
+ attack the enemy is an 
+\emph on
+ordinary
+\emph default
+ use, of course 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I will not count that one.”
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but their blood can also be used to drown someone.
+ Ravenclaws are known for their brains, but their internal organs could
+ be sold on the black market for enough money to hire an assassin.
+ Slytherins aren't just useful as assassins, they can also be thrown at
+ sufficient velocity to crush an enemy.
+ And Hufflepuffs, in addition to being hard workers, also contain bones
+ that can be removed, sharpened, and used to stab someone.”
+\end_layout
+
+\begin_layout Standard
+By now the rest of the class was staring at Harry in some horror.
+ Even the Slytherins looked shocked.
+\end_layout
+
+\begin_layout Standard
+“That's ten, though I'm being generous in counting the Ravenclaw one.
+ Now, for extra credit, one Quirrell point for each use of objects in this
+ room which you have not yet named.” Professor Quirrell favored Harry with
+ a companionable smile.
+ “The rest of your class thinks you are in trouble now, since you've named
+ everything except the targets and you have no idea what may be done with
+ those.”
+\end_layout
+
+\begin_layout Standard
+“Bah! I've named all the people, but not my robes, which can be used to
+ suffocate an enemy if wrapped around their head enough times, or Hermione
+ Granger's robes, which can be torn into strips and tied into a rope and
+ used to hang someone, or Draco Malfoy's robes, which can be used to start
+ a fire 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Three points,” said Professor Quirrell, “no more clothing now.”
+\end_layout
+
+\begin_layout Standard
+“My wand can be pushed into an enemy's brain through their eye socket” and
+ someone made a horrified, strangling sound.
+\end_layout
+
+\begin_layout Standard
+“Four points, no more wands.”
+\end_layout
+
+\begin_layout Standard
+“My wristwatch could suffocate someone if jammed down their throat 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Five points, and enough.”
+\end_layout
+
+\begin_layout Standard
+“Hmph,” Harry said.
+ “Ten Quirrell points to one House point, right? You should have let me
+ keep going until I'd won the House Cup, I haven't even started yet on the
+ unaccustomed uses of everything I've got in my pockets” or the mokeskin
+ pouch itself and he couldn't talk about the Time-Turner or the invisibility
+ cloak but there had to be 
+\emph on
+something
+\emph default
+ he could say about those red spheres…
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Enough,
+\emph default
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ Well, do you all think you understand what makes Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter the most dangerous student in the classroom?”
+\end_layout
+
+\begin_layout Standard
+There was a low murmur of assent.
+\end_layout
+
+\begin_layout Standard
+“Say it out loud, please.
+ Terry Boot, what makes your dorm-mate dangerous?”
+\end_layout
+
+\begin_layout Standard
+“Ah… um… he's creative?”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Wrong!
+\emph default
+” bellowed Professor Quirrell, and his fist came down sharply on his desk
+ with an amplified sound that made everyone jump.
+ “All of Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter's ideas were worse than useless!”
+\end_layout
+
+\begin_layout Standard
+Harry started in surprise.
+\end_layout
+
+\begin_layout Standard
+“Remove the floor to create a spike trap? Ridiculous! In combat you do not
+ have that sort of preparation time and if you did there would be a hundred
+ better uses! Transfigure material from the walls? Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter cannot perform Transfiguration! Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter had exactly one idea which he could use immediately, right now, without
+ extensive preparation or a cooperative enemy or magic he does not know.
+ That idea was to jam his wand through his enemy's eye socket.
+ Which would be more likely to break his wand than kill his opponent! In
+ short, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I'm afraid that your proposals were uniformly awful.”
+\end_layout
+
+\begin_layout Standard
+“What?” Harry said indignantly.
+ “You 
+\emph on
+asked
+\emph default
+ for unusual ideas, not practical ones! I was thinking outside the box!
+ How would 
+\emph on
+you
+\emph default
+ use something in this classroom to kill someone?”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's expression was disapproving, but there were smile crinkles
+ around his eyes.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I never said you were to 
+\emph on
+kill.
+
+\emph default
+ There is a time and a place for taking your enemy alive, and inside a Hogwarts
+ classroom is usually one of those places.
+ But to answer your question, hit them on the neck with the edge of a chair.”
+\end_layout
+
+\begin_layout Standard
+There was some laughter from the Slytherins, but they were laughing with
+ Harry, not at him.
+\end_layout
+
+\begin_layout Standard
+Everyone else was looking rather horrified.
+\end_layout
+
+\begin_layout Standard
+“But Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter has now demonstrated why he is the most dangerous student in the
+ classroom.
+ I asked for unaccustomed uses of items in this room for combat.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter could have suggested using a desk to block a curse, or using a chair
+ to trip an oncoming enemy, or wrapping cloth around his arm to create an
+ improvised shield.
+ Instead, every single use that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter named was offensive rather than defensive, and either fatal or potentiall
+y fatal.”
+\end_layout
+
+\begin_layout Standard
+What? Wait, that couldn't be true… Harry had a sudden sense of vertigo as
+ he tried to remember what exactly he'd suggested, surely there had to be
+ a counterexample…
+\end_layout
+
+\begin_layout Standard
+“And that,” Professor Quirrell said, “is why Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter's ideas were so strange and useless 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ because he had to reach far into the impractical in order to meet his standard
+ of 
+\emph on
+killing the enemy.
+
+\emph default
+ To him, any idea which fell short of that was not worth considering.
+ This reflects a quality that we might call 
+\emph on
+intent to kill
+\emph default
+.
+ I have it.
+ Harry Potter has it, which is how he could stare down five older Slytherins.
+ Draco Malfoy does not have it, not yet.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy would hardly shrink from talk of ordinary murder, but even he was
+ shocked 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ yes you were Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy, I was watching your face 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ when Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter described how to use his classmates' bodies as raw material.
+ There are censors inside your mind which make you flinch away from thoughts
+ like that.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter thinks 
+\emph on
+purely
+\emph default
+ of killing the enemy, he will grasp at any means to do so, he does not
+ flinch, his censors are off.
+ Even though his youthful genius is so undisciplined and impractical as
+ to be useless, his 
+\emph on
+intent to kill
+\emph default
+ makes Harry Potter the Most Dangerous Student in the Classroom.
+ One final point to him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ no, let us make that a point to Ravenclaw 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ for this indispensable requisite of a true fighting wizard.”
+\end_layout
+
+\begin_layout Standard
+Harry's mouth gaped open in speechless shock as he searched frantically
+ for something to say to this.
+ 
+\emph on
+That is so completely not what I am about!
+\end_layout
+
+\begin_layout Standard
+But he could see that the other students were starting to believe it.
+ Harry's mind was flipping through possible denials and not finding anything
+ that could stand up against the authoritative voice of Professor Quirrell.
+ The best Harry had come up with was “I'm not a psychopath, I'm just very
+ creative” and that sounded kind of ominous.
+ He needed to say something unexpected, something that would make people
+ stop and reconsider
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“And now,” Professor Quirrell said.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ Fire.”
+\end_layout
+
+\begin_layout Standard
+Nothing happened, of course.
+\end_layout
+
+\begin_layout Standard
+“Ah, well,” said Professor Quirrell.
+ He sighed.
+ “I suppose we must all start somewhere.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, select any student you please for a Simple Strike Hex.
+ You 
+\emph on
+will
+\emph default
+ do so before I dismiss your class for the day.
+ If you do not, I will begin deducting House points, and I will keep on
+ deducting them until you do.”
+\end_layout
+
+\begin_layout Standard
+Harry carefully raised his wand.
+ He had to do that much, or Professor Quirrell might start deducting House
+ points right away.
+\end_layout
+
+\begin_layout Standard
+Slowly, as though on a roasting platter, Harry turned to face the Slytherins.
+\end_layout
+
+\begin_layout Standard
+And Harry's eyes met Draco's.
+\end_layout
+
+\begin_layout Standard
+Draco Malfoy didn't look the slightest bit afraid.
+ The blonde-haired boy wasn't giving any visible sign of assent such as
+ Harry had given Hermione, but then he could hardly be expected to do so.
+ The other Slytherins would think that rather odd.
+\end_layout
+
+\begin_layout Standard
+“Why the hesitation?” said Professor Quirrell.
+ “Surely there's only one obvious choice.”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said.
+ “Only one 
+\emph on
+obvious
+\emph default
+ choice.”
+\end_layout
+
+\begin_layout Standard
+Harry twisted the wand and said “
+\emph on
+Ma-ha-su!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There was complete silence in the classroom.
+\end_layout
+
+\begin_layout Standard
+Harry shook his left arm, trying to get rid of the lingering sting.
+\end_layout
+
+\begin_layout Standard
+There was more silence.
+\end_layout
+
+\begin_layout Standard
+Finally Professor Quirrell sighed.
+ “Yes, quite ingenious, but there was a lesson to be taught and you dodged
+ it.
+ One point from Ravenclaw for showing off your own cleverness at the expense
+ of the actual goal.
+ Class dismissed.”
+\end_layout
+
+\begin_layout Standard
+And before anyone else could say anything, Harry sang out:
+\end_layout
+
+\begin_layout Standard
+“Just kidding! RAVENCLAW!”
+\end_layout
+
+\begin_layout Standard
+There was silence for a brief moment after that, a sound of people thinking,
+ and then the murmurs started and rapidly rose to a roar of conversation.
+\end_layout
+
+\begin_layout Standard
+Harry turned towards Professor Quirrell, the two of them needed to talk
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Quirrell had slumped over and was trudging back to his chair.
+\end_layout
+
+\begin_layout Standard
+No.
+ Not acceptable.
+ They 
+\emph on
+really
+\emph default
+ needed to talk.
+ Stuff the zombie act, Professor Quirrell would probably wake up if Harry
+ poked him a couple of times.
+ Harry started forward 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+WRONG
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+DON'T
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+BAD IDEA
+\end_layout
+
+\begin_layout Standard
+Harry swayed and stopped in his tracks, feeling dizzy.
+\end_layout
+
+\begin_layout Standard
+And then a flock of Ravenclaws descended on him and the discussions began.
+\end_layout
+
+\end_body
+\end_document

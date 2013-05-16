@@ -1,0 +1,149 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{A Message From The Author}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+A Message From The Author
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Disclaimer: J.K.
+ Rowling owns Harry Potter, and no one owns the methods of rationality.
+\end_layout
+
+\begin_layout Standard
+This fiction is widely considered to have really hit its stride starting
+ at around Chapter 5.
+ If you still don't like it after Chapter 10, give up.
+\end_layout
+
+\begin_layout Standard
+This is 
+\emph on
+not
+\emph default
+ a strict single-point-of-departure fiction 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ there exists a primary point of departure, at some point in the past, but
+ also other alterations.
+ The best term I've heard for this fiction is 
+\begin_inset Quotes eld
+\end_inset
+
+parallel universe
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The text contains many clues: obvious clues, not-so-obvious clues, truly
+ obscure hints which I was shocked to see some readers successfully decode,
+ and massive evidence left out in plain sight.
+ This is a rationalist story; its mysteries are solvable, and meant to be
+ solved.
+\end_layout
+
+\begin_layout Standard
+All science mentioned is real science.
+ But please keep in mind that, beyond the realm of science, the views of
+ the characters may not be those of the author.
+ Not everything the protagonist does is a lesson in wisdom, and advice offered
+ by darker characters may be untrustworthy or dangerously double-edged.
+\end_layout
+
+\begin_layout Standard
+The pacing of the story is that of serial fiction, i.e., that of a TV show
+ running for a predetermined number of seasons, whose episodes are individually
+ plotted but with an overall arc building to a final conclusion.
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,3418 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Dominance Hierarchies
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+I
+\end_layout
+
+\end_inset
+
+t
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ was breakfast time on Friday morning.
+ Harry took another huge bite out of his toast and then tried to remind
+ his brain that scarfing his breakfast wouldn't actually get him into the
+ dungeons any faster.
+ Anyway they had a full hour of study time between breakfast and the start
+ of Potions.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+But dungeons! In Hogwarts! Harry's imagination was already sketching the
+ chasms, narrow bridges, torchlit sconces, and patches of glowing moss.
+ Would there be rats? Would there be 
+\emph on
+dragons?
+\end_layout
+
+\begin_layout Standard
+“Harry Potter,” said a quiet voice from behind him.
+\end_layout
+
+\begin_layout Standard
+Harry looked over his shoulder and found himself beholding Ernie Macmillan,
+ smartly dressed in yellow-trimmed robes and looking a little worried.
+\end_layout
+
+\begin_layout Standard
+“Neville thought I should warn you,” Ernie said in a low voice.
+ “I think he's right.
+ Be careful of the Potions Master in our session today.
+ The older Hufflepuffs told us that Professor Snape can be really nasty
+ to people he doesn't like, and he doesn't like most people who aren't Slytherin
+s.
+ If you say anything smart to him it… it could be really bad for you, from
+ what I've heard.
+ Just keep your head down and don't give him any reason to notice you.”
+\end_layout
+
+\begin_layout Standard
+There was a pause as Harry processed this, and then he lifted his eyebrows.
+ (Harry wished he could raise just one eyebrow, like Spock, but he'd never
+ been able to manage.) “Thanks,” Harry said.
+ “You might've just saved me a lot of trouble.”
+\end_layout
+
+\begin_layout Standard
+Ernie nodded, and turned to go back to the Hufflepuff table.
+\end_layout
+
+\begin_layout Standard
+Harry resumed eating his toast.
+\end_layout
+
+\begin_layout Standard
+It was around four bites afterward that someone said “Pardon me,” and Harry
+ turned around to see an older Ravenclaw, looking a little worried 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Some time later, Harry was finishing up his third plate of rashers.
+ (He'd learned to eat heavily at breakfast.
+ He could always eat lightly at lunch if he didn't end up using the Time-Turner.)
+ And there was yet another voice from behind him saying “Harry?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said wearily, “I'll try not to draw Professor Snape's attention
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Oh, that's hopeless,” said Fred.
+\end_layout
+
+\begin_layout Standard
+“Completely hopeless,” said George.
+\end_layout
+
+\begin_layout Standard
+“So we had the house elves bake you a cake,” said Fred.
+\end_layout
+
+\begin_layout Standard
+“We're going to put one candle on it for every point you lose for Ravenclaw,”
+ said George.
+\end_layout
+
+\begin_layout Standard
+“And have a party for you at the Gryffindor table during lunch,” said Fred.
+\end_layout
+
+\begin_layout Standard
+“We hope that'll cheer you up afterward,” finished George.
+\end_layout
+
+\begin_layout Standard
+Harry swallowed his last bite of rasher and turned around.
+ “All right,” said Harry.
+ “I wasn't going to ask this after Professor Binns, I really wasn't, but
+ if Professor Snape is 
+\emph on
+that
+\emph default
+ awful why hasn't he been fired?”
+\end_layout
+
+\begin_layout Standard
+“Fired?” said Fred.
+\end_layout
+
+\begin_layout Standard
+“You mean, let go?” said George.
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said.
+ “It's what you do to bad teachers.
+ You fire them.
+ Then you hire a better teacher instead.
+ You don't have unions or tenure here, right?”
+\end_layout
+
+\begin_layout Standard
+Fred and George were frowning in much the same way that hunter-gatherer
+ tribal elders might frown if you tried to tell them about calculus.
+\end_layout
+
+\begin_layout Standard
+“I don't know,” said Fred after a while.
+ “I never thought about that.”
+\end_layout
+
+\begin_layout Standard
+“Me neither,” said George.
+\end_layout
+
+\begin_layout Standard
+“Yeah,” said Harry, “I get that a lot.
+ See you at lunch, guys, and don't blame me if there aren't any candles
+ on that cake.”
+\end_layout
+
+\begin_layout Standard
+Fred and George both laughed, as if Harry had said something funny, and
+ bowed to him and headed back toward Gryffindor.
+\end_layout
+
+\begin_layout Standard
+Harry turned back to the breakfast table and grabbed a cupcake.
+ His stomach already felt full, but he had a feeling this morning might
+ use a lot of calories.
+\end_layout
+
+\begin_layout Standard
+As he ate his cupcake, Harry thought of the worst teacher he'd met so far,
+ Professor Binns of History.
+ Professor Binns was a ghost.
+ From what Hermione had said about ghosts, it didn't seem likely that they
+ were fully self-aware.
+ There were no famous discoveries made by ghosts, or much of any original
+ work, no matter who they'd been in life.
+ Ghosts tended to have trouble remembering the current century.
+ Hermione had said they were like accidental portraits, impressed into the
+ surrounding matter by a burst of psychic energy accompanying a wizard's
+ sudden death.
+\end_layout
+
+\begin_layout Standard
+Harry had run into some stupid teachers during his abortive forays into
+ standard Muggle education 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ his father had been a lot pickier when it came to selecting grad students
+ as tutors, of course 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but History class was the first time he'd encountered a teacher who literally
+ wasn't sentient.
+\end_layout
+
+\begin_layout Standard
+And it showed, too.
+ Harry had given up after five minutes and started reading a textbook.
+ When it became clear that “Professor Binns” wasn't going to object, Harry
+ had also reached into his pouch and gotten earplugs.
+\end_layout
+
+\begin_layout Standard
+Did ghosts not require a salary? Was that it? Or was it literally impossible
+ to fire anyone in Hogwarts 
+\emph on
+even if they died?
+\end_layout
+
+\begin_layout Standard
+Now it seemed that Professor Snape was going about being absolutely awful
+ to everyone who wasn't a Slytherin and it hadn't even 
+\emph on
+occurred
+\emph default
+ to anyone to terminate his contract.
+\end_layout
+
+\begin_layout Standard
+And the Headmaster had set fire to a chicken.
+\end_layout
+
+\begin_layout Standard
+“Excuse me,” came a worried voice from behind him.
+\end_layout
+
+\begin_layout Standard
+“I swear,” Harry said without turning around, “this place is almost eight
+ and a half percent as bad as what Dad says about Oxford.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry stamped down the stone corridors, looking affronted, annoyed, and
+ infuriated all at once.
+\end_layout
+
+\begin_layout Standard
+“Dungeons!” Harry hissed.
+ “
+\emph on
+Dungeons!
+\emph default
+ These are not dungeons! This is a basement! A 
+\emph on
+basement!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Some of the Ravenclaw girls gave him odd looks.
+ The boys were all used to him by now.
+\end_layout
+
+\begin_layout Standard
+It seemed that the level in which the Potions classroom was located was
+ called the “dungeons” for no better reason than that it was below ground
+ and slightly colder than the main castle.
+\end_layout
+
+\begin_layout Standard
+In 
+\emph on
+Hogwarts!
+\emph default
+ In 
+\emph on
+Hogwarts!
+\emph default
+ Harry had been waiting his whole life and now he was 
+\emph on
+still
+\emph default
+ waiting and if there was anywhere 
+\emph on
+on the face of the Earth
+\emph default
+ that had decent dungeons it ought to be Hogwarts! Was Harry going to have
+ to build his own castle if he wanted to see one little bottomless abyss?
+\end_layout
+
+\begin_layout Standard
+A short time later they got to the actual Potions classroom and Harry cheered
+ up considerably.
+\end_layout
+
+\begin_layout Standard
+The Potions classroom had strange preserved creatures floating in huge jars
+ on shelves that covered every centimeter of wall space between the closets.
+ Harry had gotten far enough along in his reading now that he could actually
+ identify some of the creatures, like the Zabriskan Fontema.
+ Albeit the fifty-centimeter spider 
+\emph on
+looked
+\emph default
+ like an Acromantula but it was too small to 
+\emph on
+be
+\emph default
+ one.
+ He'd tried asking Hermione, but she hadn't seemed very interested in looking
+ anywhere near where he was pointing.
+\end_layout
+
+\begin_layout Standard
+Harry was looking at a large dust ball with eyes and feet when the assassin
+ swept into the room.
+\end_layout
+
+\begin_layout Standard
+That was the first thought that crossed Harry's mind when he saw Professor
+ Severus Snape.
+ There was something quiet and deadly about the way the man stalked between
+ the children's desks.
+ His robes were unkempt, his hair spotted and greasy.
+ There was something about him that seemed reminiscent of Lucius, although
+ the two of them looked nothing remotely alike, and you got the impression
+ that where Lucius would kill you with flawless elegance, this man would
+ simply kill you.
+\end_layout
+
+\begin_layout Standard
+“Sit down,” said Professor Severus Snape.
+ “Now.”
+\end_layout
+
+\begin_layout Standard
+Harry and a few other children who had been standing around talking to each
+ other scrambled for desks.
+ Harry had planned on ending up next to Her\SpecialChar \-
+mione but somehow he found himself
+ sitting down in the nearest empty desk next to Justin Finch-Fletchley (it
+ was a Doubles session, Ravenclaw and Hufflepuff) which put him two desks
+ to the left of Hermione.
+\end_layout
+
+\begin_layout Standard
+Severus seated himself behind the teacher's desk, and without the slightest
+ transition or introduction, said, “Hannah Abbott.”
+\end_layout
+
+\begin_layout Standard
+“Here,” said Hannah in a somewhat trembling voice.
+\end_layout
+
+\begin_layout Standard
+“Susan Bones.”
+\end_layout
+
+\begin_layout Standard
+“Present.”
+\end_layout
+
+\begin_layout Standard
+And so it went, no one daring to say a word in edgewise, until:
+\end_layout
+
+\begin_layout Standard
+“Ah, yes.
+ Harry Potter.
+ Our new… 
+\emph on
+celebrity.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“The celebrity is present, 
+\emph on
+sir
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Half the class flinched, and some of the smarter ones suddenly looked like
+ they wanted to run out the door while the classroom was still there.
+\end_layout
+
+\begin_layout Standard
+Severus smiled in an anticipatory sort of way and called the next name on
+ his list.
+\end_layout
+
+\begin_layout Standard
+Harry gave a mental sigh.
+ That had happened way too fast for him to do anything about it.
+ Oh well.
+ Clearly this man already didn't like him, for whatever reason.
+ And when Harry thought about it, better by far that this Potions professor
+ should pick on 
+\emph on
+him
+\emph default
+ rather than, say, Neville or Hermione.
+ Harry was a lot better able to defend himself.
+ Yep, probably all for the best.
+\end_layout
+
+\begin_layout Standard
+When full attendance had been taken, Severus swept his gaze over the full
+ class.
+ His eyes were as empty as a night sky without stars.
+\end_layout
+
+\begin_layout Standard
+“You are here,” Severus said in a quiet voice which the students at back
+ strained to hear, “to learn the subtle science and exact art of potionmaking.
+ As there is little foolish wand-waving here, many of you will hardly believe
+ this is magic.
+ I don't expect you will really understand the beauty of the softly simmering
+ cauldron with its shimmering fumes, the delicate power of liquids that
+ creep through human veins,” this in a rather caressing, gloating tone,
+ “bewitching the mind, ensnaring the senses,” this was just getting creepier
+ and creepier.
+ “I can teach you how to bottle fame, brew glory, even stopper death 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ if you aren't as great a pack of fools as I usually have to teach.”
+\end_layout
+
+\begin_layout Standard
+Severus somehow seemed to notice the look of skepticism on Harry's face,
+ or at least his eyes suddenly jumped to where Harry was sitting.
+\end_layout
+
+\begin_layout Standard
+“Potter!” snapped the Potions professor.
+ “What would I get if I added powdered root of asphodel to an infusion of
+ wormwood?”
+\end_layout
+
+\begin_layout Standard
+Harry blinked.
+ “Was that in 
+\emph on
+Magical Drafts and Potions
+\emph default
+?” he said.
+ “I just finished reading it, and I don't remember anything which used wormwood
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Hermione's hand went up and Harry shot her a glare which caused her to raise
+ her hand even higher.
+\end_layout
+
+\begin_layout Standard
+“Tut, tut,” Severus said silkily.
+ “Fame clearly isn't everything.”
+\end_layout
+
+\begin_layout Standard
+“Really?” Harry said.
+ “But you just told us you'd teach us how to bottle fame.
+ Say, how 
+\emph on
+does
+\emph default
+ that work, exactly? You drink it and turn into a celebrity?”
+\end_layout
+
+\begin_layout Standard
+Three-quarters of the class flinched.
+\end_layout
+
+\begin_layout Standard
+Hermione's hand was dropping slowly back down.
+ Well, that wasn't surprising.
+ She might be his rival, but she wasn't the sort of girl who would play
+ along after it became clear that the professor was deliberately trying
+ to humiliate him.
+\end_layout
+
+\begin_layout Standard
+Harry was trying hard to keep control of his temper.
+ The first rejoinder that had crossed his mind was `Abracadabra'.
+\end_layout
+
+\begin_layout Standard
+“Let's try again,” said Severus.
+ “Potter, where would you look if I told you to find me a bezoar?”
+\end_layout
+
+\begin_layout Standard
+“That's not in the textbook either,” Harry said, “but in one Muggle book
+ I read that a trichinobezoar is a mass of solidified hair found in a human
+ stomach, and Muggles used to believe it would cure any poison 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Wrong,” Severus said.
+ “A bezoar is found in the stomach of a goat, it is not made of hair, and
+ it will cure most poisons but not all.”
+\end_layout
+
+\begin_layout Standard
+“I didn't 
+\emph on
+say
+\emph default
+ it would, I said that was what I read in one Muggle book
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No one here is interested in your 
+\emph on
+pathetic
+\emph default
+ Muggle books.
+ Final try.
+ What is the difference, Potter, between monksblood and wolfsbane?”
+\end_layout
+
+\begin_layout Standard
+That did it.
+\end_layout
+
+\begin_layout Standard
+“You know,” Harry said icily, “in one of my quite 
+\emph on
+fascinating
+\emph default
+ Muggle books, they describe a study in which people managed to make themselves
+ look very smart by asking questions about random facts that only they knew.
+ Apparently the onlookers only noticed that the askers knew and the answerers
+ didn't, and failed to adjust for the unfairness of the underlying game.
+ So, Professor, can you tell me how many electrons are in the outermost
+ orbital of a carbon atom?”
+\end_layout
+
+\begin_layout Standard
+Severus's smile widened.
+ “Four,” he said.
+ “It is a useless fact which no one should bother writing down, however.
+ And for your information, Potter, asphodel and wormwood make a sleeping
+ potion so powerful it is known as the Draught of Living Death.
+ As for monkshood and wolfsbane, they are the same plant, which also goes
+ by the name of aconite, as you would know if you had read 
+\emph on
+One Thousand Magical Herbs and Fungi.
+
+\emph default
+ Thought you didn't need to open the book before coming, eh, Potter? All
+ the rest of you should be copying that down so that you will not be as
+ ignorant as him.” Severus paused, looking quite pleased with himself.
+ “And that will be… five points? No, let us make it an even ten points from
+ Ravenclaw for backchat.”
+\end_layout
+
+\begin_layout Standard
+Hermione gasped, along with a number of others.
+\end_layout
+
+\begin_layout Standard
+“Professor Severus Snape,” Harry bit out.
+ “I know of nothing which I have done to earn your enmity.
+ If there is some problem you have with me which I do not know about, I
+ suggest we 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Shut up, Potter.
+ Ten more points from Ravenclaw.
+ The rest of you, open your books to page 3.”
+\end_layout
+
+\begin_layout Standard
+There was only a slight, only a very faint burning sensation in the back
+ of Harry's throat, and no moisture at all in his eyes.
+ If crying was not an effective strategy for destroying this Potions professor
+ then there was no point in crying.
+\end_layout
+
+\begin_layout Standard
+Slowly, Harry sat up very straight.
+ All his blood seemed to have been drained away and replaced with liquid
+ nitrogen.
+ He knew he'd been trying to keep his temper but he couldn't seem to remember
+ why.
+\end_layout
+
+\begin_layout Standard
+“Harry,” whispered Hermione frantically from two desks over, “stop, please,
+ it's all right, we won't count it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Talking in class, Granger? Three 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“So,” said a voice colder than zero Kelvin, “how does one go about filing
+ a formal complaint against an abusive professor? Does one talk to the Deputy
+ Headmistress, write a letter to the Board of Governors… would you care
+ to explain how it works?”
+\end_layout
+
+\begin_layout Standard
+The class was utterly frozen.
+\end_layout
+
+\begin_layout Standard
+“Detention for one month, Potter,” Severus said, smiling even more broadly.
+\end_layout
+
+\begin_layout Standard
+“I decline to recognize your authority as a teacher and I will not serve
+ any detention you give.”
+\end_layout
+
+\begin_layout Standard
+People stopped breathing.
+\end_layout
+
+\begin_layout Standard
+Severus's smile vanished.
+ “Then you will be 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” his voice stopped short.
+\end_layout
+
+\begin_layout Standard
+“Expelled, were you about to say?” Harry, on the other hand, was now smiling
+ thinly.
+ “But then you seemed to doubt your ability to carry out the threat, or
+ fear the consequences if you did.
+ I, on the other hand, neither doubt nor fear the prospect of finding a
+ school with less abusive professors.
+ Or perhaps I should hire private tutors, as is my accustomed practice,
+ and be taught at my full learning speed.
+ I have enough money in my vault.
+ Something about bounties on a Dark Lord I defeated.
+ But there 
+\emph on
+are
+\emph default
+ teachers at Hogwarts who I rather like, so I think it will be easier if
+ I find some way to get rid of you instead.”
+\end_layout
+
+\begin_layout Standard
+“Get rid of me?” Severus said, now also smiling thinly.
+ “What an amusing conceit.
+ How do you suppose you will do that, Potter?”
+\end_layout
+
+\begin_layout Standard
+“I understand there have been a number of complaints about you from students
+ and their parents,” a guess but a safe one, “which leaves only the question
+ of why you're not already gone.
+ Is Hogwarts too financially strapped to afford a real Potions professor?
+ I could chip in, if so.
+ I'm sure they could find a better class of teacher if they offered double
+ your current salary.”
+\end_layout
+
+\begin_layout Standard
+Two poles of ice radiated freezing winter across the classroom.
+\end_layout
+
+\begin_layout Standard
+“You will find,” Severus said softly, “that the Board of Governers is not
+ the slightest bit sympathetic to your offer.”
+\end_layout
+
+\begin_layout Standard
+“Lucius…” Harry said.
+ “
+\emph on
+That's
+\emph default
+ why you're still here.
+ Perhaps I should chat with Lucius about that.
+ I believe he desires to meet with me.
+ I wonder if I have anything he wants?”
+\end_layout
+
+\begin_layout Standard
+Hermione frantically shook her head.
+ Harry noticed out of the corner of his eye, but his attention was all on
+ Severus.
+\end_layout
+
+\begin_layout Standard
+“You are a very foolish boy,” Severus said.
+ He wasn't smiling at all, now.
+ “You have nothing that Lucius values more than my friendship.
+ And if you did, I have other allies.” His voice grew hard.
+ “And I find it increasingly unlikely that you were not Sorted into Slytherin.
+ How was it that you managed to stay out of my House? Ah, yes, because the
+ Sorting Hat claimed it was 
+\emph on
+joking
+\emph default
+.
+ For the first time in recorded history.
+ What were you really 
+\emph on
+chatting
+\emph default
+ about with the Sorting Hat, Potter? Did you have something that it wanted?”
+\end_layout
+
+\begin_layout Standard
+Harry stared into Severus's cold gaze and remembered that the Sorting Hat
+ had warned him not to meet anyone's eyes while thinking about 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Harry dropped his gaze to Severus's desk.
+\end_layout
+
+\begin_layout Standard
+“You seem oddly reluctant to look me in the eyes, Potter!”
+\end_layout
+
+\begin_layout Standard
+A shock of sudden understanding 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ “So it was 
+\emph on
+you
+\emph default
+ the Sorting Hat was warning me about!”
+\end_layout
+
+\begin_layout Standard
+“What?” said Severus's voice, sounding genuinely surprised, though of course
+ Harry didn't look at his face.
+\end_layout
+
+\begin_layout Standard
+Harry got up out of his desk.
+\end_layout
+
+\begin_layout Standard
+“Sit down, Potter,” said an angry voice from somewhere he wasn't looking.
+\end_layout
+
+\begin_layout Standard
+Harry ignored it, and looked around the classroom.
+ “I have no intention of letting one unprofessional teacher ruin my time
+ at Hogwarts,” Harry said with deadly calm.
+ “I think I'll take my leave of this class, and either hire a tutor to teach
+ me Potions while I'm here, or if the Board is really that locked up, learn
+ over the summer.
+ If any of you decide that you don't care to be bullied by this man, my
+ sessions will be open to you.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Sit down, Potter!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry strode across the room and grasped the doorknob.
+\end_layout
+
+\begin_layout Standard
+It didn't turn.
+\end_layout
+
+\begin_layout Standard
+Harry slowly turned around, and caught a glimpse of Severus smiling nastily
+ before he remembered to look away.
+\end_layout
+
+\begin_layout Standard
+“Open this door.”
+\end_layout
+
+\begin_layout Standard
+“No,” said Severus.
+\end_layout
+
+\begin_layout Standard
+“You are making me feel threatened,” said a voice so icy it didn't sound
+ like Harry's at all, “and that is a mistake.”
+\end_layout
+
+\begin_layout Standard
+Severus's voice laughed.
+ “What do you intend to do about it, little boy?”
+\end_layout
+
+\begin_layout Standard
+Harry took six long strides forward away from the door, until he was standing
+ near the back row of desks.
+\end_layout
+
+\begin_layout Standard
+Then Harry drew himself upright and raised his right hand in one terrible
+ motion, fingers poised to snap.
+\end_layout
+
+\begin_layout Standard
+Neville screamed and dived under his desk.
+ Other children shrank back or instinctively raised their arms to shield
+ themselves.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Harry don't!
+\emph default
+” shrieked Hermione.
+ “Whatever you were going to do to him, don't do it!”
+\end_layout
+
+\begin_layout Standard
+“Have you all gone 
+\emph on
+mad?
+\emph default
+” barked Severus's voice.
+\end_layout
+
+\begin_layout Standard
+Slowly, Harry lowered his hand.
+ “I wasn't going to hurt him, Hermione,” Harry said, his voice a little
+ lower.
+ “I was just going to blow up the door.”
+\end_layout
+
+\begin_layout Standard
+Though now that Harry remembered it, you weren't supposed to Transfigure
+ things that were to be burned, which meant that going back in time afterward
+ and getting Fred or George to Transfigure some carefully measured amount
+ of explosives might not actually have been such a good idea…
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Silencio,
+\emph default
+” said Severus's voice.
+\end_layout
+
+\begin_layout Standard
+Harry tried to say “What?” and found that no sound was coming out.
+\end_layout
+
+\begin_layout Standard
+“This has become ridiculous.
+ I think you've been allowed to get yourself in enough trouble for one day,
+ Potter.
+ You are the most disruptive and unruly student I have ever seen, and I
+ don't recall how many points Ravenclaw has right now, but I'm sure I can
+ manage to wipe them all out.
+ Ten points from Ravenclaw.
+ Ten points from Ravenclaw.
+ Ten points from Ravenclaw! Fifty points from Ravenclaw! Now sit down and
+ watch the rest of the class take their lesson!”
+\end_layout
+
+\begin_layout Standard
+Harry put his hand into his pouch and tried to say `marker' but of course
+ no words came out.
+ For one brief moment that stopped him; and then it occurred to Harry to
+ spell out M-A-R-K-E-R using finger motions, which worked.
+ P-A-D and he had a pad of paper.
+ Harry strode over to an empty desk, not the one he'd originally sat down
+ in, and scrawled a brief message.
+ He tore off that sheet of paper, put away the marker and pad in a pocket
+ of his robes for quicker access, and held up his message, not to Snape,
+ but to the rest of the class.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+I'M LEAVING
+\begin_inset Newline newline
+\end_inset
+
+DOES ANYONE ELSE
+\begin_inset Newline newline
+\end_inset
+
+NEED TO GET OUT?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“You're insane, Potter,” Severus said with cold contempt.
+\end_layout
+
+\begin_layout Standard
+Aside from that, no one spoke.
+\end_layout
+
+\begin_layout Standard
+Harry swept an ironic bow to the teacher's desk, walked over to the wall,
+ and with one smooth motion yanked open a closet door, stepped in, and slammed
+ the door shut behind him.
+\end_layout
+
+\begin_layout Standard
+There was the muffled sound of someone snapping his fingers, and then nothing.
+\end_layout
+
+\begin_layout Standard
+In the classroom, students looked at each other in puzzlement and fear.
+\end_layout
+
+\begin_layout Standard
+The Potions Master's face was now completely enraged.
+ He crossed the room in terrible strides and yanked open the closet door.
+\end_layout
+
+\begin_layout Standard
+The closet was empty.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One hour earlier, Harry listened from inside the closed closet.
+ There was no sound from outside, and no point in taking risks either.
+\end_layout
+
+\begin_layout Standard
+C-L-O-A-K, his fingers spelled out.
+\end_layout
+
+\begin_layout Standard
+Once he was invisible, he very carefully and slowly cracked open the closet
+ door and peeked out.
+ No one seemed to be in the classroom.
+\end_layout
+
+\begin_layout Standard
+The door wasn't locked.
+\end_layout
+
+\begin_layout Standard
+It was when Harry was outside the dangerous place and inside the hallway,
+ safely invisible, that some of the anger drained away and he realized what
+ he'd just done.
+\end_layout
+
+\begin_layout Standard
+What he'd just done.
+\end_layout
+
+\begin_layout Standard
+Harry's invisible face was frozen in absolute horror.
+\end_layout
+
+\begin_layout Standard
+He'd antagonized a teacher three orders of magnitude beyond anything he'd
+ ever managed before.
+ He'd threatened to walk out of Hogwarts and might have to follow through
+ on it.
+ He'd lost all the points Ravenclaw had and then he'd used the Time-Turner…
+\end_layout
+
+\begin_layout Standard
+His imagination showed him his parents yelling at him after he was expelled,
+ Professor McGonagall disappointed in him, and it was just too painful and
+ he couldn't bear it and he 
+\emph on
+couldn't think of any way to save himself
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The thought that Harry allowed himself to think was that if getting angry
+ had gotten him into all this trouble, then maybe when he was angry he'd
+ think of a way out, things seemed clearer somehow when he was angry.
+\end_layout
+
+\begin_layout Standard
+And the thought that Harry didn't let himself think was that he just couldn't
+ face this future if he wasn't angry.
+\end_layout
+
+\begin_layout Standard
+So he cast his thoughts back and remembered the burning humiliation
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Tut, tut.
+ Fame clearly isn't everything.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Ten points from Ravenclaw for backchat.
+\end_layout
+
+\begin_layout Standard
+The calming cold washed back through his veins like a wave reflected and
+ returning from some breaker, and Harry let out his breath.
+\end_layout
+
+\begin_layout Standard
+Okay.
+ Back to being sane now.
+\end_layout
+
+\begin_layout Standard
+He was actually feeling a bit disappointed in his non-angry self for collapsing
+ like that and wanting only to get out of trouble.
+ Professor Severus Snape was 
+\emph on
+everyone's
+\emph default
+ problem.
+ Normal-Harry had forgotten that and wished for a way to protect 
+\emph on
+himself.
+
+\emph default
+ And let all the other victims go hang? The question wasn't how to protect
+ himself, the question was how to destroy this Potions professor.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+So this is my dark side, is it?
+\emph default
+ 
+\emph on
+Bit of a prejudiced term that, my light side seems more selfish and cowardly,
+ not to mention confused and panicky.
+\end_layout
+
+\begin_layout Standard
+And now that he was thinking clearly, it was equally clear what to do next.
+ He'd already given himself an extra hour to prepare, and could get up to
+ five hours more if required…
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Minerva McGonagall waited in the Headmaster's office.
+\end_layout
+
+\begin_layout Standard
+Dumbledore sat in his padded throne behind his desk, dressed in four layers
+ of formal lavender robes.
+ Minerva sat in a chair before him, opposite Severus in another chair.
+ Facing the three of them was an empty wooden stool.
+\end_layout
+
+\begin_layout Standard
+They were waiting for Harry Potter.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Harry,
+\emph default
+ Minerva thought despairingly, 
+\emph on
+you promised you wouldn't bite any teachers!
+\end_layout
+
+\begin_layout Standard
+And in her mind she could see very clearly the reply, Harry's angry face
+ and his outraged response: 
+\emph on
+I said I wouldn't bite anyone who didn't bite me first!
+\end_layout
+
+\begin_layout Standard
+There was a knock at the door.
+\end_layout
+
+\begin_layout Standard
+“Come in!” Dumbledore called.
+\end_layout
+
+\begin_layout Standard
+The door swept open, and Harry Potter entered.
+ Minerva almost gasped out loud.
+ The boy looked cool, collected, and utterly in control of himself.
+\end_layout
+
+\begin_layout Standard
+“Good mor-” Harry's voice suddenly cut off.
+ His jaw dropped.
+\end_layout
+
+\begin_layout Standard
+Minerva tracked Harry's gaze, and she saw that Harry was staring at Fawkes
+ where the phoenix sat on its golden perch.
+ Fawkes fluttered his bright red-golden wings like the flickering of a flame,
+ and dipped his head in a measured nod to the boy.
+\end_layout
+
+\begin_layout Standard
+Harry turned to stare at Dumbledore.
+\end_layout
+
+\begin_layout Standard
+Dumbledore winked at him.
+\end_layout
+
+\begin_layout Standard
+Minerva felt she was missing something.
+\end_layout
+
+\begin_layout Standard
+Sudden uncertainty crossed Harry's face.
+ His coolness wavered.
+ Fear showed in his eyes, then anger, and then the boy was calm again.
+\end_layout
+
+\begin_layout Standard
+A chill went down Minerva's spine.
+ Something was not right here.
+\end_layout
+
+\begin_layout Standard
+“Please sit down,” said Dumbledore.
+ His face was now serious once more.
+\end_layout
+
+\begin_layout Standard
+Harry sat.
+\end_layout
+
+\begin_layout Standard
+“So, Harry,” said Dumbledore.
+ “I've heard one report of this day from Professor Snape.
+ Would you care to tell me what happened in your own words?”
+\end_layout
+
+\begin_layout Standard
+Harry's gaze flicked dismissively to Severus.
+ “It's not complicated,” said the boy, smiling thinly.
+ “He tried bullying me the way he's been bullying every non-Slytherin in
+ the school since the day Lucius foisted him off on you.
+ As for the other details, I request a private conversation with you concerning
+ them.
+ A student who is reporting abusive behavior from a professor can hardly
+ be expected to speak frankly in front of that same professor, after all.”
+\end_layout
+
+\begin_layout Standard
+This time Minerva couldn't stop herself from gasping out loud.
+\end_layout
+
+\begin_layout Standard
+Severus simply laughed.
+\end_layout
+
+\begin_layout Standard
+And the Headmaster's face grew grave.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” the Headmaster said, “one does not speak of a Hogwarts professor
+ in such terms.
+ I fear that you labor under a terrible misapprehension.
+ Professor Severus Snape has my fullest confidence, and serves Hogwarts
+ at my own behest, not Lucius Malfoy's.”
+\end_layout
+
+\begin_layout Standard
+There was silence for a few moments.
+\end_layout
+
+\begin_layout Standard
+When the boy spoke again his voice was icy.
+ “Am I missing something here?”
+\end_layout
+
+\begin_layout Standard
+“Quite a number of things, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the Headmaster.
+ “You should understand, to start with, that the purpose of this meeting
+ is to discuss how to discipline you for the events of this morning.”
+\end_layout
+
+\begin_layout Standard
+“This man has terrorized your school for years.
+ I spoke to students and collected stories to make sure there would be enough
+ for a newspaper campaign to rally the parents against him.
+ Some of the younger students cried while they told me.
+ I almost cried when I heard them! 
+\emph on
+You allowed this abuser to run free? You did this to your students? Why?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Minerva swallowed a lump in her throat.
+ She'd 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ thought that, sometimes, but somehow she'd never quite 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the Headmaster, his voice now stern, “this meeting is not
+ about Professor Snape.
+ It is about you and your disregard for school discipline.
+ Professor Snape has suggested, and I have agreed, that three full months
+ of detention will be appropriate 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Declined,” Harry said icily.
+\end_layout
+
+\begin_layout Standard
+Minerva was speechless.
+\end_layout
+
+\begin_layout Standard
+“This is not a request, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” the Headmaster said.
+ The full, entire force of the wizard's gaze was turned on the boy.
+ “This is your punishme-”
+\end_layout
+
+\begin_layout Standard
+“You will explain to me why you allowed this man to hurt the children placed
+ in your care, and if your explanation is not sufficient then I will begin
+ my newspaper campaign with 
+\emph on
+you
+\emph default
+ as the target.”
+\end_layout
+
+\begin_layout Standard
+Minerva's body swayed with the force of that blow, with the sheer raw 
+\emph on
+lese majeste
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Even Severus looked shocked.
+\end_layout
+
+\begin_layout Standard
+“That, Harry, would be most extremely unwise,” Dumbledore said slowly.
+ “I am the primary piece opposing Lucius on the gameboard.
+ For you to do such a thing would strengthen him greatly, and I did not
+ think that was your chosen side.”
+\end_layout
+
+\begin_layout Standard
+The boy was still for a long moment.
+\end_layout
+
+\begin_layout Standard
+“This conversation grows private,” Harry said.
+ His hand flicked in Severus's direction.
+ “Send him away.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore shook his head.
+ “Harry, did I not tell you that Severus Snape has my fullest confidence?”
+\end_layout
+
+\begin_layout Standard
+The boy's face showed the shock of it.
+ “This man's bullying makes you vulnerable! I am not the only one who could
+ start a newspaper campaign against you! This is insane! Why are you doing
+ this?”
+\end_layout
+
+\begin_layout Standard
+Dumbledore sighed.
+ “I'm sorry, Harry.
+ It has to do with things that you are not, at this time, ready to hear.”
+\end_layout
+
+\begin_layout Standard
+The boy stared at Dumbledore.
+ Then he turned to look at Severus.
+ Then back to Dumbledore again.
+\end_layout
+
+\begin_layout Standard
+“It 
+\emph on
+is
+\emph default
+ insanity,” the boy said slowly.
+ “You haven't reined him in because you think he's 
+\emph on
+part of the pattern
+\emph default
+.
+ That Hogwarts needs an evil Potions Master to be a proper magical school,
+ just as it needs a ghost to teach History.”
+\end_layout
+
+\begin_layout Standard
+“That does sound like the sort of thing I would do, doesn't it?” said Dumbledore
+, smiling.
+\end_layout
+
+\begin_layout Standard
+“Unacceptable,” Harry said flatly.
+ His gaze was now cold and dark.
+ “I will not tolerate bullying or abuse.
+ I had considered many possible ways of dealing with this problem, but I
+ will make it simple.
+ Either this man goes, or I do.”
+\end_layout
+
+\begin_layout Standard
+Minerva gasped again.
+ Something strange flickered in Severus's eyes.
+\end_layout
+
+\begin_layout Standard
+Now Dumbledore's gaze was also growing cold.
+ “Expulsion, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, is the final threat which may be used against a student.
+ It is not customarily used as a threat by students against the Headmaster.
+ This is the best magical school in the entire world, and an education here
+ is not an opportunity given to everyone.
+ Are you under the impression that Hogwarts cannot get along without you?”
+\end_layout
+
+\begin_layout Standard
+And Harry sat there, smiling thinly.
+\end_layout
+
+\begin_layout Standard
+Sudden horror dawned on Minerva.
+ Surely Harry wouldn't 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“You forget,” Harry said, “that you're not the only one who can see patterns.
+ 
+\emph on
+This grows private.
+ Now send him
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry flicked a hand at Severus again, and then stopped in mid-sentence
+ and mid-gesture.
+\end_layout
+
+\begin_layout Standard
+Minerva could see it on Harry's face, the moment when he remembered.
+\end_layout
+
+\begin_layout Standard
+She'd told him, after all.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the Headmaster, “once again, Severus Snape has my fullest
+ confidence.”
+\end_layout
+
+\begin_layout Standard
+“You told him,” whispered the boy.
+ “You utter fool.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore didn't react to the insult.
+ “Told him what?”
+\end_layout
+
+\begin_layout Standard
+“That the Dark Lord is alive.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What in Merlin's name are you on about, Potter?
+\emph default
+” cried Severus in tones of sheer astonishment and outrage.
+\end_layout
+
+\begin_layout Standard
+Harry glanced briefly at him, smiling grimly.
+ “Oh, so we 
+\emph on
+are
+\emph default
+ a Slytherin, then,” Harry said.
+ “I was starting to wonder.”
+\end_layout
+
+\begin_layout Standard
+And then there was silence.
+\end_layout
+
+\begin_layout Standard
+Finally Dumbledore spoke.
+ His voice was mild.
+ “Harry, what 
+\emph on
+are
+\emph default
+ you talking about?”
+\end_layout
+
+\begin_layout Standard
+“I'm sorry, Albus,” Minerva whispered.
+\end_layout
+
+\begin_layout Standard
+Severus and Dumbledore turned to look at her.
+\end_layout
+
+\begin_layout Standard
+“Professor McGonagall didn't tell me,” said Harry's voice, swiftly and less
+ calm than it had been.
+ “I guessed.
+ I told you, I can see the patterns too.
+ I guessed, and she controlled her reaction just as Severus did.
+ But her control fell a shade short of perfection, and I could tell it was
+ control, not genuine.”
+\end_layout
+
+\begin_layout Standard
+“And I told him,” said Minerva, her voice trembling a little, “that you,
+ and I, and Severus were the only ones who knew.”
+\end_layout
+
+\begin_layout Standard
+“Which she did as a concession to prevent me from simply going around asking
+ questions, as I threatened to do if she didn't talk,” Harry said.
+ The boy chuckled briefly.
+ “I really should have gotten one of you alone and told you that she told
+ me everything, to see if you let anything slip.
+ Probably wouldn't have worked, but would have been worth a shot.” The boy
+ smiled again.
+ “Threat's still on the table and I do expect to be briefed 
+\emph on
+fully
+\emph default
+ at some point.”
+\end_layout
+
+\begin_layout Standard
+Severus was giving her a look of utter contempt.
+ Minerva raised her chin and bore it.
+ She knew it was deserved.
+\end_layout
+
+\begin_layout Standard
+Dumbledore leaned back in his padded throne.
+ His eyes were as cold as anything Minerva had seen from him since the day
+ his brother died.
+ “And you threaten to abandon us to Voldemort if we do not comply with your
+ wishes.”
+\end_layout
+
+\begin_layout Standard
+Harry's voice was razor-sharp.
+ “I regret to inform you that you are not the center of the universe.
+ I'm not threatening to walk out on magical Britain.
+ I'm threatening to walk out on 
+\emph on
+you
+\emph default
+.
+ I am not a meek little Frodo.
+ This is 
+\emph on
+my
+\emph default
+ quest and if you want in you will play by 
+\emph on
+my
+\emph default
+ rules.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore's face was still cold.
+ “I am beginning to doubt your suitability as the hero, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.”
+\end_layout
+
+\begin_layout Standard
+Harry's return gaze was equally icy.
+ “I am beginning to doubt your suitability as my Gandalf, 
+\emph on
+Mr.
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph on
+Dumbledore
+\emph default
+.
+ Boromir was at least a plausible mistake.
+ What is this 
+\emph on
+Nazgul
+\emph default
+ doing in my Fellowship?”
+\end_layout
+
+\begin_layout Standard
+Minerva was completely lost.
+ She looked at Severus, to see if he was following this, and she saw that
+ Severus had turned his face away from Harry's field of vision and was smiling.
+\end_layout
+
+\begin_layout Standard
+“I suppose,” Dumbledore said slowly, “that from your perspective it is a
+ reasonable question.
+ So, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, if Professor Snape is to leave you alone henceforth, will that be
+ the last time this issue arises, or will I find you here every week with
+ a new demand?”
+\end_layout
+
+\begin_layout Standard
+“Leave 
+\emph on
+me
+\emph default
+ alone?” Harry's voice was outraged.
+ “I am not his only victim and certainly not the most vulnerable! 
+\emph on
+Have you forgotten how defenseless children are? How much they hurt?
+\emph default
+ Henceforth Severus will treat 
+\emph on
+every
+\emph default
+ student of Hogwarts with appropriate and professional courtesy, or you
+ will find another Potions Master, or you will find another hero!”
+\end_layout
+
+\begin_layout Standard
+Dumbledore started laughing.
+ Full-throated, warm, humorous laughter, as if Harry had just performed
+ a comic dance in front of him.
+\end_layout
+
+\begin_layout Standard
+Minerva didn't dare move.
+ Her eyes flickered and she saw that Severus was equally motionless.
+\end_layout
+
+\begin_layout Standard
+Harry's visage grew even colder.
+ “You mistake me, Headmaster, if you think that this is a joke.
+ This is not a request.
+ This is your punishment.”
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Minerva said.
+ She didn't even know what she was going to say.
+ She simply couldn't let that go by.
+\end_layout
+
+\begin_layout Standard
+Harry made a shushing gesture at her and continued to speak to Dumbledore.
+ “And if that seems impolite to you,” Harry said, his voice now a little
+ less hard, “it seemed no less impolite when you said it to me.
+ You would not say such a thing to anyone who you considered a real human
+ being instead of a subordinate child, and I will treat you with just the
+ same courtesy as you treat me 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Oh, indeed, in very deed, this is my punishment if ever there was one!
+ Of 
+\emph on
+course
+\emph default
+ you're in here blackmailing me to save your fellow students, not to save
+ yourself! I can't imagine why I would have thought otherwise!” Dumbledore
+ was now laughing even harder.
+ He pounded his fist on the desk three times.
+\end_layout
+
+\begin_layout Standard
+Harry's gaze grew uncertain.
+ His face turned toward her, addressing her for the first time.
+ “Excuse me,” Harry said.
+ His voice seemed to be wavering.
+ “Does he need to take his medication or something?”
+\end_layout
+
+\begin_layout Standard
+“Ah…” Minerva had no idea what she could possibly say.
+\end_layout
+
+\begin_layout Standard
+“Well,” said Dumbledore.
+ He wiped away tears that had formed in his eyes.
+ “Pardon me.
+ I'm sorry for the interruption.
+ Please continue with the blackmail.”
+\end_layout
+
+\begin_layout Standard
+Harry opened his mouth, then closed it again.
+ He now seemed a little unsteady.
+ “Ah… he's also to stop reading students' minds.”
+\end_layout
+
+\begin_layout Standard
+“Minerva,” Severus said, his voice deadly, “you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Sorting Hat warned me,” said Harry.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Can't say anything else.
+ Anyway I think that's it.
+ I'm done.”
+\end_layout
+
+\begin_layout Standard
+Silence.
+\end_layout
+
+\begin_layout Standard
+“Now what?” Minerva said, when it became apparent that no one else was going
+ to say anything.
+\end_layout
+
+\begin_layout Standard
+“Now what?” Dumbledore echoed.
+ “Why, now the hero wins, of course.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” said Severus, Minerva, and Harry.
+\end_layout
+
+\begin_layout Standard
+“Well, he certainly seems to have backed us into a corner,” Dumbledore said,
+ smiling happily.
+ “But Hogwarts 
+\emph on
+does
+\emph default
+ need an evil Potions Master, or it just wouldn't be a proper magical school,
+ now would it? So how about if Professor Snape is only awful toward students
+ in their fifth year and higher?”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” said all three of them again.
+\end_layout
+
+\begin_layout Standard
+“If it's the most vulnerable victims about whom you're concerned.
+ Maybe you're right, Harry.
+ Maybe I 
+\emph on
+have
+\emph default
+ forgotten over the decades what it's like to be a child.
+ So let's compromise.
+ Severus will continue to unfairly award points to Slytherin and impose
+ lax discipline on his House, and he will be awful to non-Slytherin students
+ in their fifth year and higher.
+ To others he will be scary, but not abusive.
+ He will promise to only read minds when the safety of a student requires
+ it.
+ Hogwarts will have its evil Potions Master, and the most vulnerable victims,
+ as you put it, will be safe.”
+\end_layout
+
+\begin_layout Standard
+Minerva McGonagall was as shocked as she'd ever been in her life.
+ She glanced uncertainly at Severus, whose face had been left completely
+ neutral, as though he couldn't decide what sort of expression he ought
+ to be wearing.
+\end_layout
+
+\begin_layout Standard
+“I suppose that is acceptable,” Harry said.
+ His voice sounded a bit odd.
+\end_layout
+
+\begin_layout Standard
+“You can't be serious,” Severus said, his voice as expressionless as his
+ face.
+\end_layout
+
+\begin_layout Standard
+“I am very much in favor of this,” Minerva said slowly.
+ She was so much in favor that her heart was pounding wildly beneath her
+ robes.
+ “But what could we possibly tell the students? They might not have questioned
+ this while Severus was… being awful to everyone, but 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Harry can tell the other students that he discovered a terrible secret
+ of Severus's and did a bit of blackmail,” said Dumbledore.
+ “It's true, after all; he discovered that Severus was reading minds, and
+ he certainly did blackmail us.”
+\end_layout
+
+\begin_layout Standard
+“This is insanity!” exploded Severus.
+\end_layout
+
+\begin_layout Standard
+“Bwah ha ha!” said Dumbledore.
+\end_layout
+
+\begin_layout Standard
+“Ah…” said Harry uncertainly.
+ “And if anyone asks me why fifth years and above got shafted? I wouldn't
+ blame them for being irate, and that part wasn't exactly my idea 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Tell them,” said Dumbledore, “that it wasn't you who suggested the compromise,
+ that it was all you could get.
+ And then refuse to say anything more.
+ That, too, is true.
+ There's an art to it, you'll pick it up with practice.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded slowly.
+ “And the points he took from Ravenclaw?”
+\end_layout
+
+\begin_layout Standard
+“They must not be given back.”
+\end_layout
+
+\begin_layout Standard
+It was Minerva who said it.
+\end_layout
+
+\begin_layout Standard
+Harry looked at her.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” she said.
+ She 
+\emph on
+was
+\emph default
+ sorry, but it had to be done.
+ “There 
+\emph on
+must
+\emph default
+ be some consequences for your misbehavior or this school will fall to pieces.”
+\end_layout
+
+\begin_layout Standard
+Harry shrugged.
+ “Acceptable,” he said flatly.
+ “But in the future Severus will not strike at my House connections by taking
+ points from me, nor will he waste my valuable time with detentions.
+ Should he feel that my behavior requires correction, he may communicate
+ his concerns to Professor McGonagall.”
+\end_layout
+
+\begin_layout Standard
+“Harry,” Minerva said, “will you continue to submit to school discipline,
+ or are you to be above the law now, as Severus was?”
+\end_layout
+
+\begin_layout Standard
+Harry looked at her.
+ Something warm touched his gaze, briefly before it was quashed.
+ “I will continue to be an ordinary student to every member of the staff
+ who is not insane or evil, provided that they do not come under pressure
+ from others who are.” Harry glanced briefly at Severus, then turned back
+ to Dumbledore.
+ “Leave Minerva alone, and I'll be a regular Hogwarts student in her presence.
+ No special privileges or immunities.”
+\end_layout
+
+\begin_layout Standard
+“Beautiful,” Dumbledore said sincerely.
+ “Spoken like a true hero.”
+\end_layout
+
+\begin_layout Standard
+“And,” she said, “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter must publicly apologize for his actions of today.”
+\end_layout
+
+\begin_layout Standard
+Harry gave her another look.
+ This one was a bit skeptical.
+\end_layout
+
+\begin_layout Standard
+“The discipline of the school has been gravely injured by your actions,
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” Minerva said.
+ “It must be restored.”
+\end_layout
+
+\begin_layout Standard
+“I think, Professor McGonagall, that you considerably overestimate the importanc
+e of what you call school discipline, as compared to having History taught
+ by a live teacher or not torturing your students.
+ Maintaining the current status hierarchy and enforcing its rules seems
+ ever so much more wise and moral and important when you are on the top
+ and doing the enforcing than when you are on the bottom, and I can cite
+ studies to this effect if required.
+ I could go on for several hours about this point, but I will leave it at
+ that.”
+\end_layout
+
+\begin_layout Standard
+Minerva shook her head.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, you underestimate the importance of discipline because you are not
+ in need of it yourself 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” She paused.
+ That hadn't come out right, and Severus, Dumbledore, and even Harry were
+ giving her strange looks.
+ “To learn, I mean.
+ Not every child can learn in the absence of authority.
+ And it is the other children who will be hurt, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, if they see your example as one to be followed.”
+\end_layout
+
+\begin_layout Standard
+Harry's lips curved into a twisted smile.
+ “The first and last resort is the truth.
+ The truth is that I shouldn't have gotten angry, I shouldn't have disrupted
+ the class, I shouldn't have done what I did, and I set a bad example for
+ everyone.
+ The truth is also that Severus Snape behaved in a fashion unbecoming a
+ Hogwarts professor, and that from now on he will be more mindful of the
+ injured feelings of students in their fourth year and under.
+ The two of us could both get up and speak the truth.
+ I could live with that.”
+\end_layout
+
+\begin_layout Standard
+“In your dreams, Potter!” spat Severus.
+\end_layout
+
+\begin_layout Standard
+“After all,” said Harry, smiling grimly, “if the students see that rules
+ are for 
+\emph on
+everyone…
+\emph default
+ for professors too, not just for poor helpless students who get nothing
+ but suffering out of the system… why, the positive effects on school discipline
+ should be 
+\emph on
+tremendous.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+There was a brief pause, and then Dumbledore chuckled.
+ “Minerva is thinking that you're righter than you have any right to be.”
+\end_layout
+
+\begin_layout Standard
+Harry's gaze jerked away from Dumbledore, down to the floor.
+ “Are 
+\emph on
+you
+\emph default
+ reading 
+\emph on
+her
+\emph default
+ mind?”
+\end_layout
+
+\begin_layout Standard
+“Common sense is often mistaken for Legilimency,” said Dumbledore.
+ “I shall talk over this matter with Severus, and no apology will be required
+ from you unless he apologizes as well.
+ And now I declare this matter concluded, at least until lunchtime.” He paused.
+ “Although, Harry, I'm afraid that Minerva wished to speak with you about
+ an additional matter.
+ And that is not the result of any pressure on my part.
+ Minerva, if you would?”
+\end_layout
+
+\begin_layout Standard
+Minerva rose from her chair and almost fell.
+ There was too much adrenaline in her blood, her heart was beating too fast.
+\end_layout
+
+\begin_layout Standard
+“Fawkes,” said Dumbledore, “accompany her, please.”
+\end_layout
+
+\begin_layout Standard
+“I don't 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” she started to say.
+\end_layout
+
+\begin_layout Standard
+Dumbledore shot her a look, and she fell silent.
+\end_layout
+
+\begin_layout Standard
+The phoenix soared across the room like a smooth tongue of flame leaping
+ out, and landed on her shoulder.
+ She felt the warmth through her robes, all through her body.
+\end_layout
+
+\begin_layout Standard
+“Please follow me, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” she said, firmly now, and they left through the door.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+They stood on the rotating stairs, descending in silence.
+\end_layout
+
+\begin_layout Standard
+Minerva didn't know what to say.
+ She didn't know this person who stood beside her.
+\end_layout
+
+\begin_layout Standard
+And Fawkes began to croon.
+\end_layout
+
+\begin_layout Standard
+It was tender, and soft, like a fireplace would sound if it had melody,
+ and it washed over Minerva's mind, easing, soothing, gentling what it touched…
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What
+\emph default
+ is 
+\emph on
+that?
+\emph default
+” Harry whispered beside her.
+ His voice was unstable, wobbling, changing pitch.
+\end_layout
+
+\begin_layout Standard
+“The song of the phoenix,” said Minerva, not really aware of what she was
+ saying, her attention was all on that strange quiet music.
+ “It, too, heals.”
+\end_layout
+
+\begin_layout Standard
+Harry turned his face from her, but she caught a glimpse of something agonized.
+\end_layout
+
+\begin_layout Standard
+The descent seemed to take a very long time, or maybe it was only that the
+ music seemed to take a very long time, and when they stepped out through
+ the gap where a gargoyle had been, she was holding Harry's hand firmly
+ in hers.
+\end_layout
+
+\begin_layout Standard
+As the gargoyle stepped back into place, Fawkes left her shoulder, and swooped
+ to hover in front of Harry.
+\end_layout
+
+\begin_layout Standard
+Harry stared at Fawkes like someone hypnotized by the ever-changing light
+ of a fire.
+\end_layout
+
+\begin_layout Standard
+“What am I to do, Fawkes?” whispered Harry.
+ “I couldn't have protected them if I hadn't been angry.”
+\end_layout
+
+\begin_layout Standard
+The phoenix's wings continued flapping, it continued hovering in place.
+ There was no sound but the beating of the wings.
+ Then there was a flash like a fire flaring up and going out, and Fawkes
+ was gone.
+\end_layout
+
+\begin_layout Standard
+Both of them blinked, like waking up from a dream, or maybe like falling
+ asleep again.
+\end_layout
+
+\begin_layout Standard
+Minerva looked down.
+\end_layout
+
+\begin_layout Standard
+Harry Potter's bright young face looked up at her.
+\end_layout
+
+\begin_layout Standard
+“Are phoenixes people?” said Harry.
+ “I mean, are they smart enough to count as people? Could I talk with Fawkes
+ if I knew how?”
+\end_layout
+
+\begin_layout Standard
+Minerva blinked hard.
+ Then she blinked again.
+ “No,” Minerva said, her voice wavering.
+ “Phoenixes are creatures of powerful magic.
+ That magic gives their existence a weight of meaning which no simple animal
+ could possess.
+ They are fire, light, healing, rebirth.
+ But in the end, no.”
+\end_layout
+
+\begin_layout Standard
+“Where can I get one?”
+\end_layout
+
+\begin_layout Standard
+Minerva leaned down and hugged him.
+ She hadn't meant to, but she didn't seem to have much choice in the matter.
+\end_layout
+
+\begin_layout Standard
+When she stood up she found it hard to speak.
+ But she had to ask.
+ “What happened today, Harry?”
+\end_layout
+
+\begin_layout Standard
+“I don't know the answers to any of the important questions either.
+ Aside from that I'd really rather not think about it for a while.”
+\end_layout
+
+\begin_layout Standard
+Minerva took his hand in hers again, and they walked the rest of the way
+ in silence.
+\end_layout
+
+\begin_layout Standard
+It was only a short trip, since naturally the office of the Deputy was close
+ to the office of the Headmaster.
+\end_layout
+
+\begin_layout Standard
+Minerva sat behind her desk.
+\end_layout
+
+\begin_layout Standard
+Harry sat in front of her desk.
+\end_layout
+
+\begin_layout Standard
+“So,” Minerva whispered.
+ She would have given almost anything not to do this, or not to be the one
+ who had to do it, or for it to be any time but right now.
+ “There is a matter of school discipline.
+ From which you are not exempt.”
+\end_layout
+
+\begin_layout Standard
+“Namely?” said Harry.
+\end_layout
+
+\begin_layout Standard
+He didn't know.
+ He hadn't figured it out yet.
+ She felt her throat tighten.
+ But there was work to be done and she would not shirk it.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said Professor McGonagall, “I need to see your Time-Turner, please.”
+\end_layout
+
+\begin_layout Standard
+All the peace of the phoenix vanished from his face in an instant and Minerva
+ felt like she had just stabbed him.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+No!
+\emph default
+” Harry said.
+ His voice was panicked.
+ “I need it, I won't be able to attend Hogwarts, I won't be able to sleep!”
+\end_layout
+
+\begin_layout Standard
+“You'll be able to sleep,” she said.
+ “The Ministry has delivered the protective shell for your Time-Turner.
+ I will enchant it to open only between the hours of 9pm and midnight.”
+\end_layout
+
+\begin_layout Standard
+Harry's face twisted.
+ “But 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but I 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, how many times have you used the Time-Turner since Monday? How many
+ hours?”
+\end_layout
+
+\begin_layout Standard
+“I…” Harry said.
+ “Hold on, let me add it up 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” He glanced down at his watch.
+\end_layout
+
+\begin_layout Standard
+Minerva felt a rush of sadness.
+ She'd thought so.
+ “It wasn't just two per day, then.
+ I suspect that if I asked your dormmates, I would find that you were struggling
+ to stay up long enough to go to sleep at a reasonable time, and waking
+ up earlier and earlier every morning.
+ Correct?”
+\end_layout
+
+\begin_layout Standard
+Harry's face said everything she needed to know.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” she said gently, “there are students who cannot be entrusted with
+ Time-Turners, because they become addicted to them.
+ We give them a potion which lengthens their sleep cycle by the necessary
+ amount, but they end up using the Time-Turner for more than just attending
+ their classes.
+ And so we must take them back.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, you have taken to using the Time-Turner as your solution to everything,
+ often very foolishly so.
+ You used it to get back a Remembrall.
+ You vanished from a closet in a fashion apparent to other students, instead
+ of going back after you were out and getting me or someone else to come
+ and open the door.”
+\end_layout
+
+\begin_layout Standard
+From the look on Harry's face he hadn't thought of that.
+\end_layout
+
+\begin_layout Standard
+“And more importantly,” she said, “you should have simply sat in Professor
+ Snape's class.
+ And watched.
+ And left at the end of class.
+ As you would have done if you had not possessed a Time-Turner.
+ There are some students who cannot be entrusted with Time-Turners, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ You are one of them.
+ I am sorry.”
+\end_layout
+
+\begin_layout Standard
+“But I 
+\emph on
+need
+\emph default
+ it!” Harry blurted.
+ “What if there are Slytherins threatening me and I have to escape? It keeps
+ me 
+\emph on
+safe
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Every other student in this castle runs the same risk, and I assure you
+ that they survive.
+ No student has died in this castle for fifty years.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, you will hand over your Time-Turner and do so now.”
+\end_layout
+
+\begin_layout Standard
+Harry's face twisted in agony, but he drew out the Time-Turner from under
+ his robes and gave it to her.
+\end_layout
+
+\begin_layout Standard
+From her desk, Minerva drew out one of the protective shells that had been
+ sent to Hogwarts.
+ She snapped the cover into place around the Time-Turner's turning hourglass,
+ and then she laid her wand on the cover to complete the enchantment.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+This isn't fair!
+\emph default
+” Harry shrieked.
+ “I saved half of Hogwarts from Professor Snape today, is it right that
+ I be punished for it? I saw the look on your face, you 
+\emph on
+hated
+\emph default
+ what he was doing!”
+\end_layout
+
+\begin_layout Standard
+Minerva didn't speak for a few moments.
+ She was enchanting.
+\end_layout
+
+\begin_layout Standard
+When she finished and looked up, she knew that her face was stern.
+ Maybe it was the wrong thing to do.
+ And then again maybe it was the right thing to do.
+ There was an obstinate child in front of her, and that 
+\emph on
+didn't
+\emph default
+ mean the universe was broken.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Fair,
+\emph default
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?” she snapped.
+ “I have had to file 
+\emph on
+two reports
+\emph default
+ with the Ministry on public use of a Time-Turner in 
+\emph on
+two successive days!
+\emph default
+ Be 
+\emph on
+extremely
+\emph default
+ grateful you were allowed to retain the Time-Turner even in restricted
+ form! The Headmaster made a Floo call to plead with them personally and
+ if you were not the Boy-Who-Lived even that would not have sufficed!”
+\end_layout
+
+\begin_layout Standard
+Harry gaped at her.
+\end_layout
+
+\begin_layout Standard
+She knew that he was seeing the angry face of Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+Harry's eyes filled up with tears.
+\end_layout
+
+\begin_layout Standard
+“I'm, sorry,” he whispered, voice now choked and broken.
+ “I'm sorry, to have, disappointed you…”
+\end_layout
+
+\begin_layout Standard
+“I'm sorry too, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” she said sternly, and handed him the newly restricted Time-Turner.
+ “You may go.”
+\end_layout
+
+\begin_layout Standard
+Harry turned and fled from her office, sobbing.
+ She heard his feet pattering away down the hall, and then the sound cut
+ off as the door swung closed.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry too, Harry,” she whispered to the quiet room.
+ “I'm sorry too.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Fifteen minutes into lunch hour.
+\end_layout
+
+\begin_layout Standard
+No one was speaking to Harry.
+ Some of the Ravenclaws were shooting him looks of anger, others of sympathy,
+ a few of the youngest students even had looks of admiration, but no one
+ was talking to him.
+ Even Hermione hadn't tried to come over.
+\end_layout
+
+\begin_layout Standard
+Fred and George had gingerly stepped near.
+ They hadn't said anything.
+ The offer was clear, and its optionality.
+ Harry had told them that he would come over when dessert started, no earlier.
+ They had nodded and quickly walked away.
+\end_layout
+
+\begin_layout Standard
+It was probably the utterly expressionless look on Harry's face that was
+ doing it.
+\end_layout
+
+\begin_layout Standard
+The others probably thought he was controlling anger, or dismay.
+ They knew, because they'd seen Flitwick come and get him, that he'd been
+ called to the Headmaster's office.
+\end_layout
+
+\begin_layout Standard
+Harry was trying not to smile, because if he smiled, he would start laughing,
+ and if he started laughing, he wouldn't stop until the nice people in white
+ jackets came to haul him away.
+\end_layout
+
+\begin_layout Standard
+It was too much.
+ It was just all too much.
+ Harry had almost gone over to the Dark Side, his dark side had done things
+ that seemed in retrospect insane, his dark side had won an impossible victory
+ that might have been real and might have been a pure whim of a crazy Headmaster
+, his dark side had protected his friends.
+ He just couldn't handle it any more.
+ He needed Fawkes to sing to him again.
+ He needed to use the Time-Turner to go off and take a quiet hour to recover
+ but that wasn't an option any more and the loss was like a hole in his
+ existence but he couldn't think about that because then he might start
+ laughing.
+\end_layout
+
+\begin_layout Standard
+Twenty minutes.
+ All the students who were going to eat lunch had arrived, almost none had
+ departed.
+\end_layout
+
+\begin_layout Standard
+The tapping of a spoon rang through the Great Hall.
+\end_layout
+
+\begin_layout Standard
+“If I may have your attention please,” Dumbledore said.
+ “Harry Potter has something he would like to share with us.”
+\end_layout
+
+\begin_layout Standard
+Harry took a deep breath and got up.
+ He walked over to the Head Table, with every eye staring at him.
+\end_layout
+
+\begin_layout Standard
+Harry turned and looked out at the four tables.
+\end_layout
+
+\begin_layout Standard
+It was becoming harder and harder not to smile, but Harry kept his face
+ expressionless as he spoke his brief and memorized speech.
+\end_layout
+
+\begin_layout Standard
+“The truth is sacred,” Harry said tonelessly.
+ “One of my most treasured possessions is a button which reads `Speak the
+ truth, even if your voice trembles'.
+ This, then, is the truth.
+ Remember that.
+ I am not saying it because I am being forced to say it, I am saying it
+ because it is true.
+ What I did in Professor Snape's class was foolish, stupid, childish, and
+ an inexcusable violation of the rules of Hogwarts.
+ I disrupted the classroom and deprived my fellow students of their irreplaceabl
+e learning time.
+ All because I failed to control my temper.
+ I hope that not a single one of you will ever follow my example.
+ I certainly intend to try never to follow it again.”
+\end_layout
+
+\begin_layout Standard
+Many of the students gazing at Harry now had solemn, unhappy looks upon
+ their faces, such as one might see at a ceremony marking the loss of a
+ fallen champion.
+ At the younger parts of the Gryffindor table the look was almost universal.
+\end_layout
+
+\begin_layout Standard
+Until Harry raised his hand.
+\end_layout
+
+\begin_layout Standard
+He did not raise it high.
+ That might have appeared preemptory.
+ He certainly did not raise it toward Severus.
+ Harry simply raised his hand to chest level, and softly snapped his fingers,
+ a gesture that was seen more than heard.
+ It was possible that most of the Head Table wouldn't see it at all.
+\end_layout
+
+\begin_layout Standard
+This seeming gesture of defiance won sudden smiles from the younger students
+ and Gryffindors, and coldly superior sneers from Slytherin, and frowns
+ and worried looks from all others.
+\end_layout
+
+\begin_layout Standard
+Harry kept his face expressionless.
+ “Thank you,” he said.
+ “That's all.”
+\end_layout
+
+\begin_layout Standard
+“Thank you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the Headmaster.
+ “And now Professor Snape has something to share with us as well.”
+\end_layout
+
+\begin_layout Standard
+Severus smoothly stood up from his place at the Head Table.
+ “It has been brought to my attention,” he said, “that my own actions played
+ a part in provoking the admittedly inexcusable anger of Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, and in the ensuing discussion I realized that I had forgotten how
+ easily injured are the feelings of the young and immature 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+There was the sound of many people emitting muffled chokes at the same time.
+\end_layout
+
+\begin_layout Standard
+Severus continued as if he had not heard.
+ “The Potions classroom is a dangerous place, and I still feel that strict
+ discipline is necessary, but henceforth I will be more aware of the… emotional
+ fragility… of students in their fourth year and younger.
+ My deduction of points from Ravenclaw still stands, but I will revoke Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter's detention.
+ Thank you.”
+\end_layout
+
+\begin_layout Standard
+There was a single clap from the direction of Gryffindor and faster than
+ lightning Severus's wand was in his hand and “
+\emph on
+Quietus!
+\emph default
+” silenced the offender.
+\end_layout
+
+\begin_layout Standard
+“I will still demand discipline and respect in 
+\emph on
+all
+\emph default
+ my classes,” Severus said coldly, “and anyone who trifles with me will
+ regret it.”
+\end_layout
+
+\begin_layout Standard
+He sat down.
+\end_layout
+
+\begin_layout Standard
+“Thank you too!” Headmaster Dumbledore said cheerfully.
+ “Carry on!”
+\end_layout
+
+\begin_layout Standard
+And Harry, still expressionless, began to walk back to his seat in Ravenclaw.
+\end_layout
+
+\begin_layout Standard
+There was an explosion of conversation.
+ Two words were clearly identifiable in the beginning.
+ The first was an initial “What 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” beginning many different sentences such as “What just happened 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” and “What the hell 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” The second was “
+\emph on
+Scourgify!
+\emph default
+” as students cleaned up the dropped food and spit-out drinks from themselves,
+ the tablecloth, and each other.
+\end_layout
+
+\begin_layout Standard
+Some students were weeping openly.
+ So was Professor Sprout.
+\end_layout
+
+\begin_layout Standard
+At the Gryffindor table, where a cake waited with fifty-one unlit candles,
+ Fred whispered, “I think we may be out of our league here, George.”
+\end_layout
+
+\begin_layout Standard
+And from that day onward, no matter what Hermione tried to tell anyone,
+ it would be an accepted legend of Hogwarts that Harry Potter could make
+ absolutely anything happen by snapping his fingers.
+\end_layout
+
+\end_body
+\end_document

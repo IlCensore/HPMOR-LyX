@@ -1,0 +1,883 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Self Awareness, Part I
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+“A
+\end_layout
+
+\end_inset
+
+bbott,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Hannah!”
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Pause.
+\end_layout
+
+\begin_layout Standard
+“HUFFLEPUFF!”
+\end_layout
+
+\begin_layout Standard
+“Bones, Susan!”
+\end_layout
+
+\begin_layout Standard
+Pause.
+\end_layout
+
+\begin_layout Standard
+“HUFFLEPUFF!”
+\end_layout
+
+\begin_layout Standard
+“Boot, Terry!”
+\end_layout
+
+\begin_layout Standard
+Pause.
+\end_layout
+
+\begin_layout Standard
+“RAVENCLAW!”
+\end_layout
+
+\begin_layout Standard
+Harry glanced over briefly at his new House-mate, more to get a quick look
+ at the face than anything else.
+ He was still trying to get himself under control from his encounter with
+ the ghosts.
+ The sad, the really sad, the really truly sad thing was that he 
+\emph on
+did
+\emph default
+ seem to be getting himself under control again.
+ It seemed ill-fitting.
+ Like he should have taken at least a day.
+ Maybe a whole lifetime.
+ Maybe just never.
+\end_layout
+
+\begin_layout Standard
+“Corner, Michael!”
+\end_layout
+
+\begin_layout Standard
+Long pause.
+\end_layout
+
+\begin_layout Standard
+“RAVENCLAW!”
+\end_layout
+
+\begin_layout Standard
+At the lectern before the huge Head Table stood Professor McGonagall, looking
+ sharp and looking sharply around, as she called out one name after another,
+ though she had smiled only for Hermione and a few others.
+ Behind her, in the tallest chair at the table 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ really more of a golden throne 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ sat a wizened and bespectacled ancient, with a silver-white beard that
+ looked like it would go almost to the floor if it were visible, watching
+ over the Sorting with a benevolent expression; as stereotypical in appearance
+ as a Wise Old Man could possibly be, without actually being Oriental.
+ (Though Harry had learned to be wary of stereotypical appearances from
+ the first time he'd met Professor McGonagall and thought that she ought
+ to cackle.) The ancient wizard had applauded every student Sorted, with
+ an unwavering smile that somehow seemed freshly delighted for each.
+\end_layout
+
+\begin_layout Standard
+To the golden throne's left side was a man with sharp eyes and a dour face
+ who had applauded no-one, and who somehow managed to be looking straight
+ back at Harry every time Harry looked at him.
+ Further to the left, the pale-faced man Harry had seen in the Leaky Cauldron,
+ whose eyes darted around as though in panic at the surrounding crowd, and
+ who seemed to occasionally jerk and twitch in his seat; for some reason
+ Harry kept finding himself staring at him.
+ To that man's left, a string of three older witches who didn't seem much
+ interested in the students.
+ Then to the right side of the tall golden chair, a round-faced middle-aged
+ witch with a yellow hat, who had applauded every student except the Slytherins.
+ A tiny man standing on his chair, with a poofy white beard, who had applauded
+ every student, but smiled only upon the Ravenclaws.
+ And on the farthest right, occupying the same space as three lesser beings,
+ the mountainous entity who'd greeted them all after they'd disembarked
+ from the train, naming himself Hagrid, Keeper of Keys and Grounds.
+\end_layout
+
+\begin_layout Standard
+“Is the man standing on his chair the Head of Ravenclaw?” Harry whispered
+ towards Hermione.
+\end_layout
+
+\begin_layout Standard
+For once Hermione didn't answer this instantly; she was shifting constantly
+ from side to side, staring at the Sorting Hat, and fidgeting so energetically
+ that Harry thought her feet might be leaving the floor.
+\end_layout
+
+\begin_layout Standard
+“Yes, he is,” said one of the prefects who'd accompanied them, a young woman
+ wearing the blue of Ravenclaw.
+ Miss Clearwater, if Harry recalled correctly.
+ Her voice was quiet, but conveyed a tinge of pride.
+ “That is the Charms Professor of Hogwarts, Filius Flitwick, the most knowledgea
+ble Charms Master alive, and a past Duelling Champion 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Why's he so 
+\emph on
+short?
+\emph default
+” hissed a student whose name Harry didn't recall.
+ “Is he a 
+\emph on
+halfbreed?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+A chill glance from the young lady prefect.
+ “The Professor does indeed have goblin ancestry 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“What?” Harry said involuntarily, causing Hermione and four other students
+ to hush him.
+\end_layout
+
+\begin_layout Standard
+Now Harry was getting a surprisingly intimidating glare from the Ravenclaw
+ prefect.
+\end_layout
+
+\begin_layout Standard
+“I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry whispered.
+ “Not that I have a 
+\emph on
+problem
+\emph default
+ with that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it's just 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ how's that 
+\emph on
+possible?
+\emph default
+ You can't just mix two different species together and get viable offspring!
+ It ought to scramble the genetic instructions for every organ that's different
+ between the two species 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it'd be like trying to build,” they didn't have cars so he couldn't use
+ a scrambled-engine-blueprints analogy, “a half-carriage half-boat or something…
+”
+\end_layout
+
+\begin_layout Standard
+The Ravenclaw prefect was still looking at Harry severely.
+ “Why 
+\emph on
+couldn't
+\emph default
+ you have a half-carriage half-boat?”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Hssh!
+\emph default
+” hsshed another prefect, though the Ravenclaw witch had still spoken quietly.
+\end_layout
+
+\begin_layout Standard
+“I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry said even more quietly, trying to figure out how to ask whether
+ goblins had evolved from humans, or evolved from a common ancestor of humans
+ like 
+\emph on
+Homo erectus
+\emph default
+, or if goblins had been 
+\emph on
+made
+\emph default
+ out of humans somehow 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ if, say, they were still genetically human under a heritable enchantment
+ whose magical effect was diluted if only one parent was a `goblin', which
+ would explain how interbreeding was possible, and in which case goblins
+ would 
+\emph on
+not
+\emph default
+ be an incredibly valuable second data point for how intelligence had evolved
+ in other species besides 
+\emph on
+Homo sapiens
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ now that Harry thought about it, the goblins in Gringotts 
+\emph on
+hadn't
+\emph default
+ seemed very much like genuinely alien, nonhuman intelligences, nothing
+ like Dirdir or Puppeteers 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ “I mean, where did goblins 
+\emph on
+come
+\emph default
+ from, anyway?”
+\end_layout
+
+\begin_layout Standard
+“Lithuania,” Hermione whispered absently, her eyes still fixed firmly on
+ the Sorting Hat.
+\end_layout
+
+\begin_layout Standard
+Now Hermione was getting a smile from the lady prefect.
+\end_layout
+
+\begin_layout Standard
+“Never mind,” whispered Harry.
+\end_layout
+
+\begin_layout Standard
+At the lectern, Professor McGonagall called out, “Goldstein, Anthony!”
+\end_layout
+
+\begin_layout Standard
+“RAVENCLAW!”
+\end_layout
+
+\begin_layout Standard
+Hermione, next to Harry, was bouncing on her tiptoes so hard that her feet
+ were actually leaving the ground on each bounce.
+\end_layout
+
+\begin_layout Standard
+“Goyle, Gregory!”
+\end_layout
+
+\begin_layout Standard
+There was a long, tense moment of silence under the Hat.
+ Almost a minute.
+\end_layout
+
+\begin_layout Standard
+“SLYTHERIN!”
+\end_layout
+
+\begin_layout Standard
+“Granger, Hermione!”
+\end_layout
+
+\begin_layout Standard
+Hermione broke loose and ran full tilt towards the Sorting Hat, picked it
+ up and jammed the patchy old clothwork down hard over her head, making
+ Harry wince.
+ Hermione had been the one to explain to 
+\emph on
+him
+\emph default
+ about the Sorting Hat, but she certainly didn't 
+\emph on
+treat
+\emph default
+ it like an irreplaceable, vitally important, 800-year-old artefact of forgotten
+ magic that was about to perform intricate telepathy on her mind and didn't
+ seem to be in very good physical condition.
+\end_layout
+
+\begin_layout Standard
+“RAVENCLAW!”
+\end_layout
+
+\begin_layout Standard
+And talk about your foregone conclusions.
+ Harry didn't see why Hermione had been so tense about it.
+ In what weird alternative universe would that girl 
+\emph on
+not
+\emph default
+ be Sorted into Ravenclaw? If Hermione Granger didn't go to Ravenclaw then
+ there was no good reason for Ravenclaw House to exist.
+\end_layout
+
+\begin_layout Standard
+Hermione arrived at the Ravenclaw table and got a dutiful cheer; Harry wondered
+ whether the cheer would have been louder, or quieter, if they'd had any
+ idea just what level of competition they'd welcomed to their table.
+ Harry knew pi to 3.141592 because accuracy to one part in a million was
+ enough for most practical purposes.
+ Hermione knew one hundred digits of pi because that was how many digits
+ had been printed in the back of her maths textbook.
+\end_layout
+
+\begin_layout Standard
+Neville Longbottom went to Hufflepuff, Harry was glad to see.
+ If that House really did contain the loyalty and camaraderie it was supposed
+ to exemplify, then a Houseful of reliable friends would do Neville a whole
+ world of good.
+ Clever kids in Ravenclaw, evil kids in Slytherin, wannabe heroes in Gryffindor,
+ and everyone who does the actual work in Hufflepuff.
+\end_layout
+
+\begin_layout Standard
+(Though Harry 
+\emph on
+had
+\emph default
+ been right to consult a Ravenclaw prefect first.
+ The young woman hadn't even looked up from her reading or identified Harry,
+ just jabbed a wand in Neville's direction and muttered something.
+ After which Ne\SpecialChar \-
+ville had acquired a dazed expression and wandered off to
+ the fifth carriage from the front and the fourth compartment on the left,
+ which indeed had contained his toad.)
+\end_layout
+
+\begin_layout Standard
+“Malfoy, Draco!” went to Slytherin, and Harry breathed a small sigh of relief.
+ It had 
+\emph on
+seemed
+\emph default
+ like a sure thing, but you never did know what tiny event might upset the
+ course of your master plan.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall called “Perks, Sally-Anne!”, and from the gathered
+ children detached a pale waifish girl who looked oddly ethereal 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ like she might mysteriously disappear the moment you stopped looking at
+ her, and never be seen again or even remembered.
+\end_layout
+
+\begin_layout Standard
+And then (with a note of trepidation so firmly kept from her voice and face
+ that you'd have needed to know her very well indeed to notice) Minerva
+ McGonagall inhaled deeply, and called out, “Potter, Harry!”
+\end_layout
+
+\begin_layout Standard
+There was a sudden silence in the hall.
+\end_layout
+
+\begin_layout Standard
+All conversation stopped.
+\end_layout
+
+\begin_layout Standard
+All eyes turned to stare.
+\end_layout
+
+\begin_layout Standard
+For the first time in his entire life, Harry felt like he might be having
+ an opportunity to experience stage fright.
+\end_layout
+
+\begin_layout Standard
+Harry immediately stomped down this feeling.
+ Whole room-fulls of people staring at him was something he'd have to accustom
+ himself to, if he wanted to live in magical Britain, or for that matter
+ do anything else interesting with his life.
+ Affixing a confident and false smile to his face, he raised a foot to step
+ forwards 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Harry Potter!” cried the voice of either Fred or George Weasley, and then
+ “Harry Potter!” cried the other Weasley twin, and a moment later the entire
+ Gryffindor table, and soon after a good portion of Ravenclaw and Hufflepuff,
+ had taken up the cry.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Harry Potter! Harry Potter! Harry Potter!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+And Harry Potter walked forwards.
+ Much too slowly, he realized once he'd begun, but by then it was too late
+ to alter his pace without it looking awkward.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Harry Potter! Harry Potter! HARRY POTTER!”
+\end_layout
+
+\begin_layout Standard
+With all too good a notion of what she would see, Minerva McGonagall turned
+ to look behind herself at the rest of the Head Table.
+\end_layout
+
+\begin_layout Standard
+Trelawney frantically fanning herself, Filius looking on with curiosity,
+ Hagrid clapping along, Sprout looking severe, Vector and Sinistra bemused,
+ and Quirrell gazing vacuously at nothing.
+ Albus smiling benevolently.
+ And Severus Snape gripping his empty wine goblet, white-knuckled, so hard
+ that the silver was slowly deforming.
+\end_layout
+
+\begin_layout Standard
+With a wide grin, turning his head to bow to one side and then the other
+ as he walked between the four House tables, Harry Potter walked forwards
+ at a grandly measured pace, a prince inheriting his castle.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Save us from some more Dark Lords!”
+\emph default
+ called one of the Weasley twins, and then the other Weasley twin cried,
+ 
+\emph on
+“Especially if they're Professors!”
+\emph default
+ to general laughter from all the tables except Slytherin.
+\end_layout
+
+\begin_layout Standard
+Minerva's lips set in a white line.
+ She would have words with the Weasley Horrors about that last part, if
+ they thought she was powerless because it was the first day of school and
+ Gryffindor had no points to take away.
+ If they didn't care about detentions then she would find something else.
+\end_layout
+
+\begin_layout Standard
+Then, with a sudden gasp of horror, she looked in Severus's direction, 
+\emph on
+surely
+\emph default
+ he realized the Potter boy must have no idea who that was talking about
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Severus's face had gone beyond rage into a kind of pleasant indifference.
+ A faint smile played about his lips.
+ He was looking in the direction of Harry Potter, not the Gryffindor table,
+ and his hands held the crumpled remains of a former wine goblet.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry Potter walked forwards with a fixed smile, feeling warm inside and
+ sort of awful at the same time.
+\end_layout
+
+\begin_layout Standard
+They were cheering him for a job he'd done when he was one year old.
+ A job he hadn't really finished.
+ Somewhere, somehow, the Dark Lord was still alive.
+ Would they have been cheering quite so hard, if they knew that?
+\end_layout
+
+\begin_layout Standard
+But the Dark Lord's power 
+\emph on
+had
+\emph default
+ been broken once.
+\end_layout
+
+\begin_layout Standard
+And Harry would protect them again.
+ If there was in fact a prophecy and that was what it said.
+ Well, actually regardless of what any darn prophecy said.
+\end_layout
+
+\begin_layout Standard
+All those people believing in him and cheering him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Harry couldn't stand to let that be false.
+ To flash and fade like so many other child prodigies.
+ To be a disappointment.
+ To fail to live up to his reputation as a symbol of the Light, never mind
+ 
+\emph on
+how
+\emph default
+ he'd gotten it.
+ He would absolutely, positively, no matter how long it took and even if
+ it killed him, fulfill their expectations.
+ And then go on to 
+\emph on
+exceed
+\emph default
+ those expectations, so that people wondered, looking back, that they had
+ once asked so little of him.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“HARRY POTTER! HARRY POTTER! HARRY POTTER!”
+\end_layout
+
+\begin_layout Standard
+Harry took his last steps towards the Sorting Hat.
+ He swept a bow to the Order of Chaos at the Gryffindor table, and then
+ turned and swept another bow to the other side of the hall, and waited
+ for the applause and giggling to die away.
+\end_layout
+
+\begin_layout Standard
+(In the back of his mind, he wondered if the Sorting Hat was genuinely 
+\emph on
+conscious
+\emph default
+ in the sense of being aware of its own awareness, and if so, whether it
+ was satisfied with only getting to talk to eleven-year-olds once per year.
+ Its song had implied so: 
+\emph on
+Oh, I'm the Sorting Hat and I'm okay, I sleep all year and I work one day…
+\emph default
+)
+\end_layout
+
+\begin_layout Standard
+When there was once more silence in the room, Harry sat on the stool and
+ 
+\emph on
+carefully
+\emph default
+ placed onto his head the 800-year-old telepathic artefact of forgotten
+ magic.
+\end_layout
+
+\begin_layout Standard
+Thinking, just as hard as he could: 
+\emph on
+Don't Sort me yet! I have questions I need to ask you! Have I ever been
+ Obliviated? Did you Sort the Dark Lord when he was a child and can you
+ tell me about his weaknesses? Can you tell me why I got the brother wand
+ to the Dark Lord's? Is the Dark Lord's ghost bound to my scar and is that
+ why I get so angry sometimes? Those are the most important questions, but
+ if you've got another moment can you tell me anything about how to rediscover
+ the lost magics that created you?
+\end_layout
+
+\begin_layout Standard
+Into the silence of Harry's spirit, where before there had never been any
+ voice but one, there came a second and unfamiliar voice, sounding distinctly
+ worried:
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Oh, dear.
+ This has never happened before…”
+\end_layout
+
+\end_body
+\end_document

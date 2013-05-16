@@ -1,0 +1,1359 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Impulse Control
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+“T
+\end_layout
+
+\end_inset
+
+urpin,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Lisa!”
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Whisper whisper whisper harry potter whisper whisper slytherin whisper whisper
+ no seriously what the hell whisper whisper
+\end_layout
+
+\begin_layout Standard
+“RAVENCLAW!”
+\end_layout
+
+\begin_layout Standard
+Harry joined in the applause greeting the young girl walking shyly towards
+ the Ravenclaw table, her robes' trim now changed to dark blue.
+ Lisa Turpin appeared torn between her impulse to sit down as far away from
+ Harry Potter as possible, and her impulse to run over, forcibly insert
+ herself at his side and start tearing answers out of him.
+\end_layout
+
+\begin_layout Standard
+Being at the center of an extraordinary and curious event, and then being
+ Sorted into House Ravenclaw, was closely akin to being dipped in barbecue
+ sauce and flung into a pit of starving kittens.
+\end_layout
+
+\begin_layout Standard
+“I promised the Sorting Hat not to talk about it,” whispered Harry for the
+ umpteenth time.
+\end_layout
+
+\begin_layout Standard
+“Yes, really.”
+\end_layout
+
+\begin_layout Standard
+“No, I really did promise the Sorting Hat not to talk about it.”
+\end_layout
+
+\begin_layout Standard
+“Fine, I promised the Sorting Hat not to talk about 
+\emph on
+most
+\emph default
+ of it and the rest is 
+\emph on
+private
+\emph default
+ just like 
+\emph on
+yours was
+\emph default
+ so 
+\emph on
+stop asking.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“You want to know what happened? Fine! Here's part of what happened! I told
+ the Hat that Professor McGonagall threatened to set it on fire and it told
+ me to tell Professor McGonagall that she was an impudent youngster and
+ she should get off its lawn!”
+\end_layout
+
+\begin_layout Standard
+“If you're not going to believe what I say then 
+\emph on
+why are you even asking?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“No, I don't know how I defeated the Dark Lord either! You tell me if you
+ figure it out!”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Silence!
+\emph default
+” shouted Professor McGonagall at the podium of the Head Table.
+ “
+\emph on
+No talking until the Sorting Ceremony finishes!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There was a brief dip in the volume, as everyone waited to see if she was
+ going to make any specific and credible threats, and then the whispers
+ started up again.
+\end_layout
+
+\begin_layout Standard
+Then the silver-bearded ancient stood up from his great golden chair, smiling
+ cheerfully.
+\end_layout
+
+\begin_layout Standard
+Instant silence.
+ Someone frantically elbowed Harry as he tried to continue a whisper, and
+ Harry cut himself off in mid-sentence.
+\end_layout
+
+\begin_layout Standard
+The cheerful-looking old man sat down again.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Note to self: Do not mess with Dumbledore.
+\end_layout
+
+\begin_layout Standard
+Harry was still trying to process everything that had happened during the
+ Incident with the Sorting Hat.
+ Not the least of which was what had happened the instant Harry had lifted
+ the Hat off his head; in that moment, he'd heard a tiny whisper as though
+ from nowhere, something that sounded oddly like English and a hiss at the
+ same time, something that had said, “
+\emph on
+Ssalutations from Sslytherin to Sslytherin: if you would sseek my ssecretss,
+ sspeak to my ssnake.”
+\end_layout
+
+\begin_layout Standard
+Harry was sorta guessing that wasn't supposed to be part of the official
+ Sorting process.
+ And that it was a bit of extra magic set down by Salazar Slytherin during
+ the making of the Hat.
+ And that the Hat itself didn't know about it.
+ And that it was triggered when the Hat said “SLYTHERIN”, plus or minus
+ some other conditions.
+ And that a Ravenclaw like himself 
+\emph on
+really, really wasn't supposed to have heard it
+\emph default
+.
+ And that if he could find some reliable way of swearing Draco to secrecy
+ so he could ask him about it, that would be an excellent time to have some
+ Comed-Tea handy.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Boy, you resolve not to go down the path of a Dark Lord and the universe
+ starts messing with you the instant the Hat comes off your head.
+ Some days it just doesn't pay to fight destiny.
+ Maybe I'll wait until tomorrow to start on my resolution to not be a Dark
+ Lord.
+\end_layout
+
+\begin_layout Standard
+“GRYFFINDOR!”
+\end_layout
+
+\begin_layout Standard
+Ron Weasley got a 
+\emph on
+lot
+\emph default
+ of applause, and not just from the Gryffindors.
+ Apparently the Weasley family was widely liked around here.
+ Harry, after a moment, smiled and started applauding along with the others.
+\end_layout
+
+\begin_layout Standard
+Then again, there was no time like today to turn back from the Dark Side.
+\end_layout
+
+\begin_layout Standard
+Stuff destiny and stuff the universe.
+ He'd show that Hat.
+\end_layout
+
+\begin_layout Standard
+“Zabini, Blaise!”
+\end_layout
+
+\begin_layout Standard
+Pause.
+\end_layout
+
+\begin_layout Standard
+“SLYTHERIN!” shouted the hat.
+\end_layout
+
+\begin_layout Standard
+Harry applauded Zabini too, ignoring the odd looks he was getting from everyone
+ including Zabini.
+\end_layout
+
+\begin_layout Standard
+No other name was called out after that, and Harry realised that “Zabini,
+ Blaise” did sound close to the end of the alphabet.
+ Great, so now he'd 
+\emph on
+only
+\emph default
+ applauded Zabini… Oh well.
+\end_layout
+
+\begin_layout Standard
+Dumbledore got up again and began heading towards the podium.
+ Apparently they were about to be treated to a speech 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And Harry was struck by the inspiration for a 
+\emph on
+brilliant
+\emph default
+ experimental test.
+\end_layout
+
+\begin_layout Standard
+Hermione had said that Dumbledore was the most powerful wizard alive, right?
+\end_layout
+
+\begin_layout Standard
+Harry reached into his pouch and whispered, “Comed-Tea”.
+\end_layout
+
+\begin_layout Standard
+For the Comed-Tea to work, it would have to make Dumbledore say something
+ 
+\emph on
+so
+\emph default
+ ridiculous during his speech that even in Harry's state of mental preparedness,
+ he would 
+\emph on
+still
+\emph default
+ choke.
+ Like, all the Hogwarts students had to not wear any clothes for the whole
+ school year, or everyone was going to be transformed into cats.
+\end_layout
+
+\begin_layout Standard
+But then if 
+\emph on
+anyone in the world
+\emph default
+ could resist the power of the Comed-Tea, it would be Dumbledore.
+ So if this worked, the Comed-Tea was literally 
+\emph on
+invincible.
+\end_layout
+
+\begin_layout Standard
+Harry pulled the ring on the Comed-Tea under the table, wanting to do this
+ a bit unobtrusively.
+ The can made a quiet hissing noise.
+ A few heads turned to look at him, but soon turned back as 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Welcome! Welcome to a new year at Hogwarts!” said Dumbledore, beaming at
+ the students with his arms opened wide, as if nothing could have pleased
+ him more than to see them all there.
+\end_layout
+
+\begin_layout Standard
+Harry took a first mouthful of Comed-Tea and lowered the can again.
+ He would swallow the pop a little at a time and try not to choke no matter
+ 
+\emph on
+what
+\emph default
+ Dumbledore said 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Before we begin our banquet, I would like to say a few words.
+ And here they are: Happy happy boom boom swamp swamp swamp! Thank you!”
+\end_layout
+
+\begin_layout Standard
+Everyone clapped and cheered, and Dumbledore sat down again.
+\end_layout
+
+\begin_layout Standard
+Harry sat frozen as pop trickled out of the corners of his mouth.
+ He had, at least, managed to choke 
+\emph on
+quietly
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+He really really 
+\emph on
+really
+\emph default
+ shouldn't have done that.
+ Amazing how much 
+\emph on
+more obvious
+\emph default
+ that became 
+\emph on
+one second
+\emph default
+ after it was 
+\emph on
+too late
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+In retrospect he probably should have noticed something wrong when he was
+ thinking about everyone being turned into cats… or even before then, remembered
+ his mental note not to mess with Dumbledore… or his newfound resolution
+ to be more considerate of others… or maybe if he'd had 
+\emph on
+one single scrap
+\emph default
+ of 
+\emph on
+common sense
+\emph default
+…
+\end_layout
+
+\begin_layout Standard
+It was hopeless.
+ He was corrupt to the core.
+ Hail the Dark Lord Harry.
+ You couldn't fight fate.
+\end_layout
+
+\begin_layout Standard
+Someone was asking Harry if he was all right.
+ (Others were starting to serve themselves food, which had magically appeared
+ on the table, whatever.)
+\end_layout
+
+\begin_layout Standard
+“I'm all right,” Harry said.
+ “Excuse me.
+ Um.
+ Was that a… 
+\emph on
+normal
+\emph default
+ speech for the Headmaster? You all… didn't seem… very surprised…”
+\end_layout
+
+\begin_layout Standard
+“Oh, Dumbledore's insane, of course,” said an older-looking Ravenclaw sitting
+ next to him who had introduced himself with some name Harry didn't even
+ begin to remember.
+ “Lots of fun, incredibly powerful wizard, but completely bonkers.” He paused.
+ “At some later point I'd also like to ask why green fluid came out of your
+ lips and then disappeared, though I expect you promised the Sorting Hat
+ not to talk about that either.”
+\end_layout
+
+\begin_layout Standard
+With a great effort, Harry stopped himself from glancing down at the incriminati
+ng can of Comed-Tea in his hand.
+\end_layout
+
+\begin_layout Standard
+After all, the Comed-Tea hadn't just arbitrarily 
+\emph on
+materialised
+\emph default
+ a Quibbler headline about him and Draco.
+ Draco had explained it in a way that made it seem like it had all happened…
+ naturally? As if it had 
+\emph on
+altered history to fit?
+\end_layout
+
+\begin_layout Standard
+Harry was mentally imagining himself banging his forehead against the table.
+ 
+\emph on
+Wham, wham, wham
+\emph default
+ went his head within his mind.
+\end_layout
+
+\begin_layout Standard
+Another student lowered her voice to a whisper.
+ “I hear that Dumbledore is secretly a genius mastermind controlling lots
+ of stuff and he uses the insanity as a cover so that no one will suspect
+ him.”
+\end_layout
+
+\begin_layout Standard
+“I've heard that too,” whispered a third student, and there were furtive
+ nods from around the table.
+\end_layout
+
+\begin_layout Standard
+This couldn't help but catch Harry's attention.
+\end_layout
+
+\begin_layout Standard
+“I see,” whispered Harry, lowering his own voice.
+ “So everyone knows that Dumbledore is secretly a mastermind.”
+\end_layout
+
+\begin_layout Standard
+Most of the students nodded.
+ One or two looked suddenly thoughtful, including the older student sitting
+ next to Harry.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Are you sure this is the Ravenclaw table?
+\emph default
+ Harry managed not to ask out loud.
+\end_layout
+
+\begin_layout Standard
+“Brilliant!” Harry whispered.
+ “If everyone knows, no one will suspect it's a secret!”
+\end_layout
+
+\begin_layout Standard
+“Exactly,” whispered a student, and then he frowned.
+ “Wait, that doesn't sound quite right 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Note to self: The 75th percentile of Hogwarts students a.k.a.
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph on
+Ravenclaw House is not the world's most exclusive program for gifted children.
+\end_layout
+
+\begin_layout Standard
+But at least he'd learned an important fact today.
+ The Comed-Tea was omnipotent.
+ And 
+\emph on
+that
+\emph default
+ meant…
+\end_layout
+
+\begin_layout Standard
+Harry blinked in surprise as his mind finally made the obvious connection.
+\end_layout
+
+\begin_layout Standard
+…
+\emph on
+that
+\emph default
+ meant that as soon as he learned a spell to temporarily alter his own sense
+ of humor, he could make 
+\emph on
+anything
+\emph default
+ happen, by making it so that he would 
+\emph on
+only
+\emph default
+ find that 
+\emph on
+one thing
+\emph default
+ surprising enough to do a spit-take, and then drinking a can of Comed-Tea.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Well that was a short little journey to godhood.
+ Even I expected this to take longer than my first day of school.
+\end_layout
+
+\begin_layout Standard
+Come to think of it, he had also completely wrecked Hogwarts within ten
+ minutes flat of getting Sorted.
+\end_layout
+
+\begin_layout Standard
+Harry did feel a certain amount of regret about this 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Merlin knew what an insane Headmaster was going to do to his next seven
+ years of schooling 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but he couldn't 
+\emph on
+help
+\emph default
+ feeling a twinge of pride, too.
+\end_layout
+
+\begin_layout Standard
+Tomorrow.
+ No later than tomorrow at the very latest he was going to stop walking
+ down the path that led to Dark Lord Harry.
+ A prospect which was sounding scarier by the minute.
+\end_layout
+
+\begin_layout Standard
+And yet also, somehow, increasingly attractive.
+ Part of his mind was already visualising the minions' uniforms.
+\end_layout
+
+\begin_layout Standard
+“Eat,” the older student sitting next to him growled, and jabbed Harry in
+ the ribs.
+ “Don't think.
+ Eat.”
+\end_layout
+
+\begin_layout Standard
+Harry automatically started loading up his plate with whatever was in front
+ of him, blue sausages with tiny glowing bits, whatever.
+\end_layout
+
+\begin_layout Standard
+“What were you thinking about, the Sorting 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” began to say Padma Patil, one of the other first-year Ravenclaws.
+\end_layout
+
+\begin_layout Standard
+“No pestering during mealtimes!” chorused at least three people.
+ “House Rule!” added another.
+ “Otherwise we'd all starve around here.”
+\end_layout
+
+\begin_layout Standard
+Harry was finding himself really, really hoping that his clever new idea
+ didn't 
+\emph on
+actually
+\emph default
+ work.
+ And that the Comed-Tea worked some other way and didn't 
+\emph on
+actually
+\emph default
+ have the omnipotent power to alter reality.
+ It wasn't that he didn't 
+\emph on
+want
+\emph default
+ to be omnipotent.
+ It was that he just couldn't bear the thought of living in a universe that
+ really worked like that.
+ There was something 
+\emph on
+undignified
+\emph default
+ about ascending through the clever use of fizzy drinks.
+\end_layout
+
+\begin_layout Standard
+But he 
+\emph on
+was
+\emph default
+ going to test it experimentally.
+\end_layout
+
+\begin_layout Standard
+“You know,” said the older student next to him in a quite pleasant tone,
+ “we have a system for forcing people like you to eat, would you like to
+ find out what it is?”
+\end_layout
+
+\begin_layout Standard
+Harry gave up and started eating his blue sausage.
+ It was quite good, especially the glowing bits.
+\end_layout
+
+\begin_layout Standard
+Dinner passed with surprising rapidity.
+ Harry tried to sample at least a little of all the weird new foods he saw.
+ His curiosity couldn't stand the thought of 
+\emph on
+not knowing
+\emph default
+ how something tasted.
+ Thank goodness this wasn't a restaurant where you had to order only one
+ thing and you never found out what all the other things on the menu tasted
+ like.
+ Harry 
+\emph on
+hated
+\emph default
+ that, it was like a torture chamber for anyone with a spark of curiosity:
+ 
+\emph on
+Find out about only one of the mysteries on this list, ha ha ha!
+\end_layout
+
+\begin_layout Standard
+Then it was time for dessert, which Harry had completely forgotten to leave
+ room for.
+ He gave up after sampling a small bit of treacle tart.
+ Surely all these things would pass around at least once again over the
+ course of the school year.
+\end_layout
+
+\begin_layout Standard
+So what was on his to-do list, besides the ordinary school things?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+To-do 1.
+ Research mind-alteration charms so you can test the Comed-Tea and see whether
+ you actually did figure out a path to omnipotence.
+ Actually, just research every kind of mind magic you can find.
+ Mind is the foundation of our power as humans, any kind of magic that affects
+ it is the most important sort of magic there is.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+To-do 2.
+ Actually this is To-do 1 and the other is To-do 2.
+ Go through the bookshelves of the Hogwarts and Ravenclaw libraries, familiarisi
+ng yourself with the system and making sure you've at least read all the
+ book titles.
+ Second pass: read all tables of contents.
+ Coordinate with Hermione who has a much better memory than you.
+ Find out if there's an interlibrary loan system at Hogwarts and see if
+ the two of you, especially Hermione, can visit those libraries too.
+ If other Houses have private libraries, figure out how to access legally
+ or sneak in.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Option 3a: Swear Hermione to secrecy and try to start researching `From
+ Slytherin to Slytherin: if you would seek my secrets, speak to my snake.'
+ Problem: This sounds highly confidential and it could take quite a while
+ to randomly run across a book containing a hint.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+To-do 0: Check out what sort of information-search-and-retrieval spells
+ exist, if any.
+ Library magic isn't as ultimately important as mind magic but it has a
+ much higher priority.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Option 3b: Look for a spell to magically bind Draco Malfoy to secrecy, or
+ magically verify the sincerity of Draco's promise to keep a secret (Veritaserum
+?), and then ask
+\emph default
+ him 
+\emph on
+about Slytherin's message…
+\end_layout
+
+\begin_layout Standard
+Actually… Harry had a pretty bad feeling about option 3b.
+\end_layout
+
+\begin_layout Standard
+Now that Harry thought about it, he didn't feel all that great about option
+ 3a, either.
+\end_layout
+
+\begin_layout Standard
+Harry's thoughts flashed back to possibly the worst moment of his life to
+ date, those long seconds of blood-freezing horror beneath the Hat, when
+ he thought he'd already failed.
+ He'd wished then to fall back just a few minutes in time and change something,
+ anything before it was too late…
+\end_layout
+
+\begin_layout Standard
+And then it had turned out to not be too late after all.
+\end_layout
+
+\begin_layout Standard
+Wish granted.
+\end_layout
+
+\begin_layout Standard
+You couldn't change history.
+ But you could get it right to start with.
+ Do something differently the 
+\emph on
+first
+\emph default
+ time around.
+\end_layout
+
+\begin_layout Standard
+This whole business with seeking Slytherin's secrets… seemed an awful lot
+ like the sort of thing where, years later, you would look back and say,
+ `And 
+\emph on
+that
+\emph default
+ was where it all started going wrong.'
+\end_layout
+
+\begin_layout Standard
+And he would wish desperately for the ability to fall back through time
+ and make a different choice…
+\end_layout
+
+\begin_layout Standard
+Wish granted.
+ Now what?
+\end_layout
+
+\begin_layout Standard
+Harry slowly smiled.
+\end_layout
+
+\begin_layout Standard
+It was a rather 
+\emph on
+counterintuitive
+\emph default
+ thought… but…
+\end_layout
+
+\begin_layout Standard
+But he 
+\emph on
+could,
+\emph default
+ there was no rule saying he couldn't, he 
+\emph on
+could
+\emph default
+ just pretend he'd never heard that little whisper.
+ Let the universe go on in exactly the same way it would have if that one
+ critical moment had never occurred.
+ Twenty years later, that was what he would desperately wish had happened
+ twenty years ago, and twenty years before twenty years later happened to
+ be right now.
+ Altering the distant past was easy, you just had to think of it at the
+ right time.
+\end_layout
+
+\begin_layout Standard
+Or… this was even 
+\emph on
+more
+\emph default
+ counterintuitive… he could even inform, oh, say, 
+\emph on
+Professor McGonagall,
+\emph default
+ instead of Draco 
+\emph on
+or
+\emph default
+ Hermione.
+ And she could get a few good people together and get that little extra
+ spell taken off the Hat.
+\end_layout
+
+\begin_layout Standard
+Why, yes.
+ That sounded like a 
+\emph on
+remarkably
+\emph default
+ good idea once Harry had actually 
+\emph on
+thought
+\emph default
+ of it.
+\end_layout
+
+\begin_layout Standard
+So very obvious in retrospect, and yet somehow, Option 3c and Option 3d
+ just hadn't occurred to him.
+\end_layout
+
+\begin_layout Standard
+Harry awarded himself +1 point on his anti-Dark-Lord-Harry program.
+\end_layout
+
+\begin_layout Standard
+It had been an awfully cruel prank the Hat had played on him, but you couldn't
+ argue with the results on consequentialist grounds.
+ It certainly did give him a better idea of the victim's perspective, though.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+To-do 4: Apologise to Neville Longbottom.
+\end_layout
+
+\begin_layout Standard
+Okay, he was on a roll here, now he just had to keep it up.
+ 
+\emph on
+In every day, in every way, I'm getting Lighter and Lighter…
+\end_layout
+
+\begin_layout Standard
+People around Harry had also mostly stopped eating at this point, and the
+ dessert serving dishes began to vanish, and the used plates.
+\end_layout
+
+\begin_layout Standard
+When all the plates were gone, Dumbledore once again stood up from his seat.
+\end_layout
+
+\begin_layout Standard
+Harry couldn't help but feel the urge to drink another Comed-Tea.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You've GOT to be kidding,
+\emph default
+ Harry thought at that piece of himself.
+\end_layout
+
+\begin_layout Standard
+But the experiment didn't count if it wasn't replicated, did it? And the
+ damage was already done, wasn't it? Didn't he want to see what would happen
+ 
+\emph on
+this
+\emph default
+ time? Wasn't he 
+\emph on
+curious?
+\emph default
+ What if he got a different result?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hey, I bet you're the same part of my brain that pushed through the prank
+ on Neville Longbottom.
+\end_layout
+
+\begin_layout Standard
+Er, maybe?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And is it not
+\emph default
+ overwhelmingly 
+\emph on
+obvious that if I do this I shall regret it one second after it is too late?
+\end_layout
+
+\begin_layout Standard
+Um…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yeah.
+ So, NO.
+\end_layout
+
+\begin_layout Standard
+“Ahem,” said Dumbledore from the podium, stroking his long silver beard.
+ “Just a few more words now that we are all fed and watered.
+ I have a few start-of-term notices to give you.”
+\end_layout
+
+\begin_layout Standard
+“First years should note that the forest on the grounds is forbidden to
+ all pupils.
+ That is why it is called the Forbidden Forest.
+ If it were permitted it would be called the Permitted Forest.”
+\end_layout
+
+\begin_layout Standard
+Straightforward.
+ 
+\emph on
+Note to self: Forbidden Forest is forbidden.
+\end_layout
+
+\begin_layout Standard
+“I have also been asked by Mr.
+ Filch, the caretaker, to remind you all that no magic should be used between
+ classes in the corridors.
+ Alas, we all know that what 
+\emph on
+should be
+\emph default
+, and what 
+\emph on
+is
+\emph default
+, are two different things.
+ Thank you for keeping this in mind.”
+\end_layout
+
+\begin_layout Standard
+Er…
+\end_layout
+
+\begin_layout Standard
+“Quidditch trials will be held in the second week of the term.
+ Anyone interested in playing for their house teams should contact Madam
+ Hooch.
+ Anyone interested in reformulating the entire game of Quidditch should
+ contact Harry Potter.”
+\end_layout
+
+\begin_layout Standard
+Harry inhaled his own saliva and went into a coughing fit just as all eyes
+ turned towards him.
+ How the 
+\emph on
+hell!
+\emph default
+ He hadn't met Dumbledore's eyes at any point… he didn't 
+\emph on
+think.
+
+\emph default
+ He certainly hadn't been thinking about Quidditch at the time! He hadn't
+ talked to anyone but Ron Weasley and he didn't 
+\emph on
+think
+\emph default
+ Ron would have told anyone else… or had Ron run off to a professor to complain?
+ 
+\emph on
+How
+\emph default
+ on 
+\emph on
+Earth…
+\end_layout
+
+\begin_layout Standard
+“Additionally, I must tell you that this year, the third-floor corridor
+ on the right-hand side is out of bounds to everyone who does not wish to
+ die a very painful death.
+ It is guarded by an elaborate series of dangerous and potentially lethal
+ traps, and you cannot possibly get past all of them, especially if you
+ are only in your first year.”
+\end_layout
+
+\begin_layout Standard
+Harry was numb at this point.
+\end_layout
+
+\begin_layout Standard
+“And finally, I extend my greatest thanks to Quirinus Quirrell for heroically
+ agreeing to undertake the position of Defence Against the Dark Arts Professor
+ at Hogwarts.” Dumbledore's gaze moved searchingly across the students.
+ “I hope all students will extend Professor Quirrell that utmost courtesy
+ and 
+\emph on
+tolerance
+\emph default
+ which is due his extraordinary service to you and this school, and that
+ you 
+\emph on
+will not pester us
+\emph default
+ with any 
+\emph on
+niggling complaints
+\emph default
+ about him, unless 
+\emph on
+you
+\emph default
+ want to try doing his job.”
+\end_layout
+
+\begin_layout Standard
+What was 
+\emph on
+that
+\emph default
+ about?
+\end_layout
+
+\begin_layout Standard
+“I now yield the floor to our new faculty member Professor Quirrell, who
+ would like to say a few words.”
+\end_layout
+
+\begin_layout Standard
+The young, thin, nervous man who Harry had first met in the Leaky Cauldron
+ slowly made his way up to the podium, glancing fearfully around in all
+ directions.
+ Harry caught a glimpse of the back of his head, and it looked like Professor
+ Quirrell might already be going bald, despite his seeming youth.
+\end_layout
+
+\begin_layout Standard
+“Wonder what's wrong with 
+\emph on
+him,
+\emph default
+” whispered the older-looking student sitting next to Harry.
+ Similar hushed comments were being exchanged elsewhere along the table.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell made his way up to the podium and stood there, blinking.
+ “Ah…” he said.
+ “Ah…” Then his courage seemed to fail him utterly, and he stood there in
+ silence, occasionally twitching.
+\end_layout
+
+\begin_layout Standard
+“Oh, great,” whispered the older student, “looks like another 
+\emph on
+long
+\emph default
+ year in Defence class 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Salutations, my young apprentices,” Professor Quirrell said in a dry, confident
+ tone.
+ “We all know that Hogwarts tends to suffer a certain 
+\emph on
+misfortune
+\emph default
+ in its selections for this position, and no doubt many of you are already
+ wondering what doom shall befall me this year.
+ I assure you, that doom is not to be my incompetence.” He smiled thinly.
+ “Believe it or not, I have long wished to someday try my hand as the Professor
+ of Defence Against the Dark Arts here at the Hogwarts School of Witchcraft
+ and Wizardry.
+ The first to teach this class was Salazar Slytherin himself, and as late
+ as the fourteenth century it was traditional for the greatest fighting
+ wizards of every persuasion to try their hands at teaching here.
+ Past Professors of Defence have included not just the legendary wandering
+ hero Harold Shea but also the quote undying unquote Baba Yaga, yes, I see
+ some of you are still shuddering at the sound of her name even though she's
+ been dead for six hundred years.
+ That must have been an interesting time to attend Hogwarts, don't you think?”
+\end_layout
+
+\begin_layout Standard
+Harry was swallowing hard, trying to suppress the sudden surge of emotion
+ that had overcome him when Professor Quirrell had begun speaking.
+ The precise tones reminded him very much of a lecturer at Oxford, and it
+ was starting to hit home that Harry wasn't going to see his home or his
+ Mum or his Dad until Christmas.
+\end_layout
+
+\begin_layout Standard
+“You are accustomed to the Defence position being filled by incompetents,
+ scoundrels, and the unlucky.
+ To anyone with a sense of history, it bears another reputation entirely.
+ Not everyone who teaches here has been the best, but the best have all
+ taught at Hogwarts.
+ In such august company, and after so much time anticipating this day, I
+ would be ashamed to set myself any standard lower than perfection.
+ And so I do intend that every one of you will always remember this year
+ as the 
+\emph on
+best
+\emph default
+ Defence class that you have ever had.
+ What you learn this year will forever serve as your firm foundation in
+ the arts of Defence, no matter who your teachers before and after.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's expression grew serious.
+ “We have a 
+\emph on
+great
+\emph default
+ deal of lost ground to make up and not much time to cover it.
+ Therefore I intend to depart from Hogwarts teaching conventions in a number
+ of respects, as well as introducing some optional after-school activities.”
+ He paused.
+ “If that is not sufficient, perhaps I can find new ways to motivate you.
+ You are my long-awaited students, and you 
+\emph on
+will
+\emph default
+ do your 
+\emph on
+very
+\emph default
+ best in my long-awaited Defence class.
+ I would add some sort of dreadful threat, like `Otherwise you will suffer
+ horribly', but that would be so cliched, don't you think? I pride myself
+ on being more imaginative than that.
+ Thank you.”
+\end_layout
+
+\begin_layout Standard
+Then the vigour and confidence seemed to drain away from Professor Quirrell.
+ His mouth gaped open as if he had suddenly found himself facing an unexpected
+ audience, and he turned with a convulsive jerk and shuffled back to his
+ seat, hunched over as if he was about to collapse in on himself and implode.
+\end_layout
+
+\begin_layout Standard
+“He seems a little odd,” whispered Harry.
+\end_layout
+
+\begin_layout Standard
+“Meh,” said the older-looking student.
+ “You ain't seen nothin'.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore resumed the podium.
+\end_layout
+
+\begin_layout Standard
+“And now,” said Dumbledore, “before we go to bed, let us sing the school
+ song! Everyone pick their favourite tune and favourite words, and off we
+ go!”
+\end_layout
+
+\end_body
+\end_document

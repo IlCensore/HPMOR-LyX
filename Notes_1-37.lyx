@@ -1,0 +1,1144 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter*
+Notes
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Notes}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Science
+\end_layout
+
+\begin_layout Standard
+All science mentioned in 
+\emph on
+Methods
+\emph default
+ is standard science except where otherwise specified (IIRC, the only two
+ uses of nonstandard theories are Barbour’s timeless physics in Chapter
+ 28 and my own timeless decision theory in Chapter 33).
+ Wherever possible, I have mentioned standard terminology inside the book
+ to make Googling easier.
+ At some future point I may compile a complete list for all the scientific
+ references in 
+\emph on
+Methods
+\emph default
+, but this has not yet been done.
+\end_layout
+
+\begin_layout Standard
+Here’s a listing for the first five chapters.
+\end_layout
+
+\begin_layout Description
+Chapter
+\begin_inset space ~
+\end_inset
+
+1 The Feynman quote Harry refers to can be found in Richard Phillips Feynman,
+ Robert B.
+ Leighton, Matthew Linzee Sands, 
+\emph on
+Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher
+\emph default
+, Basic Books, 2012, around half-way down page 35, starting with “Philosophers,
+ incidentally\SpecialChar \ldots{}
+” Cold reading
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://en.wikipedia.org/wiki/Cold_reading
+\end_layout
+
+\end_inset
+
+ is a standard practice of bogus psychics, regularly duplicated by skeptics
+ to prove that no mind-reading is required.
+ Bending spoons
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://www.wikihow.com/Bend-a-Spoon
+\end_layout
+
+\end_inset
+
+ is even easier.
+ When Harry thinks about how his father is refusing to test magic because
+ that would feel like affiliating with a low-prestige idea, he is taking
+ the Hansonian-cynical view of ‘belief’ as affiliation.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://hanson.gmu.edu/belieflikeclothes.html
+\end_layout
+
+\end_inset
+
+ Also, stacking two-by-fours or old Kleenex boxes on the back shelves of
+ a bookcase, does in fact work for making the back row of titles readable
+ – I do this in my own home.
+\end_layout
+
+\begin_layout Description
+Chapter
+\begin_inset space ~
+\end_inset
+
+2 
+\begin_inset Quotes eld
+\end_inset
+
+You'd think there'd be some kind of more dramatic mental event associated
+ with updating on an observation of infinitesimal probability –” In a Bayesian
+ sense, seeing an observation to which you assigned very low probability
+ can (and should) produce very large shifts in belief.
+ For mathy readers, reading the 
+\emph on
+Intuitive Explanation of Bayesian Reasoning
+\emph default
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://yudkowsky.net/rational/bayes
+\end_layout
+
+\end_inset
+
+ may help in appreciating what Harry is talking about – how probability
+ theory behaves in the presence of an “impossible” observation.
+ (For non-mathy readers, a huge rewrite of that document is currently underway
+ which should make it much more easily accessible.) In Harry’s “You turned
+ into a cat!” speech, “That’s not just an arbitrary rule, it’s implied by
+ the form of the quantum Hamiltonian!” refers to Conservation of Energy
+ being the Noether’s Theorem
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://en.wikipedia.org/wiki/Noether%27s_theorem
+\end_layout
+
+\end_inset
+
+ conjugate of the laws of quantum mechanics being invariant under translation
+ in time.
+ There is no simple way whatsoever to explain this, except to remark that
+ Conservation of Energy seems built into the laws of physics on an extremely
+ deep level – it’s not just a matter of not knowing any particular force
+ that violates it; we have reason to believe that no force should violate
+ it.
+ And for the benefit of any second-grade math teachers out there, LOGARITHMS.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+https://www.khanacademy.org/math/algebra/logarithms-tutorial/logarithm_basics/v/in
+troduction-to-logarithms
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Chapter
+\begin_inset space ~
+\end_inset
+
+3 
+\begin_inset Quotes eld
+\end_inset
+
+Comparing Reality to Its Alternatives” is the title of a paper by Kahneman
+ and Dale Miller, describing (among other things) how people sometimes try
+ to understand the real world by comparing it to something else, like an
+ ideal perfect situation.
+ A more directly on-topic paper would’ve been Miller’s “Counterfactual thought,
+ regret, and superstition: How to avoid kicking yourself” but I think I
+ confused those two titles when I was writing Chapter 3.
+ Also, bystander effect on LessWrong
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://lesswrong.com/lw/9j/bystander_apathy/
+\end_layout
+
+\end_inset
+
+ and Wikipedia,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://en.wikipedia.org/wiki/Bystander_effect
+\end_layout
+
+\end_inset
+
+ and diffusion of responsibility.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://en.wikipedia.org/wiki/Diffusion_of_responsibility
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Chapter
+\begin_inset space ~
+\end_inset
+
+4 Efficient market hypothesis.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://en.wikipedia.org/wiki/Efficient-market_hypothesis
+\end_layout
+
+\end_inset
+
+ Arbitrage.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://economics.about.com/cs/finance/a/arbitrage.htm
+\end_layout
+
+\end_inset
+
+ Fermi calculations.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://lesswrong.com/lw/7ij/rough_calculations_fermi_and_the_art_of_guessing/
+\end_layout
+
+\end_inset
+
+ If you’ve ever been tempted to invest in a mutual fund, or even worse,
+ try to pick stocks yourself, then 
+\emph on
+for the love of Merlin DON’T
+\emph default
+ until you are thoroughly steeped in the basic reasons why markets are,
+ to a first approximation, anti-inductive
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://lesswrong.com/lw/yv/markets_are_antiinductive/
+\end_layout
+
+\end_inset
+
+ – if real estate prices “have always gone up”, this says very little about
+ whether they’ll keep on going up in the future.
+\end_layout
+
+\begin_layout Description
+Chapter
+\begin_inset space ~
+\end_inset
+
+5 The fundamental attribution error.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://en.wikipedia.org/wiki/Fundamental_attribution_error
+\end_layout
+
+\end_inset
+
+ Also known as “correspondence bias”.
+ I think the chapter did a pretty good job of illustrating this one, so
+ I shalln’t say anything more.
+\end_layout
+
+\begin_layout Standard
+To learn almost 
+\emph on
+everything
+\emph default
+ that Harry knows, the best current free online solution is to read the
+ Sequences
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+http://wiki.lesswrong.com/wiki/Sequences
+\end_layout
+
+\end_inset
+
+ at LessWrong.com – two years of blog posts that tried to introduce just
+ about everything that I thought a rationalist needed to know as of 2007,
+ starting with basic theory of knowledge, Bayesian probability theory, cognitive
+ biases, evolutionary psychology, social psychology, and going on into the
+ more arcane realms of reductionism and demystified quantum mechanics.
+ Believe it or not, Harry is only allowed to draw on around half of the
+ easier Sequences – if he knew all of them, he would be too powerful a character
+ and break the story.
+\end_layout
+
+\begin_layout Standard
+For those of you who prefer traditional books, I’m trying to write one –
+ though the project is currently on hold while working on Center for Modern
+ Rationality.
+ Meanwhile, some good general intros are, in order of technical difficulty:
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Influence
+\emph default
+ by Robert Cialdini or 
+\emph on
+Predictably Irrational
+\emph default
+ by Dan Ariely
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Rational Choice in an Uncertain World
+\emph default
+ by Robyn Dawes
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Judgment Under Uncertainty: Heuristics and Biases
+\emph default
+ – an edited volume by Tversky and Kahneman
+\end_layout
+
+\begin_layout Standard
+Fun fact: When Harry thinks about something scientific, I require myself
+ to write the description from memory, so that I’m not giving him an unrealistic
+ degree of recall.
+ For example, in Chapter 2 Harry quotes Feynman talking about what philosophers
+ say is absolutely required.
+ The original quote in the Feynman lectures uses the phrase ‘absolutely
+ necessary’.
+ I fact-check afterward to make sure there’s no invalidating errors, but
+ not while writing the first draft.
+ When I’m writing Hermione’s point-of-view, I look up the original beforehand
+ to simulate her perfect recall.
+\end_layout
+
+\begin_layout Section*
+Notes from the beginning of chapters
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+In the on-line version of this work, published at 
+\noun on
+hpmor.com
+\noun default
+, comments are inserted by the author at the beginning of some chapters.
+ They have been collected and reproduced here.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 1: A Day of Very Low Probability
+\end_layout
+
+\begin_layout Standard
+Disclaimer: J.
+ K.
+ Rowling owns Harry Potter, and no one owns the methods of rationality.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This fic is widely considered to have really hit its stride starting at
+ around Chapter 5.
+ If you still don't like it after Chapter 10, give up.
+\end_layout
+
+\begin_layout Standard
+Please visit 
+\noun on
+hpmor.com
+\noun default
+ for:
+\end_layout
+
+\begin_layout Itemize
+Easy email notification system, RSS feed, and Twitter feed for new chapters;
+\end_layout
+
+\begin_layout Itemize
+Current Author's Notes and progress updates;
+\end_layout
+
+\begin_layout Itemize
+Lovely fan-made book-style PDF version;
+\end_layout
+
+\begin_layout Itemize
+Ad-free mirror of the text;
+\end_layout
+
+\begin_layout Itemize
+ePUB and MOBI e-texts;
+\end_layout
+
+\begin_layout Itemize
+Ongoing podcast of the story;
+\end_layout
+
+\begin_layout Itemize
+Fan art in vast quantities;
+\end_layout
+
+\begin_layout Itemize
+Cameo list (characters named after fan artists);
+\end_layout
+
+\begin_layout Itemize
+Fan-fanfiction of this fanfiction;
+\end_layout
+
+\begin_layout Itemize
+Fan music, songs, and animations;
+\end_layout
+
+\begin_layout Itemize
+Fan translations;
+\end_layout
+
+\begin_layout Itemize
+The OKCupid keyword for HPMOR readers;
+\end_layout
+
+\begin_layout Itemize
+Links to TV Tropes page and discussion forum;
+\end_layout
+
+\begin_layout Itemize
+Trigger warnings page (warnings about possible traumatic associations for
+ some readers; to avoid spoilers for most readers, there are 
+\emph on
+no
+\emph default
+ warnings inside the main story);
+\end_layout
+
+\begin_layout Itemize
+How to learn everything the main character knows;
+\end_layout
+
+\begin_layout Itemize
+Open job positions at a related nonprofit;
+\end_layout
+
+\begin_layout Itemize
+And ever so much more.
+\end_layout
+
+\begin_layout Standard
+Reviews make me happy.
+ You can leave reviews on any chapter, no login required, and there's no
+ need to finish reading it all before you start reviewing chapters 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but do please leave at most 
+\emph on
+one
+\emph default
+ review per chapter.
+\end_layout
+
+\begin_layout Standard
+This is 
+\emph on
+not
+\emph default
+ a strict single-point-of-departure fic 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ there exists a primary point of departure, at some point in the past, but
+ also other alterations.
+ The best term I've heard for this fic is 
+\begin_inset Quotes eld
+\end_inset
+
+parallel universe
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The text contains many clues: obvious clues, not-so-obvious clues, truly
+ obscure hints which I was shocked to see some readers successfully decode,
+ and massive evidence left out in plain sight.
+ This is a rationalist story; its mysteries are solvable, and meant to be
+ solved.
+\end_layout
+
+\begin_layout Standard
+The pacing of the story is that of serial fiction, i.e., that of a TV show
+ running for a predetermined number of seasons, whose episodes are individually
+ plotted but with an overall arc building to a final conclusion.
+\end_layout
+
+\begin_layout Standard
+The story has been corrected to British English up to Chapter 17, and further
+ Britpicking is currently in progress (see the /HPMOR subreddit).
+\end_layout
+
+\begin_layout Standard
+All science mentioned is real science.
+ But please keep in mind that, beyond the realm of science, the views of
+ the characters may not be those of the author.
+ Not everything the protagonist does is a lesson in wisdom, and advice offered
+ by darker characters may be untrustworthy or dangerously double-edged.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 4: The Efficient Market Hypothesis
+\end_layout
+
+\begin_layout Standard
+As others have noted, the novels seem inconsistent in the apparent purchasing
+ power of a Galleon; I'm picking a consistent value and sticking with it.
+ Five pounds sterling to the Galleon doesn't square with seven Galleons
+ for a wand and children using hand-me-down wands.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 6: The Planning Fallacy
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Aftermath
+\begin_inset Quotes erd
+\end_inset
+
+ section of this chapter is part of the story, 
+\emph on
+not
+\emph default
+ omake.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 7: Reciprocation
+\end_layout
+
+\begin_layout Standard
+Whoa.
+ A spokesman for Rowling's literary agent said that Rowling is okay with
+ the existence of fanfiction as long as no one charges for it and everyone's
+ clear that the original copyrights belong to her? That's really cool of
+ her.
+ So thank you, JKR, and thine is the kingdom!
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I feel the need to disclaim that certain parts of this chapter are not meant
+ as 
+\begin_inset Quotes eld
+\end_inset
+
+bashing
+\begin_inset Quotes erd
+\end_inset
+
+.
+ It's not that I have a grudge, the story just writes itself and once you
+ start dropping anvils on a character it's hard to stop.
+\end_layout
+
+\begin_layout Standard
+A few reviewers have asked whether the science in this story is real or
+ made up.
+ Yes, it is real, and if you look at my profile, you'll see a link to a
+ certain nonfiction site that will teach you pretty much everything Harry
+ James Potter-Evans-Verres knows 
+\emph on
+and then some
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Thank you very much to 
+\emph on
+all
+\emph default
+ my reviewers.
+ (Especially Darkandus on Viridian Dreams, for the surprisingly inspiring
+ comment 
+\begin_inset Quotes eld
+\end_inset
+
+Lungs and tea are not meant to interact
+\begin_inset Quotes erd
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Subsection*
+Chapter 8: Positive Bias
+\end_layout
+
+\begin_layout Standard
+One alert reviewer asked whether, if Luna is a seer, that means this is
+ going to be an HPDM bottom!Draco mpreg fic.
+ I regret that FFN does not allow me any larger font size in which to say
+ 
+\series bold
+NO
+\series default
+.
+ It honestly hadn't occurred to me that Luna might be a 
+\emph on
+real
+\emph default
+ seer 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I'll have to decide whether to run with that or not 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but I think we can all safely assume that if Luna 
+\emph on
+is
+\emph default
+ a seer, she said something about 
+\begin_inset Quotes eld
+\end_inset
+
+light planting a seed in darkness
+\begin_inset Quotes erd
+\end_inset
+
+, and Xenophilius, as always, interpreted this in rather the wrong way.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 9: Self Awareness, Part I
+\end_layout
+
+\begin_layout Standard
+The third-generation quarks were also called 
+\begin_inset Quotes eld
+\end_inset
+
+truth
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+beauty
+\begin_inset Quotes erd
+\end_inset
+
+ before 
+\begin_inset Quotes eld
+\end_inset
+
+top
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+bottom
+\begin_inset Quotes erd
+\end_inset
+
+ won out; my birthdate is around Hermione's, and when I was eleven, I used
+ 
+\begin_inset Quotes eld
+\end_inset
+
+truth
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+beauty
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+When Part I of this chapter was first posted, I said that if anyone guessed
+ what the last sentence was talking about before the next update, I would
+ tell them the entire rest of the plot.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 11: Omake Files 1, 2, 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Omake
+\begin_inset Quotes erd
+\end_inset
+
+ is a non-canonical extra.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 13: Asking the Wrong Questions
+\end_layout
+
+\begin_layout Standard
+Don't panic.
+ I solemnly swear that there is a logical, foreshadowed, canon-compliant
+ explanation for everything which happens in this chapter.
+ It's a puzzle, you're supposed to try to solve it, and if not, just read
+ the next chapter.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 15: Conscientiousness
+\end_layout
+
+\begin_layout Standard
+Today's historical tidbit: The ancient Hebrews considered the boundary of
+ a day to be sunset rather than dawn, so they said "evening and morning"
+ not "morning and evening".
+ (And as many reviewers noted, modern Jewish halacha asserts the same.)
+\end_layout
+
+\begin_layout Subsection*
+Chapter 17: Locating the Hypothesis
+\end_layout
+
+\begin_layout Standard
+In the Roman calendar, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ides
+\begin_inset Quotes erd
+\end_inset
+
+ of a month referred to the 15th day of March, May, July, and October, and
+ to the 13th day of all other months.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 22: The Scientific Method
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Something, somewhere, somewhen, must have happened differently…
+\end_layout
+
+\begin_layout Standard
+PETUNIA EVANS married Michael Verres, a Professor of Biochemistry at Oxford.
+\end_layout
+
+\begin_layout Standard
+HARRY JAMES POTTER-EVANS-VERRES grew up in a house filled to the brim with
+ books.
+ He once bit a math teacher who didn't know what a logarithm was.
+ He's read 
+\emph on
+Godel, Escher, Bach
+\emph default
+ and 
+\emph on
+Judgment Under Uncertainty: Heuristics and Biases
+\emph default
+ and volume one of 
+\emph on
+The Feynman Lectures on Physics.
+
+\emph default
+ And despite what everyone who's met him seems to fear, he doesn't want
+ to become the next Dark Lord.
+ He was raised better than that.
+ He wants to discover the laws of magic and become a god.
+\end_layout
+
+\begin_layout Standard
+HERMIONE GRANGER is doing better than him in every class except broomstick
+ riding.
+\end_layout
+
+\begin_layout Standard
+DRACO MALFOY is exactly what you would expect an eleven-year-old boy to
+ be like if Darth Vader were his doting father.
+\end_layout
+
+\begin_layout Standard
+PROFESSOR QUIRRELL is living his lifelong dream of teaching Defense Against
+ the Dark Arts, or as he prefers to call his class, Battle Magic.
+ His students are all wondering what's going to go wrong with the Defense
+ Professor this time.
+\end_layout
+
+\begin_layout Standard
+DUMBLEDORE is either insane, or playing some vastly deeper game which involved
+ setting fire to a chicken.
+\end_layout
+
+\begin_layout Standard
+DEPUTY HEADMISTRESS MINERVA MCGONAGALL needs to go off somewhere private
+ and scream for a while.
+\end_layout
+
+\begin_layout Standard
+\align center
+Presenting:
+\end_layout
+
+\begin_layout Standard
+\align center
+HARRY POTTER AND THE METHODS OF RATIONALITY
+\end_layout
+
+\begin_layout Standard
+\align center
+You ain't guessin' where this one's going.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+
+\emph on
+Some notes:
+\end_layout
+
+\begin_layout Standard
+The opinions of characters in this story are not necessarily those of the
+ author.
+ What warm!Harry thinks is 
+\emph on
+often
+\emph default
+ meant as a good pattern to follow, especially if Harry thinks about how
+ he can cite scientific studies to back up a particular principle.
+ But not everything Harry does or thinks is a good idea.
+ That wouldn't work as a story.
+ And the less warm characters may sometimes have valuable lessons to offer,
+ but those lessons may also be dangerously double-edged.
+\end_layout
+
+\begin_layout Standard
+If you haven't visited 
+\noun on
+hpmor.com
+\noun default
+, don't forget to do that at some point; otherwise you'll miss out on the
+ fan art, how to learn everything Harry knows, and more.
+\end_layout
+
+\begin_layout Standard
+If you haven't just enjoyed this fic, but learned something from it, then
+ please consider blogging it or tweeting it.
+ A work like this only does as much good as there are people who read it.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 25: Hold Off on Proposing Solutions
+\end_layout
+
+\begin_layout Standard
+Since the science in this story is usually all correct, I include a warning
+ that in Chapters 22-25 Harry overlooks many possibilities, the most important
+ of which is that there are lots of magical genes but they're all on one
+ chromosome (which wouldn't happen naturally, but the chromosome might have
+ been engineered).
+ In this case, the inheritance pattern would be Mendelian, but the magical
+ chromosome could still be degraded by chromosomal crossover with its nonmagical
+ homologue.
+ (Harry has read about Mendel and chromosomes in science history books,
+ but he hasn't studied enough actual genetics to know about chromosomal
+ crossover.
+ Hey, he's only eleven.) However, although a modern science journal would
+ find a 
+\emph on
+lot
+\emph default
+ more nits to pick, everything Harry presents as strong evidence is in fact
+ strong evidence 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ the other possibilities are 
+\emph on
+improbable
+\emph default
+.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 27: Empathy
+\end_layout
+
+\begin_layout Standard
+Roger Bacon lived in the 13th century and is credited as one of the earliest
+ advocates of the scientific method.
+ Giving a scientist his experimental diary is sort of like giving a writer
+ the pen, not of Shakespeare, but of someone who helped invent writing.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 28: Reductionism
+\end_layout
+
+\begin_layout Standard
+This should 
+\emph on
+again
+\emph default
+ go 
+\emph on
+without saying,
+\emph default
+ but views expressed by Severus Snape are not necessarily those of the author.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 29: Egocentric Bias
+\end_layout
+
+\begin_layout Standard
+Science disclaimers: Luosha points out that the theory of empathy in Chapter
+ 27 (you use your own brain to simulate others) isn't quite a known scientific
+ fact.
+ The evidence so far points in that direction, but we haven't analyzed the
+ brain circuitry and proven it.
+ Similarly, timeless formulations of quantum mechanics (alluded to in Chapter
+ 28) are so elegant that I'd be shocked to find the final theory had time
+ in it, but they're not established yet either.
+\end_layout
+
+\begin_layout Subsection*
+Chapter 33: Coordination Problems, Part I
+\end_layout
+
+\begin_layout Standard
+The version of decision theory used in this chapter is 
+\emph on
+not
+\emph default
+ the academically dominant one.
+ It's based on something called “timeless decision theory” that's under
+ development by (among others) Gary Drescher, Wei Dai, Vladimir Nesov, and,
+ well… 
+\emph on
+(coughs a few times)
+\emph default
+ me.
+\end_layout
+
+\end_body
+\end_document

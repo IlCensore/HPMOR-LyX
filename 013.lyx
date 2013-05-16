@@ -1,0 +1,2452 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Asking the Wrong Questions
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+A
+\end_layout
+
+\end_inset
+
+s
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ soon as Harry opened his eyes in the Ravenclaw first-year boys' dormitory,
+ on the morning of his first full day at Hogwarts, he knew something was
+ wrong.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was quiet.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Too
+\emph default
+ quiet.
+\end_layout
+
+\begin_layout Standard
+Oh, right… There was a Quietus Charm on his bed's headboard, controlled
+ by a small slider bar, which was the only reason it was ever possible for
+ anyone to go to sleep in Ravenclaw.
+\end_layout
+
+\begin_layout Standard
+Harry sat up and looked around, expecting to see others rising for the day
+ —
+\end_layout
+
+\begin_layout Standard
+The dorm, empty.
+\end_layout
+
+\begin_layout Standard
+The beds, rumpled and unmade.
+\end_layout
+
+\begin_layout Standard
+The sun, coming in at a rather high angle.
+\end_layout
+
+\begin_layout Standard
+His Quieter turned all the way up to maximum.
+\end_layout
+
+\begin_layout Standard
+And his mechanical alarm clock was still running, but the alarm was turned
+ off.
+\end_layout
+
+\begin_layout Standard
+He'd been allowed to sleep until 9:52
+\begin_inset space ~
+\end_inset
+
+am, apparently.
+ Despite his best efforts to synchronize his 26-hour sleep cycle to his
+ arrival at Hogwarts, he hadn't gotten to sleep last night until around
+ 1
+\begin_inset space ~
+\end_inset
+
+am.
+ He'd been planning to wake up at 7:00
+\begin_inset space ~
+\end_inset
+
+am with the other students, he could stand being a little sleep-deprived
+ his first day so long as he got some sort of magical fix before tomorrow.
+ But now he'd missed breakfast.
+ And his very first class at Hogwarts, in Herbology, had started one hour
+ and twenty-two minutes ago.
+\end_layout
+
+\begin_layout Standard
+The anger was slowly, slowly wakening in him.
+ Oh, what a nice little prank.
+ Turn off his alarm.
+ Turn up the Quieter.
+ And let Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Bigshot Harry Potter miss his first class, and be blamed for being a heavy
+ sleeper.
+\end_layout
+
+\begin_layout Standard
+When Harry found out who'd done this…
+\end_layout
+
+\begin_layout Standard
+No, this could only have been done with the cooperation of all twelve other
+ boys in the Ravenclaw dorm.
+ All of them would have seen his sleeping form.
+ All of them had let him sleep through breakfast.
+\end_layout
+
+\begin_layout Standard
+The anger drained away, replaced by confusion and a horribly wounded feeling.
+ They'd 
+\emph on
+liked
+\emph default
+ him.
+ He'd thought.
+ Last night, he'd thought they liked him.
+ 
+\emph on
+Why…
+\end_layout
+
+\begin_layout Standard
+As Harry stepped out of the bed, he saw a piece of paper facing out from
+ his headboard.
+\end_layout
+
+\begin_layout Standard
+The paper said,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+My fellow Ravenclaws,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+It's been an extra long day.
+ Please let me sleep in and don't worry about my missing breakfast.
+ I haven't forgotten about my first class.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Yours,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Harry Potter.
+\end_layout
+
+\begin_layout Standard
+And Harry stood there, frozen, ice water beginning to trickle through his
+ veins.
+\end_layout
+
+\begin_layout Standard
+The paper was in his own handwriting, in his own mechanical pencil.
+\end_layout
+
+\begin_layout Standard
+And he didn't remember writing it.
+\end_layout
+
+\begin_layout Standard
+And… Harry squinted at the piece of paper.
+ And unless he was imagining it, the words “I haven't forgotten” were written
+ in a different style, as if he was trying to tell himself something…?
+\end_layout
+
+\begin_layout Standard
+Had he 
+\emph on
+known
+\emph default
+ he was going to be Obliviated? Had he stayed up late, committed some sort
+ of crime or covert activity, and then… but he didn't 
+\emph on
+know
+\emph default
+ the Obliviate spell… had someone else… what…
+\end_layout
+
+\begin_layout Standard
+A thought occurred to Harry.
+ If he 
+\emph on
+had
+\emph default
+ known he was going to be Obliviated…
+\end_layout
+
+\begin_layout Standard
+Still in his pyjamas, Harry ran around his bed to his trunk, pressed his
+ thumb against the lock, pulled out his pouch, stuck in his hand and said
+ “Note to myself.”
+\end_layout
+
+\begin_layout Standard
+And another piece of paper popped into his hand.
+\end_layout
+
+\begin_layout Standard
+Harry took it out, staring at it.
+ It too was in his own handwriting.
+\end_layout
+
+\begin_layout Standard
+The note said:
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Dear Me,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Please play the game.
+ You can only play the game once in a lifetime.
+ This is an irreplaceable opportunity.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Recognition code 927, I am a potato.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Yours,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+You.
+\end_layout
+
+\begin_layout Standard
+Harry nodded slowly.
+ “Recognition code 927, I am a potato” was indeed the message he had worked
+ out in advance — some years earlier, while watching TV — that only he would
+ know.
+ If he had to identify a duplicate of himself as being really 
+\emph on
+him,
+\emph default
+ or something.
+ Just in case.
+ Be Prepared.
+\end_layout
+
+\begin_layout Standard
+Harry couldn't 
+\emph on
+trust
+\emph default
+ the message, there might be other spells involved.
+ But it ruled out any simple prank.
+ He had definitely written this and he definitely didn't remember writing
+ it.
+\end_layout
+
+\begin_layout Standard
+Staring at the paper, Harry became aware of ink showing through from the
+ other side.
+\end_layout
+
+\begin_layout Standard
+He flipped it over.
+\end_layout
+
+\begin_layout Standard
+The reverse side read:
+\end_layout
+
+\begin_layout Standard
+\align center
+INSTRUCTIONS FOR THE GAME:
+\end_layout
+
+\begin_layout Standard
+\align center
+you do not know the rules of the game
+\begin_inset Newline newline
+\end_inset
+
+ you do not know the stakes of the game
+\begin_inset Newline newline
+\end_inset
+
+ you do not know the objective of the game
+\begin_inset Newline newline
+\end_inset
+
+ you do not know who controls the game
+\begin_inset Newline newline
+\end_inset
+
+ you do not know how to end the game
+\end_layout
+
+\begin_layout Standard
+\align center
+You start with 100 points.
+\begin_inset Newline newline
+\end_inset
+
+ Begin.
+\end_layout
+
+\begin_layout Standard
+Harry stared at the “instructions”.
+ This side wasn't handwritten; the writing was perfectly regular, hence
+ artificial.
+ It looked as if it had been inscribed by a Quotes Quill, such as the one
+ he'd bought to take dictation.
+\end_layout
+
+\begin_layout Standard
+He had 
+\emph on
+absolutely no clue
+\emph default
+ what was going on.
+\end_layout
+
+\begin_layout Standard
+Well… step one was to get dressed and eat.
+ Maybe reverse the order of that.
+ His stomach felt rather empty.
+\end_layout
+
+\begin_layout Standard
+He'd missed breakfast, of course, but he was Prepared for that eventuality,
+ having visualised it in advance.
+ Harry put his hand into his pouch and said “Snack bars”, expecting to get
+ the box of cereal bars he'd bought before departing for Hogwarts.
+\end_layout
+
+\begin_layout Standard
+What popped up did not feel like a box of cereal bars.
+\end_layout
+
+\begin_layout Standard
+When Harry brought his hand into his field of vision he saw two tiny candy
+ bars — not nearly enough for a meal — attached to a note, and the note
+ was inscribed in the same writing as the game instructions.
+\end_layout
+
+\begin_layout Standard
+The note said:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+ATTEMPT FAILED: -1 POINT
+\begin_inset Newline newline
+\end_inset
+
+CURRENT POINTS: 99
+\begin_inset Newline newline
+\end_inset
+
+PHYSICAL STATE: STILL HUNGRY
+\begin_inset Newline newline
+\end_inset
+
+MENTAL STATE: CONFUSED
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Gleehhhhh” Harry's mouth said without any sort of conscious intervention
+ or decision on his part.
+\end_layout
+
+\begin_layout Standard
+He stood there for around a minute.
+\end_layout
+
+\begin_layout Standard
+One minute later, it 
+\emph on
+still
+\emph default
+ didn't make any sense and he 
+\emph on
+still
+\emph default
+ had absolutely no idea what was going on and his brain hadn't even 
+\emph on
+begun
+\emph default
+ to grasp at any 
+\emph on
+hypotheses
+\emph default
+ like his mental hands were encased in rubber balls and couldn't pick anything
+ up.
+\end_layout
+
+\begin_layout Standard
+His stomach, which had its own priorities, suggested a possible experimental
+ probe.
+\end_layout
+
+\begin_layout Standard
+“Ah…” Harry said to the empty room.
+ “I don't suppose I could spend a point and get my box of cereal bars back?”
+\end_layout
+
+\begin_layout Standard
+There was only silence.
+\end_layout
+
+\begin_layout Standard
+Harry put his hand into the pouch and said “Box of cereal bars.”
+\end_layout
+
+\begin_layout Standard
+A box that felt like the right shape popped up into his hand… but it was
+ too light, and it was open, and it was empty, and the note attached to
+ it said:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+POINTS SPENT: 1
+\begin_inset Newline newline
+\end_inset
+
+CURRENT POINTS: 98
+\begin_inset Newline newline
+\end_inset
+
+YOU HAVE GAINED: A BOX OF CEREAL BARS
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“I'd like to spend one point and get the 
+\emph on
+actual cereal bars
+\emph default
+ back,” said Harry.
+\end_layout
+
+\begin_layout Standard
+Again, silence.
+\end_layout
+
+\begin_layout Standard
+Harry put his hand into the pouch and said “cereal bars”.
+\end_layout
+
+\begin_layout Standard
+Nothing came up.
+\end_layout
+
+\begin_layout Standard
+Harry shrugged despairingly and went over to the cabinet he'd been given
+ near his bed, to get his wizard's robes for the day.
+\end_layout
+
+\begin_layout Standard
+On the floor of the cabinet, under his robes, were the cereal bars, and
+ a note:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+POINTS SPENT: 1
+\begin_inset Newline newline
+\end_inset
+
+CURRENT POINTS: 97
+\begin_inset Newline newline
+\end_inset
+
+YOU HAVE GAINED: 6 CEREAL BARS
+\begin_inset Newline newline
+\end_inset
+
+YOU ARE STILL WEARING: PYJAMAS
+\begin_inset Newline newline
+\end_inset
+
+DO NOT EAT WHILE YOU ARE WEARING YOUR PYJAMAS
+\begin_inset Newline newline
+\end_inset
+
+YOU WILL GET A PYJAMA PENALTY
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And now I know that whoever controls the game is insane.
+\end_layout
+
+\begin_layout Standard
+“My guess is that the game is controlled by Dumbledore,” Harry said out
+ loud.
+ Maybe 
+\emph on
+this
+\emph default
+ time he could set a new land speed record for being quick on the uptake.
+\end_layout
+
+\begin_layout Standard
+Silence.
+\end_layout
+
+\begin_layout Standard
+But Harry was starting to pick up the pattern; the note would be in the
+ next place he looked.
+ So Harry looked under his bed.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+HA! HA HA HA HA HA!
+\begin_inset Newline newline
+\end_inset
+
+HA HA HA HA HA HA!
+\begin_inset Newline newline
+\end_inset
+
+HA! HA! HA! HA! HA! HA!
+\begin_inset Newline newline
+\end_inset
+
+DUMBLEDORE DOES NOT CONTROL THE GAME
+\begin_inset Newline newline
+\end_inset
+
+BAD GUESS
+\begin_inset Newline newline
+\end_inset
+
+VERY BAD GUESS
+\begin_inset Newline newline
+\end_inset
+
+-20 POINTS
+\begin_inset Newline newline
+\end_inset
+
+AND YOU ARE STILL WEARING PYJAMAS
+\begin_inset Newline newline
+\end_inset
+
+IT IS YOUR FOURTH MOVE
+\begin_inset Newline newline
+\end_inset
+
+AND YOU ARE STILL WEARING PYJAMAS
+\begin_inset Newline newline
+\end_inset
+
+PYJAMA PENALTY: -2 POINTS
+\begin_inset Newline newline
+\end_inset
+
+CURRENT POINTS: 75
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Welp, that was a puzzler, all right.
+ It was only his first day at school and once you ruled out Dumbledore,
+ he didn't know the name of anyone else here who was this crazy.
+\end_layout
+
+\begin_layout Standard
+His body more or less on autopilot, Harry gathered up a set of robes and
+ underwear, pulled out the cavern level of his trunk (he was a very private
+ sort of person and someone might walk into the dorm), got dressed, and
+ then went back upstairs to put away his pyjamas.
+\end_layout
+
+\begin_layout Standard
+Harry paused before pulling out the cabinet drawer that held his pyjamas.
+ If the pattern here held true…
+\end_layout
+
+\begin_layout Standard
+“How can I earn more points?” Harry said out loud.
+\end_layout
+
+\begin_layout Standard
+Then he pulled out the drawer.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+OPPORTUNITIES TO DO GOOD ARE EVERYWHERE
+\begin_inset Newline newline
+\end_inset
+
+BUT DARKNESS IS WHERE THE LIGHT NEEDS TO BE
+\begin_inset Newline newline
+\end_inset
+
+COST OF QUESTION: 1 POINT
+\begin_inset Newline newline
+\end_inset
+
+CURRENT POINTS: 74
+\begin_inset Newline newline
+\end_inset
+
+NICE UNDERWEAR
+\begin_inset Newline newline
+\end_inset
+
+DID YOUR MOTHER PICK THEM OUT?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry crushed the note in his hand, face flaming scarlet.
+ Draco's curse came back to him.
+ 
+\emph on
+Son of a mudblood —
+\end_layout
+
+\begin_layout Standard
+At this point he knew better than to say it out loud.
+ He would probably get a Profanity Penalty.
+\end_layout
+
+\begin_layout Standard
+Harry girded himself with his mokeskin pouch and wand.
+ He peeled off the wrapper of one his cereal bars and threw it into the
+ room's rubbish bin, where it landed atop a mostly-uneaten Chocolate Frog,
+ a crumpled envelope and some green and red wrapping paper.
+ He put the other cereal bars into his mokeskin pouch.
+\end_layout
+
+\begin_layout Standard
+He looked around in a final, desperate, and ultimately futile search for
+ clues.
+\end_layout
+
+\begin_layout Standard
+And then Harry left the dorm, eating as he went, in search of the Slytherin
+ dungeons.
+ At least that was what he 
+\emph on
+thought
+\emph default
+ the line was about.
+\end_layout
+
+\begin_layout Standard
+Trying to navigate the halls of Hogwarts was like… probably 
+\emph on
+not
+\emph default
+ quite as bad as wandering around inside an Escher painting, that was the
+ sort of thing you said for rhetorical effect rather than for its being
+ true.
+\end_layout
+
+\begin_layout Standard
+A short time later, Harry was thinking that in fact an Escher painting would
+ have both pluses and minuses compared to Hogwarts.
+ Minuses: No consistent gravitational orientation.
+ Pluses: At least the stairs wouldn't move around 
+\emph on
+WHILE YOU WERE STILL ON THEM.
+\end_layout
+
+\begin_layout Standard
+Harry had originally climbed four flights of stairs to get to his dorm.
+ After clambering down no fewer than twelve flights of stairs without getting
+ anywhere near the dungeons, Harry had concluded that (1) an Escher painting
+ would be a 
+\emph on
+cakewalk
+\emph default
+ by comparison, (2) he was somehow 
+\emph on
+higher
+\emph default
+ in the castle than when he'd started, and (3) he was so 
+\emph on
+thoroughly
+\emph default
+ lost that he wouldn't have been surprised to look out of the next window
+ and see two moons in the sky.
+\end_layout
+
+\begin_layout Standard
+Backup plan A had been to stop and ask for directions, but there seemed
+ to be an extreme lack of people wandering around, as if the beggars were
+ all attending class the way they were supposed to or something.
+\end_layout
+
+\begin_layout Standard
+Backup plan B…
+\end_layout
+
+\begin_layout Standard
+“I'm lost,” Harry said out loud.
+ “Can, um, the spirit of the Hogwarts castle help me or something?”
+\end_layout
+
+\begin_layout Standard
+“I don't think this castle has a spirit,” observed a wizened old lady in
+ one of the paintings on the walls.
+ “Life, perhaps, but not spirit.”
+\end_layout
+
+\begin_layout Standard
+There was a brief pause.
+\end_layout
+
+\begin_layout Standard
+“Are you —” Harry said, and then shut his mouth.
+ On second thought, no he was NOT going to ask the painting whether it was
+ fully conscious in the sense of being aware of its own awareness.
+\end_layout
+
+\begin_layout Standard
+“I'm Harry Potter,” said his mouth, more or less on autopilot.
+ Also more or less automatically, Harry stuck out a hand towards the painting.
+\end_layout
+
+\begin_layout Standard
+The woman in the painting looked down at Harry's hand and raised her eyebrows.
+\end_layout
+
+\begin_layout Standard
+Slowly, the hand dropped back to Harry's side.
+\end_layout
+
+\begin_layout Standard
+“Sorry,” Harry said, “I'm sort of new here.”
+\end_layout
+
+\begin_layout Standard
+“So I perceive, young raven.
+ Where are you trying to go?”
+\end_layout
+
+\begin_layout Standard
+Harry hesitated.
+ “I'm not really sure,” he said.
+\end_layout
+
+\begin_layout Standard
+“Then perhaps you are already there.”
+\end_layout
+
+\begin_layout Standard
+“Well, wherever I 
+\emph on
+am
+\emph default
+ trying to go, I don't think 
+\emph on
+this
+\emph default
+ is it…” Harry shut his mouth, aware of just how much he was sounding like
+ an idiot.
+ “Let me start over.
+ I'm playing this game only I don't know what the rules are —” That didn't
+ really work either, did it.
+ “Okay, third try.
+ I'm looking for opportunities to do good so I can score points, and all
+ I have is this cryptic hint about how darkness is where the light needs
+ to be, so I was trying to go down but I seem to keep going up instead…”
+\end_layout
+
+\begin_layout Standard
+The old lady in the painting was looking at him rather sceptically.
+\end_layout
+
+\begin_layout Standard
+Harry sighed.
+ “My life tends to get a bit peculiar.”
+\end_layout
+
+\begin_layout Standard
+“Would it be fair to say that you don't know where you're going or why you're
+ trying to get there?”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Entirely
+\emph default
+ fair.”
+\end_layout
+
+\begin_layout Standard
+The old lady nodded.
+ “I'm not sure that being lost is your most important problem, young man.”
+\end_layout
+
+\begin_layout Standard
+“True, but unlike the more important problems, it's a problem I can understand
+ how to solve and 
+\emph on
+wow
+\emph default
+ is this conversation turning into a metaphor for human existence, I didn't
+ even realise that was happening until just now.”
+\end_layout
+
+\begin_layout Standard
+The lady eyed Harry appraisingly.
+ “You 
+\emph on
+are
+\emph default
+ a fine young raven, aren't you? For a moment I was starting to wonder.
+ Well then, as a general rule, if you keep on turning left, you're bound
+ to keep going down.”
+\end_layout
+
+\begin_layout Standard
+That sounded strangely familiar but Harry couldn't recall where he'd heard
+ it before.
+ “Um… you seem like a very intelligent person.
+ Or a picture of a very intelligent person… anyway, have you heard of a
+ mysterious game where you can only play once, and they won't tell you the
+ rules?”
+\end_layout
+
+\begin_layout Standard
+“Life,” said the lady at once.
+ “That's one of the most obvious riddles I've ever heard.”
+\end_layout
+
+\begin_layout Standard
+Harry blinked.
+ “No,” he said slowly.
+ “I mean I got an actual note and everything saying that I had to play the
+ game but I wouldn't be told the rules, and someone is leaving me little
+ slips of paper telling me how many points I've lost for violating the rules,
+ like a minus two point penalty for wearing pyjamas.
+ Do you know anyone here at Hogwarts who's crazy enough and powerful enough
+ to do something like that? Besides Dumbledore, I mean?”
+\end_layout
+
+\begin_layout Standard
+The picture of a lady sighed.
+ “I'm only a picture, young man.
+ I remember Hogwarts as it was — not Hogwarts as it is.
+ All I can tell you is that if this were a riddle, the answer would be that
+ the game is life, and that while we do not make all the rules ourselves,
+ the one who awards or takes points is always you.
+ If it is not riddle but reality — then I do not know.”
+\end_layout
+
+\begin_layout Standard
+Harry bowed very low to the picture.
+ “Thank you, milady.”
+\end_layout
+
+\begin_layout Standard
+The lady curtseyed to him.
+ “I wish I could say that I'll remember you with fondness,” she said, “but
+ I probably won't remember you at all.
+ Farewell, Harry Potter.”
+\end_layout
+
+\begin_layout Standard
+He bowed again in reply, and started to climb down the nearest flight of
+ stairs.
+\end_layout
+
+\begin_layout Standard
+Four left turns later he found himself staring down a corridor that ended,
+ abruptly, in a tumbled mound of large rocks — as if there had been a cave-in,
+ only the surrounding walls and ceiling were intact and made of quite regular
+ castle stones.
+\end_layout
+
+\begin_layout Standard
+“All right,” Harry said to the empty air, “I give up.
+ I'm asking for another hint.
+ How do I get to where I need to go?”
+\end_layout
+
+\begin_layout Standard
+“A hint! A hint, you say?”
+\end_layout
+
+\begin_layout Standard
+The excited voice came from a painting on the wall not far away, this one
+ a portrait of a middle-aged man in the loudest pink robes that Harry had
+ ever seen or even imagined.
+ In the portrait he was wearing a droopy old pointed hat with a fish on
+ it (not a drawing of a fish, mind, but a fish).
+\end_layout
+
+\begin_layout Standard
+“Yes!” Harry said.
+ “A hint! A hint, I say! Only not just 
+\emph on
+any
+\emph default
+ hint, I'm looking for a 
+\emph on
+specific
+\emph default
+ hint, it's for a game I'm playing —”
+\end_layout
+
+\begin_layout Standard
+“Yes, yes! A hint for the game! You're Harry Potter, aren't you? I'm Cornelion
+ Flubberwalt! I was told by Erin the Consort who was told by Lord Weaselnose
+ who was told by, I forget really.
+ But it was a message for 
+\emph on
+me
+\emph default
+ to give to you! For 
+\emph on
+me!
+\emph default
+ No one's cared about me in, I don't know how long, maybe ever, I've been
+ stuck down here in this bloody useless old corridor — a hint! I have your
+ hint! It will only cost you three points! Do you want it?”
+\end_layout
+
+\begin_layout Standard
+“Yes! I want it!” Harry was aware that he probably ought to keep his sarcasm
+ under control but he just couldn't seem to help himself.
+\end_layout
+
+\begin_layout Standard
+“The darkness can be found between the green study rooms and McGonagall's
+ Transfiguration class! That's the hint! And get a move on, you're slower
+ than a sack of snails! Minus ten points for being slow! Now you have 61
+ points! That was the rest of the message!”
+\end_layout
+
+\begin_layout Standard
+“Thank you,” Harry said.
+ He was really getting behind on the game here.
+ “Um… I don't suppose you know where the message 
+\emph on
+originally
+\emph default
+ came from, do you?”
+\end_layout
+
+\begin_layout Standard
+“It was spoken by a hollow voice that belled forth from a gap within the
+ air itself, a gap that opened upon a fiery abyss! That's what they told
+ me!”
+\end_layout
+
+\begin_layout Standard
+Harry was no longer sure, at this point, whether this was the sort of thing
+ he ought to be sceptical about, or the sort of thing he should just take
+ in stride.
+ “And how can I find the line between the green study rooms and Transfiguration
+ class?”
+\end_layout
+
+\begin_layout Standard
+“Just spin back around and go left, right, down, down, right, left, right,
+ up, and left again, you'll be at the green study room and if you go in
+ and walk straight out the opposite side you'll be on a big curvy corridor
+ that goes to an intersection and on the right side of that intersection
+ will be a long straight hallway that goes to the Transfiguration classroom!”
+ The figure of the middle-aged man paused.
+ “At least that's how it was when 
+\emph on
+I
+\emph default
+ was in Hogwarts.
+ This 
+\emph on
+is
+\emph default
+ a Monday on an odd-numbered year, isn't it?”
+\end_layout
+
+\begin_layout Standard
+“Pencil and mechanical paper,” Harry said to his pouch.
+ “Er, cancel that, paper and mechanical pencil.” He looked up.
+ “Could you repeat that?”
+\end_layout
+
+\begin_layout Standard
+After getting lost another two times, Harry felt that he was beginning to
+ understand the basic rule for navigating the ever-changing maze that was
+ Hogwarts, namely, 
+\emph on
+ask a painting for directions
+\emph default
+.
+ If this reflected some sort of incredibly deep life lesson he couldn't
+ figure out what it was.
+\end_layout
+
+\begin_layout Standard
+The green study room was a surprisingly pleasant space with sunlight streaming
+ in from windows of green-stained glass that showed dragons in calm, pastoral
+ scenes.
+ It had chairs that looked extremely comfortable, and tables that seemed
+ very well-suited to studying in the company of one to three friends.
+\end_layout
+
+\begin_layout Standard
+Harry couldn't 
+\emph on
+actually
+\emph default
+ walk straight through and out the door on the other side.
+ There were 
+\emph on
+bookshelves
+\emph default
+ set into the wall, and he had to go over and read some of the titles, so
+ as to not lose his claim to the Verres family name.
+ But he did it quickly, mindful of the complaint about being slow, and then
+ went out the other side.
+\end_layout
+
+\begin_layout Standard
+He was walking down the “big curvy corridor” when he heard a young boy's
+ voice cry out.
+\end_layout
+
+\begin_layout Standard
+At times like this, Harry had an excuse to sprint all-out with no regards
+ for saving energy or doing proper warmup exercises or worrying about crashing
+ into things, a sudden frantic flight that nearly came to an equally sudden
+ halt as he almost ran over a group of six first-year Hufflepuffs…
+\end_layout
+
+\begin_layout Standard
+…who were huddled together, looking rather scared and like they desperately
+ wanted to do something but couldn't figure out what, which probably had
+ something to do with the group of five older Slytherins who seemed to be
+ surrounding another young boy.
+\end_layout
+
+\begin_layout Standard
+Harry was suddenly rather angry.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Excuse me!
+\emph default
+” shouted Harry at the top of his lungs.
+\end_layout
+
+\begin_layout Standard
+It might not have been necessary.
+ People were already looking at him.
+ But it certainly served to stop all the action cold.
+\end_layout
+
+\begin_layout Standard
+Harry walked past the cluster of Hufflepuffs towards the Slytherins.
+\end_layout
+
+\begin_layout Standard
+They looked down at him with expressions that ranged from anger to amusement
+ to delight.
+\end_layout
+
+\begin_layout Standard
+Part of Harry's brain was screaming in panic that these were much older
+ and bigger boys who could stomp him flat.
+\end_layout
+
+\begin_layout Standard
+Another part said dryly that anyone caught seriously stomping the Boy-Who-Lived
+ was in for a whole 
+\emph on
+world
+\emph default
+ of trouble, especially if they were a pack of older Slytherins and there
+ were seven Hufflepuffs who saw it, and that the chance of them doing him
+ any permanent damage in the presence of witnesses was nearly zero.
+ The only real weapon the older boys had against him was his own fear, if
+ he allowed that.
+\end_layout
+
+\begin_layout Standard
+Then Harry saw that the boy they had trapped was Neville Longbottom.
+\end_layout
+
+\begin_layout Standard
+Of course.
+\end_layout
+
+\begin_layout Standard
+That settled it.
+ Harry had decided to apologise humbly to Neville and that meant Neville
+ was 
+\emph on
+his
+\emph default
+, how 
+\emph on
+dare
+\emph default
+ they?
+\end_layout
+
+\begin_layout Standard
+Harry reached out and grabbed Neville by the wrist and 
+\emph on
+yanked
+\emph default
+ him out from between the Slytherins, the boy stumbling in shock as Harry
+ pulled him out and in nearly the same motion pushed his own way through
+ the same gap.
+\end_layout
+
+\begin_layout Standard
+And Harry stood in the center of the Slytherins where Neville had stood,
+ looking up at the much older, larger, and stronger boys.
+\end_layout
+
+\begin_layout Standard
+“Hello,” Harry said.
+ “I'm the Boy-Who-Lived.”
+\end_layout
+
+\begin_layout Standard
+There was a rather awkward pause.
+ No one seemed to know where the conversation was supposed to go from there.
+\end_layout
+
+\begin_layout Standard
+Harry's eyes dropped downwards and saw some books and papers scattered around
+ the floor.
+ Oh, the old game where you let the boy try to pick up his books and then
+ knock them out of his hand again.
+ Harry couldn't remember ever being the object of that game himself, but
+ he had a good imagination and his imagination was making him furious.
+ Well, once the larger situation was resolved it would be easy enough for
+ Neville to come back and pick up his materials, provided that the Slytherins
+ stayed too intent on him to think of doing anything to the books.
+\end_layout
+
+\begin_layout Standard
+Unfortunately his straying eyes had been noted.
+ “Ooh,” said the largest of the boys, “did `oo want the widdle books —”
+\end_layout
+
+\begin_layout Standard
+“Shut up,” Harry said coldly.
+ 
+\emph on
+Keep them off balance.
+ Don't do what they expect.
+ Don't fall into a pattern that calls for them to bully you.
+
+\emph default
+ “Is this part of some incredibly clever plan that will gain you future
+ advantage, or is it as pointless a disgrace to the name of Salazar Slytherin
+ as it —”
+\end_layout
+
+\begin_layout Standard
+The largest boy shoved Harry Potter hard, and he went sprawling out of the
+ circle of Slytherins onto the hard stone floor of Hogwarts.
+\end_layout
+
+\begin_layout Standard
+And the Slytherins laughed.
+\end_layout
+
+\begin_layout Standard
+Harry rose up in what seemed to him like terribly slow motion.
+ He didn't know yet how to use his wand, but there was no reason to let
+ that stop him, under the circumstances.
+\end_layout
+
+\begin_layout Standard
+“I'd like to pay 
+\emph on
+as many points as it takes
+\emph default
+ to get rid of this person,” Harry said, pointing with his finger to the
+ largest Slytherin.
+\end_layout
+
+\begin_layout Standard
+Then Harry lifted his other hand, said “Abracadabra,” and snapped his fingers.
+\begin_inset Float figure
+placement bp
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 013-abracadabra_by_dinosaurusgede-d31nnh7.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\size small
+Then Harry lifted his other hand, said “Abracadabra,” and snapped his fingers.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At the word 
+\emph on
+Abracadabra
+\emph default
+ two of the Hufflepuffs screamed, including Neville, three other Slytherins
+ leapt desperately out of the way of Harry's finger, and the largest Slytherin
+ staggered back with an expression of shock, a sudden splash of red decorating
+ his face and neck and chest.
+\end_layout
+
+\begin_layout Standard
+Harry had 
+\emph on
+not
+\emph default
+ been expecting 
+\emph on
+that
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Slowly, the largest Slytherin reached up to his head, and peeled off the
+ pan of cherry pie that had just draped itself over him.
+ The largest Slytherin held the pan in his hand for a moment, staring at
+ it, then dropped it to the floor.
+\end_layout
+
+\begin_layout Standard
+It probably wasn't the best time in the world for one of the Hufflepuffs
+ to start laughing, but that was exactly what one of the Hufflepuffs was
+ doing.
+\end_layout
+
+\begin_layout Standard
+Then Harry caught sight of the note on the bottom of the pan.
+\end_layout
+
+\begin_layout Standard
+“Hold on,” Harry said, and darted forward to pick up the note.
+ “This note's for me, I think —”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You,”
+\emph default
+ growled the largest Slytherin, “
+\emph on
+you, are, going, to —
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Look
+\emph default
+ at this!” shouted Harry, brandishing the note at the older Slytherin.
+ “I mean, just 
+\emph on
+look
+\emph default
+ at this! Can you believe I'm being charged 30 points for shipping and handling
+ on one lousy pie? 30 points! I'm turning a loss on the deal even after
+ rescuing an innocent boy in distress! And storage fees? Conveyance charges?
+ Drayage costs? How do you get 
+\emph on
+drayage costs
+\emph default
+ on a 
+\emph on
+pie?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There was another one of those awkward pauses.
+ Harry thought deadly thoughts at whichever Hufflepuff couldn't seem to
+ stop giggling, that idiot was going to get him hurt.
+\end_layout
+
+\begin_layout Standard
+Harry stepped back and shot the Slytherins his best lethal glare.
+ “Now go away or I will just keep making your existence more and more surreal
+ until you do.
+ Let me warn you… messing with 
+\emph on
+my
+\emph default
+ life tends to make 
+\emph on
+your
+\emph default
+ life… 
+\emph on
+a little hairy.
+
+\emph default
+ Get it?”
+\end_layout
+
+\begin_layout Standard
+In a single terrible motion, the largest Slytherin whipped his wand out
+ to point at Harry and in the same instant was hit on the other side of
+ his head by another pie, this one bright blueberry.
+\end_layout
+
+\begin_layout Standard
+The note on this pie was rather large and clearly readable.
+ “You might want to read the note on that pie,” Harry observed.
+ “I think it's for you this time.”
+\end_layout
+
+\begin_layout Standard
+The Slytherin slowly reached up, took the pie pan, turned it over with a
+ wet glop that dropped more blueberry on the floor, and read a note that
+ said:
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\bar under
+WARNING
+\bar default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+NO
+\bar default
+ MAGIC MAY BE USED ON THE CONTESTANT
+\begin_inset Newline newline
+\end_inset
+
+ WHILE THE GAME IS IN PROGRESS
+\begin_inset Newline newline
+\end_inset
+
+ FURTHER INTERFERENCE IN THE GAME
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+WILL
+\bar default
+ BE REPORTED TO THE GAME AUTHORITIES
+\end_layout
+
+\begin_layout Standard
+The expression of sheer bafflement on the Slytherin's face was a look of
+ art.
+ Harry thought that he might be starting to like this Game Controller.
+\end_layout
+
+\begin_layout Standard
+“Look,” Harry said, “you want to call it a day? I think things are spiralling
+ out of control here.
+ How about you go back to Slytherin and I go back to Ravenclaw and we all
+ just cool down a bit, okay?”
+\end_layout
+
+\begin_layout Standard
+“I've got a better idea,” hissed the largest Slytherin.
+ “How about if you accidentally break all your fingers?”
+\end_layout
+
+\begin_layout Standard
+“How in Merlin's name do you stage a believable accident after making the
+ threat in front of a dozen witnesses, you 
+\emph on
+idiot
+\emph default
+ —”
+\end_layout
+
+\begin_layout Standard
+The largest Slytherin slowly, deliberately reached out towards Harry's hands,
+ and Harry froze in place, the part of his brain that was noticing the other
+ boy's age and strength finally managing to make itself heard, screaming,
+ 
+\emph on
+WHAT THE HECK AM I DOING?
+\end_layout
+
+\begin_layout Standard
+“Wait!” said one of the other Slytherins, his voice suddenly panicky.
+ “Stop, you shouldn't actually do that!”
+\end_layout
+
+\begin_layout Standard
+The largest Slytherin ignored him, taking Harry's right hand firmly in his
+ left hand, and taking Harry's index finger in his right hand.
+\end_layout
+
+\begin_layout Standard
+Harry stared the Slytherin straight in the eyes.
+ Part of Harry was screaming, this wasn't supposed to happen, this wasn't
+ 
+\emph on
+allowed
+\emph default
+ to happen, grownups would never let something like this 
+\emph on
+actually
+\emph default
+ happen —
+\end_layout
+
+\begin_layout Standard
+Slowly, the Slytherin started to bend his index finger backwards.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He hasn't actually broken my finger and it is beneath me to so much as flinch
+ until he does.
+ Until then, this is just another attempt to cause fear.
+\end_layout
+
+\begin_layout Standard
+“Stop!” said the Slytherin who had objected before.
+ “Stop, this is a very bad idea!”
+\end_layout
+
+\begin_layout Standard
+“I rather agree,” said an icy voice.
+ An older woman's voice.
+\end_layout
+
+\begin_layout Standard
+The largest Slytherin let go of Harry's hand and jumped backwards as if
+ burned.
+\end_layout
+
+\begin_layout Standard
+“Professor Sprout!” cried one of the Hufflepuffs, sounding as glad as anyone
+ Harry had ever heard in his life.
+\end_layout
+
+\begin_layout Standard
+Into Harry's field of vision, as he turned, stalked a dumpy little woman
+ with messily curled grey hair and clothes covered with dirt.
+ She pointed an accusing finger at the Slytherins.
+ “Explain yourselves,” she said.
+ “What are you doing with my Hufflepuffs and…” she looked at him.
+ “My fine student, Harry Potter.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Uh oh.
+ That's right, it was HER class I missed this morning.
+\end_layout
+
+\begin_layout Standard
+“He threatened to kill us!” blurted one of the other Slytherins, the same
+ one who'd called for a halt.
+\end_layout
+
+\begin_layout Standard
+“What?” Harry said blankly.
+ “I did 
+\emph on
+not!
+\emph default
+ If I was going to kill you I wouldn't make public threats first!”
+\end_layout
+
+\begin_layout Standard
+A third Slytherin laughed helplessly and then stopped abruptly as the other
+ boys shot him deadly glares.
+\end_layout
+
+\begin_layout Standard
+Professor Sprout had adopted a rather sceptical expression.
+ “What death threat would this be, exactly?”
+\end_layout
+
+\begin_layout Standard
+“The Killing Curse! He pretended to use the Killing Curse on us!”
+\end_layout
+
+\begin_layout Standard
+Professor Sprout turned to look at Harry.
+ “Yes, quite a terrible threat from an eleven-year-old boy.
+ Though still not something you should 
+\emph on
+ever
+\emph default
+ dream of pretending, Harry Potter.”
+\end_layout
+
+\begin_layout Standard
+“I don't even know the 
+\emph on
+words
+\emph default
+ to the Killing Curse,” Harry said promptly.
+ “And I didn't have my wand out at any time.”
+\end_layout
+
+\begin_layout Standard
+Now Professor Sprout was giving Harry a sceptical look.
+ “I suppose this boy hit 
+\emph on
+himself
+\emph default
+ with two pies, then.”
+\end_layout
+
+\begin_layout Standard
+“He 
+\emph on
+didn't
+\emph default
+ use his wand!” blurted one of the young Hufflepuffs.
+ “I don't know how he did it either, he just snapped his fingers and there
+ was pie!”
+\end_layout
+
+\begin_layout Standard
+“Really,” said Professor Sprout after a pause.
+ She drew her own wand.
+ “I won't require it, since you do seem to be the victim here, but would
+ you mind if I checked your wand to verify that?”
+\end_layout
+
+\begin_layout Standard
+Harry took out his wand.
+ “What do I —”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Prior Incantato,
+\emph default
+” said Sprout.
+ She frowned.
+ “That's odd, your wand doesn't seem to have been used at all.”
+\end_layout
+
+\begin_layout Standard
+Harry shrugged.
+ “It hasn't, actually, I only got my wand and schoolbooks a few days ago.”
+\end_layout
+
+\begin_layout Standard
+Sprout nodded.
+ “Then we have a clear case of accidental magic from a boy who felt threatened.
+ And the rules plainly state that you are not to be held responsible.
+ As for 
+\emph on
+you…
+\emph default
+” she turned to the Slytherins.
+ Her eyes dropped deliberately to Neville's books lying on the floor.
+\end_layout
+
+\begin_layout Standard
+There was a long silence during which she looked at the five Slytherins.
+\end_layout
+
+\begin_layout Standard
+“Three points from Slytherin, 
+\emph on
+each
+\emph default
+,” she said finally.
+ “And six from 
+\emph on
+him,
+\emph default
+” pointing to the boy covered in pie.
+ “Don't you 
+\emph on
+ever
+\emph default
+ meddle with my Hufflepuffs again, or my student Harry Potter either.
+ Now 
+\emph on
+go.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+She didn't have to repeat herself; the Slytherins turned and walked away
+ very quickly.
+\end_layout
+
+\begin_layout Standard
+Neville went and started picking up his books.
+ He seemed to be crying, but only a little.
+ It might have been from delayed shock, or it might have been because the
+ other boys were helping him.
+\end_layout
+
+\begin_layout Standard
+“Thank you 
+\emph on
+very
+\emph default
+ much, Harry Potter,” Professor Sprout said to him.
+ “Seven points to Ravenclaw, one for each Hufflepuff you helped protect.
+ And I won't say anything more.”
+\end_layout
+
+\begin_layout Standard
+Harry blinked.
+ He'd been expecting something more along the lines of a lecture about keeping
+ himself out of trouble, and a rather severe scolding for missing his very
+ first class.
+\end_layout
+
+\begin_layout Standard
+Maybe he 
+\emph on
+should
+\emph default
+ have gone to Hufflepuff.
+ Sprout was cool.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Scourgify,
+\emph default
+” Sprout said to the mess of pie on the floor, which promptly vanished.
+\end_layout
+
+\begin_layout Standard
+And she left, walking along the hall that led to the green study room.
+\end_layout
+
+\begin_layout Standard
+“How did you 
+\emph on
+do
+\emph default
+ that?” hissed one of the Hufflepuff boys as soon as she was gone.
+\end_layout
+
+\begin_layout Standard
+Harry smiled smugly.
+ “I can make anything I want happen just by snapping my fingers.”
+\end_layout
+
+\begin_layout Standard
+The boy's eyes widened.
+ “
+\emph on
+Really?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“No,” said Harry.
+ “But when you're telling everyone this story be sure to share it with Hermione
+ Granger in first-year Ravenclaw, she has an anecdote you might find amusing.”
+ He had absolutely no clue what was happening, but he wasn't about to pass
+ up the opportunity to add to his growing legend.
+ “Oh, and what was all that about the Killing Curse?”
+\end_layout
+
+\begin_layout Standard
+The boy gave him a strange look.
+ “You really don't know?”
+\end_layout
+
+\begin_layout Standard
+“If I did, I wouldn't be asking.”
+\end_layout
+
+\begin_layout Standard
+“The words to the Killing Curse are,” the boy swallowed, and his voice dropped
+ to a whisper, and he held his hands away from his sides as if to make it
+ very clear that he wasn't holding a wand, “
+\emph on
+Avada Kedavra.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Well of course they are.
+\end_layout
+
+\begin_layout Standard
+Harry put this on his growing list of things to never ever tell his Dad,
+ Professor Michael Verres-Evans.
+ It was bad enough talking about how you were the only person to survive
+ the fearsome Killing Curse, without having to admit that the Killing Curse
+ was “Abracadabra.”
+\end_layout
+
+\begin_layout Standard
+“I see,” Harry said after a pause.
+ “Well, that's the last time I ever say 
+\emph on
+that
+\emph default
+ before snapping my fingers.” Though it 
+\emph on
+had
+\emph default
+ produced an effect that might be tactically useful.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Why
+\emph default
+ did you —”
+\end_layout
+
+\begin_layout Standard
+“Raised by Muggles, Muggles think it's a joke and that it's funny.
+ Seriously, that's what happened.
+ Sorry, but can you remind me of your name?”
+\end_layout
+
+\begin_layout Standard
+“I'm Ernie Macmillan,” said the Hufflepuff.
+ He held out his hand, and Harry shook it.
+ “Honoured to meet you.”
+\end_layout
+
+\begin_layout Standard
+Harry executed a slight bow.
+ “Pleased to meet you, skip the honoured thing.”
+\end_layout
+
+\begin_layout Standard
+Then the other boys crowded round him and there was a sudden flood of introducti
+ons.
+\end_layout
+
+\begin_layout Standard
+When they were done, Harry swallowed.
+ This was going to be very difficult.
+ “Um… if everyone would excuse me… I have something to say to Neville —”
+\end_layout
+
+\begin_layout Standard
+All eyes turned to Neville, who took a step back, his face looking apprehensive.
+\end_layout
+
+\begin_layout Standard
+“I suppose,” Neville said in a tiny voice, “you're going to say I should've
+ been braver —”
+\end_layout
+
+\begin_layout Standard
+“Oh, no, nothing like that!” Harry said hastily.
+ “Nothing to do with 
+\emph on
+that
+\emph default
+.
+ It's just, um, something the Sorting Hat told me —”
+\end_layout
+
+\begin_layout Standard
+Suddenly the other boys looked 
+\emph on
+very
+\emph default
+ interested, except for Neville, who was looking even 
+\emph on
+more
+\emph default
+ apprehensive.
+\end_layout
+
+\begin_layout Standard
+There seemed to be something blocking Harry's throat.
+ He knew he should just blurt it out, and it was like he'd swallowed a large
+ brick that was just stuck in the way.
+\end_layout
+
+\begin_layout Standard
+It was like Harry had to manually take control of his lips and produce each
+ syllable individually, but he managed to make it happen.
+ “I'm, sor, ry.” He exhaled and took a deep breath.
+ “For what I did, um, the other day.
+ You… don't have to be gracious about it or anything, I'll understand if
+ you just hate me.
+ This isn't about me trying to look cool by apologising or your having to
+ accept it.
+ What I did was wrong.”
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+\end_layout
+
+\begin_layout Standard
+Neville clutched his books tighter to his chest.
+ “Why did you do it?” he said in a thin, wavering voice.
+ He blinked, as if trying to hold back tears.
+ “Why does 
+\emph on
+everyone
+\emph default
+ do that to me, even the Boy-Who-Lived?”
+\end_layout
+
+\begin_layout Standard
+Harry suddenly felt smaller than he ever had in his life.
+ “I'm sorry,” Harry said again, his voice now hoarsened.
+ “It's just… you looked so scared, it was like a sign over your head saying
+ `victim', and I wanted to show you that things 
+\emph on
+don't
+\emph default
+ always turn out badly, that sometimes the monsters give you chocolate…
+ I thought if I showed you that, you might realise there wasn't so much
+ to be afraid of —”
+\end_layout
+
+\begin_layout Standard
+“But there 
+\emph on
+is,
+\emph default
+” whispered Neville.
+ “You saw it today, there 
+\emph on
+is!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“They wouldn't have done anything really bad in front of witnesses.
+ Their main weapon is fear.
+ That's why they target 
+\emph on
+you,
+\emph default
+ because they can see you're afraid.
+ I wanted to make you less afraid… show you that the fear was worse than
+ the thing itself… or that was what I told myself, but the Sorting Hat told
+ me that I was lying to myself and that I really did it because it was fun.
+ So that's why I'm apologising —”
+\end_layout
+
+\begin_layout Standard
+“You hurt me,” said Neville.
+ “Just now.
+ When you grabbed me and pulled me away from them.” Neville held out his
+ arm and pointed to where Harry had grabbed him.
+ “I might have a bruise here later from how hard you pulled.
+ You hurt me worse than anything the Slytherins did by bumping into me,
+ actually.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Neville!
+\emph default
+” hissed Ernie.
+ “He was trying to 
+\emph on
+save
+\emph default
+ you!”
+\end_layout
+
+\begin_layout Standard
+“I'm sorry,” whispered Harry.
+ “When I saw that I just got… really angry…”
+\end_layout
+
+\begin_layout Standard
+Neville looked at him steadily.
+ “So you yanked me out really hard and put yourself in where I was and went,
+ `Hello, I'm the Boy-Who-Lived'.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+\end_layout
+
+\begin_layout Standard
+“I think you're going to be really cool someday,” Neville said.
+ “But right now, you're not.”
+\end_layout
+
+\begin_layout Standard
+Harry swallowed the sudden knot in his throat and walked away.
+ He continued down the corridor to the intersection, then turned left into
+ a hallway and kept on walking, blindly.
+\end_layout
+
+\begin_layout Standard
+What was he 
+\emph on
+supposed
+\emph default
+ to do here? Never get angry? He wasn't sure he could have done anything
+ without being angry and who knows what would have happened to Neville and
+ his books then.
+ Besides, Harry had read enough fantasy books to know how 
+\emph on
+this
+\emph default
+ one went.
+ He would try to suppress the anger and he would fail and it would keep
+ coming out again.
+ And after this whole long journey of self-discovery he would learn at the
+ end that his anger was a part of himself and that only by accepting it
+ could he learn to use it wisely.
+ 
+\emph on
+Star Wars
+\emph default
+ was the only universe in which the answer actually 
+\emph on
+was
+\emph default
+ that you were supposed to cut yourself off completely from negative emotions,
+ and something about Yoda had always made Harry hate the little green moron.
+\end_layout
+
+\begin_layout Standard
+So the obvious time-saving plan was to skip the journey of self-discovery
+ and go straight to the part where he realised that only by accepting his
+ anger as a part of himself could he stay in control of it.
+\end_layout
+
+\begin_layout Standard
+The problem was that he didn't 
+\emph on
+feel
+\emph default
+ out of control when he was angry.
+ The cold rage made him feel like he was 
+\emph on
+in
+\emph default
+ control.
+ It was only when he looked back that 
+\emph on
+events as a whole
+\emph default
+ seemed to have… blown up out of control, somehow.
+\end_layout
+
+\begin_layout Standard
+He wondered how much the Game Controller cared about that sort of thing,
+ and whether he'd won or lost points for it.
+ Harry himself felt like he'd lost quite a few points, and he was sure the
+ old lady in the picture would have told him that his was the only opinion
+ that mattered.
+\end_layout
+
+\begin_layout Standard
+And Harry was also wondering whether the Game Controller had sent Professor
+ Sprout.
+ It was the logical thought: the note had threatened to notify the Game
+ Authorities, and then there Professor Sprout was.
+ Maybe Professor Sprout 
+\emph on
+was
+\emph default
+ the Game Controller — the 
+\emph on
+Head of House Hufflepuff
+\emph default
+ would be the 
+\emph on
+last
+\emph default
+ person anyone would suspect, which ought to put her near the top of Harry's
+ list.
+ He'd read one or two mystery novels, too.
+\end_layout
+
+\begin_layout Standard
+“So how am I doing in the game?” Harry said out loud.
+\end_layout
+
+\begin_layout Standard
+A sheet of paper flew over his head, as if someone had thrown it from behind
+ him — Harry turned around, but there was no one there — and when Harry
+ turned forwards again, the note was settling to the floor.
+\end_layout
+
+\begin_layout Standard
+The note said:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+POINTS FOR STYLE: 10
+\begin_inset Newline newline
+\end_inset
+
+POINTS FOR GOOD THINKING: -3,000,000
+\begin_inset Newline newline
+\end_inset
+
+RAVENCLAW HOUSE POINTS BONUS: 70
+\begin_inset Newline newline
+\end_inset
+
+CURRENT POINTS: -2,999,871
+\begin_inset Newline newline
+\end_inset
+
+TURNS REMAINING: 2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Minus three million points?”
+\emph default
+ Harry said indignantly to the empty hallway.
+ “That seems excessive! I want to file an appeal with the Game Authorities!
+ And how am I supposed to make up three million points in the next two turns?”
+\end_layout
+
+\begin_layout Standard
+Another note flew over his head.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+APPEAL: FAILED
+\begin_inset Newline newline
+\end_inset
+
+ASKING THE WRONG QUESTIONS: -1,000,000,000,000 POINTS
+\begin_inset Newline newline
+\end_inset
+
+CURRENT POINTS: -1,000,002,999,871
+\begin_inset Newline newline
+\end_inset
+
+TURNS REMAINING: 1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry gave up.
+ With one turn remaining all he could do was take his best shot, even if
+ it wasn't very good.
+ “My guess is that the game represents life.”
+\end_layout
+
+\begin_layout Standard
+A final sheet of paper flew over his head, reading:
+\end_layout
+
+\begin_layout Standard
+\align center
+ATTEMPT FAILED
+\begin_inset Newline newline
+\end_inset
+
+ FAILED FAILED FAILED
+\begin_inset Newline newline
+\end_inset
+
+ AIIIIIIIIIIEEEEEEEEEEEEEE
+\begin_inset Newline newline
+\end_inset
+
+ CURRENT POINTS: MINUS INFINITY
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+YOU HAVE LOST THE GAME
+\end_layout
+
+\begin_layout Standard
+\align center
+FINAL INSTRUCTION:
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+go to Professor McGonagall's office
+\end_layout
+
+\begin_layout Standard
+The last line was in his own handwriting.
+\end_layout
+
+\begin_layout Standard
+Harry stared at the last line for a while, then shrugged.
+ Fine.
+ Professor McGonagall's office it would be.
+ If 
+\emph on
+she
+\emph default
+ was the Game Controller…
+\end_layout
+
+\begin_layout Standard
+Okay, honestly, Harry had absolutely no idea how he would feel if Professor
+ McGonagall was the Game Controller.
+ His mind was just drawing a complete blank.
+ It was, literally, unimaginable.
+\end_layout
+
+\begin_layout Standard
+A couple of portraits later — it wasn't a long trip, Professor McGonagall's
+ office wasn't far from her Transfiguration classroom, at least not on Mondays
+ on odd-numbered years — Harry stood outside the door to her office.
+\end_layout
+
+\begin_layout Standard
+He knocked.
+\end_layout
+
+\begin_layout Standard
+“Come in,” said Professor McGonagall's muffled voice.
+\end_layout
+
+\begin_layout Standard
+He entered.
+\end_layout
+
+\end_body
+\end_document

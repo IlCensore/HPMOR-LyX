@@ -1,0 +1,6439 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\usepackage{xltxtra} % automatically loads xunicode and fontspec
+\newfontfamily{\extrafont}{Linux Libertine O} % fontspec command that binds a fontswap to \extrafont
+\newfontfamily{\rmfont}{Adobe Garamond Pro} % same for \rmfont
+\setmainfont{Adobe Garamond Pro} % set up document's default font
+
+\XeTeXinterchartokenstate = 1 % arguably the most distinguished xetex feature
+\newXeTeXintercharclass\fontextras % request a new character class
+\XeTeXcharclass `\⁂ \fontextras % assign your character this new class
+\XeTeXinterchartoks 0 \fontextras = {\extrafont} % what to do when going from latin to any character in your class
+\XeTeXinterchartoks 255 \fontextras = {\extrafont} % what to do when going from boundary to any character in your class
+\XeTeXinterchartoks \fontextras 0 = {\rmfont} % what to do when going from any character in your class to latin
+\XeTeXinterchartoks \fontextras 255 = {\rmfont}% what to do when going from any character in your class to boundary
+\end_preamble
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Adobe Garamond Pro
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize b5paper
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+The Planning Fallacy
+\end_layout
+
+\begin_layout Initial
+
+\emph on
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+S
+\end_layout
+
+\end_inset
+
+ome
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ children would have waited until
+\emph on
+ after
+\emph default
+ their first trip to Diagon Alley.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bag of element 79,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, and withdrew his hand, empty, from the mokeskin pouch.
+\end_layout
+
+\begin_layout Standard
+Most children would have at least waited to get their
+\emph on
+ wands
+\emph default
+ first.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bag of
+\emph on
+ okane,
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+ said Harry.
+ The heavy bag of gold popped up into his hand.
+\end_layout
+
+\begin_layout Standard
+Harry withdrew the bag, then plunged it again into the mokeskin pouch.
+ He took out his hand, put it back in, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Bag of tokens of economic exchange.
+\begin_inset Quotes erd
+\end_inset
+
+ That time his hand came out empty.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 006-shopping_with_minerva_by_dinosaurusgede.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset Quotes eld
+\end_inset
+
+Bag of
+\emph on
+ okane,
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+ said Harry.
+ The heavy bag of gold popped up into his hand.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Give me back the bag that I just put in.
+\begin_inset Quotes erd
+\end_inset
+
+ Out came the bag of gold once more.
+\end_layout
+
+\begin_layout Standard
+Harry James Potter-Evans-Verres had gotten his hands on at least one magical
+ item.
+ Why wait?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Professor McGonagall,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said to the bemused witch strolling beside him, 
+\begin_inset Quotes eld
+\end_inset
+
+can you give me two words, one word for gold, and one word for something
+ else that isn't money, in a language that I wouldn't know? But don't tell
+ me which is which.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Ahava
+\emph default
+ and
+\emph on
+ zahav,
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+ said Professor McGonagall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's Hebrew, and the other word means love.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you, Professor.
+ Bag of
+\emph on
+ ahava.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ Empty.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bag of
+\emph on
+ zahav.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ And it popped up into his hand.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Zahav is gold?
+\begin_inset Quotes erd
+\end_inset
+
+ Harry questioned, and Professor McGonagall nodded.
+\end_layout
+
+\begin_layout Standard
+Harry thought over his collected experimental data.
+ It was only the most crude and preliminary sort of effort, but it was enough
+ to support at least one conclusion:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Aaaaaaarrrgh this doesn't make any sense!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The witch beside him lifted a lofty eyebrow.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Problems, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I just falsified every single hypothesis I had! How can it know that `bag
+ of 115 Galleons' is okay but not `bag of 90 plus 25 Galleons'? It can
+\emph on
+ count
+\emph default
+ but it can't
+\emph on
+ add?
+\emph default
+ It can understand nouns, but not some noun phrases that mean the same thing?
+ The person who made this probably didn't speak Japanese and
+\emph on
+ I
+\emph default
+ don't speak any Hebrew, so it's not using
+\emph on
+ their
+\emph default
+ knowledge, and it's not using
+\emph on
+ my
+\emph default
+ knowledge 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ Harry waved a hand helplessly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The rules seem
+\emph on
+ sorta
+\emph default
+ consistent but they don't
+\emph on
+ mean
+\emph default
+ anything! I'm not even going to ask how a
+\emph on
+ pouch
+\emph default
+ ends up with voice recognition and natural language understanding when
+ the best Artificial Intelligence programmers can't get the fastest supercompute
+rs to do it after thirty-five years of hard work,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry gasped for breath, 
+\begin_inset Quotes eld
+\end_inset
+
+but
+\emph on
+ what
+\emph default
+ is going
+\emph on
+ on?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Magic,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's just a
+\emph on
+ word!
+\emph default
+ Even after you tell me that, I can't make any new predictions! It's exactly
+ like saying 'phlogiston' or 'elan vital' or 'emergence' or 'complexity'!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The black-robed witch laughed aloud.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But it
+\emph on
+ is
+\emph default
+ magic, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry slumped over a little.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+With respect, Professor McGonagall, I'm not quite sure you understand what
+ I'm trying to do here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+With respect, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter, I'm quite sure I don't.
+ Unless 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ this is just a guess, mind 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ you're trying to take over the world?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No! I mean yes 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ well,
+\emph on
+ no!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think I should perhaps be alarmed that you have trouble answering the
+ question.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry glumly considered the Dartmouth Conference on Artificial Intelligence
+ in 1956.
+ It had been the first conference ever on the topic, the one that had coined
+ the phrase 
+\begin_inset Quotes eld
+\end_inset
+
+Artificial Intelligence".
+ They had identified key problems such as making computers understand language,
+ learn, and improve themselves.
+ They had suggested, in perfect seriousness, that significant advances on
+ these problems might be made by ten scientists working together for two
+ months.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No.
+ Chin up.
+ You're just
+\emph default
+ starting
+\emph on
+ on the problem of unravelling all the secrets of magic.
+ You don't actually
+\emph default
+ know
+\emph on
+ whether it's going to be too difficult to do in two months.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And you
+\emph on
+ really
+\emph default
+ haven't heard of other wizards asking these sorts of questions or doing
+ this sort of scientific experimenting?
+\begin_inset Quotes erd
+\end_inset
+
+ Harry asked again.
+ It just seemed so
+\emph on
+ obvious
+\emph default
+ to him.
+\end_layout
+
+\begin_layout Standard
+Then again, it'd taken more than two hundred years
+\emph on
+ after
+\emph default
+ the invention of the scientific method before any Muggle scientists had
+ thought to systematically investigate which sentences a
+\emph on
+ human four-year-old
+\emph default
+ could or couldn't understand.
+ The developmental psychology of linguistics could've been discovered in
+ the eighteenth century, in principle, but no one had even thought to look
+ until the twentieth.
+ So you couldn't really blame the much smaller wizarding world for not investiga
+ting the Retrieval Charm.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall pursed her lips, then shrugged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm still not sure what you mean by 'scientific experimenting', Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+ As I said, I've seen Muggleborn students try to get Muggle science to work
+ inside Hogwarts, and people invent new Charms and Potions every year.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry shook his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Technology isn't the same thing as science at all.
+ And trying lots of different ways to do something isn't the same as experimenti
+ng to figure out the rules.
+\begin_inset Quotes erd
+\end_inset
+
+ There were plenty of people who'd tried to invent flying machines by trying
+ out lots of things-with-wings, but only the Wright Brothers had built a
+ wind tunnel to measure lift… 
+\begin_inset Quotes eld
+\end_inset
+
+Um, how many Muggle-raised children
+\emph on
+ do
+\emph default
+ you get at Hogwarts every year?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Perhaps ten or so?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry missed a step and almost tripped over his own feet.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Ten?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Muggle world had a population of six billion and counting.
+ If you were one in a million, there were seven of you in London and a thousand
+ more in China.
+ It was inevitable that the Muggle population would produce
+\emph on
+ some
+\emph default
+ eleven-year-olds who could do calculus 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Harry knew he wasn't the only one.
+ He'd met other prodigies in mathematical competitions.
+ In fact he'd been thoroughly trounced by competitors who probably spent
+ literally
+\emph on
+ all day
+\emph default
+ practising maths problems and who'd
+\emph on
+ never
+\emph default
+ read a science-fiction book and who would burn out
+\emph on
+ completely
+\emph default
+ before
+\emph on
+ puberty
+\emph default
+ and
+\emph on
+ never
+\emph default
+ amount to
+\emph on
+ anything
+\emph default
+ in their future lives because they'd just practised
+\emph on
+ known
+\emph default
+ techniques instead of learning to think
+\emph on
+ creatively
+\emph default
+.
+ (Harry was something of a sore loser.)
+\end_layout
+
+\begin_layout Standard
+But… in the wizarding world…
+\end_layout
+
+\begin_layout Standard
+Ten Muggle-raised children per year, who'd all ended their Muggle educations
+ at the age of eleven? And Professor McGonagall might be biased, but she
+ had claimed that Hogwarts was the largest and most eminent wizarding school
+ in the world… and it only educated up to the age of seventeen.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall undoubtedly knew every last detail of how you went
+ about turning into a cat.
+ But she seemed to have literally never
+\emph on
+ heard
+\emph default
+ of the scientific method.
+ To her it was just Muggle magic.
+ And she didn't even seem
+\emph on
+ curious
+\emph default
+ about what secrets might be hiding behind the natural language understanding
+ of the Retrieval Charm.
+\end_layout
+
+\begin_layout Standard
+That left two possibilities, really.
+\end_layout
+
+\begin_layout Standard
+Possibility one: Magic was so incredibly opaque, convoluted, and impenetrable,
+ that even though wizards and witches had tried their best to understand,
+ they'd made little or no progress and eventually given up; and Harry would
+ do no better.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Or
+\emph default
+…
+\end_layout
+
+\begin_layout Standard
+Harry cracked his knuckles in determination, but they only made a quiet
+ sort of clicking sound, rather than echoing ominously off the walls of
+ Diagon Alley.
+\end_layout
+
+\begin_layout Standard
+Possibility two: He'd be taking over the world.
+\end_layout
+
+\begin_layout Standard
+Eventually.
+ Perhaps not right away.
+\end_layout
+
+\begin_layout Standard
+That sort of thing
+\emph on
+ did
+\emph default
+ sometimes take longer than two months.
+ Muggle science hadn't gone to the moon in the first week after Galileo.
+\end_layout
+
+\begin_layout Standard
+But Harry still couldn't stop the huge smile that was stretching his cheeks
+ so wide they were starting to hurt.
+\end_layout
+
+\begin_layout Standard
+Harry had always been frightened of ending up as one of those child prodigies
+ that never amounted to anything and spent the rest of their lives boasting
+ about how far ahead they'd been at age ten.
+ But then most adult geniuses never amounted to anything either.
+ There were probably a thousand people as intelligent as Einstein for every
+ actual Einstein in history.
+ Because those other geniuses hadn't gotten their hands on the one thing
+ you absolutely needed to achieve greatness.
+ They'd never found an important problem.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You're mine now,
+\emph default
+ Harry thought at the walls of Diagon Alley, and all the shops and items,
+ and all the shopkeepers and customers; and all the lands and people of
+ wizarding Britain, and all the wider wizarding world; and the entire greater
+ universe of which Muggle scientists understood so much less than they believed.
+
+\emph on
+ I, Harry James Potter-Evans-Verres, do now claim this territory in the
+ name of Science.
+\end_layout
+
+\begin_layout Standard
+Lightning and thunder completely failed to flash and boom in the cloudless
+ skies.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are you smiling about?
+\begin_inset Quotes erd
+\end_inset
+
+ inquired Professor McGonagall, warily and wearily.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm wondering if there's a spell to make lightning flash in the background
+ whenever I make an ominous resolution,
+\begin_inset Quotes erd
+\end_inset
+
+ explained Harry.
+ He was carefully memorising the exact words of his ominous resolution so
+ that future history books would get it right.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have the distinct feeling that I ought to be doing something about this,
+\begin_inset Quotes erd
+\end_inset
+
+ sighed Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ignore it, it'll go away.
+ Ooh, shiny!
+\begin_inset Quotes erd
+\end_inset
+
+ Harry put his thoughts of world conquest temporarily on hold and skipped
+ over to a shop with an open display, and Professor McGonagall followed.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry had now bought his potions ingredients and cauldron, and, oh, a few
+ more things.
+ Items that seemed like good things to carry in Harry's Bag of Holding (aka
+ Moke Super Pouch QX31 with Undetectable Extension Charm, Retrieval Charm,
+ and Widening Lip).
+ Smart, sensible purchases.
+\end_layout
+
+\begin_layout Standard
+Harry genuinely didn't understand why Professor McGonagall was looking so
+\emph on
+ suspicious
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Right now, Harry was in a shop expensive enough to display in the twisting
+ main street of Diagon Alley.
+ The shop had an open front with merchandise laid out on slanted wooden
+ rows, guarded only by slight grey glows and a young-looking salesgirl in
+ a much-shortened version of witch's robes that exposed her knees and elbows.
+\end_layout
+
+\begin_layout Standard
+Harry was examining the wizarding equivalent of a first-aid kit, the Emergency
+ Healing Pack Plus.
+ There were two self-tightening tourniquets.
+ A Stabilisation Potion, which would slow blood loss and prevent shock.
+ A syringe of what looked like liquid fire, which was supposed to drastically
+ slow circulation in a treated area while maintaining oxygenation of the
+ blood for up to three minutes, if you needed to prevent a poison from spreading
+ through the body.
+ White cloth that could be wrapped over a part of the body to temporarily
+ numb pain.
+ Plus any number of other items that Harry totally failed to comprehend,
+ like the 
+\begin_inset Quotes eld
+\end_inset
+
+Dementor Exposure Treatment
+\begin_inset Quotes erd
+\end_inset
+
+, which looked and smelled like ordinary chocolate.
+ Or the 
+\begin_inset Quotes eld
+\end_inset
+
+Bafflesnaffle Counter
+\begin_inset Quotes erd
+\end_inset
+
+, which looked like a small quivering egg and carried a placard showing
+ how to jam it up someone's nostril.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A definite buy at five Galleons, wouldn't you agree?
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said to Professor McGonagall, and the teenage salesgirl hovering
+ nearby nodded eagerly.
+\end_layout
+
+\begin_layout Standard
+Harry had expected the Professor to make some sort of approving remark about
+ his prudence and preparedness.
+\end_layout
+
+\begin_layout Standard
+What he was getting instead could only be described as the Evil Eye.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And just
+\emph on
+ why
+\emph default
+,
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said with heavy scepticism, 
+\begin_inset Quotes eld
+\end_inset
+
+do you expect to
+\emph on
+ need
+\emph default
+ a healer's kit, young man?
+\begin_inset Quotes erd
+\end_inset
+
+ (After the unfortunate incident at the Potions shop, Professor McGonagall
+ was trying to avoid saying 
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter
+\begin_inset Quotes erd
+\end_inset
+
+ while anyone else was nearby.)
+\end_layout
+
+\begin_layout Standard
+Harry's mouth opened and closed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I don't
+\emph on
+ expect
+\emph default
+ to need it! It's just in case!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just in case of
+\emph on
+ what?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's eyes widened.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You think I'm
+\emph on
+ planning
+\emph default
+ to do something dangerous and
+\emph on
+ that's
+\emph default
+ why I want a medical kit?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A look of grim suspicion and ironic disbelief was the answer.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Great Scott!
+\begin_inset Quotes erd
+\end_inset
+
+ said Harry.
+ (This was an expression he'd learned from the mad scientist Doc Brown in
+\emph on
+ Back to the Future
+\emph default
+.) 
+\begin_inset Quotes eld
+\end_inset
+
+Were you also thinking that when I bought the Feather-Falling Potion, the
+ Gillyweed, and the bottle of Food and Water Pills?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry shook his head in amazement.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Just what sort of plan do you think I have
+\emph on
+ going
+\emph default
+, here?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said darkly, 
+\begin_inset Quotes eld
+\end_inset
+
+but it ends either in you delivering a ton of silver to Gringotts, or in
+ world domination.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+World domination is such an ugly phrase.
+ I prefer to call it world optimisation.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This hilarious joke failed to reassure the witch giving him the Look of
+ Doom.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wow,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, as he realised that she was serious.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You really think that.
+ You really think I'm planning to do something dangerous.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Like that's the
+\emph on
+ only
+\emph default
+ reason anyone would ever buy a first-aid kit? Don't take this the wrong
+ way, Professor McGonagall, but
+\emph on
+ what sort of crazy children are you used to dealing with
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Gryffindors,
+\begin_inset Quotes erd
+\end_inset
+
+ spat Professor McGonagall, the word carrying a freight of bitterness and
+ despair that fell like an eternal curse on all youthful enthusiasm and
+ high spirits.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Deputy Headmistress Professor Minerva McGonagall,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, putting his hands sternly on his hips.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I am not going to be in Gryffindor
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At this point the Deputy Headmistress interjected something about how if
+ he
+\emph on
+ was
+\emph default
+ she would figure out how to kill a hat, which odd remark Harry let pass
+ without comment, though the salesgirl seemed to be having a sudden coughing
+ fit.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I am going to be in Ravenclaw.
+ And if you really think that I'm planning to do something dangerous, then,
+ honestly, you don't understand me
+\emph on
+ at all.
+
+\emph default
+ I don't
+\emph on
+ like
+\emph default
+ danger, it is
+\emph on
+ scary.
+
+\emph default
+ I am being
+\emph on
+ prudent
+\emph default
+.
+ I am being
+\emph on
+ cautious
+\emph default
+.
+ I am preparing for
+\emph on
+ unforeseen contingencies
+\emph default
+.
+ Like my parents used to sing to me:
+\emph on
+ Be prepared! That's the Boy Scout's marching song! Be prepared! As through
+ life you march along! Don't be nervous, don't be flustered, don't be scared
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ be prepared!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(Harry's parents had in fact only ever sung him those
+\emph on
+ particular
+\emph default
+ lines of that Tom Lehrer song, and Harry was blissfully unaware of the
+ rest.)
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall's stance had slightly softened 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ though mostly when Harry had said that he was heading for Ravenclaw.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What sort of
+\emph on
+ contingency
+\emph default
+ do you imagine this kit might prepare you for,
+\emph on
+ young man?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+One of my classmates gets bitten by a horrible monster, and as I scrabble
+ frantically in my mokeskin pouch for something that could help her, she
+ looks at me sadly and with her last breath says,
+\emph on
+ `Why weren't you prepared?'
+\emph default
+ And then she dies, and I know as her eyes close that she won't ever forgive
+ me 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry heard the salesgirl gasp, and he looked up to see her staring at him
+ with her lips pressed tight.
+ Then the young woman whirled and fled into the deeper recesses of the shop.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What…?
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall reached down, and took Harry's hand in hers, gently
+ but firmly, and pulled Harry out of the main street of Diagon Alley, leading
+ him into an alleyway between two shops which was paved in dirty bricks
+ and dead-ended in a wall of solid black dirt.
+\end_layout
+
+\begin_layout Standard
+The tall witch pointed her wand at the main street and spoke,
+\emph on
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Quietus
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+ she said, and a screen of silence descended around them, blocking out all
+ the street noises.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What did I do wrong…
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall turned to regard Harry.
+ She didn't have a full adult Wrongdoing Face, but her expression was flat,
+ controlled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You must remember, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, "that there was a war in this country not ten years ago.
+ Everyone has lost someone, and to speak of friends dying in your arms 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ is not done lightly.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I didn't mean to 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ The inference dropped like a falling stone into Harry's exceptionally vivid
+ imagination.
+ He'd talked about someone breathing their last breath 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and then the salesgirl had run away 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and the war had ended ten years ago so that girl would have been at most
+ eight or nine years old, when, when, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry, I didn't mean to…
+\begin_inset Quotes erd
+\end_inset
+
+ Harry choked up, and turned away to run from the older witch's gaze but
+ there was a wall of dirt blocking his way and he didn't have his wand yet.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry, I'm sorry, I'm
+\emph on
+ sorry!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There came a heavy sigh from behind him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I know you are, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry dared to peek behind him.
+ Professor McGonagall only seemed sad, now.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said again, feeling wretched.
+ "Did anything like that happen to 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ and then Harry shut his lips and slapped a hand over his mouth for good
+ measure.
+\end_layout
+
+\begin_layout Standard
+The older witch's face grew a little sadder.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You must learn to think before you speak, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter, or else go through life without many friends.
+ That has been the fate of many a Ravenclaw, and I hope it will not be yours.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry wanted to just run away.
+ He wanted to pull out a wand and erase the whole thing from Professor McGonagal
+l's memory, be back with her outside the shop again,
+\emph on
+ make it didn't happen 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But to answer your question, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter, no, nothing like
+\emph on
+ that
+\emph default
+ has ever happened to me.
+ Certainly I've watched a friend breathe their last, once or seven times.
+ But not one of them ever cursed me as they died, and I never thought that
+ they wouldn't forgive me.
+ Why would you
+\emph on
+ say
+\emph default
+ such a thing, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter? Why would you even
+\emph on
+ think
+\emph default
+ it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I, I, I,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry swallowed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's just that I always try to imagine the worst thing that could happen,
+\begin_inset Quotes erd
+\end_inset
+
+ and maybe he'd also been joking around a little but he would rather have
+ bitten off his own tongue than say that now.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But
+\emph on
+ why?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So I can stop it from happening!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter…
+\begin_inset Quotes erd
+\end_inset
+
+ the older witch's voice trailed off.
+ Then she sighed, and knelt down beside him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter,
+\begin_inset Quotes erd
+\end_inset
+
+ she said, gently now, 
+\begin_inset Quotes eld
+\end_inset
+
+it's not your responsibility to take care of the students at Hogwarts.
+ It's mine.
+ I won't let anything bad happen to you or anyone else.
+ Hogwarts is the safest place for magical children in all the wizarding
+ world, and Madam Pomfrey has a full healer's office.
+ You won't need a healer's kit at all, let alone a five-Galleon one.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I
+\emph on
+ do!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ Harry burst out.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Nowhere
+\emph default
+ is perfectly safe! And what if my parents have a heart attack or get in
+ an accident when I go home for Christmas 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Madam Pomfrey won't be there, I'll need a healer's kit of my own 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+What
+\emph default
+ in Merlin's name…
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said.
+ She stood up, and looked down at Harry an expression torn between annoyance
+ and concern.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There's no need to think about such terrible things, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's expression twisted up into bitterness, hearing that.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yes there
+\emph on
+ is!
+\emph default
+ If you don't think, you don't just get hurt yourself, you end up hurting
+ other people!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall opened her mouth, then closed it.
+ The witch rubbed the bridge of her nose, looking thoughtful.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter… if I were to offer to listen to you for a while… is there anything
+ you'd like to talk to me about?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+About what?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+About why you're convinced you must always be on your guard against terrible
+ things happening to you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry stared at her in puzzlement.
+ That was a self-evident axiom.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Well…
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said slowly.
+ He tried to organise his thoughts.
+ How
+\emph on
+ could
+\emph default
+ he explain himself to a Professor-witch, when she didn't even know the
+ basics? 
+\begin_inset Quotes eld
+\end_inset
+
+Muggle researchers have found that people are always very optimistic, compared
+ to reality.
+ Like they say something will take two days and it takes ten days, or they
+ say it'll take two months and it takes over thirty-five years.
+ For example, in one experiment, they asked students for times by which
+ they were 50% sure, 75% sure, and 99% sure they'd complete their homework,
+ and only 13%, 19%, and 45% of the students finished by those times.
+ And they found that the reason was that when they asked one group for their
+ best-case estimates if everything went as well as possible, and another
+ group for their average-case estimates if everything went as usual, they
+ got back answers that were statistically indistinguishable.
+ See, if you ask someone what they expect in the
+\emph on
+ normal
+\emph default
+ case, they visualise what looks like the line of maximum probability at
+ each step along the way 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ everything going according to plan, with no surprises.
+ But actually, since more than half the students didn't finish by the time
+ they were 99% sure they'd be done, reality usually delivers results a little
+ worse than the 'worst-case scenario'.
+ It's called the planning fallacy, and the best way to fix it is to ask
+ how long things took the last time you tried them.
+ That's called using the outside view instead of the inside view.
+ But when you're doing something new and can't do that, you just have to
+ be really, really, really pessimistic.
+ Like, so pessimistic that reality actually comes out
+\emph on
+ better
+\emph default
+ than you expected around as often and as much as it comes out worse.
+ It's actually
+\emph on
+ really hard
+\emph default
+ to be
+\emph on
+ so
+\emph default
+ pessimistic that you stand a decent chance of
+\emph on
+ undershooting
+\emph default
+ real life.
+ Like I make this big effort to be gloomy and I imagine one of my classmates
+ getting bitten, but what actually happens is that the surviving Death Eaters
+ attack the whole school to get at me.
+ But on a happier note 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Stop,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+Harry stopped.
+ He had just been about to point out that at least they knew the Dark Lord
+ wouldn't attack, since he was dead.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think I might not have made myself clear,
+\begin_inset Quotes erd
+\end_inset
+
+ the witch said, her precise Scottish voice sounding even more careful.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Did anything happen to
+\emph on
+ you personally
+\emph default
+ that frightened you, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What happened to me personally is only anecdotal evidence,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry explained.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It doesn't carry the same weight as a replicated, peer-reviewed journal
+ article about a controlled study with random assignment, many subjects,
+ large effect sizes and strong statistical significance.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall pinched the bridge of her nose, inhaled, and exhaled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I would still like to hear about it,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Um…
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+ He took a deep breath.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There'd been some muggings in our neighborhood, and my mother asked me to
+ return a pan she'd borrowed to a neighbor two streets away, and I said
+ I didn't want to because I might get mugged, and she said, 'Harry, don't
+ say things like that!' Like thinking about it would
+\emph on
+ make
+\emph default
+ it happen, so if I didn't talk about it, I would be safe.
+ I tried to explain why I wasn't reassured, and she made me carry over the
+ pan anyway.
+ I was too young to know how statistically unlikely it was for a mugger
+ to target me, but I was old enough to know that not-thinking about something
+ doesn't stop it from happening, so I was really scared.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nothing else?
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said after a pause, when it became clear that Harry
+ was done.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There isn't anything
+\emph on
+ else
+\emph default
+ that happened to you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know it doesn't
+\emph on
+ sound
+\emph default
+ like much,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry defended.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But it was just one of those critical life moments, you see? I mean, I
+\emph on
+ knew
+\emph default
+ that not thinking about something doesn't stop it from happening, I
+\emph on
+ knew
+\emph default
+ that, but I could see that Mum really thought that way.
+\begin_inset Quotes erd
+\end_inset
+
+ Harry stopped, struggling with the anger that was starting to rise up again
+ when he thought about it.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+She
+\emph on
+ wouldn't listen
+\emph default
+.
+ I tried to tell her, I
+\emph on
+ begged
+\emph default
+ her not to send me out, and she
+\emph on
+ laughed it off
+\emph default
+.
+ Everything I said, she treated like some sort of big joke…
+\begin_inset Quotes erd
+\end_inset
+
+ Harry forced the black rage back down again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's when I realised that everyone who was supposed to protect me was
+ actually crazy, and that they wouldn't listen to me no matter how much
+ I begged them, and that I couldn't ever rely on them to get anything right.
+\begin_inset Quotes erd
+\end_inset
+
+ Sometimes good intentions weren't enough, sometimes you had to be sane…
+\end_layout
+
+\begin_layout Standard
+There was a long silence.
+\end_layout
+
+\begin_layout Standard
+Harry took the time to breathe deeply and calm himself down.
+ There was no point in getting angry.
+ There was no point in getting angry.
+
+\emph on
+ All
+\emph default
+ parents were like that,
+\emph on
+ no
+\emph default
+ adult would lower themselves far enough to place themselves on level ground
+ with a child and listen, his genetic parents would have been no different.
+ Sanity was a tiny spark in the night, an infinitesimally rare exception
+ to the rule of madness, so there was no point in getting angry.
+\end_layout
+
+\begin_layout Standard
+Harry didn't like himself when he was angry.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you for sharing that, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall after a while.
+ There was an abstracted look on her face (almost exactly the same look
+ that had appeared on Harry's own face while experimenting on the pouch,
+ if Harry had only seen himself in a mirror to realise that).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I shall have to think about this.
+\begin_inset Quotes erd
+\end_inset
+
+ She turned towards the alley mouthway, and raised her wand 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Um,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, 
+\begin_inset Quotes eld
+\end_inset
+
+can we go get the healer's kit now?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The witch paused, and looked back at him steadily.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And if I say no 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that it is too expensive and you won't need it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ then what?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's face twisted in bitterness.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Exactly what you're thinking, Professor McGonagall.
+
+\emph on
+ Exactly
+\emph default
+ what you're thinking.
+ I conclude you're another crazy adult I can't talk to, and I start planning
+ how to get my hands on a healer's kit anyway.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I am your guardian on this trip,
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said with a tinge of danger.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I
+\emph on
+ will not
+\emph default
+ allow you to push me around.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I understand,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+ He kept the resentment out of his voice, and didn't say any of the other
+ things that came to mind.
+ Professor McGonagall had told him to think before he spoke.
+ He probably wouldn't remember that tomorrow, but he could at least remember
+ it for five minutes.
+\end_layout
+
+\begin_layout Standard
+The witch's wand made a slight circle in her hand, and the noises of Diagon
+ Alley came back.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+All right, young man,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let's go get that healer's kit.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's jaw dropped in surprise.
+ Then he hurried after her, almost stumbling in his sudden rush.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The shop was the same as they had left it, recognisable and unrecognisable
+ items still laid out on the slanted wooden display, the grey glow still
+ protecting and the salesgirl back in her old position.
+ The salesgirl looked up as they approached, her face showing surprise.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry,
+\begin_inset Quotes erd
+\end_inset
+
+ she said as they got closer, and Harry spoke at almost the same moment,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I apologise for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+They broke off and looked at each other, and then the salesgirl laughed
+ a little.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I didn't mean to get you in trouble with Professor McGonagall,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ Her voice lowered conspiratorially.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I hope she wasn't
+\emph on
+ too
+\emph default
+ awful to you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Della!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall, sounding scandalised.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bag of gold,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said to his pouch, and then looked back up at the salesgirl while
+ he counted out five Galleons.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't worry, I understand that she's only awful to me because she loves
+ me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He counted out five Galleons to the salesgirl while Professor McGonagall
+ was spluttering something unimportant.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+One Emergency Healing Pack Plus, please.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was actually sort of unnerving to see how the Widening Lip swallowed
+ the briefcase-sized medical kit.
+ Harry couldn't help wondering what would happen if he tried climbing into
+ the mokeskin pouch himself, given that only the person who put something
+ in was supposed to be able to take it out again.
+\end_layout
+
+\begin_layout Standard
+When the pouch was done… eating… his hard-won purchase, Harry swore he heard
+ a small burping sound afterward.
+ That
+\emph on
+ had
+\emph default
+ to have been spelled in on purpose.
+ The alternative hypothesis was too horrifying to contemplate… in fact Harry
+ couldn't even
+\emph on
+ think
+\emph default
+ of any alternative hypotheses.
+ Harry looked back up at the Professor, as they began walking through Diagon
+ Alley once more.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Where to next?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall pointed toward a shop that looked as if it had been
+ made from flesh instead of bricks and covered in fur instead of paint.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Small pets are permitted at Hogwarts 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ you could get an owl to send letters, for example 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can I pay a Knut or something and
+\emph on
+ rent
+\emph default
+ an owl when I need to send mail?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I think emphatically
+\emph on
+ no.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall nodded, as though ticking off a point.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Might I ask why not?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I had a pet rock once.
+ It died.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You don't think you could take care of a pet?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I
+\emph on
+ could,
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+ Harry said, 
+\begin_inset Quotes eld
+\end_inset
+
+but I would end up obsessing all day long about whether I'd remembered to
+ feed it that day or if it was slowly starving in its cage, wondering where
+ its master was and why there wasn't any food.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That poor owl,
+\begin_inset Quotes erd
+\end_inset
+
+ the older witch said in a soft voice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Abandoned like that.
+ I wonder what it would do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I expect it'd get really hungry and start trying to claw its way out
+ of the cage or the box or whatever, though it probably wouldn't have much
+ luck with that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ Harry stopped short.
+\end_layout
+
+\begin_layout Standard
+The witch went on, still in that soft voice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And what would happen to it afterward?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, and he reached up to take Professor McGonagall by the hand,
+ gently but firmly, and steered her into yet another alleyway; after ducking
+ so many well-wishers the process had become almost unnoticeably routine.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Please cast that silencing spell.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Quietus.
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's voice was shaking.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That owl does
+\emph on
+ not
+\emph default
+ represent me, my parents
+\emph on
+ never
+\emph default
+ locked me in a cupboard and left me to starve, I do
+\emph on
+ not
+\emph default
+ have abandonment fears and I
+\emph on
+ don't like the trend of your thoughts, Professor McGonagall!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The witch looked down at him gravely.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And what thoughts would those be, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You think I was,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry was having trouble saying it, 
+\begin_inset Quotes eld
+\end_inset
+
+I was
+\emph on
+ abused?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Were you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+No!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ Harry shouted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, I never was! Do you think I'm
+\emph on
+ stupid?
+\emph default
+ I
+\emph on
+ know
+\emph default
+ about the concept of child abuse, I
+\emph on
+ know
+\emph default
+ about inappropriate touching and all of that and if anything like that
+ happened I would call the police! And report it to the head teacher! And
+ look up social services in the phone book! And tell Grandpa and Grandma
+ and Mrs.
+ Figg! But my parents
+\emph on
+ never
+\emph default
+ did anything like that, never ever
+\emph on
+ ever!
+\emph default
+ How
+\emph on
+ dare
+\emph default
+ you suggest such a thing!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The older witch gazed at him steadily.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It is my duty as Deputy Headmistress to investigate possible signs of abuse
+ in the children under my care.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's anger was spiralling out of control into pure, black fury.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't you ever
+\emph on
+ dare
+\emph default
+ breathe a word of these, these
+\emph on
+ insinuations
+\emph default
+ to anyone else!
+\emph on
+ No one
+\emph default
+, do you hear me, McGonagall? An accusation like that can ruin people and
+ destroy families even when the parents are completely innocent! I've read
+ about it in the newspapers!
+\begin_inset Quotes erd
+\end_inset
+
+ Harry's voice was climbing to a high-pitched scream.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The
+\emph on
+ system
+\emph default
+ doesn't know how to
+\emph on
+ stop
+\emph default
+, it doesn't believe the parents
+\emph on
+ or
+\emph default
+ the children when they say nothing happened!
+\emph on
+ Don't you dare threaten my family with that! I won't let you destroy my
+ home!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Harry,
+\begin_inset Quotes erd
+\end_inset
+
+ the older witch said softly, and she reached out a hand towards him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry took a fast step back, and his hand snapped up and knocked hers away.
+\end_layout
+
+\begin_layout Standard
+McGonagall froze, then she pulled her hand back, and took a step backwards.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Harry, it's all right,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ "I believe you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Do you,
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+ Harry hissed.
+ The fury still roaring through his blood.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or are you just waiting to get away from me so you can file the papers?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Harry, I saw your house.
+ I saw you with your parents.
+ They love you.
+ You love them.
+ I do believe you when you say that your parents are not abusing you.
+ But I
+\emph on
+ had
+\emph default
+ to ask, because there is something strange at work here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry stared at her coldly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Like what?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Harry, I've seen many abused children in my time at Hogwarts, it would break
+ your heart to know how many.
+ And, when you're happy, you don't behave like one of those children, not
+ at
+\emph on
+ all
+\emph default
+.
+ You smile at strangers, you hug people, I put my hand on your shoulder
+ and you didn't flinch.
+ But sometimes, only sometimes, you say or do something that seems
+\emph on
+ very
+\emph default
+ much like… someone who spent his first eleven years locked in a cellar.
+ Not the loving family that I saw.
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall tilted her head, her expression growing puzzled again.
+\end_layout
+
+\begin_layout Standard
+Harry took this in, processing it.
+ The black rage began to drain away, as it dawned on him that he was being
+ listened to respectfully, and that his family wasn't in danger.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And how
+\emph on
+ do
+\emph default
+ you explain your observations, Professor McGonagall?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't know,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But it's possible that something could have happened to you that you don't
+ remember.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Fury rose up again in Harry.
+ That sounded all too much like what he'd read in the newspaper stories
+ of shattered families.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Suppressed memory is a load of
+\emph on
+ pseudoscience!
+\emph default
+ People do
+\emph on
+ not
+\emph default
+ repress traumatic memories, they remember them all
+\emph on
+ too
+\emph default
+ well for the rest of their lives!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+ There is a Charm called Obliviation.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry froze in place.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A spell that erases memories?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The older witch nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But not all the effects of the experience, if you see what I'm saying, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A chill went down Harry's spine.
+
+\emph on
+ That
+\emph default
+ hypothesis… could
+\emph on
+ not
+\emph default
+ be easily refuted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But my parents couldn't do that!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Indeed not,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It would have taken someone from the wizarding world.
+ There's… no way to be certain, I'm afraid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's rationalist skills began to boot up again.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Professor McGonagall, how sure are you of your observations, and what alternativ
+e explanations could there also be?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The witch opened her hands, as though to show their emptiness.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sure? I'm sure of
+\emph on
+ nothing
+\emph default
+, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+ In all my life I've never met anyone else like you.
+ Sometimes you just don't seem eleven years old or even all that
+\emph on
+ human
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's eyebrows rose toward the sky 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry!
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said quickly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm very sorry, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+ I was trying to make a point and I'm afraid that came out sounding different
+ from what I had in mind 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+On the contrary, Professor McGonagall,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, and slowly smiled.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I shall take it as a very great compliment.
+ But would you mind if I offered an alternative explanation?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Please do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Children aren't meant to be too much smarter than their parents,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or too much saner, maybe 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ my father could probably outsmart me if he was, you know, actually
+\emph on
+ trying,
+\emph default
+ instead of using his adult intelligence mainly to come up with new reasons
+ not to change his mind 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ Harry stopped.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm too smart, Professor.
+ I've got nothing to say to normal children.
+ Adults don't respect me enough to really talk to me.
+ And frankly, even if they did, they wouldn't sound as smart as Richard
+ Feynman, so I might as well read something Richard Feynman wrote instead.
+ I'm
+\emph on
+ isolated
+\emph default
+, Professor McGonagall.
+ I've been isolated my whole life.
+ Maybe that has some of the same effects as being locked in a cellar.
+ And I'm too intelligent to look up to my parents the way that children
+ are designed to do.
+ My parents love me, but they don't feel obliged to respond to reason, and
+ sometimes I feel like they're the children 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ children who
+\emph on
+ won't listen
+\emph default
+ and have absolute authority over my whole existence.
+ I try not to be too bitter about it, but I also try to be
+\emph on
+ honest
+\emph default
+ with myself, so, yes, I'm bitter.
+ And I also have an anger management problem, but I'm working on it.
+ That's all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+That's all?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry nodded firmly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's all.
+ Surely, Professor McGonagall, even in magical Britain, the normal explanation
+ is always worth
+\emph on
+ considering?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was later in the day, the sun lowering in the summer sky and shoppers
+ beginning to peter out from the streets.
+ Some shops had already closed; Harry and Professor McGonagall had bought
+ his textbooks from Flourish and Blotts just under the deadline.
+ With only a slight explosion when Harry had made a beeline for the keyword
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Arithmancy
+\begin_inset Quotes erd
+\end_inset
+
+ and discovered that the seventh-year textbooks invoked nothing more mathematica
+lly advanced than trigonometry.
+\end_layout
+
+\begin_layout Standard
+At this moment, though, dreams of low-hanging research fruit were far from
+ Harry's mind.
+\end_layout
+
+\begin_layout Standard
+At this moment, the two of them were walking out of Ollivander's, and Harry
+ was staring at his wand.
+ He'd waved it, and produced multicoloured sparks, which really shouldn't
+ have come as such an extra shock after everything else he'd seen, but somehow
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I can do magic.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Me.
+ As in, me personally.
+ I am magical; I am a wizard.
+\end_layout
+
+\begin_layout Standard
+He had
+\emph on
+ felt
+\emph default
+ the magic pouring up his arm, and in that instant, realised that he had
+ always had that sense, that he had possessed it his whole life, the sense
+ that was not sight or sound or smell or taste or touch but only magic.
+ Like having eyes but keeping them always closed, so that you didn't even
+ realise that you were seeing darkness; and then one day the eye opened,
+ and saw the world.
+ The shock of it had poured through him, touching pieces of himself, awakening
+ them, and then died away in seconds; leaving only the certain knowledge
+ that he was now a wizard, and always had been, and had even, in some strange
+ way, always known it.
+\end_layout
+
+\begin_layout Standard
+And 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+It is very curious indeed that you should be destined for this wand when
+ its brother why, its brother gave you that scar.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+That could not
+\emph on
+ possibly
+\emph default
+ be coincidence.
+ There had been
+\emph on
+ thousands
+\emph default
+ of wands in that shop.
+ Well, okay, actually it
+\emph on
+ could
+\emph default
+ be coincidence, there were six billion people in the world and thousand-to-one
+ coincidences happened every day.
+ But Bayes's Theorem said that any reasonable hypothesis which made it
+\emph on
+ more
+\emph default
+ likely than a thousand-to-one that he'd end up with the brother to the
+ Dark Lord's wand, was going to have an advantage.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall had simply said
+\emph on
+ how peculiar
+\emph default
+ and left it at that, which had put Harry into a state of shock at the sheer,
+ overwhelming
+\emph on
+ uncuriosity
+\emph default
+ of wizards and witches.
+ In no
+\emph on
+ imaginable
+\emph default
+ world would Harry have just went 
+\begin_inset Quotes eld
+\end_inset
+
+Hm
+\begin_inset Quotes erd
+\end_inset
+
+ and walked out of the shop without even
+\emph on
+ trying
+\emph default
+ to come up with a hypothesis for what was going on.
+\end_layout
+
+\begin_layout Standard
+His left hand rose and touched his scar.
+\end_layout
+
+\begin_layout Standard
+What…
+\emph on
+ exactly…
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're a full wizard now,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Congratulations.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And what do you think of the wizarding world?
+\begin_inset Quotes erd
+\end_inset
+
+ said she.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's strange,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I ought to be thinking about everything I've seen of magic… everything that
+ I now know is possible, and everything I now know to be a lie, and all
+ the work left before me to understand it.
+ And yet I find myself distracted by relative trivialities like,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry lowered his voice, 
+\begin_inset Quotes eld
+\end_inset
+
+the whole Boy-Who-Lived thing.
+\begin_inset Quotes erd
+\end_inset
+
+ There didn't seem to be anyone nearby, but no point tempting fate.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall
+\emph on
+ ahemmed
+\emph default
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Really? You don't say.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+ It's just…
+\emph on
+ odd.
+
+\emph default
+ To find out that you were part of this grand story, the quest to defeat
+ the great and terrible Dark Lord, and it's already
+\emph on
+ done.
+
+\emph default
+ Finished.
+ Completely over with.
+ Like you're Frodo Baggins and you find out that your parents took you to
+ Mount Doom and had you toss in the Ring when you were one year old and
+ you don't even remember it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall's smile had grown somewhat fixed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You know, if I were anyone else, anyone else at all, I'd probably be pretty
+ worried about living up to that start.
+
+\emph on
+ Gosh, Harry, what have you done since you defeated the Dark Lord? Your
+ own bookshop? That's great! Say, did you know I named my child after you?
+\emph default
+ But I have hopes that this will not prove to be a problem.
+\begin_inset Quotes erd
+\end_inset
+
+ Harry sighed.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Still… it's almost enough to make me wish that there were
+\emph on
+ some
+\emph default
+ loose ends from the quest, just so I could say that I really, you know,
+\emph on
+ participated
+\emph default
+ somehow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh?
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall in an odd tone.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What did you have in mind?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, for example, you mentioned that my parents were betrayed.
+ Who betrayed them?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sirius Black,
+\begin_inset Quotes erd
+\end_inset
+
+ the witch said, almost hissing the name.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He's in Azkaban.
+ Wizarding prison.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How probable is it that Sirius Black will break out of prison and I'll have
+ to track him down and defeat him in some sort of spectacular duel, or better
+ yet put a large bounty on his head and hide out in Australia while I wait
+ for the results?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall blinked.
+ Twice.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Not likely.
+ No one has ever escaped from Azkaban, and I doubt that
+\emph on
+ he
+\emph default
+ will be the first.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry was a bit sceptical of that 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+no one
+\emph default
+ has
+\emph on
+ ever
+\emph default
+ escaped from Azkaban
+\begin_inset Quotes erd
+\end_inset
+
+ line.
+ Still, maybe with magic you could actually get close to a 100% perfect
+ prison, especially if you had a wand and they did not.
+ The best way to get out would be to not go there in the first place.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All right then,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Sounds like it's been nicely wrapped up.
+\begin_inset Quotes erd
+\end_inset
+
+ He sighed, scrubbing his palm over his head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or maybe the Dark Lord didn't
+\emph on
+ really
+\emph default
+ die that night.
+ Not completely.
+ His spirit lingers, whispering to people in nightmares that bleed over
+ into the waking world, searching for a way back into the living lands he
+ swore to destroy, and now, in accordance with the ancient prophecy, he
+ and I are locked in a deadly duel where the winner shall lose and the loser
+ shall win 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall's head swivelled, and her eyes darted around, as though
+ to search the street for listeners.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm
+\emph on
+ joking
+\emph default
+, Professor,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said with some annoyance.
+ Sheesh, why did she always take everything so seriously 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A slow sinking sensation began to dawn in the pit of Harry's stomach.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall looked at Harry with a calm expression.
+ A very,
+\emph on
+ very
+\emph default
+ calm expression.
+ Then a smile was put on.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Of course you are, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Aw crap.
+\end_layout
+
+\begin_layout Standard
+If Harry had needed to formalise the wordless inference that had just flashed
+ into his mind, it would have come out something like, 'If I estimate the
+ probability of Professor McGonagall doing what I just saw as the result
+ of carefully controlling herself, versus the probability distribution for
+ all the things she would do
+\emph on
+ naturally
+\emph default
+ if I made a bad joke, then this behavior is significant evidence for her
+ hiding something.'
+\end_layout
+
+\begin_layout Standard
+But what Harry actually thought was,
+\emph on
+ Aw crap.
+\end_layout
+
+\begin_layout Standard
+Harry turned his own head to scan the street.
+ Nope, no one nearby.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He's
+\emph on
+ not
+\emph default
+ dead, is he,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry sighed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Dark Lord is alive.
+ Of
+\emph on
+ course
+\emph default
+ he's alive.
+ It was an
+\emph on
+ act
+\emph default
+ of utter
+\emph on
+ optimism
+\emph default
+ for me to have even
+\emph on
+ dreamed
+\emph default
+ otherwise.
+ I
+\emph on
+ must
+\emph default
+ have taken leave of my
+\emph on
+ senses
+\emph default
+, I can't
+\emph on
+ imagine
+\emph default
+ what I was
+\emph on
+ thinking.
+
+\emph default
+ Just because
+\emph on
+ someone
+\emph default
+ said that his body was found burned to a
+\emph on
+ crisp
+\emph default
+, I can't imagine why I would have thought he was
+\emph on
+ dead.
+ Clearly
+\emph default
+ I have much left to learn about the art of proper
+\emph on
+ pessimism.
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+At least tell me there's not really a prophecy…
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall was still giving him that bright, fixed smile.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, you have
+\emph on
+ got
+\emph default
+ to be kidding me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter, you shouldn't go inventing things to worry about 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you
+\emph on
+ actually
+\emph default
+ going to tell me
+\emph on
+ that?
+\emph default
+ Imagine my reaction later, when I find out that there was something to
+ worry about after all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Her fixed smile faltered.
+\end_layout
+
+\begin_layout Standard
+Harry's shoulders slumped.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I have a whole world of magic to analyse.
+ I do
+\emph on
+ not
+\emph default
+ have time for this.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Then both of them shut up, as a man in flowing orange robes appeared on
+ the street and slowly passed them by; Professor McGonagall's eyes tracked
+ him, unobtrusively.
+ Harry's mouth was moving as he chewed hard on his lip, and someone watching
+ closely would have noticed a tiny spot of blood appear.
+\end_layout
+
+\begin_layout Standard
+When the orange-robed man had passed into the distance, Harry spoke again,
+ in a low murmur.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Are you going to tell me the truth now, Professor McGonagall? And don't
+ bother trying to wave it off, I'm not stupid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're
+\emph on
+ eleven years old
+\emph default
+, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter!
+\begin_inset Quotes erd
+\end_inset
+
+ she said in a harsh whisper.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And therefore subhuman.
+ Sorry… for a moment there, I
+\emph on
+ forgot
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+These are dreadful and important matters! They are
+\emph on
+ secret,
+\emph default
+ Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter! It is a
+\emph on
+ catastrophe
+\emph default
+ that you, still a child, know even this much! You must not tell
+\emph on
+ anyone,
+\emph default
+ do you understand? Absolutely no one!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As sometimes happened when Harry got
+\emph on
+ sufficiently
+\emph default
+ angry, his blood went cold, instead of hot, and a terrible dark clarity
+ descended over his mind, mapping out possible tactics and assessing their
+ consequences with iron realism.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Point out that you have a right to know: Failure.
+ Eleven-year-old children do not have rights to know anything, in McGonagall's
+ eyes.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Say that you will not be friends any more: Failure.
+ She does not value your friendship sufficiently.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Point out that you will be in danger if you do not know: Failure.
+ Plans have already been made based on your ignorance.
+ The
+\emph default
+ certain
+\emph on
+ inconvenience of rethinking will seem far more unpalatable than the mere
+\emph default
+ uncertain
+\emph on
+ prospect of your coming to harm.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Justice and reason will both fail.
+ You must either find something you have that she wants, or find something
+ you can do which she fears…
+\end_layout
+
+\begin_layout Standard
+Ah.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well then, Professor,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said in a low, icy tone, 
+\begin_inset Quotes eld
+\end_inset
+
+it sounds like I have something you want.
+ You can, if you like, tell me the truth, the
+\emph on
+ whole
+\emph default
+ truth, and in return I will keep your secrets.
+ Or you can try to keep me ignorant so you can use me as a pawn, in which
+ case I will owe you nothing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+McGonagall stopped short in the street.
+ Her eyes blazed and her voice descended into an outright hiss.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How dare you!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+How dare you!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ he whispered back at her.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You would
+\emph on
+ blackmail
+\emph default
+ me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's lips twisted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I am
+\emph on
+ offering
+\emph default
+ you a
+\emph on
+ favor.
+
+\emph default
+ I am
+\emph on
+ giving
+\emph default
+ you a chance to protect
+\emph on
+ your
+\emph default
+ precious secret.
+ If you refuse I will have
+\emph on
+ every
+\emph default
+ natural motive to make inquiries elsewhere, not to spite you, but because
+ I
+\emph on
+ have to know!
+\emph default
+ Get past your pointless anger at a
+\emph on
+ child
+\emph default
+ who you think ought to obey you, and you'll realise that any sane adult
+ would do the same!
+\emph on
+ Look at it from my perspective! How would you feel if it was YOU?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry watched McGonagall, observed her harsh breathing.
+ It occurred to him that it was time to ease off the pressure, let her simmer
+ for a while.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You don't have to decide right away,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said in a more normal tone.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll understand if you want time to think about my
+\emph on
+ offer
+\emph default
+… but I'll warn you of one thing,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, his voice going colder.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Don't try that Obliviation spell on me.
+ Some time ago I worked out a signal, and I have already sent that signal
+ to myself.
+ If I find that signal and I don't
+\emph on
+ remember
+\emph default
+ sending it…
+\begin_inset Quotes erd
+\end_inset
+
+ Harry let his voice trail off significantly.
+\end_layout
+
+\begin_layout Standard
+McGonagall's face was working as her expressions shifted.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I… wasn't thinking of Obliviating you, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter… but why would you have
+\emph on
+ invented
+\emph default
+ such a signal if you didn't know about 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought of it while reading a Muggle science-fiction book, and said to
+ myself,
+\emph on
+ well, just in case…
+\emph default
+ And no, I won't tell you the signal, I'm not dumb.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hadn't planned to ask,
+\begin_inset Quotes erd
+\end_inset
+
+ McGonagall said.
+ She seemed to fold in on herself, and suddenly looked very old, and very
+ tired.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This has been an exhausting day, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+ Can we get your trunk, and send you home? I will trust you not to speak
+ upon this matter until I have had time to think.
+ Keep in mind that there are only two other people in the whole world who
+ know about this matter, and they are Headmaster Albus Dumbledore and Professor
+ Severus Snape.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+So.
+ New information; that was a peace offering.
+ Harry nodded in acceptance, and turned his head to look forward, and started
+ walking again, as his blood slowly began to warm over once more.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So now I've got to find some way to kill an immortal Dark Wizard,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, and sighed in frustration.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I really wish you had told me that
+\emph on
+ before
+\emph default
+ I started shopping.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The trunk shop was more richly appointed than any other shop Harry had visited;
+ the curtains were lush and delicately patterned, the floor and walls of
+ stained and polished wood, and the trunks occupied places of honor on polished
+ ivory platforms.
+ The salesman was dressed in robes of finery only a cut below those of Lucius
+ Malfoy, and spoke with exquisite, oily politeness to both Harry and Professor
+ McGonagall.
+\end_layout
+
+\begin_layout Standard
+Harry had asked his questions, and had gravitated to a trunk of heavy-looking
+ wood, not polished but warm and solid, carved with the pattern of a guardian
+ dragon whose eyes shifted to look at anyone nearing it.
+ A trunk charmed to be light, to shrink on command, to sprout small clawed
+ tentacles from its bottom and squirm after its owner.
+ A trunk with two drawers on each of four sides that each slid out to reveal
+ compartments as deep as the whole trunk.
+ A lid with four locks each of which would reveal a different space inside.
+ And 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ this was the important part 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ a handle on the bottom which slid out a frame containing a staircase leading
+ down into a small, lighted room that would hold, Harry estimated, around
+ twelve bookcases.
+\end_layout
+
+\begin_layout Standard
+If they made luggages like this, Harry didn't know why anyone bothered owning
+ a house.
+\end_layout
+
+\begin_layout Standard
+One hundred and eight golden Galleons.
+ That was the price of a good trunk, lightly used.
+ At around fifty British pounds to the Galleon, that was enough to buy a
+ second-hand car.
+ It would be more expensive than everything else Harry had ever bought in
+ his whole life all put together.
+\end_layout
+
+\begin_layout Standard
+Ninety-seven Galleons.
+ That was how much was left in the bag of gold Harry had been allowed to
+ take out of Gringotts.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall wore a look of chagrin upon her face.
+ After a long day's shopping she hadn't needed to ask Harry how much gold
+ was left in the bag, after the salesman quoted his price, which meant the
+ Professor could do good mental arithmetic without pen and paper.
+ Once again, Harry reminded himself that
+\emph on
+ scientifically illiterate
+\emph default
+ was not at all the same thing as
+\emph on
+ stupid.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry, young man,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This is entirely my fault.
+ I would offer to take you back to Gringotts, but the bank will be closed
+ for all but emergency services now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry looked at her, wondering…
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well,
+\begin_inset Quotes erd
+\end_inset
+
+ sighed Professor McGonagall, as she swung on one heel, 
+\begin_inset Quotes eld
+\end_inset
+
+we may as well go, I suppose.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+…she
+\emph on
+ hadn't
+\emph default
+ lost it completely when a child had dared defy her.
+ She hadn't been happy, but she had
+\emph on
+ thought
+\emph default
+ instead of exploding in fury.
+ It might have just been that there was an immortal Dark Lord to fight 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that she had needed Harry's goodwill.
+ But most adults wouldn't have been capable of thinking even that much;
+ wouldn't consider
+\emph on
+ future consequences
+\emph default
+ at all, if someone lower in status had refused to obey them…
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Professor?
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+\end_layout
+
+\begin_layout Standard
+The witch turned back and looked at him.
+\end_layout
+
+\begin_layout Standard
+Harry took a deep breath.
+ He needed to be a little angry for what he wanted to try now, there was
+ no way he'd have the courage to do it otherwise.
+
+\emph on
+ She didn't listen to me,
+\emph default
+ he thought to himself,
+\emph on
+ I would have taken more gold but she didn't want to listen…
+\emph default
+ Focusing his entire world on McGonagall and the need to bend this conversation
+ to his will, he spoke.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Professor, you thought one hundred Galleons would be more than enough for
+ a trunk.
+ That's why you didn't bother warning me before it went down to ninety-seven.
+ Which is just the sort of thing the research studies show 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that's what happens when people think they're leaving themselves a
+\emph on
+ little
+\emph default
+ error margin.
+ They're not pessimistic enough.
+ If it'd been up to me, I'd have taken
+\emph on
+ two hundred
+\emph default
+ Galleons just to be sure.
+ There was plenty of money in that vault, and I could have put back any
+ extra later.
+ But I thought you wouldn't let me do it.
+ I thought you'd be angry at me just for asking.
+ Was I wrong?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I suppose I must confess that you are right,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But, young man 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That sort of thing is the reason why I have trouble trusting adults.
+\begin_inset Quotes erd
+\end_inset
+
+ Somehow Harry kept his voice steady.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Because they get angry if you even
+\emph on
+ try
+\emph default
+ to reason with them.
+ To them it's defiance and insolence and a challenge to their higher tribal
+ status.
+ If you try to talk to them they get
+\emph on
+ angry.
+
+\emph default
+ So if I had anything
+\emph on
+ really important
+\emph default
+ to do, I wouldn't be able to trust you.
+ Even if you listened with deep concern to whatever I said 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ because that's also part of the
+\emph on
+ role
+\emph default
+ of someone playing a concerned adult 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ you'd never change your actions, you wouldn't actually behave differently,
+ because of anything I said.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The salesman was watching them both with unabashed fascination.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can understand your point of view,
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said eventually.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If I sometimes seem too strict, please remember that I have served as Head
+ of Gryffindor House for what feels like several thousand years.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry nodded and continued.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ suppose I had a way to get more Galleons from my vault
+\emph on
+ without
+\emph default
+ us going back to Gringotts, but it involved me violating the role of an
+ obedient child.
+ Would I be able to trust you with that, even though you'd have to step
+ outside your own role as Professor McGonagall to take advantage of it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+What?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To put it another way, if I could make today have happened differently,
+ so that we
+\emph on
+ didn't
+\emph default
+ take too little money with us, would that be all right even though it would
+ involve a child being insolent to an adult in retrospect?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I… suppose…
+\begin_inset Quotes erd
+\end_inset
+
+ the witch said, looking quite puzzled.
+\end_layout
+
+\begin_layout Standard
+Harry took out the mokeskin pouch, and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Eleven Galleons originally from my family vault.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And there was gold in Harry's hand.
+\end_layout
+
+\begin_layout Standard
+For a moment Professor McGonagall's mouth gaped wide, then her jaw snapped
+ shut and her eyes narrowed and the witch bit out, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Where
+\emph default
+ did you get that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+From my family vault, like I said.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+How?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Magic.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's hardly an answer!
+\begin_inset Quotes erd
+\end_inset
+
+ snapped Professor McGonagall, and then stopped, blinking.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, it isn't, is it? I
+\emph on
+ ought
+\emph default
+ to claim that it's because I experimentally discovered the true secrets
+ of how the pouch works and that it can actually retrieve objects from anywhere,
+ not just its own inside, if you phrase the request correctly.
+ But actually it's from when I fell into that pile of gold before and I
+ shoved some Galleons into my pocket.
+ Anyone who understands pessimism knows that money is something you might
+ need quickly and without much warning.
+ So now are you angry at me for defying your authority? Or glad that we
+ succeeded in our important mission?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The salesman's eyes were wide like saucers.
+\end_layout
+
+\begin_layout Standard
+And the tall witch stood there, silent.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Discipline at Hogwarts
+\emph on
+ must
+\emph default
+ be enforced,
+\begin_inset Quotes erd
+\end_inset
+
+ she said after almost a full minute.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+For the sake of
+\emph on
+ all
+\emph default
+ the students.
+ And that
+\emph on
+ must
+\emph default
+ include courtesy and obedience from you to
+\emph on
+ all
+\emph default
+ professors.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I understand, Professor McGonagall.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+ Now let us buy that trunk and go home.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry felt like throwing up, or cheering, or fainting, or
+\emph on
+ something
+\emph default
+.
+ That was the first time his careful reasoning had ever worked on
+\emph on
+ anyone
+\emph default
+.
+ Maybe because it was also the first time he had something really serious
+ that an adult needed from him, but still 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Minerva McGonagall, +1 point.
+\end_layout
+
+\begin_layout Standard
+Harry bowed, and gave the bag of gold and the extra eleven Galleons into
+ McGonagall's hands.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Thank you very much, Professor.
+ Can you finish up the purchase for me? I've got to visit the lavatory.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The salesman, unctuous once more, pointed toward a door set into the wall
+ with a gold-handled knob.
+ As Harry started to walk away, he heard the salesman ask in his oily voice,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+May I inquire as to who that was, Madam McGonagall? I take it he is Slytherin
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ third-year, perhaps? 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and from a prominent family, but I did not recognise 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The slam of the lavatory door cut off his words, and after Harry had identified
+ the lock and pressed it into place, he grabbed the magical self-cleaning
+ towel and, with shaky hands, wiped moisture off his forehead.
+ Harry's entire body was sheathed in sweat which had soaked clear through
+ his Muggle clothing, though at least it didn't show through the robes.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The sun was setting and it was very late indeed, by the time they stood
+ again in the courtyard of the Leaky Cauldron, the silent leaf-dusted interface
+ between magical Britain's Diagon Alley and the entire Muggle world.
+ (That was one
+\emph on
+ awfully
+\emph default
+ decoupled economy…) Harry was to go to a phone box and call his father,
+ once he was on the other side.
+ He didn't need to worry about his luggage being stolen, apparently.
+ His trunk had the status of a major magical item, something that most Muggles
+ wouldn't notice; that was part of what you could get in the wizarding world,
+ if you were willing to pay the price of a secondhand car.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So here we part ways, for a time,
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said.
+ She shook her head in wonderment.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This has been the strangest day of my life for… many a year.
+ Since the day I learned that a child had defeated You-Know-Who.
+ I wonder now, looking back, if that was the last reasonable day of the
+ world.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Oh, like
+\emph on
+ she
+\emph default
+ had anything to complain about.
+
+\emph on
+ You think your day was surreal? Try mine.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was very impressed with you today,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said to her.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I should have remembered to compliment you out loud, I was awarding you
+ points in my head and everything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you had already been sorted into a House I would have deducted so many
+ points that your grandchildren would still be losing the House Cup.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank
+\emph on
+ you
+\emph default
+, Professor.
+\begin_inset Quotes erd
+\end_inset
+
+ It was probably too early to call her Minnie.
+\end_layout
+
+\begin_layout Standard
+This woman might well be the sanest adult Harry had ever met, despite her
+ lack of scientific background.
+ Harry was even considering offering her the number-two position in whatever
+ group he formed to fight the Dark Lord, though he wasn't silly enough to
+ say that out loud.
+
+\emph on
+ Now what would be a good name for that…? The Death Eater Eaters?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll see you again soon, when school starts,
+\begin_inset Quotes erd
+\end_inset
+
+ Professor McGonagall said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+And, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter, about your wand 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know what you're going to ask,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+ He took out his precious wand and, with a deep twinge of inner pain, flipped
+ it over in his hand, presenting her with the handle.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Take it.
+ I hadn't planned to do anything, not a single thing, but I don't want you
+ to have nightmares about me blowing up my house.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall shook her head rapidly.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh no, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter! That isn't done.
+ I only meant to warn you not to
+\emph on
+ use
+\emph default
+ your wand at home, since the Ministry can detect underage magic and it
+ is prohibited without supervision.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ah,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That sounds like a very sensible rule.
+ I'm glad to see the wizarding world takes that sort of thing seriously.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall peered hard at him.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You really mean that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes,
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I get it.
+ Magic is dangerous and the rules are there for good reasons.
+ Certain other matters are also dangerous.
+ I get that too.
+ Remember that I am not stupid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I am unlikely ever to forget it.
+ Thank you, Harry, that does make me feel better about entrusting you with
+ certain things.
+ Goodbye for now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry turned to go, into the Leaky Cauldron and out towards the Muggle world.
+\end_layout
+
+\begin_layout Standard
+As his hand touched the back door's handle, he heard a last whisper from
+ behind him.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hermione Granger.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ Harry said, his hand still on the door.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Look for a first-year girl named Hermione Granger on the train to Hogwarts.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who is she?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was no answer, and when Harry turned around, Professor McGonagall
+ was gone.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Aftermath
+\end_layout
+
+\begin_layout Standard
+Headmaster Albus Dumbledore leaned forward over his desk.
+ His twinkling eyes peered out at Minerva.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So, my dear, how did you find Harry?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Minerva opened her mouth.
+ Then she closed her mouth.
+ Then she opened her mouth again.
+ No words came out.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I see,
+\begin_inset Quotes erd
+\end_inset
+
+ Albus said gravely.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Thank you for your report, Minerva.
+ You may go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,645 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Interlude: Personal Financial Management
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+“B
+\end_layout
+
+\end_inset
+
+ut
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Headmaster,” Harry argued, some of his desperation leaking into his voice,
+ “leaving all of my assets in one undiversified vault full of gold coins
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it's crazy, Headmaster! It's like, I don't know, doing Transfiguration
+ experiments without consulting a recognized authority! You just don't do
+ that with money!”
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+From the lined face of the old wizard 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ underneath a festive holiday hat like a catastrophic automobile collision
+ between cars of green and red cloth 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ a grave, sad look peered out at Harry.
+\end_layout
+
+\begin_layout Standard
+“I'm sorry, Harry,” said Dumbledore, “and I do apologize, but allowing you
+ control over your own finances would give you far too much independence
+ of action.”
+\end_layout
+
+\begin_layout Standard
+Harry's mouth opened and no sound came out.
+ He was, literally, speechless.
+\end_layout
+
+\begin_layout Standard
+“I will permit you to withdraw five Galleons for Christmas presents,” said
+ Dumbledore, “which is more than any boy your age should spend, but poses
+ no threat, I think 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+I can't believe you just said that!
+\emph default
+” the words burst out of Harry's mouth.
+ “You 
+\emph on
+admit
+\emph default
+ to being that manipulative?”
+\end_layout
+
+\begin_layout Standard
+“Manipulative?” said the old wizard, smiling slightly.
+ “No, manipulative would be if I did 
+\emph on
+not
+\emph default
+ admit it, or if I had some deeper motive behind the obvious.
+ This is quite straightforward, Harry.
+ You are not yet ready to play the game, and it would be foolish to allow
+ you thousands of Galleons with which to upset the gameboard.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The bright hustle and bustle of Diagon Alley had increased by a hundredfold
+ and redoubled as Christmas approached, with all the shops enshrouded in
+ brilliant sorceries that flashed and sparkled as though the season's spirit
+ was about to blaze out of control and turn the whole area into a cheerful
+ holiday crater.
+ The streets were so crowded with witches and wizards in festive and 
+\emph on
+loud
+\emph default
+ clothing that your eyes were assaulted almost as severely as your ears;
+ and it was clear, from the bewildering variety of the shoppers, that Diagon
+ Alley was considered an international attraction.
+ There were witches wrapped in giant swathes of cloth like toweled mummies,
+ and wizards in formal top hats and bath-robes, and young children barely
+ past toddling age who were decorated with lights that blazed almost as
+ bright as the shops themselves, as their parents took them hand in hand
+ through that magic wonderland and let them shriek to their heart's content.
+ It was the season to be merry.
+\end_layout
+
+\begin_layout Standard
+And in the midst of all that light and cheer, a note of blackest night;
+ a cold, dark atmosphere that cleared a few precious paces of distance even
+ in the midst of all that crush.
+\end_layout
+
+\begin_layout Standard
+“No,” said Professor Quirrell, with a look of grim revulsion, like he'd
+ just bitten into food that not only tasted horrible but was morally repugnant
+ to boot.
+ It was the sort of grim face an ordinary person might make after biting
+ into a meat pie, and discovering that it was rotten and had been made from
+ kittens.
+\end_layout
+
+\begin_layout Standard
+“Oh, come 
+\emph on
+on
+\emph default
+,” Harry said.
+ “You must have 
+\emph on
+some
+\emph default
+ ideas.”
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” Professor Quirrell said, his lips set in a thin line, “I agreed
+ to act as your adult guardian on this expedition.
+ I did not agree to advise you on your choice of presents.
+ I don't do Christmas, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.”
+\end_layout
+
+\begin_layout Standard
+“How about Newtonmas?” Harry said brightly.
+ “Isaac Newton actually 
+\emph on
+was
+\emph default
+ born on December 25th, unlike some other historical figures I could name.”
+\end_layout
+
+\begin_layout Standard
+This failed to impress Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“Look,” said Harry, “I'm sorry, but I've got to do 
+\emph on
+something
+\emph default
+ special for Fred and George and I've got no idea of my options.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell made a thoughtful humming sound.
+ “You could ask which family members they most dislike, and then hire an
+ assassin.
+ I know someone from a certain government-in-exile who is quite competent,
+ and he would give you a discount on multiple Weasleys.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+This
+\emph default
+ Christmas,” Harry said, dropping his voice into a lower register, “give
+ your friends the gift… of 
+\emph on
+death
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+That made Professor Quirrell smile.
+ It went all the way to his eyes.
+\end_layout
+
+\begin_layout Standard
+“Well,” said Harry, “at least you didn't suggest getting them a pet rat
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry's mouth snapped shut, and he was regretting the words almost as
+ soon as they were out of his mouth.
+\end_layout
+
+\begin_layout Standard
+“Pardon me?” said Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“Nothing,” Harry said at once, “long dumb story.” And telling it seemed wrong
+ somehow, maybe because Harry was afraid Professor Quirrell would have laughed
+ even if Bill Weasley 
+\emph on
+hadn't
+\emph default
+ been cured and everything put back to right…
+\end_layout
+
+\begin_layout Standard
+And where had Professor Quirrell 
+\emph on
+been
+\emph default
+ that he'd never heard the story? Harry had gotten the impression that everyone
+ in magical Britain knew.
+\end_layout
+
+\begin_layout Standard
+“Look,” said Harry, “I'm trying to 
+\emph on
+solidify their loyalty to me,
+\emph default
+ you know? Make the Weasley twins my minions? Like the old saying goes:
+ A friend isn't someone you use once and then throw away, a friend is someone
+ you use over and over again.
+ Fred and George are two of the most useful friends I have in Hogwarts,
+ Professor Quirrell, and I plan to use them over and over again.
+ So if you'd help me be Slytherin here, and suggest something they might
+ be 
+\emph on
+very
+\emph default
+ grateful for…” Harry's voice trailed off invitingly.
+\end_layout
+
+\begin_layout Standard
+You just had to pitch these things the right way.
+\end_layout
+
+\begin_layout Standard
+They walked on for a good way before Professor Quirrell spoke again, his
+ voice practically dripping with distaste.
+ “The Weasley twins are using secondhand wands, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ They would be reminded of your generosity with every Charm they cast.”
+\end_layout
+
+\begin_layout Standard
+Harry clapped his hands together in involuntary excitement.
+ Just put the money on account at Ollivander's, and tell Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Ollivander to never refund it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ no, better yet, to send it to Lucius Malfoy if the Weasley twins didn't
+ show up before the start of their next school year.
+ “That's 
+\emph on
+brilliant
+\emph default
+, Professor!”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell did not look like he appreciated the compliment.
+ “I suppose I can tolerate Christmas in 
+\emph on
+that
+\emph default
+ spirit, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, though only barely.” Then he smiled slightly.
+ “Of course that will cost you fourteen Galleons, and you only have five.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Five
+\emph default
+ Galleons,” Harry said, with a sniff of outrage.
+ “Just who does the Headmaster think he's dealing with, anyway?”
+\end_layout
+
+\begin_layout Standard
+“I think,” said Professor Quirrell, “that it simply did not occur to him
+ to fear the consequences if you turned your ingenuity to the task of obtaining
+ funds.
+ Though you were wise to lose, rather than making it an explicit threat.
+ Out of curiosity, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, what 
+\emph on
+would
+\emph default
+ you have done if I hadn't turned away in boredom while you, in a fit of
+ childish pique, counted out five Galleons worth of Knuts?”
+\end_layout
+
+\begin_layout Standard
+“Well, the easiest way would've been to borrow money from Draco Malfoy,”
+ said Harry.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell chuckled briefly.
+ “Seriously, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Duly noted.
+
+\emph default
+ “Probably I'd have done a few celebrity appearances.
+ I wouldn't resort to anything economically disruptive just for spending
+ money.” Harry had checked, and he 
+\emph on
+would
+\emph default
+ be allowed to keep the Time-Turner while he went home for the holidays,
+ so that his sleep cycle didn't start to rotate.
+ But then it was 
+\emph on
+also
+\emph default
+ possible that someone kept an eye out for magical day traders.
+ The gold and silver trick would've taken work on the Muggle end, and seed
+ funding, and the goblins might've gotten suspicious after the first cycle.
+ And starting a real bank would be a 
+\emph on
+lot
+\emph default
+ of work… Harry hadn't 
+\emph on
+quite
+\emph default
+ worked out any money-making methods that were fast 
+\emph on
+and
+\emph default
+ certain 
+\emph on
+and
+\emph default
+ safe, so he'd been very glad when Professor Quirrell had turned out to
+ be so easily fooled.
+\end_layout
+
+\begin_layout Standard
+“I do hope those five Galleons will be enough to last, since you counted
+ them so carefully,” said Professor Quirrell.
+ “I doubt the Headmaster shall be so eager to entrust me with your vault
+ key a second time, once he discovers I've been tricked.”
+\end_layout
+
+\begin_layout Standard
+“I'm sure you did your best,” Harry said with deep gratitude.
+\end_layout
+
+\begin_layout Standard
+“Do you need any assistance finding a safe place to store all those Knuts,
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+“Well, sort of,” said Harry.
+ “Do you know of any good investment opportunities, Professor Quirrell?”
+\end_layout
+
+\begin_layout Standard
+And the two of them walked on, in their tiny sphere of silence and isolation,
+ through the brilliant and bustling crowds; and if you looked carefully,
+ you would see that where they went, leafy boughs faded, and flowers withered,
+ and children's toys that played cheerful bells changed to lower and more
+ ominous notes.
+\end_layout
+
+\begin_layout Standard
+Harry 
+\emph on
+did
+\emph default
+ notice, but he didn't say anything, just smiled a little to himself.
+\end_layout
+
+\begin_layout Standard
+Everyone had their own way of celebrating the holidays, and the Grinch was
+ as much a part of Christmas as Santa.
+\end_layout
+
+\end_body
+\end_document

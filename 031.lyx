@@ -1,0 +1,516 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Working in Groups, Part II
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Aftermaths:
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+H
+\end_layout
+
+\end_inset
+
+arry
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ paced backward and forward in his general's office, which made a wonderful
+ room for pacing, it didn't have any other uses as far as he could tell.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+How?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+How?
+\end_layout
+
+\begin_layout Standard
+Hermione shouldn't have won that battle! Not on her first try, not when
+ she wasn't at all violent by her nature, automatically being a great military
+ commander on top of everything else was too much even for 
+\emph on
+her
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Had she read about the tactic in a military history book? But it hadn't
+ been just that one tactic, she'd had her forces perfectly positioned to
+ block any retreat, her troops had been better coordinated than his 
+\emph on
+or
+\emph default
+ Draco's…
+\end_layout
+
+\begin_layout Standard
+Had Professor Quirrell broken his promise not to help her? Had he given
+ her the diary of General Tacticus or something?
+\end_layout
+
+\begin_layout Standard
+Harry was missing something here, something really important, and his mind
+ went around and around in circles, and he still couldn't figure it out.
+\end_layout
+
+\begin_layout Standard
+Finally Harry sighed.
+ He wasn't getting anywhere on this, and he had to go learn the Breaking
+ Drill Hex from Hermione or someone before the next battle 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Professor Quirrell had explained to Harry, his voice amused but with a
+ sharp undertone of warning, that “no magical items except the ones I give
+ you” included Muggle technology no matter how much that 
+\emph on
+wasn't magic.
+
+\emph default
+ Plus Harry also needed to figure out how to bring down Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle next time…
+\end_layout
+
+\begin_layout Standard
+Battles counted for a lot of Quirrell points if you were a general, and
+ Harry needed to get cracking if he wanted to win Professor Quirrell's Christmas
+ wish.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In his private room at Slytherin, Draco Malfoy stared off into space, as
+ though the wall in front of his desk was the most fascinating surface in
+ the world.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+How?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+How?
+\end_layout
+
+\begin_layout Standard
+In retrospect it had been an obvious sort of idea as cunning plots went,
+ but Granger wasn't 
+\emph on
+supposed
+\emph default
+ to be cunning! She'd been too much of a Hufflepuff to use a Simple Strike
+ Hex! Had Professor Quirrell been advising her despite his promise, or…
+\end_layout
+
+\begin_layout Standard
+And then Draco finally did what he should have done much earlier.
+\end_layout
+
+\begin_layout Standard
+What he should have done after the first time he met with Granger.
+\end_layout
+
+\begin_layout Standard
+What Harry Potter had 
+\emph on
+told
+\emph default
+ him to do, 
+\emph on
+trained
+\emph default
+ him to do, and yet Harry had also warned Draco that it would take time
+ to make his brain realize that the methods applied to real life, and Draco
+ hadn't 
+\emph on
+understood
+\emph default
+ that until today.
+ He could have avoided every single one of his mistakes if he'd just 
+\emph on
+applied
+\emph default
+ the things Harry had already 
+\emph on
+told
+\emph default
+ him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Draco said out loud, “I notice that I am confused.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Your strength as a rationalist is your ability to be more confused by fiction
+ than by reality…
+\end_layout
+
+\begin_layout Standard
+Draco was confused.
+\end_layout
+
+\begin_layout Standard
+Therefore, something he believed was fiction.
+\end_layout
+
+\begin_layout Standard
+Granger should not have been able to do all that.
+\end_layout
+
+\begin_layout Standard
+Therefore, she probably hadn't.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I promise not to help General Granger in any way that the two of you don't
+ know about.
+\end_layout
+
+\begin_layout Standard
+With sudden horrified realization, Draco swept papers out of the way, hunting
+ through the mess on his desk, until he found it.
+\end_layout
+
+\begin_layout Standard
+And there it was.
+\end_layout
+
+\begin_layout Standard
+Right in the list of people and equipment assigned to each of the three
+ armies.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Curse
+\emph default
+ Professor Quirrell!
+\end_layout
+
+\begin_layout Standard
+Draco had 
+\emph on
+read
+\emph default
+ it and he still hadn't 
+\emph on
+seen
+\emph default
+ it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The afternoon sunlight poured down into the office of the Sunshine Regiment,
+ illuminating General Granger in her chair as though she glowed with a golden
+ aura.
+\end_layout
+
+\begin_layout Standard
+“How long do you think it will take Malfoy to figure it out?” said General
+ Granger.
+\end_layout
+
+\begin_layout Standard
+“Not long,” said Colonel Blaise Zabini.
+ “He may have already.
+ How long will it take Potter to figure it out?”
+\end_layout
+
+\begin_layout Standard
+“Forever,” said General Granger, “unless Malfoy tells him, or one of his
+ own soldiers realizes.
+ Harry Potter just doesn't think like that.”
+\end_layout
+
+\begin_layout Standard
+“Really?” said Captain Ernie Macmillan, looking up from one of the corner
+ tables where he was being crushed at chess by Captain Ron Weasley.
+ (They'd brought back all the other chairs after Malfoy had left, of course.)
+ “I mean it seems kind of obvious to me.
+ Who would try to come up with all the ideas just by themselves?”
+\end_layout
+
+\begin_layout Standard
+“Harry,” said Hermione, at exactly the same time Zabini said, “Malfoy.”
+\end_layout
+
+\begin_layout Standard
+“Malfoy thinks he's way better than everyone else,” said Zabini.
+\end_layout
+
+\begin_layout Standard
+“And Harry… doesn't really 
+\emph on
+see
+\emph default
+ most other people like that,” said Hermione.
+\end_layout
+
+\begin_layout Standard
+It was kind of sad, actually.
+ Harry had grown up very, very alone.
+ It wasn't that he went around thinking in words that only geniuses had
+ a right to exist.
+ It just wouldn't 
+\emph on
+occur
+\emph default
+ to him that anyone in Hermione's army besides Hermione could have any good
+ ideas.
+\end_layout
+
+\begin_layout Standard
+“Anyhow,” Hermione said.
+ “Captains Goldstein and Weasley, you're on duty for thinking up strategic
+ ideas for our next battle.
+ Captains Macmillan and Susan 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ sorry, I mean Macmillan and Bones 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ try to come up with some tactics we can use, also any training you think
+ we should try.
+ Oh, and congratulations on your marching song, Captain Goldstein, I think
+ it was a big plus for 
+\emph on
+esprit de corps
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“What're you doing?” said Susan.
+ “And Colonel Zabini?”
+\end_layout
+
+\begin_layout Standard
+Hermione stood up out of her chair, stretching.
+ “I'll try to figure out what Harry Potter is thinking and Colonel Zabini
+ will try to figure out what Draco Malfoy might do, and both of us will
+ join you again after we come up with something.
+ I'm going to walk while I think.
+ Zabini, you want to come along?”
+\end_layout
+
+\begin_layout Standard
+“Yes, General,” said Zabini stiffly.
+\end_layout
+
+\begin_layout Standard
+It hadn't been meant as an order.
+ Hermione sighed to herself a little.
+ This was going to take some getting used to, and although Zabini's first
+ idea had certainly worked, she wasn't 
+\emph on
+quite
+\emph default
+ sure that Professor Quirrell's quote mixture of positive and negative incentive
+s unquote would be enough to keep the Slytherin fully on her side until
+ December when traitors would be allowed for the first time…
+\end_layout
+
+\begin_layout Standard
+She still had no idea what she was going to do with Professor Quirrell's
+ Christmas wish, either.
+ Maybe she'd just ask Mandy if she wanted anything, when the time came around.
+\end_layout
+
+\end_body
+\end_document

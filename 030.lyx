@@ -1,0 +1,2943 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Working in Groups, Part I
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+T
+\end_layout
+
+\end_inset
+
+he
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ day was Sunday, November 3rd, and soon the three great powers of their
+ school year, Harry Potter, Draco Malfoy, and Hermione Granger, would begin
+ their struggle for supreme dominance.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(Harry was slightly annoyed by the way the Boy-Who-Lived had been demoted
+ from supreme dominance to one of three equal rivals just by entering the
+ contest, but he expected to get it back soon.)
+\end_layout
+
+\begin_layout Standard
+The battleground was a section of non-Forbidden forest, dense with trees,
+ because Professor Quirrell thought that being able to see all the enemy
+ forces was too boring even for your very first battle.
+\end_layout
+
+\begin_layout Standard
+All the students who were not actually 
+\emph on
+in
+\emph default
+ a first-year army were camped out nearby and watching on screens that Professor
+ Quirrell had set up.
+ Except for three Gryffindors in their fourth year, who were currently sick
+ and confined to healer's beds by Madam Pomfrey.
+ Aside from that, everyone was there.
+\end_layout
+
+\begin_layout Standard
+The students were dressed, not in their ordinary school robes, but in Muggle
+ camouflage uniforms that Professor Quirrell had obtained somewhere and
+ supplied in sufficient quantity and variety to fit everyone.
+ It wasn't that students would have worried about stains and rips, that
+ was what Charms were for.
+ But as Professor Quirrell had explained to the surprised wizardborns, nice
+ dignified clothing was not efficient for hiding in forests or dodging around
+ trees.
+\end_layout
+
+\begin_layout Standard
+And on each uniform's breast, a patch bearing the name and insignia of your
+ army.
+ A 
+\emph on
+small
+\emph default
+ patch.
+ If you wanted your soldiers to wear, say, colored ribbons so that they
+ could identify each other at a distance, and risk the enemy getting their
+ hands on the ribbons, that was all up to you.
+\end_layout
+
+\begin_layout Standard
+Harry had tried to get the name Dragon Army.
+\end_layout
+
+\begin_layout Standard
+Draco had pitched a fit and said that would confuse everyone completely.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell had ruled that Draco could lay prior claim to the name,
+ if he wished.
+\end_layout
+
+\begin_layout Standard
+So now Harry was fighting Dragon Army.
+\end_layout
+
+\begin_layout Standard
+This probably wasn't a good sign.
+\end_layout
+
+\begin_layout Standard
+For their insignia, instead of the too-obvious dragon's head breathing fire,
+ Draco had elected to simply go with the fire.
+ Elegant, understated, deadly: 
+\emph on
+This is what's left after we've passed.
+
+\emph default
+ Very Malfoy.
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 030-malfoy__s_dragon_army_by_dinosaurusgede-d2xlrgv.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+
+\size small
+For their insignia, instead of the too-obvious dragon's head breathing fire,
+ Draco had elected to simply go with the fire.
+ Elegant, understated, deadly: 
+\emph on
+This is what's left after we've passed.
+
+\emph default
+ Very Malfoy.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry, after considering alternate choices such as the 501st Provisional
+ Battalion and Harry's Minions o' Doom, had decided that his army would
+ be known by the simple and dignified appellation of the Chaos Legion.
+\end_layout
+
+\begin_layout Standard
+Their insignia was a hand poised with fingers ready to snap.
+\end_layout
+
+\begin_layout Standard
+It was 
+\emph on
+universally
+\emph default
+ agreed that this wasn't a good sign.
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 030-potter__s_chaos_legion_by_dinosaurusgede-d2xlq9v.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\size small
+Harry, after considering alternate choices such as the 501st Provisional
+ Battalion and Harry's Minions o' Doom, had decided that his army would
+ be known by the simple and dignified appellation of the Chaos Legion.
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+Their insignia was a hand poised with fingers ready to snap.
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+It was 
+\emph on
+universally
+\emph default
+ agreed that this wasn't a good sign.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry had earnestly advised Hermione that the young boys serving under her
+ were probably nervous about her being a girl with a reputation for being
+ nice, and that she should pick something scary that would reassure them
+ of her toughness and make them proud to be part of her army, like the Blood
+ Commandos or something.
+\end_layout
+
+\begin_layout Standard
+Hermione had named her army the Sunshine Regiment.
+\end_layout
+
+\begin_layout Standard
+Their insignia was a smiley face.
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 030-Hermione_Sunshine_Regiment_by_dinosaurusgede.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\size small
+Hermione had named her army the Sunshine Regiment.
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+Their insignia was a smiley face.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And in ten minutes, they would be at war.
+\end_layout
+
+\begin_layout Standard
+Harry stood in the bright forest clearing that was their assigned starting
+ location, an area of open space with old and rotting tree stumps that had
+ been cleared away for some unknown purpose, ground coated with a small
+ scattering of blown leaves and the dried grey remnants of grass that had
+ failed the test of summer's heat, and the sun shining down brilliantly
+ from above.
+\end_layout
+
+\begin_layout Standard
+Around him were the twenty-three soldiers that Professor Quirrell had assigned
+ to him.
+ Nearly all of Gryffindor had signed up, of course, and more than half of
+ Slytherin, and less than half of Hufflepuff, and a handful of Ravenclaw.
+ In Harry's army there were twelve Gryffindors and six Slytherins and four
+ Hufflepuffs and one Ravenclaw besides himself… not that there was any way
+ to tell that by looking at the uniforms.
+ No red, no green, no yellow, no blue.
+ Just Muggle camouflage patterns, and a patch on the breast with the device
+ of a hand poised to snap its fingers.
+\end_layout
+
+\begin_layout Standard
+Harry looked upon his twenty-three soldiers, all wearing the same uniforms
+ with no marks of group identity save that single patch.
+\end_layout
+
+\begin_layout Standard
+And lo, Harry smiled, because he understood what this part of Professor
+ Quirrell's master plan was about; and Harry was taking full advantage of
+ it for his 
+\emph on
+own
+\emph default
+ purposes, too.
+\end_layout
+
+\begin_layout Standard
+There was a legendary episode in social psychology called the Robbers Cave
+ experiment.
+ It had been set up in the bewildered aftermath of World War II, with the
+ intent of investigating the causes and remedies of conflicts between groups.
+ The scientists had set up a summer camp for 22 boys from 22 different schools,
+ selecting them to all be from stable middle-class families.
+ The first phase of the experiment had been intended to investigate what
+ it took to 
+\emph on
+start
+\emph default
+ a conflict between groups.
+ The 22 boys had been divided into two groups of 11 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and this had been quite sufficient.
+\end_layout
+
+\begin_layout Standard
+The hostility had started from the moment the two groups had become aware
+ of each others' existences in the state park, insults being hurled on the
+ first meeting.
+ They'd named themselves the Eagles and the Rattlers (they hadn't needed
+ names for themselves when they thought they were the only ones in the park)
+ and had proceeded to develop contrasting group stereotypes, the Rattlers
+ thinking of themselves as rough-and-tough and swearing heavily, the Eagles
+ correspondingly deciding to think of themselves as upright-and-proper.
+\end_layout
+
+\begin_layout Standard
+The other part of the experiment had been testing how to resolve group conflicts.
+ Bringing the boys together to watch fireworks hadn't worked at all.
+ They'd just shouted at each other and stayed apart.
+ What 
+\emph on
+had
+\emph default
+ worked was warning them that there might be vandals in the park, and the
+ two groups needing to work together to solve a failure of the park's water
+ system.
+ A common task, a common enemy.
+\end_layout
+
+\begin_layout Standard
+Harry had a strong suspicion Professor Quirrell had understood this principle
+ very well indeed when he had chosen to create 
+\emph on
+three
+\emph default
+ armies per year.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Three
+\emph default
+ armies.
+\end_layout
+
+\begin_layout Standard
+Not 
+\emph on
+four
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+And definitely 
+\emph on
+not
+\emph default
+ segregated by House… except that no Slytherins had been assigned to Draco
+ besides Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle.
+\end_layout
+
+\begin_layout Standard
+It was things like this which reassured Harry that Professor Quirrell, despite
+ his affected Dark atmosphere and his pretense of neutrality in the conflict
+ between Good and Evil, was secretly backing Good, not that Harry would
+ ever dare say that out loud.
+\end_layout
+
+\begin_layout Standard
+And Harry had decided to take full advantage of Professor Quirrell's plan
+ to define a group identity 
+\emph on
+his
+\emph default
+ way.
+\end_layout
+
+\begin_layout Standard
+The Rattlers, once they'd met the Eagles, had started thinking of themselves
+ as rough-and-tough, and they'd conducted themselves accordingly.
+\end_layout
+
+\begin_layout Standard
+The Eagles had thought of themselves as good-and-proper.
+\end_layout
+
+\begin_layout Standard
+And in that bright forest clearing, scattered around the old and rotting
+ tree stumps, outlined in the sun shining down brilliantly from above, General
+ Potter and his twenty-three soldiers were arranged in nothing remotely
+ resembling a formation.
+ Some soldiers stood, some soldiers sat, some stood on one leg just to be
+ different.
+\end_layout
+
+\begin_layout Standard
+It was the 
+\emph on
+Chaos
+\emph default
+ Legion, after all.
+\end_layout
+
+\begin_layout Standard
+And if there wasn't a 
+\emph on
+reason
+\emph default
+ to stand in neat little lines, Harry had said disdainfully, there weren't
+ going to be neat little lines.
+\end_layout
+
+\begin_layout Standard
+Harry had divided the army into 6 squads of 4 soldiers each, each squad
+ commanded by a Squad Suggester.
+ All troops were under strict orders to disobey any orders they were given
+ if it seemed like a good idea at the time, including that one… unless Harry
+ or the Squad Suggester prefixed the order with “Merlin says”, in which
+ case you were supposed to actually obey.
+\end_layout
+
+\begin_layout Standard
+The Chaos Legion's chief attack was to split up and run in from multiple
+ directions, randomly changing vectors and firing the approved sleep spell
+ as rapidly as you could rebuild the magical strength.
+ And if you saw a chance to distract or confuse the enemy, you took it.
+\end_layout
+
+\begin_layout Standard
+Fast.
+ Creative.
+ Unpredictable.
+ Non-homogenous.
+ Don't just obey orders, think about whether what you're doing 
+\emph on
+right now
+\emph default
+ makes sense.
+\end_layout
+
+\begin_layout Standard
+Harry wasn't quite as sure as he'd pretended that this was the optimum of
+ military efficiency… but he'd been given a golden opportunity to change
+ how some students 
+\emph on
+thought about themselves,
+\emph default
+ and that was how he intended to use it.
+\end_layout
+
+\begin_layout Standard
+Five minutes to wartime, according to Harry's watch.
+\end_layout
+
+\begin_layout Standard
+General Potter walked (not marched) over to where his air force was waiting
+ tensely, broomsticks already clutched firmly in their hands.
+\end_layout
+
+\begin_layout Standard
+“All wings report in,” said General Potter.
+ They'd rehearsed this during their one training session on Saturday.
+\end_layout
+
+\begin_layout Standard
+“Red Leader standing by,” said Seamus Finnigan, who had no idea what it
+ meant.
+\end_layout
+
+\begin_layout Standard
+“Red Five standing by,” said Dean Thomas, who'd waited his entire life to
+ say it.
+\end_layout
+
+\begin_layout Standard
+“Green Leader standing by,” Theodore Nott said rather stiffly.
+\end_layout
+
+\begin_layout Standard
+“Green Forty-One standing by,” Tracey Davis said.
+\end_layout
+
+\begin_layout Standard
+“I want you in the air the instant we hear the bell,” said General Potter.
+ “Do not engage, repeat, do not engage.
+ Evade if under fire.” (Of course you did 
+\emph on
+not
+\emph default
+ aim sleep spells at broomsticks; you fired a spell that gave a temporary
+ red glow to whatever it hit.
+ If you hit the broomstick or the rider, they were out of the war.) “Red
+ Leader and Red Five, fly toward Malfoy's army as fast as you can, stay
+ as high as you can while still seeing them, return the instant you know
+ for sure what they're doing.
+ Green Leader, do the same for Granger's army.
+ Green Forty-One, fly above us and watch for any approaching broomsticks
+ or soldiers, you and only you are authorized to fire.
+ And remember, I didn't say `Merlin says' for any of that, but we 
+\emph on
+do
+\emph default
+ really need the information.
+ For Chaos!”
+\end_layout
+
+\begin_layout Standard
+“For Chaos!” the four echoed with varying degrees of enthusiasm.
+\end_layout
+
+\begin_layout Standard
+Harry expected Hermione to launch an immediate attack on Draco, in which
+ case he'd move his troops into position and start supporting her, but only
+ after she'd taken severe losses and caused some damage.
+ He would frame it as a heroic rescue, if possible; it wouldn't do to have
+ Sunshine thinking that Chaos wasn't their friend, after all.
+\end_layout
+
+\begin_layout Standard
+But just in case she 
+\emph on
+didn't
+\emph default
+… well, that was why the Chaos Legion was staying put until Green Leader
+ reported back.
+\end_layout
+
+\begin_layout Standard
+Draco's moves would be in his own self-interest.
+ He would predictably ready his army to defend against Hermione; he might
+ or might not realize that Harry had been lying about waiting to attack
+ until after that battle finished.
+ Harry had still put two broomsticks on Dragon Army, just in case they 
+\emph on
+were
+\emph default
+ doing something, and just in case Draco or Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle or Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe was good enough to shoot a broomstick out of the sky.
+\end_layout
+
+\begin_layout Standard
+But General Granger was the unpredictable one, and Harry couldn't move until
+ he knew how she was moving.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the heart of the forest, with shadow patterns dancing on the ground as
+ leafy canopies swayed high above, General Malfoy stood where the trees
+ were relatively sparser, and looked out on his troops with calm satisfaction.
+ Six units of three troops each, the Aerial Unit of four (to which Gregory
+ was assigned), and the Command Unit, which was himself and Vincent.
+ They'd only drilled for a short time on the previous Saturday, but Draco
+ was confident that he'd managed to explain the basics.
+ Stay with your mates, watch their back and trust them to watch yours.
+ Move as a single body.
+ Obey orders and show no fear.
+ Aim, fire, move, aim again, fire again.
+\end_layout
+
+\begin_layout Standard
+The six units were formed up in a defensive perimeter around Draco, watchfully
+ gazing outward into the forest.
+ Back-to-back they stood, wands gripped low until they needed to strike.
+\end_layout
+
+\begin_layout Standard
+They already looked remarkably like the Auror units whose training Draco
+ had watched during his father's inspections.
+\end_layout
+
+\begin_layout Standard
+Chaos and Sunshine weren't going to know what hit them.
+\end_layout
+
+\begin_layout Standard
+“Attention,” said General Malfoy.
+\end_layout
+
+\begin_layout Standard
+The six units unfolded and spun toward Draco; the faces of his broomstick
+ riders turned from where they stood with broomsticks already in hand.
+\end_layout
+
+\begin_layout Standard
+Draco had decided to wait on demanding salutes until after they won their
+ first battle, when Gryffindors and Hufflepuffs would be more willing to
+ salute a Malfoy.
+\end_layout
+
+\begin_layout Standard
+But his soldiers were already standing straight enough, especially the Gryf\SpecialChar \-
+findo
+rs, that Draco wondered if he'd even needed to delay.
+ Gregory had quietly listened, and reported back that Draco's volunteering
+ to stand by Harry Potter in Defense class, that time when Professor Quirrell
+ had taught Harry how to lose, had marked Draco as an acceptable commander.
+ At least if you happened to be assigned to his army.
+ 
+\emph on
+Not all Slytherins are alike; there are Slytherins, and then there are Slytherin
+s
+\emph default
+ was what the Gryffindors in Draco's army were quoting to their Housemates.
+\end_layout
+
+\begin_layout Standard
+Draco was frankly 
+\emph on
+astounded
+\emph default
+ at how incredibly 
+\emph on
+easy
+\emph default
+ that had been.
+ Draco had protested at first about not being assigned any Slytherins, and
+ Professor Quirrell had told him that if he wanted to be the first Malfoy
+ to gain complete political control of the country, he needed to learn how
+ to govern the other three-quarters of the population.
+ It was things like this which reassured Draco that Professor Quirrell had
+ a great deal more sympathy for the good guys than Professor Quirrell was
+ letting on.
+\end_layout
+
+\begin_layout Standard
+The actual battle wouldn't be easy, especially if Granger did attack the
+ Dragons first.
+ Draco had agonized over whether to commit all his forces against Granger
+ immediately in a preemptive strike, but had worried that (1) Harry had
+ been misleading him completely about what Granger was likely to do, and
+ (2) Harry had been misleading him about waiting until after Granger's attack
+ to join the battle.
+\end_layout
+
+\begin_layout Standard
+Though Dragon Army had a secret weapon, three of them in fact, which might
+ be enough to win even if they were attacked by both armies at once…
+\end_layout
+
+\begin_layout Standard
+It was almost time, and that meant it was time for the pre-battle speech
+ that Draco had composed and memorized.
+\end_layout
+
+\begin_layout Standard
+“The battle is about to begin,” Draco said.
+ His voice was calm and precise.
+ “Remember everything that I and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Crabbe and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle showed you.
+ An army wins because it is disciplined and deadly.
+ General Potter and the Chaos Legion will not be disciplined.
+ Granger and the Sunshine Regiment will not be deadly.
+ We are disciplined, we are deadly, we are Dragons.
+ The battle is about to begin, and we are about to win it.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+(Ex tempore speech given by General Potter to the Chaos Legion, immediately
+ before their first battle, on November 3rd, 1991, at 2:56pm:)
+\end_layout
+
+\begin_layout Standard
+My troops, I'm not going to lie to you, our situation today is very grim.
+ Dragon Army has never lost a single battle.
+ And Hermione Granger… has a very good memory.
+ The truth is, most of you are probably going to die.
+ And the survivors will envy the dead.
+ But we have to win this.
+ We have to win this so that someday, our children can enjoy the taste of
+ chocolate again.
+ Everything is at stake here.
+ Literally everything.
+ If we lose, the whole universe just blinks out like a light bulb.
+ And now I realize that most of you don't know what a light bulb is.
+ Well, take it from me, it's bad.
+ But if we have to go down, let's go down fighting, like heroes, so that
+ as the darkness closes in, we can think to ourselves, 
+\emph on
+at least we had fun.
+
+\emph default
+ Are you afraid to die? I know I am.
+ I can feel those cold shivers of fear like someone is pumping ice cream
+ into my shirt.
+ But I know… that history is watching us.
+ It was watching us when we changed into our uniforms.
+ It was probably taking pictures.
+ And history, my troops, is written by the victors.
+ If we win this, we can write our own history.
+ A history in which Hogwarts was founded by four renegade house elves.
+ We can make everyone study that history, even though it isn't true, and
+ if they don't answer the right way on our tests… they'll fail the class.
+ Isn't that worth dying for? No, don't answer that.
+ Some things are better left unknown.
+ None of us know why we're here.
+ None of us know why we're fighting.
+ We just woke up in these uniforms in this mysterious forest, knowing only
+ that there was no way to get our names and memories back except victory.
+ The students in those other armies out there… they're just like us.
+ They don't want to die.
+ They're fighting to protect each other, the only friends they have left.
+ They're fighting because they know they have families who'll miss them,
+ even if they can't remember now.
+ They may even be fighting to save the world.
+ But we have a better reason to fight than they do.
+ We fight because we like it.
+ We fight to amuse eldritch monstrosities from beyond Space and Time.
+ We fight because we're Chaos.
+ Soon the final battle will begin, so let me say now, because I won't get
+ a chance later, that it was an honor to be your commander, however briefly.
+ Thank you, thank you all.
+ And remember, your goal isn't just to cut down the enemy, it's to make
+ them afraid.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A great booming gong echoed over the forest.
+\end_layout
+
+\begin_layout Standard
+And the Sunshine Regiment began to march.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The tension rose and rose, as Harry and the nineteen other soldiers who
+ remained waited for the aerial warriors to report back.
+ It shouldn't take long, broomsticks were fast and the distances in the
+ forest were not great 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Two broomsticks approached, at speed, from the direction of Draco's camp,
+ and all the soldiers tensed.
+ They weren't executing the maneuvers that were today's code for a 
+\emph on
+friendly
+\emph default
+ broomstick.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Scatter and fire!
+\emph default
+” roared General Potter, and then suited action to words, scurrying off
+ at top speed toward the forest cover; and then as soon as Harry was among
+ the trees, he spun back, raised his wand, tried to seek out the broomstick
+ in the sky 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Clear!” shouted a voice.
+ “They're heading back!”
+\end_layout
+
+\begin_layout Standard
+Harry gave a mental shrug.
+ There'd been no way to prevent Draco from obtaining that information, and
+ he'd only learn that they'd been standing still.
+\end_layout
+
+\begin_layout Standard
+And the Chaotics slowly emerged from the forest 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Broomstick approaching from Granger's direction!” yelled another voice.
+ “I think it's Green Leader, he did the dip and roll!”
+\end_layout
+
+\begin_layout Standard
+Moments later Theodore Nott dived out of the sky and pulled up in the midst
+ of the soldiers.
+\end_layout
+
+\begin_layout Standard
+“Granger has divided her forces in two!” yelled Nott as he hovered on his
+ broomstick.
+ There was sweat staining his uniform, and all the reserve was gone from
+ his voice.
+ “She's attacking both armies! Two brooms covering each force, they pursued
+ me halfway here!”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Divided her army, what on Earth 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A large force concentrating fire on a small force could deplete that force
+ rapidly without taking much damage in return.
+ If twenty soldiers faced ten soldiers, twenty sleep spells would be aimed
+ at the ten soldiers with only ten sleep spells going the other way, so
+ unless every one of those first sleep spells hit its target, the smaller
+ force would lose more people than they could manage to take down with them.
+ 
+\emph on
+Defeated in detail
+\emph default
+ was the military term for what happened when you divided your forces like
+ that.
+ What could Hermione 
+\emph on
+possibly
+\emph default
+ be thinking…
+\end_layout
+
+\begin_layout Standard
+Then Harry realized.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She's being fair.
+\end_layout
+
+\begin_layout Standard
+It was going to be a long year in Defense class.
+\end_layout
+
+\begin_layout Standard
+“All right,” Harry said loudly, so the army could hear.
+ “We'll wait until the Red Wing reports in, and then we'll go cloud up some
+ Sunshine.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Draco listened to the flyers' reports with his face calm, all his shock
+ concealed inside.
+ What could Granger 
+\emph on
+possibly
+\emph default
+ be thinking?
+\end_layout
+
+\begin_layout Standard
+Then Draco realized.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+It's a feint.
+\end_layout
+
+\begin_layout Standard
+One of Sunshine's two forces would change direction, and both would converge
+ on… who?
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Neville Longbottom marched through the forest toward the approaching Sunny
+ force, occasionally glancing up at the sky for broomsticks.
+ Beside him marched his squad comrades, Melvin Coote and Lavender Brown
+ of Gryffindor, and Allen Flint of Slytherin.
+ Allen Flint was their Squad Suggester, though Harry had first said to Neville,
+ in private, that the position was his if he wanted it.
+\end_layout
+
+\begin_layout Standard
+Harry had said quite a lot of things to Neville in private, starting with
+ “You know, Neville, if you want to become as awesome as the imaginary Neville
+ who lives in your head but isn't allowed to do anything because you're
+ scared, then you really should sign up for Professor Quirrell's armies.”
+\end_layout
+
+\begin_layout Standard
+Neville was now 
+\emph on
+sure
+\emph default
+ the Boy-Who-Lived could read minds.
+ There was just no other way Harry Potter could've known.
+ Neville had never talked about that with 
+\emph on
+anyone
+\emph default
+, or given any sign; and 
+\emph on
+other
+\emph default
+ people weren't like that, not that Neville had ever noticed.
+\end_layout
+
+\begin_layout Standard
+And Harry's promise had come true, this 
+\emph on
+did
+\emph default
+ feel different from sparring in Defense class.
+ Neville had hoped that sparring would fix everything that was wrong with
+ him, and, well, it hadn't.
+ Even if he could fire a few spells at another student in class with Professor
+ Quirrell watching to make sure nothing went wrong, even if he could dodge
+ and fire back when it was 
+\emph on
+allowed
+\emph default
+ and everyone else was 
+\emph on
+expecting
+\emph default
+ it and they would stare at him funny if he 
+\emph on
+didn't
+\emph default
+ do it, none of that was the same as being able to stand up for himself.
+\end_layout
+
+\begin_layout Standard
+But being part of an 
+\emph on
+army…
+\end_layout
+
+\begin_layout Standard
+Something strange was stirring inside Neville, as he marched through the
+ forest alongside his comrades, upon their uniforms an insignia of fingers
+ poised to snap.
+\end_layout
+
+\begin_layout Standard
+He was allowed to walk if he wanted to, but he just felt like marching.
+\end_layout
+
+\begin_layout Standard
+Beside him, Melvin and Lavender and Allen all seemed to feel like marching
+ too.
+\end_layout
+
+\begin_layout Standard
+And Neville softly began to sing the Song of Chaos.
+\end_layout
+
+\begin_layout Standard
+The tune was what a Muggle would have identified as John Williams's Imperial
+ March, also known as “Darth Vader's Theme"; and the words Harry had added
+ were easy to remember.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Doom doom doom
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Doom doom doom doom doom doom
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Doom doom doom
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Doom doom doom doom doom doom
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+DOOM doom DOOM
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Doom doom doom-doom-doom doom doom
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Doom doom-doom-doom doom doom
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Doom doom doom, doom doom doom.
+\end_layout
+
+\begin_layout Standard
+By the second line the others had joined in, and soon you could hear the
+ same soft chant coming from nearby parts of the forest.
+\end_layout
+
+\begin_layout Quote
+And Neville marched alongside his fellow Chaos Legionnaires,
+\begin_inset Newline newline
+\end_inset
+
+strange feelings stirring in his heart,
+\begin_inset Newline newline
+\end_inset
+
+imagination becoming reality,
+\begin_inset Newline newline
+\end_inset
+
+as from his lips poured a fearful song of doom.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry stared at the bodies scattered across the forest.
+ Something inside him felt a bit queasy, and he had to remind himself hard
+ that they were only sleeping.
+ There were girls among the fallen, and that made it a lot worse somehow,
+ and he would have to be careful never to mention that in front of Hermione
+ or the Aurors would find his remains stuffed into a 
+\emph on
+small
+\emph default
+ teapot.
+\end_layout
+
+\begin_layout Standard
+Half of Sunshine army hadn't put up much of a fight against all of Chaos.
+ The nine ground soldiers had run in screaming inarticulately with Simple
+ Shields raised, circular screens to protect their faces and chests.
+ But you couldn't fire and hold the shield at the same time, and Harry's
+ soldiers had simply aimed for the legs.
+ All but one of the Sunnies had fallen over as soon as the cries of “
+\emph on
+Somnium!
+\emph default
+” filled the air.
+ That last one had dropped her shield and managed to take out one of Harry's
+ soldiers before being hit by the second wave of sleep spells (the Sleep
+ Hex was safe for multiple hits).
+ The two Sunny broomsticks had been much harder to take down and had accounted
+ for three Chaotics before being auraed by massed ground fire.
+\end_layout
+
+\begin_layout Standard
+Hermione wasn't among the fallen.
+ Draco must have gotten her and that was making Harry feel 
+\emph on
+angry
+\emph default
+ on some completely incomprehensible level, he wasn't sure if he was feeling
+ protective toward Hermione, or cheated that he hadn't been the one to do
+ it, or maybe 
+\emph on
+both.
+\end_layout
+
+\begin_layout Standard
+“All right,” Harry said, raising his voice.
+ “Let's everyone be clear on one thing, that wasn't a real fight.
+ That was General Granger making a mistake in her first battle.
+ Today's actual fight is with Dragon Army and it's not going to be anything
+ like this.
+ It's going to be a lot more fun.
+ Let's move out.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A broomstick fell out of the sky, approaching terrifyingly fast, and spun
+ on its end and decelerated so hard you could almost hear the air screaming
+ in protest, and came to a halt directly beside Draco.
+\end_layout
+
+\begin_layout Standard
+It wasn't dangerous showing-off.
+ Gregory Goyle simply 
+\emph on
+was
+\emph default
+ that good and he didn't waste time.
+\end_layout
+
+\begin_layout Standard
+“Potter's coming,” Gregory said with no trace of his usual fake drawl.
+ “They've still got all four of their brooms, you want me to take them out?”
+\end_layout
+
+\begin_layout Standard
+“No,” Draco said sharply.
+ “Fighting over their army gives them too much of an advantage, they'll
+ fire on you from the ground and even you might not be able to dodge it
+ all.
+ Wait until the forces engage.”
+\end_layout
+
+\begin_layout Standard
+Draco had lost four Dragons in exchange for twelve Sunnies.
+ Apparently General Granger actually 
+\emph on
+had
+\emph default
+ been that incredibly stupid, though she hadn't been among the attackers,
+ so Draco hadn't gotten a chance to taunt her or ask her what in Merlin's
+ name she had been thinking.
+\end_layout
+
+\begin_layout Standard
+The true battle, they all knew, would be with Harry Potter.
+\end_layout
+
+\begin_layout Standard
+“Prepare yourselves!” roared Draco at his troops.
+ “Stay together with your mates, act as a unit, fire as soon as the enemy
+ is in range!”
+\end_layout
+
+\begin_layout Standard
+Discipline against Chaos.
+\end_layout
+
+\begin_layout Standard
+It shouldn't be much of a fight.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The adrenaline was pumping and pumping into Neville's blood until he felt
+ like he could hardly breathe.
+\end_layout
+
+\begin_layout Standard
+“We're closing in,” said General Potter in a voice barely loud enough to
+ carry to the whole army.
+ “Time to spread out.”
+\end_layout
+
+\begin_layout Standard
+Neville's comrades moved away from him.
+ They would still support each other, but if you clustered together, the
+ enemy would have a much easier time hitting you; fire aimed at one of your
+ comrades might miss and get you instead.
+ You would be a lot harder to hit if you spread out and moved as fast as
+ you could.
+\end_layout
+
+\begin_layout Standard
+The first thing General Potter had done, during their training session,
+ was get them to fire on each other when both sides were running fast, or
+ both stood still and took time to aim, or one was moving and one was standing
+ still 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ the reverse charm to the Sleep Hex was simple, though you weren't allowed
+ to use it during real battles.
+ General Potter had carefully recorded everything that happened, done some
+ figuring and ciphering, and then announced that it made more sense for
+ them to focus, not on slowing down to aim carefully, but on moving fast
+ so they wouldn't get hit.
+\end_layout
+
+\begin_layout Standard
+It still bothered Neville a little not to be marching side-by-side with
+ his comrades, but the scary battlecries they'd learned were already thundering
+ in his head and that made up for a lot.
+\end_layout
+
+\begin_layout Standard
+This time, Neville silently vowed to himself, his voice was absolutely positivel
+y not going to squeak.
+\end_layout
+
+\begin_layout Standard
+“Shields up,” said General Potter, “power to forward deflectors.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Contego,
+\emph default
+” murmured the army, and the circular screens sprang into existence before
+ their heads and chests.
+\end_layout
+
+\begin_layout Standard
+A sharp taste filled Neville's mouth.
+ General Potter wouldn't have ordered them to cast shields unless they were
+ almost in range.
+ Neville could see the uniformed shapes of Dragons moving through the dense
+ screens of trees, and the Dragons would be seeing them as well 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Attack!
+\emph default
+” came a cry from the distance, the voice of Draco Malfoy, and General Potter
+ bellowed, “
+\emph on
+Charge 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+All the adrenaline in Neville's blood was unleashed, and his legs took over,
+ sending him flying faster than he'd ever run before, straight toward the
+ enemy, knowing without needing to look that all his comrades were doing
+ the same.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Blood for the blood god!
+\emph default
+” screamed Neville.
+ “
+\emph on
+Skulls for the skull throne! Ia! Shub-Niggurath! The enemy's gate is sideways!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There was a soundless impact as a sleep spell wasted itself against Neville's
+ shield.
+ If there'd been other spells fired, they hadn't hit.
+\end_layout
+
+\begin_layout Standard
+Neville saw the brief look of fear on Wayne Hopkins's face, as he stood
+ besides two Gryffindors Neville didn't recognize, and then 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Neville dropped the Simple Shield and fired at Wayne 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ missed 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ his racing legs went 
+\emph on
+straight
+\emph default
+ past the enemy grouping and toward another three Dragons, their wands coming
+ up on him, their mouths opening
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ not even thinking about it, Neville dived down to the forest floor just
+ as three voices cried “
+\emph on
+Somnium!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+It hurt, hard stones and hard twigs digging into Neville as he rolled, it
+ wasn't as bad as falling off his broomstick but he'd still hit the ground
+ pretty hard, and then Neville, with sudden insight, lay still and closed
+ his eyes.
+\end_layout
+
+\begin_layout Standard
+“Stop that!” screamed a voice.
+ “Don't shoot us, we're Dragons!”
+\end_layout
+
+\begin_layout Standard
+With a flash of glorious satisfaction, Neville realized that he'd managed
+ to get between two groups of Dragons just as one group had fired on him.
+ Harry had talked about this as a tactic for making the enemy afraid to
+ fire, but apparently it worked a bit better than that.
+\end_layout
+
+\begin_layout Standard
+And not only that, the Dragons believed they'd 
+\emph on
+gotten
+\emph default
+ him, since they'd seen Neville fall just as they fired.
+\end_layout
+
+\begin_layout Standard
+Neville counted to twenty inside his head, then opened his eyes a crack.
+\end_layout
+
+\begin_layout Standard
+The three Dragons were very near him, heads spinning rapidly as cries of
+ “
+\emph on
+Somnium!
+\emph default
+” and 
+\emph on
+“Skulls for the skull throne!
+\emph default
+” filled the air around them.
+ All three had Simple Shields up now.
+\end_layout
+
+\begin_layout Standard
+Neville's wand was still in his hand, and it didn't take much effort to
+ point it at one boy's boots and whisper “
+\emph on
+Somnium.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Neville quickly closed his eyes and relaxed his hand as he heard the boy
+ fall to the ground.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Where'd it come from?
+\emph default
+” screamed Justin Finch-Fletchley's voice, and Neville heard rustles on
+ the leafy forest floor, as of two Dragons spinning around looking for an
+ enemy.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Reform ranks!
+\emph default
+” bellowed Malfoy's voice.
+ “
+\emph on
+To me, everyone, don't let them scatter you!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Neville's ears heard the two Dragons actually jump over his prone body as
+ they ran off.
+\end_layout
+
+\begin_layout Standard
+Neville opened his eyes, pushed himself to his feet a bit painfully, and
+ then pointed his wand and said the new charm that General Potter had taught
+ them all.
+ They couldn't do real illusion spells to confuse the enemy, but even at
+ their age they could 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Ventriliquo,
+\emph default
+” whispered Neville, pointing the wand to one side of Justin and the other
+ boy, and then yelled, “
+\emph on
+For Cthulhu and glory!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Justin and the other boy stopped abruptly, turning their shields toward
+ where Neville had moved his battlecry, and that was when multiple cries
+ of “
+\emph on
+Somnium!
+\emph default
+” filled the air and the other boy dropped before Neville was finished aiming.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+The last one's mine!
+\emph default
+” yelled Neville, and then he started sprinting straight toward Justin,
+ who'd been mean to him until the older Hufflepuffs straightened him out.
+ Neville was surrounded by his comrades and 
+\emph on
+that
+\emph default
+ meant 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Special attack, Chaotic Leap!
+\emph default
+” howled Neville as he ran, and felt his body lighten, then lighten twice
+ again, as his comrades got their wands turned toward him and quietly cast
+ the Hover Charm, and Neville raised his left hand and snapped his fingers
+ and then used his legs to push off the ground as hard as he could and 
+\emph on
+soared
+\emph default
+ through the air.
+ Sheer shock painted Justin's face as Neville went 
+\emph on
+over
+\emph default
+ the other boy's shield and pointed his wand down at the form passing beneath
+ him and cried “
+\emph on
+Somnium!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Because he'd felt like it, that was why.
+\end_layout
+
+\begin_layout Standard
+Neville didn't quite get his feet turned around properly and rather plowed
+ into the ground as he landed, but two out of three of the other Chaos Legionnai
+res had managed to hold their wands on him throughout and he didn't hit
+ very hard.
+\end_layout
+
+\begin_layout Standard
+And Neville got to his feet, panting.
+ He knew he should be moving, people were yelling “Somnium!” all over the
+ place 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+I am Neville, the last scion of Longbottom!
+\emph default
+” screamed Neville to the sky above, holding his wand pointed straight up
+ as though to challenge the blazing blue heaven itself, knowing that nothing
+ after this day would ever be the same again.
+ “
+\emph on
+Neville of Chaos! Face me if you da-
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+(When Neville woke up afterward, he was told that Dragon Army had taken
+ this as their cue to counterattack.)
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The girl beside Harry slumped to the ground, taking the shot meant for him,
+ and he could hear Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle's distant gloating laugh as his broomstick blasted past them, cutting
+ the air so hard it should have shattered in his wake.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Luminos!
+\emph default
+” cried one of the boys next to Harry, who hadn't been able to rebuild the
+ magical strength fast enough to do it earlier, and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle dodged it without a pause.
+\end_layout
+
+\begin_layout Standard
+Chaos had only six soldiers left, now, and Dragon Army had two, and the
+ only problem was that one of those soldiers was invincible, and the other
+ one was using up three soldiers just to cover him inside his shield.
+\end_layout
+
+\begin_layout Standard
+They'd lost more soldiers to Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle than all the other Dragons put together, he was weaving and dodging
+ through the air so fast that no one could hit him, and he could 
+\emph on
+shoot people while he did that.
+\end_layout
+
+\begin_layout Standard
+Harry had thought of all sorts of ways to stop Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle but none of them were 
+\emph on
+safe
+\emph default
+, even using the Hover Charm to slow him down (it was a continuous beam
+ and much easier to aim) wouldn't be safe because he might fall off the
+ broomstick, throwing things in his way wouldn't be safe, and that was getting
+ harder and harder to remember as Harry's blood froze over.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+It's a game.
+ You're not trying to
+\emph default
+ kill 
+\emph on
+him.
+ Don't throw away all your future plans for a game…
+\end_layout
+
+\begin_layout Standard
+Harry could 
+\emph on
+see
+\emph default
+ the pattern, he could 
+\emph on
+see
+\emph default
+ how Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle was weaving, he could 
+\emph on
+see
+\emph default
+ how and when they all needed to fire in order to create a web of shots
+ that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle wouldn't be able to dodge, but he just hadn't been able to 
+\emph on
+explain
+\emph default
+ it fast enough to his soldiers, they couldn't coordinate their shots well
+ enough, and now they didn't have enough people left to do it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I refuse to lose, not like this, not my whole army to one soldier!
+\end_layout
+
+\begin_layout Standard
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle's broomstick turned faster than anything should have been able to
+ turn and started to angle in toward Harry and his surviving troops, he
+ could sense the boy beside him tensing, getting ready to throw himself
+ in front of his general.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+SCREW THIS.
+\end_layout
+
+\begin_layout Standard
+Harry's wand came up, focusing on Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle, Harry's mind visualized the pattern, and Harry's lips opened and
+ his voice screamed 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Luminosluminosluminosluminosluminosluminosluminosluminos\SpecialChar \-
+lu\SpecialChar \-
+mi\SpecialChar \-
+nos\SpecialChar \-
+lu\SpecialChar \-
+mi\SpecialChar \-
+nos\SpecialChar \-
+lu\SpecialChar \-
+mi\SpecialChar \-
+nos\SpecialChar \-
+lu\SpecialChar \-
+m
+i\SpecialChar \-
+nos
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph on
+”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When Harry's eyes opened again, he found himself resting in a comfortable
+ position with his hands folded over his chest, holding his wand like a
+ fallen hero.
+\end_layout
+
+\begin_layout Standard
+Slowly, Harry sat up.
+ His 
+\emph on
+magic
+\emph default
+ was aching, a strange sensation but not an entirely unpleasant one, much
+ like the burn and lethargy that followed hard physical exercise.
+\end_layout
+
+\begin_layout Standard
+“The general's awake!” cried a voice, and Harry blinked and focused in that
+ direction.
+\end_layout
+
+\begin_layout Standard
+Four of his soldiers held their wands on a shimmering prismatic hemisphere,
+ and Harry realized that the battle wasn't over.
+ Right… he hadn't been hit by a Sleep Hex, just exhausted himself, so when
+ he woke up, he was still in the game.
+\end_layout
+
+\begin_layout Standard
+Harry suspected he was going to get a lecture from someone-or-other about
+ not exhausting his magic to the point of unconsciousness over a children's
+ game.
+ But he hadn't hurt Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle when he'd lost his temper, and that was the important thing.
+\end_layout
+
+\begin_layout Standard
+Then Harry's mind clicked on another implication, and he looked down at
+ the steel ring on his left hand's pinky finger, and almost swore out loud
+ when he saw that the tiny diamond was missing and there was a marshmallow
+ lying on the ground near where he'd fallen.
+\end_layout
+
+\begin_layout Standard
+He'd sustained that Transfiguration for seventeen days, and would now need
+ to start over.
+\end_layout
+
+\begin_layout Standard
+Could've been worse.
+ He could've done this fourteen days later, 
+\emph on
+after
+\emph default
+ Professor McGonagall had approved him to Transfigure his father's rock.
+ That was one very good lesson to learn the easy way.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Note to self: Always remove ring from finger before completely exhausting
+ magic.
+\end_layout
+
+\begin_layout Standard
+Harry pushed himself up, making rather hard going of it.
+ Using up your magic didn't exhaust your muscles, but dodging around trees
+ certainly did.
+\end_layout
+
+\begin_layout Standard
+He staggered over to the iridescent hemisphere that contained Draco Malfoy,
+ who was holding his wand aloft to sustain the shield, and smiling coldly
+ at Harry.
+\end_layout
+
+\begin_layout Standard
+“Where's the fifth soldier?” said Harry.
+\end_layout
+
+\begin_layout Standard
+“Um…” said a boy whose name Harry couldn't remember at the moment.
+ “I fired a Sleep Hex at the shield and it bounced off and hit Lavender,
+ I mean the angle shouldn't have been right but it did…”
+\end_layout
+
+\begin_layout Standard
+Draco was smirking inside the shield.
+\end_layout
+
+\begin_layout Standard
+“So let me guess,” Harry said, looking Draco directly in the eyes, “those
+ neat little trios are the formation used by professional magical militaries?
+ Made up of trained soldiers who can easily hit moving targets if their
+ own hands are steady, and who can combine their defensive powers so long
+ as they stay together? Unlike 
+\emph on
+your
+\emph default
+ soldiers?”
+\end_layout
+
+\begin_layout Standard
+The smirk had vanished from Draco's face, which was now hard and grim.
+\end_layout
+
+\begin_layout Standard
+“You know,” Harry said lightly, knowing that none of the others would understand
+ the real message passing between them, “it just goes to show that you should
+ always question everything you see your role models doing, and ask why
+ it's being done, and whether it makes sense in context for you to do it
+ too.
+ Don't forget to apply that advice to real life, by the way.
+ And thanks for the slow-moving clustered targets.”
+\end_layout
+
+\begin_layout Standard
+Because Draco had already gotten that lecture, and, Harry suspected, discounted
+ it out of suspicion that Harry was trying to shift his loyalties further
+ away from pureblood tradition.
+ Which of course Harry 
+\emph on
+was.
+
+\emph default
+ But this example would make an excellent excuse, next Saturday, to claim
+ that questioning authority was a merely practical technique for real life.
+ And Harry would also mention the experiments he'd run, first with individuals
+ and then with groups, to check that his ideas about the importance of speed
+ had actually been 
+\emph on
+correct,
+\emph default
+ by way of hammering home the point of Draco needing to keep an eye out
+ at all times for chances to apply the methods in everyday practice.
+\end_layout
+
+\begin_layout Standard
+“You haven't won 
+\emph on
+yet,
+\emph default
+ General Potter!” snarled Draco.
+ “Maybe we'll run out of time, and Professor Quirrell will call it a draw.”
+\end_layout
+
+\begin_layout Standard
+A fair and worrisome point.
+ The war only ended when Professor Quirrell, in his personal judgment, decided
+ one army had won by practical real-world standards.
+ There was no 
+\emph on
+formal
+\emph default
+ victory condition, Professor Quirrell had explained, because then Harry
+ would figure out how to game the rules.
+ Harry had to admit this was a fair cop.
+\end_layout
+
+\begin_layout Standard
+And Harry couldn't blame Professor Quirrell for not calling an end, because
+ it was plausible that the last soldier of Dragon Army could take out all
+ five survivors of the Chaos Legion.
+\end_layout
+
+\begin_layout Standard
+“All right,” Harry said.
+ “Does anyone know anything about General Malfoy's shield spell?”
+\end_layout
+
+\begin_layout Standard
+It developed that Draco's shield was a version of the standard 
+\emph on
+Protego
+\emph default
+ which had several disadvantages, the most important of which was that the
+ shield couldn't move with the caster.
+\end_layout
+
+\begin_layout Standard
+The upside 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ or from Harry's perspective, downside 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ was that it was easier to learn, easier to cast, and much easier to sustain
+ for long times.
+\end_layout
+
+\begin_layout Standard
+They would need to hammer the shield with attack spells in order to bring
+ it down.
+\end_layout
+
+\begin_layout Standard
+And Draco could apparently exert some control over the angle of reflection
+ at which the spells would bounce off.
+\end_layout
+
+\begin_layout Standard
+The thought occurred to Harry that they could use Wingardium Leviosa to
+ pile up heavy rocks on the shield until Draco couldn't sustain it against
+ the pressure… but then the rocks might fall in afterward and hit Draco,
+ and injuring the enemy general for real was not among today's goals.
+\end_layout
+
+\begin_layout Standard
+“So,” said Harry.
+ “Are there such things as specialized shield-piercing spells?”
+\end_layout
+
+\begin_layout Standard
+There were.
+\end_layout
+
+\begin_layout Standard
+Harry asked if any of his soldiers knew them.
+\end_layout
+
+\begin_layout Standard
+No one did.
+\end_layout
+
+\begin_layout Standard
+Draco was smirking again, inside his shield.
+\end_layout
+
+\begin_layout Standard
+Harry asked if there was any sort of attack spell that 
+\emph on
+wouldn't
+\emph default
+ bounce.
+\end_layout
+
+\begin_layout Standard
+Lightning bolts, it seemed, were usually absorbed by shields instead of
+ bouncing off them.
+\end_layout
+
+\begin_layout Standard
+…No one knew how to cast any sort of lightning-related spell.
+\end_layout
+
+\begin_layout Standard
+Draco sniggered.
+\end_layout
+
+\begin_layout Standard
+Harry sighed.
+\end_layout
+
+\begin_layout Standard
+He quite deliberately laid his wand on the ground.
+\end_layout
+
+\begin_layout Standard
+And Harry announced, with some weariness in his voice, that he would just
+ go ahead and take down the shield himself, using some method that would
+ remain mysterious; and everyone else was to fire on Draco as soon as his
+ shield went down.
+\end_layout
+
+\begin_layout Standard
+The Chaos Legionnaires looked nervous.
+\end_layout
+
+\begin_layout Standard
+Draco looked calm, which was to say, controlled.
+\end_layout
+
+\begin_layout Standard
+A thin, folded blanket came out of Harry's pouch.
+\end_layout
+
+\begin_layout Standard
+Harry sat down next to the shimmering shield, and pulled the blanket over
+ his head so no one could see what he did 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ except Draco, of course.
+\end_layout
+
+\begin_layout Standard
+From Harry's pouch came a car battery and a set of jumper cables.
+\end_layout
+
+\begin_layout Standard
+…it wasn't like he'd been about to leave the Muggle world to start a new
+ era of magical research, and not take along any way of generating electricity.
+\end_layout
+
+\begin_layout Standard
+Shortly after, the Chaos Legionnaires heard the sound of fingers snapping,
+ followed by a crackling noise from beneath the blanket.
+ The shield started glowing more brightly, and Harry's voice said, “Don't
+ be distracted please, eyes on General Malfoy.”
+\end_layout
+
+\begin_layout Standard
+The strain was showing on Draco's face, along with the fury and annoyance
+ and frustration.
+\end_layout
+
+\begin_layout Standard
+Harry smiled up at him, and mouthed, 
+\emph on
+Tell you later.
+\end_layout
+
+\begin_layout Standard
+And that was when a spiral of green energy shot out of the forest and smashed
+ into Draco's shield, which shrieked like pieces of sharp glass being rubbed
+ together, and Draco staggered.
+\end_layout
+
+\begin_layout Standard
+In sudden, frantic panic, Harry took the jumper cables off the battery and
+ fed them into the pouch, then he fed the battery itself into the pouch,
+ and then he tore off the blanket and grabbed his wand and stood up.
+\end_layout
+
+\begin_layout Standard
+All of his soldiers were still there and glancing around frantically.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Contego,
+\emph default
+” Harry said, and his soldiers followed suit, but Harry didn't even know
+ which direction the shield ought to be pointing in.
+ “Did anyone see where that came from?” Shaken heads.
+ “And General Malfoy, would you mind telling me if 
+\emph on
+you
+\emph default
+ got General Granger?”
+\end_layout
+
+\begin_layout Standard
+“Why yes,” Draco said acidly, “I mind.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oh, hell.
+\end_layout
+
+\begin_layout Standard
+Harry's mind began calculating, Draco inside the shield, Draco worn out
+ now to some degree, Harry worn out too, Hermione in the woods who-knew-where,
+ Harry and four other Chaotics left…
+\end_layout
+
+\begin_layout Standard
+“You know, General Granger,” Harry said out loud, “you really should've
+ waited to attack until after I'd fought General Malfoy.
+ You might've been able to get 
+\emph on
+all
+\emph default
+ the survivors.”
+\end_layout
+
+\begin_layout Standard
+From somewhere came a girl's high-pitched laughter.
+\end_layout
+
+\begin_layout Standard
+Harry froze.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+That wasn't Hermione.
+\end_layout
+
+\begin_layout Standard
+And that was when the dreadful, eerie, cheerful chant began to rise, coming
+ from all around them.
+\end_layout
+
+\begin_layout Quote
+“
+\emph on
+Don't be frightened, don't be sad,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+We'll only hurt you if you're bad…
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Granger cheated!
+\emph default
+” burst out Draco inside the shield.
+ “She woke up her soldiers! Why doesn't Professor Quirrell 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Let me guess,” Harry said, the sickness already churning in his stomach.
+ He really hated losing.
+ “It was a very easy battle, right? They dropped like flies?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Draco said.
+ “We got them all on the first shot 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+The look of horrified realization spread from Draco to the Chaos Legionnaires.
+\end_layout
+
+\begin_layout Standard
+“No,” Harry said, “we didn't.”
+\end_layout
+
+\begin_layout Standard
+Camouflaged forms were appearing from among the trees.
+\end_layout
+
+\begin_layout Standard
+“Allies?” Harry said.
+\end_layout
+
+\begin_layout Standard
+“Allies,” Draco said.
+\end_layout
+
+\begin_layout Standard
+“Good,” said General Granger's voice, and a spiral of green energy blazed
+ out of the woods and shattered Draco's shield to splinters.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+General Granger surveyed the battlefield with a definite feeling of satisfaction.
+ She was down to nine Sunshine Soldiers, but that was probably enough to
+ handle the last survivor of the enemy forces, especially when Parvati and
+ Anthony and Ernie were already holding their wands on General Potter, whom
+ she'd ordered taken alive (well, conscious).
+\end_layout
+
+\begin_layout Standard
+It was Bad, she knew, but she'd really really 
+\emph on
+really
+\emph default
+ wanted to gloat.
+\end_layout
+
+\begin_layout Standard
+“There's a trick, isn't there?” said Harry, the strain showing in his voice.
+ “There 
+\emph on
+has
+\emph default
+ to be some trick.
+ You can't just turn into a perfect general.
+ Not on top of everything else.
+ You're not that Slytherin! You don't write creepy poetry! 
+\emph on
+No one's that good at everything!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+General Granger glanced around at her Sunshine Soldiers, and then looked
+ back at Harry.
+ Everyone was probably watching this on the screens outside.
+\end_layout
+
+\begin_layout Standard
+And General Granger said, “I can do anything if I study hard enough.”
+\end_layout
+
+\begin_layout Standard
+“Oh now that's just bu-”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Somnium.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry slumped to the ground in mid-sentence.
+\end_layout
+
+\begin_layout Standard
+“SUNSHINE WINS,” intoned the huge voice of Professor Quirrell, seeming to
+ come from everywhere and nowhere.
+\end_layout
+
+\begin_layout Standard
+“Niceness has triumphed!” cried General Granger.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Hooray!
+\emph default
+” shouted the Sunshine Soldiers.
+ Even the Gryffindor boys said it, and they said it with pride.
+\end_layout
+
+\begin_layout Standard
+“And what's the moral of today's battle?” said General Granger.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+We can do anything if we study hard enough!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+And the survivors of the Sunshine Regiment marched off toward the victory
+ field, singing their marching song as they went:
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Don't be frightened, don't be sad,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+We'll only hurt you if you're bad,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+And send you to a home that's true,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+With new friends to watch over you,
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Be sure to tell them you were sent
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+By Granger's Sunshine Regiment!
+\end_layout
+
+\end_body
+\end_document

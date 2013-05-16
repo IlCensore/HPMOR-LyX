@@ -1,0 +1,921 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Everything I Believe Is False
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+N
+\end_layout
+
+\end_inset
+
+ow,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ just to be clear,” Harry said, “if the professor does levitate you, Dad,
+ when you know you haven’t been attached to any wires, that’s going to be
+ sufficient evidence.
+ You’re not going to turn around and say that it’s a magician’s trick.
+ That wouldn’t be fair play.
+ If you feel that way, you should say so 
+\emph on
+now
+\emph default
+, and we can figure out a different experiment instead.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry’s father, Professor Michael Verres-Evans, rolled his eyes.
+ “Yes, Harry.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And you, Mum, your theory says that the professor should be able to do this,
+ and if that doesn’t happen, you’ll admit you’re mistaken.
+ Nothing about how magic doesn’t work when people are sceptical of it, or
+ anything like that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Deputy Headmistress Minerva McGonagall was watching Harry with a bemused
+ expression.
+ She looked quite witchy in her black robes and pointed hat, but when she
+ spoke she sounded formal and Scottish, which didn’t go together with the
+ look at all.
+ At first glance she looked like someone who ought to cackle and put babies
+ into cauldrons, but the whole effect was ruined as soon as she opened her
+ mouth.
+ “Is that sufficient, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter?” she said.
+ “Shall I go ahead and demonstrate?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Sufficient
+\emph default
+? Probably not,” Harry said.
+ “But at least it will 
+\emph on
+help
+\emph default
+.
+ Go ahead, Deputy Headmistress.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just Professor will do,” said she, and then, “
+\emph on
+Wingardium Leviosa
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry looked at his father.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Huh,” Harry said.
+\end_layout
+
+\begin_layout Standard
+His father looked back at him.
+ “Huh,” his father echoed.
+\end_layout
+
+\begin_layout Standard
+Then Professor Verres-Evans looked back at Professor McGonagall.
+ “All right, you can put me down now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+His father was lowered carefully to the ground.
+\end_layout
+
+\begin_layout Standard
+Harry ruffled a hand through his own hair.
+ Maybe it was just that strange part of him which had 
+\emph on
+already
+\emph default
+ been convinced, but… “That’s a bit of an anticlimax,” Harry said.
+ “You’d think there’d be some kind of more dramatic mental event associated
+ with updating on an observation of infinitesimal probability 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry stopped himself.
+ Mum, the witch, and even his Dad were giving him 
+\emph on
+that look
+\emph default
+ again.
+ “I mean, with finding out that everything I believe is false.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Seriously, it should have been more dramatic.
+ His brain ought to have been flushing its entire current stock of hypotheses
+ about the universe, none of which allowed this to happen.
+ But instead his brain just seemed to be going, 
+\emph on
+All right, I saw the Hogwarts Professor wave her wand and make your father
+ rise into the air, now what?
+\end_layout
+
+\begin_layout Standard
+The witch-lady was smiling benevolently upon them, looking quite amused.
+ “Would you like a further demonstration, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You don’t have to,” Harry said.
+ “We’ve performed a definitive experiment.
+ But…” Harry hesitated.
+ He couldn’t help himself.
+ Actually, under the circumstances, he 
+\emph on
+shouldn’t
+\emph default
+ be helping himself.
+ It was right and proper to be curious.
+ “What else can you do?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall turned into a cat.
+\end_layout
+
+\begin_layout Standard
+Harry scrambled back unthinkingly, backpedalling so fast that he tripped
+ over a stray stack of books and landed hard on his bottom with a 
+\emph on
+thwack
+\emph default
+.
+ His hands came down to catch himself without quite reaching properly, and
+ there was a warning twinge in his shoulder as the weight came down unbraced.
+\end_layout
+
+\begin_layout Standard
+At once the small tabby cat morphed back up into a robed woman.
+ “I’m sorry, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter,” said the witch, sounding sincere, though the corners of her lips
+ were twitching upwards.
+ “I should have warned you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry was breathing in short gasps.
+ His voice came out choked.
+ “
+\emph on
+You can’t DO that!
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It’s only a Transfiguration,” said Professor McGonagall.
+ “An Animagus transformation, to be exact.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You turned into a cat! A 
+\emph on
+SMALL
+\emph default
+ cat! You violated Conservation of Energy! That’s not just an arbitrary
+ rule, it’s implied by the form of the quantum Hamiltonian! Rejecting it
+ destroys unitarity and then you get FTL signalling! And cats are 
+\emph on
+COMPLICATED
+\emph default
+! A human mind can’t just visualise a whole cat’s anatomy and, and all the
+ cat biochemistry, and what about the 
+\emph on
+neurology
+\emph default
+? How can you go on 
+\emph on
+thinking
+\emph default
+ using a cat-sized brain?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall’s lips were twitching harder now.
+ “Magic.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Magic 
+\emph on
+isn’t enough
+\emph default
+ to do that! You’d have to be a god!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall blinked.
+ “That’s the first time I’ve ever been called that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A blur was coming over Harry’s vision, as his brain started to comprehend
+ what had just broken.
+ The whole idea of a unified universe with mathematically regular laws,
+ that was what had been flushed down the toilet; the whole notion of 
+\emph on
+physics
+\emph default
+.
+ Three thousand years of resolving big complicated things into smaller pieces,
+ discovering that the music of the planets was the same tune as a falling
+ apple, finding that the true laws were perfectly universal and had no exception
+s anywhere and took the form of simple maths governing the smallest parts,
+ 
+\emph on
+not to mention
+\emph default
+ that the mind was the brain and the brain was made of neurons, a brain
+ was what a person 
+\emph on
+was
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And then a woman turned into a cat, so much for all that.
+\end_layout
+
+\begin_layout Standard
+A hundred questions fought for priority over Harry’s lips and the winner
+ poured out: “And, and what kind of incantation is 
+\emph on
+Wingardium Leviosa
+\emph default
+? Who invents the words to these spells, nursery schoolers?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That will do, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter,” Professor McGonagall said crisply, though her eyes shone with suppresse
+d amusement.
+ “If you wish to learn about magic, I suggest that we finalise the paperwork
+ so that you can go to Hogwarts.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right,” Harry said, somewhat dazed.
+ He pulled his thoughts together.
+ The March of Reason would just have to start over, that was all; they still
+ had the experimental method and that was the important thing.
+ “How do I get to Hogwarts, then?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A choked laugh escaped Professor McGonagall, as if extracted from her by
+ tweezers.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hold on a moment, Harry,” his father said.
+ “Remember why you haven’t been going to school up until now? What about
+ your condition?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall spun to face Michael.
+ “His condition? What’s this?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don’t sleep right,” Harry said.
+ He waved his hands helplessly.
+ “My sleep cycle is twenty-six hours long, I always go to sleep two hours
+ later, every day.
+ I can’t fall asleep any earlier than that, and then the next day I go to
+ sleep two hours later than 
+\emph on
+that
+\emph default
+.
+ 10am, 12am, 2am, 4am, until it goes around the clock.
+ Even if I try to wake up early, it makes no difference and I’m a wreck
+ that whole day.
+ That’s why I haven’t been going to a normal school up until now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+One of the reasons,” said his mother.
+ Harry shot her a glare.
+\end_layout
+
+\begin_layout Standard
+McGonagall gave a long 
+\emph on
+hmmmmm
+\emph default
+.
+ “I can’t recall hearing about such a condition before…” she said slowly.
+ “I’ll check with Madam Pomfrey to see if she knows any remedies.” Then her
+ face brightened.
+ “No, I’m sure this won’t be a problem 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I’ll find a solution in time.
+ Now,” and her gaze sharpened again, “what are these 
+\emph on
+other
+\emph default
+ reasons?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry sent his parents a glare.
+ “I am a conscientious objector to child conscription, on grounds that I
+ should not have to suffer for a disintegrating school system’s failure
+ to provide teachers or study materials of even minimally adequate quality.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Both of Harry’s parents howled with laughter at that, like they thought
+ it was all a big joke.
+ “Oh,” said Harry’s father, eyes bright, “is 
+\emph on
+that
+\emph default
+ why you bit a maths teacher in third year.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+She didn’t know what a logarithm was!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course,” seconded Harry’s mother.
+ “Biting her was a very mature response to that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry’s father nodded.
+ “A well-considered policy for addressing the problem of teachers who don’t
+ understand logarithms.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was 
+\emph on
+seven years old!
+\emph default
+ How long are you going to keep on bringing that up?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know,” said his mother sympathetically, “you bite 
+\emph on
+one
+\emph default
+ maths teacher and they never let you forget it, do they?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry turned to Professor McGonagall.
+ “There! You see what I have to deal with?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me,” said Petunia, and fled through the backdoor into the garden,
+ from which her screams of laughter were clearly audible.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There, ah, there,” Professor McGonagall seemed to be having trouble speaking
+ for some reason, “there is to be no biting of teachers at Hogwarts, is
+ that quite clear, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry scowled at her.
+ “Fine, I won’t bite anyone who doesn’t bite me first.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor Michael Verres-Evans also had to leave the room briefly upon hearing
+ that.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well,” Professor McGonagall sighed, after Harry’s parents had composed themselve
+s and returned.
+ “Well.
+ I think, under the circumstances, that I should avoid taking you to purchase
+ your study materials until a day or two before school begins.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What? Why? The other children already know magic, don’t they? I have to
+ start catching up right away!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Rest assured, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter,” replied Professor McGonagall, “Hogwarts is quite capable of teaching
+ the basics.
+ And I suspect, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter, that if I leave you alone for two months with your schoolbooks,
+ even without a wand, I will return to this house only to find a crater
+ billowing purple smoke, a depopulated city surrounding it and a plague
+ of flaming zebras terrorising what remains of England.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry’s mother and father nodded in perfect unison.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Mum! Dad!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

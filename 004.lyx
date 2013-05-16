@@ -1,0 +1,1159 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+The Efficient Market Hypothesis
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+H
+\end_layout
+
+\end_inset
+
+eaps
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ of gold Galleons.
+ Stacks of silver Sickles.
+ Piles of bronze Knuts.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Harry stood there, and stared with his mouth open at the family vault.
+ He had so many questions he didn't know 
+\emph on
+where
+\emph default
+ to start.
+\end_layout
+
+\begin_layout Standard
+From just outside the door of the vault, Professor McGonagall watched him,
+ seeming to lean casually against the wall, but her eyes intent.
+ Well, that made sense.
+ Being plopped in front of a giant heap of gold coins was a test of character
+ so pure it was archetypal.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are these coins the pure metal?” Harry said finally.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?” hissed the goblin Griphook, who was waiting near the door.
+ “Are you questioning the integrity of Gringotts, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter-Evans-Verres?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No,” said Harry absently, “not at all, sorry if that came out wrong, sir.
+ I just have no idea at all how your financial system works.
+ I'm asking if Galleons in general are made of pure gold.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course,” said Griphook.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And can anyone coin them, or are they issued by a monopoly that thereby
+ collects seigniorage?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What?” said Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+Griphook grinned, showing sharp teeth.
+ “Only a fool would trust any but goblin coin!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+In other words,” Harry said, “the coins aren't supposed to be worth any
+ more than the metal making them up?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Griphook stared at Harry.
+ Professor McGonagall looked bemused.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I mean, suppose I came in here with a ton of silver.
+ Could I get a ton of Sickles made from it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For a fee, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter-Evans-Verres.” The goblin watched him with glittering eyes.
+ “For a certain fee.
+ Where would you find a ton of silver, I wonder?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was speaking hypothetically,” Harry said.
+ 
+\emph on
+For now, at any rate
+\emph default
+.
+ “So… how much would you charge in fees, as a fraction of the whole weight?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Griphook's eyes were intent.
+ “I would have to consult my superiors…
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Give me a wild guess.
+ I won't hold Gringotts to it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A twentieth part of the metal would well pay for the coining.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ “Thank you very much, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Griphook.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+So not only is the wizarding economy almost completely decoupled from the
+ Muggle economy, no one here has ever heard of arbitrage.
+
+\emph default
+ The larger Muggle economy had a fluctuating trading range of gold to silver,
+ so every time the Muggle gold-to-silver ratio got more than 5% away from
+ the weight of seventeen Sickles to one Galleon, either gold or silver should
+ have drained from the wizarding economy until it became impossible to maintain
+ the exchange rate.
+ Bring in a ton of silver, change to Sickles (and pay 5%), change the Sickles
+ for Galleons, take the gold to the Muggle world, exchange it for more silver
+ than you started with, and repeat.
+\end_layout
+
+\begin_layout Standard
+Wasn't the Muggle gold to silver ratio somewhere around fifty to one? Harry
+ didn't think it was seventeen, anyway.
+ And it looked like the silver coins were actually 
+\emph on
+smaller
+\emph default
+ than the gold coins.
+\end_layout
+
+\begin_layout Standard
+Then again, Harry was standing in a bank that 
+\emph on
+literally
+\emph default
+ stored your money in vaults full of gold coins guarded by dragons, where
+ you had to go in and take coins out of your vault whenever you wanted to
+ spend money.
+ The finer points of arbitraging away market inefficiencies might well be
+ lost on them.
+ He'd been tempted to make snide remarks about the crudity of their financial
+ system…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But the sad thing is, their way is probably better.
+\end_layout
+
+\begin_layout Standard
+On the other hand, one competent hedge fundie could probably own the whole
+ wizarding world within a week.
+ Harry filed away this notion in case he ever ran out of money, or had a
+ week free.
+\end_layout
+
+\begin_layout Standard
+Meanwhile, the giant heaps of gold coins within the Potter vault ought to
+ suit his near-term requirements.
+\end_layout
+
+\begin_layout Standard
+Harry stumped forward, and began picking up gold coins with one hand and
+ dumping them into the other.
+\end_layout
+
+\begin_layout Standard
+When he had reached twenty, Professor McGonagall coughed.
+ “I think that will be more than enough to pay for your school supplies,
+ Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hm?” Harry said, his mind elsewhere.
+ “Hold on, I'm doing a Fermi calculation.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A 
+\emph on
+what
+\emph default
+?
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor McGonagall, sounding somewhat alarmed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's a mathematical thing.
+ Named after Enrico Fermi.
+ A way of getting rough numbers quickly in your head…
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Twenty gold Galleons weighed a tenth of a kilogram, maybe? And gold was,
+ what, ten thousand British pounds a kilogram? So a Galleon would be worth
+ about fifty pounds… The mounds of gold coins looked to be about sixty coins
+ high and twenty coins wide in either dimension of the base, and a mound
+ was pyramidal, so it would be around one-third of the cube.
+ Eight thousand Galleons per mound, roughly, and there were around five
+ mounds of that size, so forty thousand Galleons or 2 million pounds sterling.
+\end_layout
+
+\begin_layout Standard
+Not bad.
+ Harry smiled with a certain grim satisfaction.
+ It was too bad that he was right in the middle of discovering the amazing
+ new world of magic, and couldn't take time out to explore the amazing new
+ world of being rich, which a quick Fermi estimate said was roughly a billion
+ times less interesting.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Still, that's the last time I ever mow a lawn for one lousy pound.
+\end_layout
+
+\begin_layout Standard
+Harry wheeled from the giant heap of money.
+ “Pardon me for asking, Professor McGonagall, but I understand that my parents
+ were in their twenties when they died.
+ Is this a 
+\emph on
+usual
+\emph default
+ amount of money for a young couple to have in their vault, in the wizarding
+ world?” If it was, a cup of tea probably cost five thousand pounds.
+ Rule one of economics: you can't eat money.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall shook her head.
+ “Your father was the last heir of an old family, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.
+ It's also possible…” The witch hesitated.
+ “Some of this money may be from bounties placed on You-Know-Who, payable
+ to his ki
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ ah, to whoever might defeat him.
+ Or those bounties might not have been collected yet.
+ I am not sure.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Interesting…” Harry said slowly.
+ “So some of this really is, in a sense, mine.
+ That is, earned by me.
+ Sort of.
+ Possibly.
+ Even if I don't remember the occasion.” Harry's fingers tapped against his
+ trouser-leg.
+ “That makes me feel less guilty about spending 
+\emph on
+a very tiny fraction of it! Don't panic, Professor McGonagall!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter! You are a minor, and as such, you will only be allowed to make 
+\emph on
+reasonable
+\emph default
+ withdrawals from 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I am 
+\emph on
+all about
+\emph default
+ reasonable! I am totally on board with fiscal prudence and impulse control!
+ But I 
+\emph on
+did
+\emph default
+ see some things on the way here which would constitute 
+\emph on
+sensible, grown-up
+\emph default
+ purchases…
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry locked gazes with Professor McGonagall, engaging in a silent staring
+ contest.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Like what?” Professor McGonagall said finally.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Trunks whose insides hold more than their outsides?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall's face grew stern.
+ “Those are 
+\emph on
+very
+\emph default
+ expensive, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, but 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry pleaded.
+ “I'm sure that when I'm an adult I'll want one.
+ And I 
+\emph on
+can
+\emph default
+ afford one.
+ Logically, it would make just as much sense to buy it now instead of later,
+ and get the use of it right away.
+ It's the same money either way, right? I mean, I 
+\emph on
+would
+\emph default
+ want a good one, with 
+\emph on
+lots
+\emph default
+ of room inside, good enough that I wouldn't have to just get a better one
+ later…” Harry trailed off hopefully.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall's gaze didn't waver.
+ “And just what would you 
+\emph on
+keep
+\emph default
+ in a trunk like that, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Books.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Of course,” sighed Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You should have told me 
+\emph on
+much earlier
+\emph default
+ that sort of magic item existed! And that I could afford one! Now my father
+ and I are going to have to spend the next two days 
+\emph on
+frantically
+\emph default
+ hitting up all the secondhand bookshops for old textbooks, so I can have
+ a decent science library with me at Hogwarts 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and maybe a small science fiction collection, if I can assemble something
+ decent out of the bargain bins.
+ Or better yet, I'll make the deal a little sweeter for you, okay? Just
+ let me buy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter!
+\emph default
+ You think you can 
+\emph on
+bribe
+\emph default
+ me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What? 
+\emph on
+No!
+\emph default
+ Not like that! I'm saying, Hogwarts can keep some of the books I bring,
+ if you think that any of them would make good additions to the library.
+ I'm going to be getting them cheap, and 
+\emph on
+I
+\emph default
+ just want to have them around somewhere or other.
+ It's okay to bribe people with 
+\emph on
+books
+\emph default
+, right? That's a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Family tradition.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, exactly.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall's body seemed to slump, the shoulders lowering with\SpecialChar \-
+in
+ her black robes.
+ “I cannot deny the sense of your words, though I much wish I could.
+ I will allow you to withdraw an additional hundred Galleons, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter.” She sighed again.
+ “I 
+\emph on
+know
+\emph default
+ that I shall regret this, and I am doing it anyway.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's the spirit! And does a 'mokeskin pouch' do what I think it does?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It can't do as much as a trunk,” the witch said with visible reluctance,
+ “but… a mokeskin pouch with a Retrieval Charm and Undetectable Extension
+ Charm can hold a number of items until they are called forth by the one
+ who emplaced them 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes! I definitely need one of those too! It would be like the super beltpack
+ of ultimate awesomeness! Batman's utility belt of holding! Never mind my
+ swiss army knife, I could carry a whole tool set in there! Or 
+\emph on
+books
+\emph default
+! I could have the top three books I was reading on me at all times, and
+ just pull one out anywhere! I'll never have to waste another minute of
+ my life! What do you say, Professor McGonagall? It's for the sake of children's
+ reading, the best of all possible causes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+…I suppose you may add another ten Galleons.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Griphook was favouring Harry with a gaze of frank respect, possibly even
+ outright admiration.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And a little spending money, like you mentioned earlier.
+ I think I can remember seeing one or two other things I might want to store
+ in that pouch.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Don't push it, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But oh, Professor McGonagall, why rain on my parade? Surely this is a 
+\emph on
+happy
+\emph default
+ day, when I discover all things wizarding for the first time! Why act the
+ part of the grumpy grownup when instead you could smile and remember your
+ own innocent childhood, watching the look of delight upon my young face
+ as I buy a few toys using an insignificant fraction of the wealth that
+ I earned by defeating the most terrible wizard Britain has ever known,
+ not that I'm accusing you of being ungrateful or anything, but still, what
+ are a few toys compared to that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+You
+\emph default
+,” growled Professor McGonagall.
+ There was a look on her face so fearsome and terrible that Harry squeaked
+ and stepped back, knocking over a pile of gold coins with a great jingling
+ noise and sprawling backwards into a heap of money.
+ Griphook sighed and put a palm over his face.
+ “I would be doing a great service to wizarding Britain, Mr.
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph default
+Potter, if I locked you in this vault and left you here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And they left without any more trouble.
+\end_layout
+
+\end_body
+\end_document

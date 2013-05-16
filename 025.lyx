@@ -1,0 +1,2105 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Hold Off on Proposing Solutions
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Act 2:
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+(T
+\end_layout
+
+\end_inset
+
+he
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ sun shone brilliantly into the Great Hall from the enchanted sky-ceiling
+ above, illuminating the students as though they sat beneath the naked sky,
+ gleaming from their plates and bowls, as, refreshed by a night's sleep,
+ they inhaled breakfast in preparation for whatever plans they'd made for
+ their Sunday.)
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+So.
+ There was only one thing that made you a wizard.
+\end_layout
+
+\begin_layout Standard
+That wasn't surprising, when you thought about it.
+ What DNA mostly did was tell ribosomes how to chain amino acids together
+ into proteins.
+ Conventional physics seemed quite capable of describing amino acids, and
+ no matter how many amino acids you chained together, conventional physics
+ said you would never, ever get magic out of it.
+\end_layout
+
+\begin_layout Standard
+And yet magic seemed to be hereditary, following DNA.
+\end_layout
+
+\begin_layout Standard
+Then that probably 
+\emph on
+wasn't
+\emph default
+ because the DNA was chaining together nonmagical amino acids into magical
+ proteins.
+\end_layout
+
+\begin_layout Standard
+Rather the key DNA sequence did not, of itself, give you your magic at
+\begin_inset space ~
+\end_inset
+
+all.
+\end_layout
+
+\begin_layout Standard
+Magic came from somewhere else.
+\end_layout
+
+\begin_layout Standard
+(At the Ravenclaw table there was one boy who was staring off into space,
+ as his right hand automatically spooned some unimportant food into his
+ mouth from whatever was in front of him.
+ You probably could have substituted a pile of dirt and he wouldn't have
+ noticed.)
+\end_layout
+
+\begin_layout Standard
+And for some reason the Source of Magic was paying attention to a particular
+ DNA marker among individuals who were ordinary ape-descended humans in
+ every other way.
+\end_layout
+
+\begin_layout Standard
+(Actually there were quite a lot of boys and girls staring off into space.
+ It was the 
+\emph on
+Ravenclaw
+\emph default
+ table, after all.)
+\end_layout
+
+\begin_layout Standard
+There were other lines of logic leading to the same conclusion.
+ 
+\emph on
+Complex
+\emph default
+ machinery was always universal within a sexually reproducing species.
+ If gene B relied on gene A, then A had to be useful on its own, and rise
+ to near-universal\SpecialChar \-
+ity in the gene pool on its own, before B would be useful
+ often enough to confer a fitness advantage.
+ Then once B was universal you would get a variant A* that relied on B,
+ and then C that relied on A* and B, then B* that relied on C, until the
+ whole machine would fall apart if you removed a single piece.
+ But it all had to happen 
+\emph on
+incrementally
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ evolution never looked ahead, evolution would never start promoting B in
+ 
+\emph on
+preparation
+\emph default
+ for A becoming universal later.
+ Evolution was the simple historical fact that, whichever organisms did
+ in fact have the most children, their genes would in fact be more frequent
+ in the next generation.
+ So each piece of a complex machine had to become nearly universal before
+ other pieces in the machine would evolve to depend on its presence.
+\end_layout
+
+\begin_layout Standard
+So 
+\emph on
+complex, interdependent
+\emph default
+ machinery, the powerful sophisticated protein machines that drove life,
+ was always 
+\emph on
+universal
+\emph default
+ within a sexually reproducing species 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ except for a small handful of 
+\emph on
+non
+\emph default
+-interdependent 
+\emph on
+variants
+\emph default
+ that were being selected on at any given time, as further complexity was
+ slowly laid down.
+ It was why all human beings had the same underlying brain design, the same
+ emotions, the same facial expressions wired up to those emotions; those
+ adaptations were complex, so they 
+\emph on
+had
+\emph default
+ to be universal.
+\end_layout
+
+\begin_layout Standard
+If magic had been like that, a big complex adaptation with lots of necessary
+ genes, then a wizard mating with a Muggle would have resulted in a child
+ with only half those parts and half the machine wouldn't do much.
+ And so there would have been no Muggleborns, ever.
+ Even if all the pieces had individually gotten into the Muggle gene pool,
+ they'd never reassemble all in one place to form a wizard.
+\end_layout
+
+\begin_layout Standard
+There hadn't been some genetically isolated valley of humans that had stumbled
+ onto an evolutionary pathway leading to sophisticated magical sections
+ of the brain.
+ That complex genetic machinery, if wizards interbred with Muggles, would
+ never have reassembled into Muggleborns.
+\end_layout
+
+\begin_layout Standard
+So however your genes made you a wizard, it 
+\emph on
+wasn't
+\emph default
+ by containing the blue\SpecialChar \-
+prints for complicated machinery.
+\end_layout
+
+\begin_layout Standard
+That was the other reason Harry had guessed the Mendelian pattern would
+ be there.
+ If magical genes weren't complicated, why would there be more than one?
+\end_layout
+
+\begin_layout Standard
+And yet magic itself seemed pretty complicated.
+ A door-locking spell would prevent the door from opening 
+\emph on
+and
+\emph default
+ prevent you from Transfiguring the hinges 
+\emph on
+and
+\emph default
+ resist 
+\emph on
+Finite Incantatem
+\emph default
+ and 
+\emph on
+Alohomora
+\emph default
+.
+ Many elements all pointing in the same direction: you could call that goal-orie
+ntation, or in simpler language, purposefulness.
+\end_layout
+
+\begin_layout Standard
+There were only two known causes of purposeful complexity.
+ Natural selection, which produced things like butterflies.
+ And intelligent engineering, which produced things like cars.
+\end_layout
+
+\begin_layout Standard
+Magic didn't seem like something that had self-replicated into existence.
+ Spells were purposefully complicated, but not, like a butterfly, complicated
+ for the purpose of making copies of themselves.
+ Spells were complicated for the purpose of serving their user, like a car.
+\end_layout
+
+\begin_layout Standard
+Some intelligent engineer, then, had created the Source of Magic, and told
+ it to pay attention to a particular DNA marker.
+\end_layout
+
+\begin_layout Standard
+The obvious next thought was that this had something to do with “Atlantis”.
+\end_layout
+
+\begin_layout Standard
+Harry had asked Hermione about that earlier 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ on the train to Hogwarts, after hearing Draco say it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and so far as she knew, nothing more was known than the word itself.
+\end_layout
+
+\begin_layout Standard
+It might have been pure legend.
+ But it was also plausible enough that a civilization of magic-users, especially
+ one from 
+\emph on
+before
+\emph default
+ the Interdict of Merlin, would have managed to blow itself up.
+\end_layout
+
+\begin_layout Standard
+The line of reasoning continued: Atlantis had been an isolated civilization
+ that had somehow brought into being the Source of Magic, and told it to
+ serve only people with the Atlantean genetic marker, the blood of Atlantis.
+\end_layout
+
+\begin_layout Standard
+And by similar logic: The words a wizard spoke, the wand movements, those
+ weren't complicated enough of themselves to build up the spell effects
+ from scratch 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ not the way that the three billion base pairs of human DNA actually 
+\emph on
+were
+\emph default
+ complicated enough to build a human body from scratch, not the way that
+ computer programs took up thousands of bytes of data.
+\end_layout
+
+\begin_layout Standard
+So the words and wand movements were just triggers, levers pulled on some
+ hidden and more complex machine.
+ Buttons, not blueprints.
+\end_layout
+
+\begin_layout Standard
+And just like a computer program wouldn't compile if you made a single spelling
+ error, the Source of Magic wouldn't respond to you unless you cast your
+ spells in exactly the right way.
+\end_layout
+
+\begin_layout Standard
+The chain of logic was inexorable.
+\end_layout
+
+\begin_layout Standard
+And it led inevitably toward a single final conclusion.
+\end_layout
+
+\begin_layout Standard
+The ancient forebears of the wizards, thousands of years earlier, had told
+ the Source of Magic to only levitate things if you said…
+\end_layout
+
+\begin_layout Standard
+'Wingardium Leviosa.'
+\end_layout
+
+\begin_layout Standard
+Harry slumped over at the breakfast table, resting his forehead wearily
+ on his right hand.
+\end_layout
+
+\begin_layout Standard
+There was a story from the dawn days of Artificial Intelligence 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ back when they were just starting out and no one had yet realized the problem
+ would be difficult 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ about a professor who had delegated one of his grad students to solve the
+ problem of computer vision.
+\end_layout
+
+\begin_layout Standard
+Harry was beginning to understand how that grad student must have felt.
+\end_layout
+
+\begin_layout Standard
+This could take a while.
+\end_layout
+
+\begin_layout Standard
+Why did it take more effort to cast the Alohomora spell, if it was just
+ like pressing a button?
+\end_layout
+
+\begin_layout Standard
+Who'd been silly enough to build in a spell for 
+\emph on
+Avada Kedavra
+\emph default
+ that could only be cast using hatred?
+\end_layout
+
+\begin_layout Standard
+Why did wordless Transfiguration require you to make a complete mental separatio
+n between the concept of form and concept of material?
+\end_layout
+
+\begin_layout Standard
+Harry might not be done with this problem by the time he graduated Hogwarts.
+ He could still be working on this problem when he was 
+\emph on
+thirty years old.
+
+\emph default
+ Hermione had been right, Harry 
+\emph on
+hadn't
+\emph default
+ realized that on a gut level before.
+ He'd just given an inspiring speech about determination.
+\end_layout
+
+\begin_layout Standard
+Harry's mind briefly considered whether to get on a gut level that he might
+ never solve the problem at all, then decided that would be taking things
+ much too far.
+\end_layout
+
+\begin_layout Standard
+Besides, so long as he could get as far as immortality in the first few
+ decades, he'd be fine.
+\end_layout
+
+\begin_layout Standard
+What method had the Dark Lord used? Come to think, the fact that the Dark
+ Lord had somehow managed to survive the death of his first body was almost
+ 
+\emph on
+infinitely
+\emph default
+ more important than the fact that he'd tried to take over magical Britain
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Excuse me,” said an expected voice from behind him in very unexpected tones.
+ “At your convenience, Mr.
+ Malfoy requests the favor of a conversation.”
+\end_layout
+
+\begin_layout Standard
+Harry did not choke on his breakfast cereal.
+ Instead he turned around and beheld Mr.
+ Crabbe.
+\end_layout
+
+\begin_layout Standard
+“Excuse 
+\emph on
+me,
+\emph default
+” said Harry.
+ “Don't you mean `Da boss wants ta talk wid youse?'”
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Crabbe didn't look happy.
+ “Mr.
+ Malfoy instructed me to speak properly.”
+\end_layout
+
+\begin_layout Standard
+“I can't hear you,” Harry said.
+ “You're not speaking properly.” He turned back to his bowl of tiny blue
+ crystal snowflakes and deliberately ate another spoonful.
+\end_layout
+
+\begin_layout Standard
+“Da boss wants to talk with youse,” came a threatening voice from behind
+ him.
+ “Ya'd better come see him if ya know what's good for ya.”
+\end_layout
+
+\begin_layout Standard
+There.
+ 
+\emph on
+Now
+\emph default
+ everything was going according to plan.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Act 1:
+\end_layout
+
+\begin_layout Standard
+“A 
+\emph on
+reason?
+\emph default
+” said the old wizard.
+ He restrained the fury from his face.
+ The boy before him had been the victim, and certainly did not need to be
+ frightened any further.
+ “There is 
+\emph on
+nothing
+\emph default
+ that can excuse 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“What I did to him was worse.”
+\end_layout
+
+\begin_layout Standard
+The old wizard stiffened in sudden horror.
+ “Harry, 
+\emph on
+what have you done?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“I tricked Draco into believing that I'd tricked him into participating
+ in a ritual that sacrificed his belief in blood purism.
+ And that meant he couldn't be a Death Eater when he grew up.
+ He'd lost everything, Headmaster.”
+\end_layout
+
+\begin_layout Standard
+There was a long quiet in the office, broken only by the tiny puffs and
+ whistles of the fiddly things, which after enough time had come to seem
+ like silence.
+\end_layout
+
+\begin_layout Standard
+“Dear me,” said the old wizard, “I 
+\emph on
+do
+\emph default
+ feel silly.
+ And 
+\emph on
+here
+\emph default
+ I was expecting you might try to redeem the heir of Malfoy by, say, 
+\emph on
+showing him true friendship and kindness
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Ha!
+\emph default
+ Yeah, like 
+\emph on
+that
+\emph default
+ would have worked.”
+\end_layout
+
+\begin_layout Standard
+The old wizard sighed.
+ This was taking it too far.
+ “Tell me, Harry.
+ Did it even 
+\emph on
+occur
+\emph default
+ to you that there was something 
+\emph on
+incongruous
+\emph default
+ about setting out to redeem someone through lies and trickery?”
+\end_layout
+
+\begin_layout Standard
+“I did it without telling any direct lies, and since we're talking about
+ Draco Malfoy here, I think the word you're looking for is 
+\emph on
+congruous
+\emph default
+.” The boy looked rather smug.
+\end_layout
+
+\begin_layout Standard
+The old wizard shook his head in despair.
+ “And 
+\emph on
+this
+\emph default
+ is the hero.
+ We're all doomed.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Act 5:
+\end_layout
+
+\begin_layout Standard
+The long, narrow tunnel of rough stone, unlit except by a child's wand,
+ seemed to stretch on for miles.
+\end_layout
+
+\begin_layout Standard
+The reason for this was simple: It 
+\emph on
+did
+\emph default
+ stretch on for miles.
+\end_layout
+
+\begin_layout Standard
+The time was three in the morning, and Fred and George were starting the
+ long way down the secret passage that led from a statue of a one-eyed witch
+ in Hogwarts, to the cellar of the Honeydukes candyshop in Hogsmeade.
+\end_layout
+
+\begin_layout Standard
+“How's it doing?” said Fred in a low voice.
+\end_layout
+
+\begin_layout Standard
+(Not that there'd be anyone listening, but there was something odd about
+ talking in a normal voice when you were going through a secret passage.)
+\end_layout
+
+\begin_layout Standard
+“Still on the fritz,” said George.
+\end_layout
+
+\begin_layout Standard
+“Both, or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Intermittent one fixed itself again.
+ Other one's same as ever.”
+\end_layout
+
+\begin_layout Standard
+The Map was an extraordinarily powerful artifact, capable of tracking every
+ sentient being on the school grounds, in real time, by name.
+ Almost certainly, it had been created during the original raising of Hogwarts.
+ It was 
+\emph on
+not good
+\emph default
+ that errors were starting to pop up.
+ Chances were that no one except Dumbledore could fix it if it was broken.
+\end_layout
+
+\begin_layout Standard
+And the Weasley twins weren't about to turn the Map over to Dumbledore.
+ It would have been an unforgivable insult to the Marauders 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ the four unknowns who'd managed to steal part of the 
+\emph on
+Hogwarts security system
+\emph default
+, something probably forged by Salazar Slytherin himself, and twist it into
+ 
+\emph on
+a tool for student pranking
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Some might have considered it disrespectful.
+\end_layout
+
+\begin_layout Standard
+Some might have considered it criminal.
+\end_layout
+
+\begin_layout Standard
+The Weasley twins firmly believed that if Godric Gryffindor had been around
+ to see it, he would have approved.
+\end_layout
+
+\begin_layout Standard
+The brothers walked on and on and on, mostly in silence.
+ The Weasley twins talked to each other when they were thinking through
+ new pranks, or when one of them knew something the other didn't.
+ Otherwise there wasn't much point.
+ If they already knew the same information, they tended to think the same
+ thoughts and make the same decisions.
+\end_layout
+
+\begin_layout Standard
+(Back in the old days, whenever magical identical twins were born, it had
+ been the custom to kill one of them after birth.)
+\end_layout
+
+\begin_layout Standard
+In time, Fred and George clambered out into a dusty cellar, strewn with
+ barrels and racks of strange ingredients.
+\end_layout
+
+\begin_layout Standard
+Fred and George waited.
+ It wouldn't have been polite to do anything else.
+\end_layout
+
+\begin_layout Standard
+Before too long a thin old man in black pajamas clambered down the steps
+ that led into the cellar, yawning.
+ “Hello, boys,” said Ambrosius Flume.
+ “I wasn't expecting you tonight.
+ Out of stock already?”
+\end_layout
+
+\begin_layout Standard
+Fred and George decided that Fred would speak.
+\end_layout
+
+\begin_layout Standard
+“Not exactly, Mr.
+ Flume,” said Fred.
+ “We were hoping you could help us with something considerably more… interesting.
+”
+\end_layout
+
+\begin_layout Standard
+“Now, boys,” said Flume, sounding severe, “I hope you didn't wake me up
+ just so I could tell you again that I'm not selling you any merchandise
+ that could get you into real trouble.
+ Not until you're sixteen, anyways 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+George drew forth an item from his robes, and wordlessly passed it to Flume.
+ “Have you seen this?” said Fred.
+\end_layout
+
+\begin_layout Standard
+Flume looked at yesterday's edition of the 
+\emph on
+Daily Prophet
+\emph default
+ and nodded, scowling.
+ The headline on the paper read THE NEXT DARK LORD? and showed a young boy
+ which some student's camera had managed to catch in an uncharacteristically
+ cold and grim expression.
+\end_layout
+
+\begin_layout Standard
+“I can't believe that Malfoy,” Flume snapped.
+ “Going after the boy when he's only eleven! The man ought to be ground
+ up and used to make chocolates!”
+\end_layout
+
+\begin_layout Standard
+Fred and George blinked in unison.
+ 
+\emph on
+Malfoy
+\emph default
+ was behind Rita Skeeter? Harry Potter hadn't warned them about that… which
+ surely meant that Harry didn't know.
+ He never would have brought them in if he did…
+\end_layout
+
+\begin_layout Standard
+Fred and George exchanged glances.
+ Well, Harry didn't 
+\emph on
+need
+\emph default
+ to know until after the job was done.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+ Flume,” Fred said quietly, “the Boy-Who-Lived needs your help.”
+\end_layout
+
+\begin_layout Standard
+Flume looked at them both.
+\end_layout
+
+\begin_layout Standard
+Then he let out his breath with a sigh.
+\end_layout
+
+\begin_layout Standard
+“All right,” said Flume, “what do you want?”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Act 6:
+\end_layout
+
+\begin_layout Standard
+When Rita Skeeter was intent on a tasty prey, she didn't tend to notice
+ the scurrying ants who constituted the rest of the universe, which was
+ how she almost bumped into the balding young man who'd stepped into her
+ pathway.
+\end_layout
+
+\begin_layout Standard
+“Miss Skeeter,” said the man, sounding rather severe and cold for someone
+ whose face looked that young.
+ “Fancy running into you here.”
+\end_layout
+
+\begin_layout Standard
+“Out of my way, buster!” snapped Rita, and tried to step around him.
+\end_layout
+
+\begin_layout Standard
+The man in her pathway matched the movement so perfectly that it was like
+ neither of them had moved at all, just stood still while the street shifted
+ around them.
+\end_layout
+
+\begin_layout Standard
+Rita's eyes narrowed.
+ “Who do you think you are?”
+\end_layout
+
+\begin_layout Standard
+“How very foolish,” the man said dryly.
+ “It would have been wise to memorize the face of the disguised Death Eater
+ training Harry Potter to be the next Dark Lord.
+ After all,” a thin smile, “
+\emph on
+that
+\emph default
+ certainly sounds like someone you wouldn't want to run into on the street,
+ especially after doing a hatchet job on him in the newspaper.”
+\end_layout
+
+\begin_layout Standard
+Rita took a moment to place the reference.
+ 
+\emph on
+This
+\emph default
+ was Quirinus Quirrell? He looked too young and too old at the same time;
+ his face, if it relaxed from its severe and condescending pose, would belong
+ to someone in his late thirties.
+ And his hair was already falling out? Couldn't he afford a healer?
+\end_layout
+
+\begin_layout Standard
+No, that wasn't important, she had a time and a place and a beetle to be.
+ She'd just received an anonymous tip about Madam Bones making time with
+ one of her younger assistants.
+ That would be worth quite a bonus if she could manage to verify it, Bones
+ was high on the hit list.
+ The tipster had said that Bones and her young assistant were due to eat
+ lunch in a special room at Mary's Place, a very popular room for certain
+ purposes; a room which, she'd found, was secure against all listening devices,
+ but not proof against a beautiful blue beetle nestled up against one wall…
+\end_layout
+
+\begin_layout Standard
+“Out of my 
+\emph on
+way!
+\emph default
+” Rita said, and tried to push Quirrell from her path.
+ Quirrell's arm brushed her own, deflecting, and Rita staggered as the thrust
+ went into the thin air.
+\end_layout
+
+\begin_layout Standard
+Quirrell pulled up the sleeve of his left robe, showing his left arm.
+ “Observe,” said Quirrell, “no Dark Mark.
+ I would like your paper to publish a retraction.”
+\end_layout
+
+\begin_layout Standard
+Rita let out an incredulous laugh.
+ Of course the man wasn't a real Death Eater.
+ The paper wouldn't have published it if he was.
+ “Forget it, buster.
+ Now take a hike.”
+\end_layout
+
+\begin_layout Standard
+Quirrell stared at her for a moment.
+\end_layout
+
+\begin_layout Standard
+Then he smiled.
+\end_layout
+
+\begin_layout Standard
+“Miss Skeeter,” said Quirrell, “I had hoped to find some lever that would
+ prove persuasive.
+ Yet I find that I cannot deny myself the pleasure of simply crushing you.”
+\end_layout
+
+\begin_layout Standard
+“It's been tried.
+ Now get out of my way, buster, or I'll find some Aurors and have you arrested
+ for obstruction of journalism.”
+\end_layout
+
+\begin_layout Standard
+Quirrell swept her a small bow, and then walked past.
+ “Goodbye, Rita Skeeter,” said his voice from behind her.
+\end_layout
+
+\begin_layout Standard
+As Rita bulled on ahead, she noted in the back of her mind that the man
+ was whistling a tune as he walked away.
+\end_layout
+
+\begin_layout Standard
+Like 
+\emph on
+that
+\emph default
+ would scare her.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Act 4:
+\end_layout
+
+\begin_layout Standard
+“Sorry, count me out,” said Lee Jordan.
+ “I'm more the giant spider type.”
+\end_layout
+
+\begin_layout Standard
+The Boy-Who-Lived had said that he had 
+\emph on
+important
+\emph default
+ work for the Order of Chaos, something serious and secret, more significant
+ and difficult than their usual run of pranks.
+\end_layout
+
+\begin_layout Standard
+And then Harry Potter had launched into a speech that was inspiring, yet
+ vague.
+ A speech to the effect that Fred and George and Lee had tremendous potential
+ if they could just learn to be 
+\emph on
+weirder.
+
+\emph default
+ To make people's lives 
+\emph on
+surreal,
+\emph default
+ instead of just surprising them with the equivalents of buckets of water
+ propped above doors.
+ (Fred and George had exchanged interested looks, they'd never thought of
+ that one.) Harry Potter had invoked a picture of the prank they'd pulled
+ on Neville 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ which, Harry had mentioned with some remorse, the Sorting Hat had chewed
+ him out on 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but which must have made Neville 
+\emph on
+doubt his own sanity.
+
+\emph default
+ For Neville it would have felt like being suddenly transported into an
+ alternate universe.
+ The same way everyone else had felt when they'd seen Snape apologize.
+ That was the 
+\emph on
+true power of pranking.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Are you with me?
+\emph default
+ Harry Potter had cried, and Lee Jordan had answered no.
+\end_layout
+
+\begin_layout Standard
+“Count us 
+\emph on
+in
+\emph default
+,” said Fred, or possibly George, for there was no doubt that Godric Gryffindor
+ would have said yes.
+\end_layout
+
+\begin_layout Standard
+Lee Jordan gave a regretful grin, and stood up, and left the deserted and
+ Quieted corridor where the four members of the Order of Chaos had met and
+ sat down in a conspiratorial circle.
+\end_layout
+
+\begin_layout Standard
+The three members of the Order of Chaos got down to business.
+\end_layout
+
+\begin_layout Standard
+(It wasn't 
+\emph on
+that
+\emph default
+ sad.
+ Fred and George would still work with Lee on giant spider pranks, same
+ as ever.
+ They'd only started calling it the Order of Chaos in order to recruit Harry
+ Potter, after Ron had told them about Harry being weird and evil, and Fred
+ and George had decided to save Harry by showing him true friendship and
+ kindness.
+ Thankfully this no longer seemed necessary 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ although they weren't 
+\emph on
+quite
+\emph default
+ sure about that…)
+\end_layout
+
+\begin_layout Standard
+“So,” said one of the twins, “what's this about?”
+\end_layout
+
+\begin_layout Standard
+“Rita Skeeter,” said Harry.
+ “Do you know who she is?”
+\end_layout
+
+\begin_layout Standard
+Fred and George nodded, frowning.
+\end_layout
+
+\begin_layout Standard
+“She's been asking questions about me.”
+\end_layout
+
+\begin_layout Standard
+That wasn't good news.
+\end_layout
+
+\begin_layout Standard
+“Can you guess what I want you to do?”
+\end_layout
+
+\begin_layout Standard
+Fred and George looked at each other, a bit puzzled.
+ “You want us to slip her some of our more interesting candies?”
+\end_layout
+
+\begin_layout Standard
+“No,” said Harry.
+ “No, no, 
+\emph on
+no!
+\emph default
+ That's giant-spider thinking! Come on, what would 
+\emph on
+you
+\emph default
+ do if you heard that Rita Skeeter was looking for rumors about 
+\emph on
+you?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+That made it obvious.
+\end_layout
+
+\begin_layout Standard
+Grins slowly started on the faces of Fred and George.
+\end_layout
+
+\begin_layout Standard
+“Start rumors about ourselves,” they replied.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Exactly,
+\emph default
+” said Harry, grinning widely.
+ “But these can't be just 
+\emph on
+any
+\emph default
+ rumors.
+ I want to teach people never to believe what the newspaper says about Harry
+ Potter, any more than Muggles believe what the newspaper says about Elvis.
+ At first I just thought about flooding Rita Skeeter with so many rumors
+ that she wouldn't know what to believe, but then she'll just cherry-pick
+ the ones that sound plausible and bad.
+ So what I want you to do is create a fake story about me, and get Rita
+ Skeeter to believe it somehow.
+ But it has to be something that, afterward, everyone will 
+\emph on
+know
+\emph default
+ was fake.
+ We want to fool Rita Skeeter and her editors, and 
+\emph on
+afterward
+\emph default
+ have the proof come out that it was false.
+ And of course 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ given that those are the requirements 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ the story has to be as 
+\emph on
+ridiculous
+\emph default
+ as it can possibly be, and still get printed.
+ Do you understand what I want you to do?”
+\end_layout
+
+\begin_layout Standard
+“Not exactly…” Fred or George said slowly.
+ “You want us to 
+\emph on
+invent
+\emph default
+ the story?”
+\end_layout
+
+\begin_layout Standard
+“I want you to do 
+\emph on
+all
+\emph default
+ of it,” Harry Potter said.
+ “I'm sort of busy right now, plus I want to be able to say truthfully that
+ I had no idea what was coming.
+ Surprise me.”
+\end_layout
+
+\begin_layout Standard
+For a moment there was a very evil grin on the faces of Fred and George.
+\end_layout
+
+\begin_layout Standard
+Then they turned serious.
+ “But Harry, we don't really know how to do anything like that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“So figure it out,” Harry said.
+ “I have confidence in you.
+ Not 
+\emph on
+total
+\emph default
+ confidence, but if you 
+\emph on
+can't
+\emph default
+ do it, 
+\emph on
+tell
+\emph default
+ me that, and I'll try someone else, or do it myself.
+ If you have a really good idea 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ for both the ridiculous story, and how to convince Rita Skeeter and her
+ editors to print it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ then you can go ahead and do it.
+ But don't go with something mediocre.
+ If you can't come up with something 
+\emph on
+awesome
+\emph default
+, just say so.”
+\end_layout
+
+\begin_layout Standard
+Fred and George exchanged worried glances.
+\end_layout
+
+\begin_layout Standard
+“I can't think of anything,” said George.
+\end_layout
+
+\begin_layout Standard
+“Neither can I,” said Fred.
+ “Sorry.”
+\end_layout
+
+\begin_layout Standard
+Harry stared at them.
+\end_layout
+
+\begin_layout Standard
+And then Harry began to explain how you went about thinking of things.
+\end_layout
+
+\begin_layout Standard
+It had been known to take longer than two seconds, said Harry.
+\end_layout
+
+\begin_layout Standard
+You 
+\emph on
+never
+\emph default
+ called 
+\emph on
+any
+\emph default
+ question impossible, said Harry, until you had taken an actual clock and
+ thought about it for five minutes, by the motion of the minute hand.
+ Not five minutes metaphorically, five minutes by a physical clock.
+\end_layout
+
+\begin_layout Standard
+And 
+\emph on
+furthermore,
+\emph default
+ Harry said, his voice emphatic and his right hand thumping hard on the
+ floor, you did 
+\emph on
+not
+\emph default
+ start out immediately looking for solutions.
+\end_layout
+
+\begin_layout Standard
+Harry then launched into an explanation of a test done by someone named
+ Norman Maier, who was something called an organizational psychologist,
+ and who'd asked two different sets of problem-solving groups to tackle
+ a problem.
+\end_layout
+
+\begin_layout Standard
+The problem, Harry said, had involved three employees doing three jobs.
+ The junior employee wanted to just do the easiest job.
+ The senior employee wanted to rotate between jobs, to avoid boredom.
+ An efficiency expert had recommended giving the junior person the easiest
+ job and the senior person the hardest job, which would be 20% more productive.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+One
+\emph default
+ set of problem-solving groups had been given the instruction “Do not propose
+ solutions until the problem has been discussed as thoroughly as possible
+ without suggesting any.”
+\end_layout
+
+\begin_layout Standard
+The other set of problem-solving groups had been given no instructions.
+ And those people had done the natural thing, and reacted to the presence
+ of a problem by proposing solutions.
+ And people had gotten attached to those solutions, and started fighting
+ about them, and arguing about the relative importance of freedom versus
+ efficiency and so on.
+\end_layout
+
+\begin_layout Standard
+The first set of problem-solving groups, the ones given instructions to
+ 
+\emph on
+discuss
+\emph default
+ the problem first and 
+\emph on
+then
+\emph default
+ solve it, had been far more likely to hit upon the solution of letting
+ the junior employee keep the easiest job and rotating the other two people
+ between the other two jobs, for what the expert's data said would be a
+ 19% improvement.
+\end_layout
+
+\begin_layout Standard
+Starting out by looking for solutions was taking things 
+\emph on
+entirely out of order.
+
+\emph default
+ Like starting a meal with dessert, only 
+\emph on
+bad.
+\end_layout
+
+\begin_layout Standard
+(Harry also quoted someone named Robyn Dawes as saying that the harder a
+ problem was, the more likely people were to try to solve it immediately.)
+\end_layout
+
+\begin_layout Standard
+So Harry was going to leave this problem to Fred and George, and they would
+ discuss all the aspects of it and brainstorm anything they thought might
+ be remotely relevant.
+ And they shouldn't try to come up with an actual solution until they'd
+ finished doing that, unless of course they 
+\emph on
+did
+\emph default
+ happen to randomly think of something awesome, in which case they could
+ write it down for afterward and then go back to thinking.
+ And he didn't want to hear back from them about any so-called 
+\emph on
+failures to think of anything
+\emph default
+ for at least a week.
+ Some people spent 
+\emph on
+decades
+\emph default
+ trying to think of things.
+\end_layout
+
+\begin_layout Standard
+“Any questions?” said Harry.
+\end_layout
+
+\begin_layout Standard
+Fred and George stared at each other.
+\end_layout
+
+\begin_layout Standard
+“I can't think of any.”
+\end_layout
+
+\begin_layout Standard
+“Neither can I.”
+\end_layout
+
+\begin_layout Standard
+Harry coughed gently.
+ “You didn't ask about your budget.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Budget?
+\emph default
+ they thought.
+\end_layout
+
+\begin_layout Standard
+“I could just tell you the amount,” Harry said.
+ “But I think 
+\emph on
+this
+\emph default
+ will be more 
+\emph on
+inspiring
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Harry's hands dipped into his robe, and brought forth 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Fred and George almost fell over, even though they were sitting down.
+\end_layout
+
+\begin_layout Standard
+“Don't spend it for the sake of spending it,” Harry said.
+ On the stone floor in front of them gleamed an absolutely ridiculous amount
+ of money.
+ “Only spend it if awesomeness requires; and what awesomeness does require,
+ don't hesitate to spend.
+ If there's anything left over, just return it afterward, I trust you.
+ Oh, and you get ten percent of what's there, regardless of how much you
+ end up spending 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“We 
+\emph on
+can't!
+\emph default
+” blurted one of the twins.
+ “We don't accept money for that sort of thing!”
+\end_layout
+
+\begin_layout Standard
+(The twins never took money for doing anything illegal.
+ Unknown to Ambrosius Flume, they were selling all of his merchandise at
+ zero percent markup.
+ Fred and George wanted to be able to testify 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ under Veritaserum if necessary 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that they had not been profiteering criminals, just providing a public
+ service.)
+\end_layout
+
+\begin_layout Standard
+Harry frowned at them.
+ “But I'm asking you to put in some real work here.
+ A grownup would get paid for doing something like this, and it would 
+\emph on
+still
+\emph default
+ count as a favor for a friend.
+ You can't just hire people for this sort of thing.”
+\end_layout
+
+\begin_layout Standard
+Fred and George shook their heads.
+\end_layout
+
+\begin_layout Standard
+“Fine,” Harry said.
+ “I'll just get you expensive Christmas presents, and if you try returning
+ them to me I'll burn them.
+ Now you don't even 
+\emph on
+know
+\emph default
+ how much I'm going to spend on you, except, obviously, that it's going
+ to be more than if you'd just taken the money.
+ And I'm going to buy you those presents 
+\emph on
+anyway,
+\emph default
+ so think about 
+\emph on
+that
+\emph default
+ before you tell me 
+\emph on
+you can't think of anything awesome
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Harry stood up, smiling, and turned to go while Fred and George were still
+ gaping in shock.
+ He strode a few steps away, and then turned back.
+\end_layout
+
+\begin_layout Standard
+“Oh, one last thing,” Harry said.
+ “Leave Professor Quirrell out of whatever you do.
+ He doesn't like publicity.
+ I know it'd be easier to get people to believe weird things about the Defense
+ Professor than anyone else, and I'm sorry to have to get in your way like
+ that, but please, leave Professor Quirrell out of it.”
+\end_layout
+
+\begin_layout Standard
+And Harry turned again and took a few more steps 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Looked back one last time, and said, softly, “Thank you.”
+\end_layout
+
+\begin_layout Standard
+And left.
+\end_layout
+
+\begin_layout Standard
+There was a long pause after he'd departed.
+\end_layout
+
+\begin_layout Standard
+“So,” said one.
+\end_layout
+
+\begin_layout Standard
+“So,” said the other.
+\end_layout
+
+\begin_layout Standard
+“The Defense Professor doesn't like publicity, does he.”
+\end_layout
+
+\begin_layout Standard
+“Harry doesn't know us very well, does he.”
+\end_layout
+
+\begin_layout Standard
+“No, he doesn't.”
+\end_layout
+
+\begin_layout Standard
+“But we won't use his money for that, of course.”
+\end_layout
+
+\begin_layout Standard
+“Of course not, that wouldn't be right.
+ We'll do the Defense Professor separately.”
+\end_layout
+
+\begin_layout Standard
+“We'll get some Gryffindors to write Skeeter, and say…”
+\end_layout
+
+\begin_layout Standard
+“…his sleeve lifted up one time in Defense class, and they saw the Dark
+ Mark…”
+\end_layout
+
+\begin_layout Standard
+“…and he's probably teaching Harry Potter all sorts of dreadful things…”
+\end_layout
+
+\begin_layout Standard
+“…and he's the worst Defense Professor anyone remembers even in Hogwarts,
+ he's not just 
+\emph on
+failing
+\emph default
+ to teach us, he's getting everything wrong, the complete opposite of what
+ it should be…”
+\end_layout
+
+\begin_layout Standard
+“…like when he claimed that you could only cast the Killing Curse using
+ love, which made it pretty much useless.”
+\end_layout
+
+\begin_layout Standard
+“I like that one.”
+\end_layout
+
+\begin_layout Standard
+“Thanks.”
+\end_layout
+
+\begin_layout Standard
+“I bet the Defense Professor likes it too.”
+\end_layout
+
+\begin_layout Standard
+“He does have a sense of humor.
+ He wouldn't have called us what he did if he didn't have a sense of humor.”
+\end_layout
+
+\begin_layout Standard
+“But are we really going to be able to do Harry's job?”
+\end_layout
+
+\begin_layout Standard
+“Harry said to discuss the problem before trying to solve it, so let's do
+ that.”
+\end_layout
+
+\begin_layout Standard
+The Weasley twins decided that George would be the enthusiastic one while
+ Fred doubted.
+\end_layout
+
+\begin_layout Standard
+“It all seems sort of contradictory,” said Fred.
+ “He wants it to be ridiculous enough that everyone laughs at Skeeter and
+ knows it's wrong, and he wants Skeeter to believe it.
+ We can't do both things at the same time.”
+\end_layout
+
+\begin_layout Standard
+“We'll have to fake up some evidence to convince Skeeter,” said George.
+\end_layout
+
+\begin_layout Standard
+“Was that a solution?” said Fred.
+\end_layout
+
+\begin_layout Standard
+They considered this.
+\end_layout
+
+\begin_layout Standard
+“Maybe,” said George, “but I don't think we should be all 
+\emph on
+that
+\emph default
+ strict about it, do you?”
+\end_layout
+
+\begin_layout Standard
+The twins shrugged helplessly.
+\end_layout
+
+\begin_layout Standard
+“So then the fake evidence has to be good enough to convince Skeeter,” said
+ Fred.
+ “Can we really do that on our own?”
+\end_layout
+
+\begin_layout Standard
+“We don't have to do it on our own,” said George, and pointed to the pile
+ of money.
+ “We can hire other people to help us.”
+\end_layout
+
+\begin_layout Standard
+The twins got a thoughtful look on their face.
+\end_layout
+
+\begin_layout Standard
+“That could use up Harry's budget pretty fast,” said Fred.
+ “This is a lot of money for us, but it's not a lot of money for someone
+ like Flume.”
+\end_layout
+
+\begin_layout Standard
+“Maybe people will give discounts if they know it's for Harry,” said George.
+ “But most importantly of all, whatever we do, it has to be 
+\emph on
+impossible
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Fred blinked.
+ “What do you mean, 
+\emph on
+impossible?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“So impossible that we don't get in trouble, because no one believes we
+ could have done it.
+ So impossible that even Harry starts wondering.
+ It has to be surreal, it has to make people doubt their own sanity, it
+ has to be… 
+\emph on
+better than Harry.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+Fred's eyes were wide in astonishment.
+ This happened sometimes, between them, but not often.
+ “But why?”
+\end_layout
+
+\begin_layout Standard
+“They were pranks.
+ They were 
+\emph on
+all
+\emph default
+ pranks.
+ The pie was a prank.
+ The Remembrall was a prank.
+ Kevin Entwhistle's cat was a prank.
+ 
+\emph on
+Snape
+\emph default
+ was a prank.
+ 
+\emph on
+We're
+\emph default
+ the best pranksters in Hogwarts, are we going to roll over and give up
+ without a fight?”
+\end_layout
+
+\begin_layout Standard
+“He's the Boy-Who-Lived,” said Fred.
+\end_layout
+
+\begin_layout Standard
+“And 
+\emph on
+we're
+\emph default
+ the Weasley twins! He's 
+\emph on
+challenging
+\emph default
+ us.
+ He said we could do what he does.
+ But I bet he doesn't think we'll ever be as good as 
+\emph on
+him.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“He's right,” said Fred, feeling rather nervous.
+ The Weasley twins did 
+\emph on
+sometimes
+\emph default
+ disagree even when they had all the same information, but every time they
+ did it seemed unnatural, like at least one of them must be doing something
+ wrong.
+ “This is 
+\emph on
+Harry Potter
+\emph default
+ we're talking about.
+ He can do the impossible.
+ We can't.”
+\end_layout
+
+\begin_layout Standard
+“Yes we can,” said George.
+ “And we have to be 
+\emph on
+more
+\emph default
+ impossible than him.”
+\end_layout
+
+\begin_layout Standard
+“But 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said Fred.
+\end_layout
+
+\begin_layout Standard
+“It's what Godric Gryffindor would do,” said George.
+\end_layout
+
+\begin_layout Standard
+That settled it, and the twins snapped back into… whatever it was that was
+ normal for them.
+\end_layout
+
+\begin_layout Standard
+“All right, then 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ let's think about it.”
+\end_layout
+
+\end_body
+\end_document

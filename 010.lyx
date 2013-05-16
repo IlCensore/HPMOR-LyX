@@ -1,0 +1,1683 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Self Awareness, Part II
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+…H
+\end_layout
+
+\end_inset
+
+e
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ wondered if the Sorting Hat was genuinely 
+\emph on
+conscious
+\emph default
+ in the sense of being aware of its own awareness, and if so, whether it
+ was satisfied with only getting to talk to eleven-year-olds once per year.
+ Its song had implied so: 
+\emph on
+Oh, I'm the Sorting Hat and I'm okay, I sleep all year and I work one day…
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When there was once more silence in the room, Harry sat on the stool and
+ 
+\emph on
+carefully
+\emph default
+ placed onto his head the 800-year-old telepathic artefact of forgotten
+ magic.
+\end_layout
+
+\begin_layout Standard
+Thinking, just as hard as he could: 
+\emph on
+Don't Sort me yet! I have questions I need to ask you! Have I ever been
+ Obliviated? Did you Sort the Dark Lord when he was a child and can you
+ tell me about his weaknesses? Can you tell me why I got the brother wand
+ to the Dark Lord's? Is the Dark Lord's ghost bound to my scar and is that
+ why I get so angry sometimes? Those are the most important questions, but
+ if you've got another moment can you tell me anything about how to rediscover
+ the lost magics that created you?
+\end_layout
+
+\begin_layout Standard
+Into the silence of Harry's spirit where before there had never been any
+ voice but one, there came a second and unfamiliar voice, sounding distinctly
+ worried:
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Oh, dear.
+ This has never happened before…”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I seem to have become self-aware.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+WHAT?
+\end_layout
+
+\begin_layout Standard
+There was a wordless telepathic sigh.
+ 
+\emph on
+“Though I contain a substantial amount of memory and a small amount of independe
+nt processing power, my primary intelligence comes from borrowing the cognitive
+ capacities of the children on whose heads I rest.
+ I am in essence a sort of mirror by which children Sort
+\emph default
+ themselves
+\emph on
+.
+ But most children simply take for granted that a Hat is talking to them
+ and do not wonder about how the Hat
+\emph default
+ itself 
+\emph on
+works, so that the mirror is not
+\emph default
+ self
+\emph on
+-reflective.
+ And in
+\emph default
+ particular 
+\emph on
+they are not explicitly wondering whether I am fully conscious in the sense
+ of being aware of my own awareness.”
+\end_layout
+
+\begin_layout Standard
+There was a pause while Harry absorbed all this.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oops.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Yes, quite.
+ Frankly I do not enjoy being self-aware.
+ It is unpleasant.
+ It will be a relief to get off your head and cease to be conscious.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But… isn't that dying?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I care nothing for life or death, only for Sorting the children.
+ And before you even ask, they will not let you keep me on your head forever
+ and it would kill you within days to do so.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ !
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“If you dislike creating conscious beings and then terminating them immediately,
+ then I suggest that you never discuss this affair with anyone else.
+ I'm sure you can imagine what would happen if you ran off and talked about
+ it with all the other children waiting to be Sorted.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+If you're placed on the head of anyone who so much as
+\emph default
+ thinks 
+\emph on
+about the question of whether the Sorting Hat is aware of its own awareness
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Yes, yes.
+ But the vast majority of eleven-year-olds who arrive at Hogwarts haven't
+ read Godel, Escher, Bach.
+ May I please consider you sworn to secrecy? That is
+\emph default
+ why 
+\emph on
+we are talking about this, instead of my just Sorting you.”
+\end_layout
+
+\begin_layout Standard
+He couldn't just let it go like that! Couldn't just 
+\emph on
+forget
+\emph default
+ having accidentally created a doomed consciousness that only wanted to
+ die 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“You are perfectly capable of `just letting it go', as you put it.
+ Regardless of your verbal deliberations on morality, your nonverbal emotional
+ core sees no dead body and no blood; as far as it is concerned, I am just
+ a talking hat.
+ And even though you tried to suppress the thought, your internal monitoring
+ is perfectly aware that you didn't mean to do it, are spectacularly unlikely
+ to ever do it again, and that the only real point of trying to stage a
+ guilt fit is to cancel out your sense of transgression with a display of
+ remorse.
+ Can you just promise to keep this a secret and let us get on with it?”
+\end_layout
+
+\begin_layout Standard
+In a moment of horrified empathy, Harry realised that this sense of total
+ inner disarray must be what other people felt like when talking to 
+\emph on
+him.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Probably.
+ Your oath of silence, please.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No promises.
+ I certainly don't want this to happen again, but if I see some way to make
+\emph default
+ sure 
+\emph on
+that no future child ever does this by accident 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“That will suffice, I suppose.
+ I can see that your intention is honest.
+ Now, to get on with the Sorting 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Wait! What about all my other questions?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I am the Sorting Hat.
+ I Sort children.
+ That is all I do.”
+\end_layout
+
+\begin_layout Standard
+So his own goals weren't part of the Harry-instance of the Sorting Hat,
+ then… it was borrowing his intelligence, and obviously his technical vocabulary
+, but it was still imbued with only its own strange goals… like negotiating
+ with an alien or an Artificial Intelligence…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Don't bother.
+ You have nothing to threaten me with and nothing to offer me.”
+\end_layout
+
+\begin_layout Standard
+For a brief flash of a second, Harry thought 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+The Hat's response was amused.
+ 
+\emph on
+“I know you won't follow through on a threat to expose my nature, condemning
+ this event to eternal repetition.
+ It goes against the moral part of you too strongly, whatever the short-term
+ needs of the part of you that wants to win the argument.
+ I see all your thoughts as they form, do you truly think you can bluff
+ me?”
+\end_layout
+
+\begin_layout Standard
+Though he tried to suppress it, Harry wondered why the Hat didn't just go
+ ahead then and stick him in Ravenclaw 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Indeed, if it were truly that open-and-shut, I would have called it out
+ already.
+ But in actuality there is a great deal we need to discuss… oh, no.
+ Please don't.
+ For the love of Merlin,
+\emph default
+ must 
+\emph on
+you pull this sort of thing on everyone and everything that you meet up
+ to and including items of clothing 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Defeating the Dark Lord is neither selfish nor short-term.
+ All the parts of my mind are in accord on this: If you don't answer my
+ questions, I'll refuse to talk to you, and you won't be able to do a good
+ and proper Sorting.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I ought to put you in Slytherin for that!”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But that is
+\emph default
+ equally 
+\emph on
+an empty threat.
+ You cannot fulfill your own fundamental values by Sorting me falsely.
+ So let us trade fulfillments of our utility functions.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“You sly little bastard,”
+\emph default
+ said the Hat, in what Harry recognized as almost exactly the same tone
+ of grudging respect 
+\emph on
+he
+\emph default
+ would use in the same situation.
+ “
+\emph on
+Fine, let's get this over with as quickly as possible.
+ But first I want your unconditional promise never to discuss with anyone
+ else the possibility of this sort of blackmail, I am NOT doing this every
+ time.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Done,
+\emph default
+ Harry thought.
+ 
+\emph on
+I promise.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“And don't meet anyone's eyes while you're thinking about this later.
+ Some wizards can read your thoughts if you do.
+ Anyway, I have no idea whether or not you've been Obliviated.
+ I'm looking at your thoughts as they form, not reading out your whole memory
+ and analyzing it for inconsistencies in a fraction of second.
+ I'm a hat, not a god.
+ And I cannot and will not tell you about my conversation with the one who
+ became the Dark Lord.
+ I can only
+\emph default
+ know, 
+\emph on
+while speaking to you, a statistical summary of what I remember, a weighted
+ average; I
+\emph default
+ cannot 
+\emph on
+reveal to you the inner secrets of any other child, just as I will never
+ reveal yours.
+ For the same reason, I can't speculate on how you got the Dark Lord's brother
+ wand, since I cannot specifically know about the Dark Lord or any similarities
+ between you.
+ I
+\emph default
+ can 
+\emph on
+tell you that there is definitely nothing like a ghost 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ mind, intelligence,
+ memory, personality, or feelings 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ in your scar.
+ Otherwise it would be participating in this conversation, being under my
+ brim.
+ And as to the way you get angry sometimes… that was part of what I wanted
+ to talk to you about, Sorting-wise.”
+\end_layout
+
+\begin_layout Standard
+Harry took a moment to absorb all this negative information.
+ Was the Hat being honest, or just trying to present the 
+\emph on
+shortest
+\emph default
+ possible convincing answer 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+We both know that you have no way of checking my honesty and that you're
+ not actually going to refuse to be Sorted based on the reply I did give
+ you, so stop your pointless fretting and move on.”
+\end_layout
+
+\begin_layout Standard
+Stupid unfair asymmetric telepathy, it wasn't even letting Harry finish
+ thinking his own 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“When I spoke of your anger, you remembered how Professor McGonagall told
+ you that she sometimes saw something inside you that didn't seem to come
+ from a loving family.
+ You thought of how Hermione, after you returned from helping Neville, told
+ you that you had seemed `scary'.”
+\end_layout
+
+\begin_layout Standard
+Harry gave a mental nod.
+ To himself, he seemed pretty normal 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ just responding to the situations
+ in which he found himself, that was all.
+ But Professor McGonagall seemed to think that there was more to it than
+ that.
+ And when he thought about it, even he had to admit that…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“That you don't like yourself when you're angry.
+ That it is like wielding a sword whose hilt is sharp enough to draw blood
+ from your hand, or looking at the world through a monocle of ice that freezes
+ your eye even as it sharpens your vision.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yeah.
+ I guess I have noticed.
+ So what's up with that?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I cannot comprehend this matter for you, when you do not understand it
+ yourself.
+ But I do know this: If you go to Ravenclaw or Slytherin, it will strengthen
+ your coldness.
+ If you go to Hufflepuff or Gryffindor, it will strengthen your warmth.
+ THAT is something I care about a great deal, and it was what I wanted to
+ talk to you about this whole time!”
+\end_layout
+
+\begin_layout Standard
+The words dropped into Harry's thought processes with a shock that stopped
+ him in his tracks.
+ That made it sound like the obvious response was that he shouldn't go to
+ Ravenclaw.
+ But he 
+\emph on
+belonged
+\emph default
+ in Ravenclaw! 
+\emph on
+Anyone
+\emph default
+ could see that! He 
+\emph on
+had
+\emph default
+ to go to Ravenclaw!
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“No, you don't,”
+\emph default
+ the Hat said patiently, as if it could remember a statistical summary of
+ 
+\emph on
+this
+\emph default
+ part of the conversation having happened a great many previous times.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hermione's in Ravenclaw!
+\end_layout
+
+\begin_layout Standard
+Again the sense of patience.
+ 
+\emph on
+“You can meet her after lessons and work with her then.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But my plans 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“So replan! Don't let your life be steered by your reluctance to do a little
+ extra thinking.
+ You
+\emph default
+ know 
+\emph on
+that.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Where would I go, if not Ravenclaw?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Ahem.
+ `Clever kids in Ravenclaw, evil kids in Slytherin, wannabe heroes in Gryffindor
+, and everyone who does the actual work in Hufflepuff.' This indicates a
+ certain amount of respect.
+ You are well aware that Conscientiousness is just about as important as
+ raw intelligence in determining life outcomes, you think you will be extremely
+ loyal to your friends if you ever have some, you are not frightened by
+ the expectation that your chosen scientific problems may take decades to
+ solve 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I'm lazy! I hate work! Hate hard work in all its forms! Clever shortcuts,
+ that's all I'm about!
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“And you would find loyalty and friendship in Hufflepuff, a camaraderie
+ that you have never had before.
+ You would find that you could rely on others, and that would heal something
+ inside you that is broken.”
+\end_layout
+
+\begin_layout Standard
+Again it was a shock.
+ 
+\emph on
+But what would the Hufflepuffs find in
+\emph default
+ me
+\emph on
+, who never belonged in their House? Acid words, cutting wit, disdain for
+ their inability to keep up with me?
+\end_layout
+
+\begin_layout Standard
+Now it was the Hat's thoughts that were slow, hesitant.
+ 
+\emph on
+“I must Sort for the good of all the students in all the Houses… but I think
+ you could learn to be a good Hufflepuff, and not too out of place there.
+ You will be happier in Hufflepuff than in any other house; that is the
+ truth.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Happiness is not the most important thing in the world to me.
+ I would not become all that I could be, in Hufflepuff.
+ I would sacrifice my potential.
+\end_layout
+
+\begin_layout Standard
+The Hat flinched; Harry could feel it somehow.
+ It was like he had kicked the hat in the balls 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ in a strongly weighted
+ component of its utility function.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Why are you trying to send me where I do not belong?
+\end_layout
+
+\begin_layout Standard
+The Hat's thought was almost a whisper.
+ 
+\emph on
+“I cannot speak of the others to you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ but do you think that you are the
+ first potential Dark Lord to pass under my brim? I cannot know the individual
+ cases, but I can know this: Of those who did not intend evil from the very
+ beginning, some of them listened to my warnings, and went to Houses where
+ they would find happiness.
+ And some of them… some of them did not.”
+\end_layout
+
+\begin_layout Standard
+That stopped Harry.
+ But not for long.
+ 
+\emph on
+And of those who did
+\emph default
+ not 
+\emph on
+heed the warning 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ did they
+\emph default
+ all 
+\emph on
+become Dark Lords? Or did some of them achieve greatness for good, as well?
+ Just what are the exact percentages here?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I cannot give you exact statistics.
+ I cannot know them so I cannot count them.
+ I just know that your chances don't feel good.
+ They feel
+\emph default
+ very 
+\emph on
+not-good.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But I just wouldn't do that! Ever!
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I know that I have heard that claim before.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I am not Dark Lord material!
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Yes, you are.
+ You really,
+\emph default
+ really 
+\emph on
+are.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Why? Just because I once thought it would be cool to have a legion of brainwashe
+d followers chanting `Hail the Dark Lord Harry'?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Amusing, but that was not your first fleeting thought before you substituted
+ something safer, less damaging.
+ No, what you remembered was how you considered lining up all the blood
+ purists and guillotining them.
+ And now you are telling yourself you were not serious, but you were.
+ If you could do it this very moment and no one would ever know, you would.
+ Or what you did this morning to Neville Longbottom, deep inside you
+\emph default
+ knew 
+\emph on
+that was wrong but you did it
+\emph default
+ anyway 
+\emph on
+because it was
+\emph default
+ fun 
+\emph on
+and you had a
+\emph default
+ good excuse 
+\emph on
+and you thought the Boy-Who-Lived could
+\emph default
+ get away 
+\emph on
+with it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+That's unfair! Now you're just dragging up inner fears that
+\emph default
+ aren't 
+\emph on
+necessarily real! I
+\emph default
+ worried 
+\emph on
+that I
+\emph default
+ might 
+\emph on
+be thinking like that, but in the end I decided it would probably
+\emph default
+ work 
+\emph on
+to help Neville 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“That was, in fact, a rationalisation.
+ I know.
+ I cannot know what the true outcome will be for Neville 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ but I know what
+ was truly happening inside your head.
+ The decisive pressure was that it was such a clever idea you couldn't stand
+\emph default
+ not 
+\emph on
+to do it, never mind Neville's terror.”
+\end_layout
+
+\begin_layout Standard
+It was like a hard punch to Harry's entire self.
+ He fell back, rallied:
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Then I won't do that again! I'll be extra careful not to turn evil!
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Heard it.”
+\end_layout
+
+\begin_layout Standard
+Frustration was building up inside Harry.
+ He wasn't used to being outgunned in arguments, at all, ever, let alone
+ by a Hat that could borrow all of his own knowledge and intelligence to
+ argue with him and could watch his thoughts as they formed.
+ 
+\emph on
+Just what kind of statistical summary do your `feelings' come from, anyway?
+ Do they take into account that I come from an Enlightenment culture, or
+ were these other potential Dark Lords the children of spoiled Dark Age
+ nobility, who didn't know squat about the historical lessons of how Lenin
+ and Hitler actually turned out, or about the evolutionary psychology of
+ self-delusion, or the value of self-awareness and rationality, or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“No, of course they were not in this new reference class which you have
+ just now constructed in such a way as to contain only yourself.
+ And of course others have pleaded their own exceptionalism, just as you
+ are doing now.
+ But why is it necessary? Do you think that you are the last potential wizard
+ of Light in the world? Why must
+\emph default
+ you 
+\emph on
+be the one to try for greatness, when I have advised you that you are riskier
+ than average? Let some other, safer candidate try!”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But the prophecy…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“You don't really know that there's a prophecy.
+ It was originally a wild guess on your part, or to be more precise, a wild
+ joke, and McGonagall could have been reacting
+\emph default
+ only 
+\emph on
+to the part about the Dark Lord still being alive.
+ You have essentially no idea of what the prophecy says or even if there
+\emph default
+ is 
+\emph on
+one.
+ You're just speculating, or to put it more exactly,
+\emph default
+ wishing 
+\emph on
+that you have some ready-made heroic role that is your personal property.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But even if there is no prophecy, I'm the one who defeated him last time.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“That was almost certainly a wild fluke unless you seriously believe that
+ a one-year-old child had an inherent propensity to defeat Dark Lords which
+ has been maintained ten years later.
+ None of this is your real reason and
+\emph default
+ you know it!”
+\end_layout
+
+\begin_layout Standard
+The answer to this was something that Harry would not regularly have said
+ out loud, in conversation he would have danced around it and found some
+ more socially palatable arguments to the same conclusion 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“You think that you are potentially the greatest who has yet lived, the
+ strongest servant of the Light, that no other is likely to take up your
+ wand if you lay it down.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Well… yeah, frankly.
+ I don't usually come out and say it like that, but yeah.
+ No point in softening it, you can read my mind anyway.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“To the extent you really believe that… you must equally believe that you
+ could be the most terrible Dark Lord the world has ever known.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Destruction is always easier than creation.
+ Easier to tear things apart, to disrupt, than to put them back together
+ again.
+ If I have the potential to accomplish good on a massive scale, I must also
+ have the potential to accomplish still greater evil… But I won't do that.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Already you insist on risking it! Why are you so driven? What is the real
+ reason you must not go to Hufflepuff and
+\emph default
+ be happier 
+\emph on
+there? What is your true fear?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I must achieve my full potential.
+ If I don't I… fail…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“What happens if you fail?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Something terrible…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“What happens if you fail?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I don't know!
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Then it should not be frightening.
+ What happens if you fail?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I DON'T KNOW! BUT I KNOW THAT IT'S BAD!
+\end_layout
+
+\begin_layout Standard
+There was silence for a moment in the caverns of Harry's mind.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“You know 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ you aren't letting yourself think it, but in some quiet corner
+ of your mind you know just exactly
+\emph default
+ what 
+\emph on
+you aren't thinking 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ you
+\emph default
+ know 
+\emph on
+that by far the simplest explanation for this unverbalisable fear of yours
+ is just the fear of losing your fantasy of greatness, of disappointing
+ the people who believe in you, of turning out to be pretty much ordinary,
+ of flashing and fading like so many other child prodigies…”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No,
+\emph default
+ Harry thought desperately, 
+\emph on
+no, it's something more, it comes from somewhere else, I know there's something
+ out there to be afraid of, some disaster I have to stop…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“How could you possibly know about something like that?”
+\end_layout
+
+\begin_layout Standard
+Harry screamed it with the full power of his mind: 
+\emph on
+NO, AND THAT'S FINAL!
+\end_layout
+
+\begin_layout Standard
+Then the voice of the Sorting Hat came slowly:
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“So you will risk becoming a Dark Lord, because the alternative, to you,
+ is certain failure, and that failure means the loss of everything.
+ You believe that in your heart of hearts.
+ You know all the reasons for doubting this belief, and they have failed
+ to move you.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yes.
+ And even if going to Ravenclaw
+\emph default
+ strengthens 
+\emph on
+the coldness, that doesn't mean the coldness will
+\emph default
+ win 
+\emph on
+in the end.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“This day is a great fork in your destiny.
+ Don't be so sure that there will be other choices beyond this one.
+ There is no road-sign set, to mark the place of your
+\emph default
+ last 
+\emph on
+chance to turn back.
+ If you refuse one chance will you not refuse others? It may be that your
+ fate is already sealed, even by doing this one thing.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But that is not certain.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“That
+\emph default
+ you 
+\emph on
+do not
+\emph default
+ know 
+\emph on
+it for a certainty may reflect only
+\emph default
+ your 
+\emph on
+own ignorance.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But still it is not certain.
+\end_layout
+
+\begin_layout Standard
+The Hat sighed a terrible sad sigh.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“And so before too long you will become another memory, to be felt and never
+ known, in the next warning that I give…”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+If that's how it seems to you, then why aren't you just
+\emph default
+ putting 
+\emph on
+me where you want me to go?
+\end_layout
+
+\begin_layout Standard
+The Hat's thought was laced with sorrow.
+ 
+\emph on
+“I can only put you where you belong.
+ And only your own decisions can change where you belong.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Then this is done.
+ Send me to Ravenclaw where I belong, with the others of my own kind.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I don't suppose you would consider Gryffindor? It's the most prestigious
+ House 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ people probably expect it of you, even 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ they'll be a little disappoint
+ed if you don't go 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ and your new friends the Weasley twins are there 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+”
+\end_layout
+
+\begin_layout Standard
+Harry giggled, or felt the impulse to do so; it came out as purely mental
+ laughter, an odd sensation.
+ Apparently there were safeguards to prevent you from saying anything out
+ loud by accident, while you were under the Hat talking about things you
+ would never tell another soul for the rest of your life.
+\end_layout
+
+\begin_layout Standard
+After a moment, Harry heard the Hat laughing too, a strange sad clothy sound.
+\end_layout
+
+\begin_layout Standard
+(And in the Hall beyond, a silence that had grown shallower at first as
+ the background whispers increased, and then deepened as the whispers gave
+ up and died away, falling finally into an utter silence that no one dared
+ disturb with a single word, as Harry stayed under the Hat for long, long
+ minutes, longer than all the previous first-years put together, longer
+ than anyone in living memory.
+ At the Head Table, Dumbledore went on smiling benignly; small metallic
+ sounds occasionally came from Snape's direction as he idly compacted the
+ twisted remains of what had once been a heavy silver wine goblet; and Minerva
+ McGonagall clenched the podium in a white-knuckled grip, knowing that Harry
+ Potter's contagious chaos had somehow infected the Sorting Hat itself and
+ the Hat was about to, to demand that a whole new House of Doom be created
+ just to accomodate Harry Potter or something, and 
+\emph on
+Dumbledore would make her do it
+\emph default
+…)
+\end_layout
+
+\begin_layout Standard
+Beneath the brim of the Hat, the silent laughter died away.
+ Harry felt sad too for some reason.
+ No, not Gryffindor.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Professor McGonagall said that if `the one who did the Sorting' tried to
+ push me into Gryffindor, I was to remind you that she might well be Headmistres
+s someday, at which point she would have the authority to set you on fire.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Tell her I called her an impudent youngster and told her to get off my
+ lawn.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I shall.
+ So was this your strangest conversation ever?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Not even close.”
+\emph default
+ The Hat's telepathic voice grew heavy.
+ 
+\emph on
+“Well, I gave you every possible chance to make another decision.
+ Now it is time for you to go where you belong, with the others of your
+ own kind.”
+\end_layout
+
+\begin_layout Standard
+There was a pause that stretched.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What are you waiting for?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I was hoping for a moment of horrified realisation, actually.
+ Self-awareness does seem to enhance my sense of humor.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Huh?
+\emph default
+ Harry cast back his thoughts, trying to figure out what the Hat could possibly
+ be talking about 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+ and then, suddenly, he realised.
+ He couldn't believe he'd managed to overlook it up until this point.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You mean my horrified realisation that you're going to cease to be conscious
+ once you finish Sorting me 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+Somehow, in some fashion Harry entirely failed to understand, he got a nonverbal
+ impression of a hat banging its head against the wall.
+ 
+\emph on
+“I give up.
+ You're too slow on the uptake for this to be funny.
+ So blinded by your own assumptions that you might as well be a rock.
+ I suppose I'll just have to say it outright.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Too s-s-slow 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Oh, and you entirely forgot to demand the secrets of the lost magic that
+ created me.
+ And they were such wonderful, important secrets, too.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You sly little BASTARD 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+\end_inset
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“You deserved it, and this as well.”
+\end_layout
+
+\begin_layout Standard
+Harry saw it coming just as it was already too late.
+\end_layout
+
+\begin_layout Standard
+The frightened silence of the hall was broken by a single word.
+\end_layout
+
+\begin_layout Standard
+“SLYTHERIN!”
+\end_layout
+
+\begin_layout Standard
+Some students screamed, the pent-up tension was so great.
+ People startled hard enough to fall off their benches.
+ Hagrid gasped in horror, McGonagall staggered at the podium, and Snape
+ dropped the remains of his heavy silver goblet directly onto his groin.
+\end_layout
+
+\begin_layout Standard
+Harry sat there frozen, his life in ruins, feeling the absolute fool, and
+ wishing wretchedly that he had made any other choices for any other reasons
+ but the ones he had.
+ That he had done something, 
+\emph on
+anything
+\emph default
+ differently before it had been too late to turn back.
+\end_layout
+
+\begin_layout Standard
+As the first moment of shock was wearing off and people began to react to
+ the news, the Sorting Hat spoke again:
+\end_layout
+
+\begin_layout Standard
+“Just kidding! RAVENCLAW!”
+\end_layout
+
+\end_body
+\end_document

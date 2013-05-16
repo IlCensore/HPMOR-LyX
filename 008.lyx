@@ -1,0 +1,2068 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Positive Bias
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+N
+\end_layout
+
+\end_inset
+
+o
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ one had asked for help, that was the problem.
+ They'd just gone around talking, eating, or staring into the air while
+ their parents exchanged gossip.
+ For whatever odd reason, no one had been sitting down reading a book, which
+ meant she couldn't just sit down next to them and take out her own book.
+ And even when she'd boldly taken the initiative by sitting down and continuing
+ her third read-through of 
+\emph on
+Hogwarts: A History,
+\emph default
+ no one had seemed inclined to sit down next to her.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Aside from helping people with their homework, or anything else they needed,
+ she really didn't know how to meet people.
+ She didn't 
+\emph on
+feel
+\emph default
+ like she was a shy person.
+ She thought of herself as a take-charge sort of girl.
+ And yet, somehow, if there wasn't some request along the lines of “I can't
+ remember how to do long division” then it was just too 
+\emph on
+awkward
+\emph default
+ to go up to someone and say… what? She'd never been able to figure out
+ what.
+ And there didn't seem to be a standard information sheet, which was ridiculous.
+ The whole business of meeting people had never seemed sensible to her.
+ Why did 
+\emph on
+she
+\emph default
+ have to take all the responsibility herself when there were two people
+ involved? Why didn't adults ever help? She wished some other girl would
+ just walk up to 
+\emph on
+her
+\emph default
+ and say, “Hermione, the teacher told me to be friends with you.”
+\end_layout
+
+\begin_layout Standard
+But let it be quite clear that Hermione Granger, sitting alone on the first
+ day of school in one of the few compartments that had been empty, in the
+ last carriage of the train, with the compartment door left open just in
+ case anyone for any reason wanted to talk to her, was 
+\emph on
+not
+\emph default
+ sad, lonely, gloomy, depressed, despairing, or obsessing about her problems.
+ She was, rather, rereading 
+\emph on
+Hogwarts: A History
+\emph default
+ for the third time and quite enjoying it, with only a faint tinge of annoyance
+ in the back of her mind at the general unreasonableness of the world.
+\end_layout
+
+\begin_layout Standard
+There was the sound of an inter-train door opening, and then footsteps and
+ an odd slithering sound coming down the hallway of the train.
+ Hermione laid aside 
+\emph on
+Hogwarts: A History
+\emph default
+ and stood up and stuck her head outside 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ just in case someone needed help 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and saw a young boy in a wizard's dress robes, probably first or second
+ year going by his height, and looking quite silly with a scarf wrapped
+ around his head.
+ A small trunk stood on the floor next to him.
+ Even as she saw him, he knocked on the door of another, closed compartment,
+ and he said in a voice only slightly muffled by the scarf, “Excuse me,
+ can I ask a quick question?”
+\end_layout
+
+\begin_layout Standard
+She didn't hear the answer from inside the compartment, but after the boy
+ opened the door, she did think she heard him say 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ unless she'd somehow misheard 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ “Does anyone here know the six quarks or where I can find a first-year
+ girl named Hermione Granger?”
+\end_layout
+
+\begin_layout Standard
+After the boy had closed that compartment door, Hermione said, “Can I help
+ you with something?”
+\end_layout
+
+\begin_layout Standard
+The scarfed face turned to look at her, and the voice said, “Not unless
+ you can name the six quarks or tell me where to find Hermione Granger.”
+\end_layout
+
+\begin_layout Standard
+“Up, down, strange, charm, truth, beauty, and why are you looking for her?”
+\end_layout
+
+\begin_layout Standard
+It was hard to tell from this distance, but she thought she saw the boy
+ grin widely under his scarf.
+ “Ah, so 
+\emph on
+you're
+\emph default
+ a first-year girl named Hermione Granger,” said that young, muffled voice.
+ “On the train to Hogwarts, no less.” The boy started to walk towards her
+ and her compartment, and his trunk slithered along after him.
+ “Technically, all I needed to do was 
+\emph on
+look
+\emph default
+ for you, but it seems likely that I'm meant to talk to you or invite you
+ to join my party or get a key magical item from you or find out that Hogwarts
+ was built over the ruins of an ancient temple or something.
+ PC or NPC, that is the question?”
+\end_layout
+
+\begin_layout Standard
+Hermione opened her mouth to reply to this, but then she couldn't think
+ of any 
+\emph on
+possible
+\emph default
+ reply to… 
+\emph on
+whatever
+\emph default
+ it was she'd just heard, even as the boy walked over to her, looked inside
+ the compartment, nodded with satisfaction, and sat down on the bench across
+ from her own.
+ His trunk scurried in after him, grew to three times its former diameter
+ and snuggled up next to her own in an oddly disturbing fashion.
+\end_layout
+
+\begin_layout Standard
+“Please, have a seat,” said the boy, “and do please close the door behind
+ you, if you would.
+ Don't worry, I don't bite anyone who doesn't bite me first.” He was already
+ unwinding the scarf from around his head.
+\end_layout
+
+\begin_layout Standard
+The imputation that this boy thought she was 
+\emph on
+scared
+\emph default
+ of him made her hand send the door sliding shut, jamming it into the wall
+ with unnecessary force.
+ She spun around and saw a young face with bright, laughing green eyes,
+ and an angry red-dark scar set into his forehead that reminded her of something
+ in the back of her mind but right now she had more important things to
+ think about.
+ “I didn't say I was Hermione Granger!”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+I
+\emph default
+ didn't say you 
+\emph on
+said
+\emph default
+ you were Hermione Granger, I just said you were Hermione Granger.
+ If you're asking how I know, it's because I know everything.
+ Good evening ladies and gentlemen, my name is Harry James Potter-Evans-Verres
+ or Harry Potter for short, I know that probably doesn't mean anything to
+ 
+\emph on
+you
+\emph default
+ for a change 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Hermione's mind finally made the connection.
+ The scar on his forehead, the shape of a lightning bolt.
+ “Harry Potter! You're in 
+\emph on
+Modern Magical History
+\emph default
+ and 
+\emph on
+The Rise and Fall of the Dark Arts
+\emph default
+ and 
+\emph on
+Great Wizarding Events of the Twentieth Century.
+\emph default
+” It was actually the very first time in her whole life that she'd 
+\emph on
+met
+\emph default
+ someone from inside a 
+\emph on
+book,
+\emph default
+ and it was a rather odd feeling.
+\end_layout
+
+\begin_layout Standard
+The boy blinked three times.
+ “I'm in 
+\emph on
+books
+\emph default
+? Wait, of course I'm in books… what a strange thought.”
+\end_layout
+
+\begin_layout Standard
+“Goodness, didn't you know?” said Hermione.
+ “I'd have found out everything I could if it was me.”
+\end_layout
+
+\begin_layout Standard
+The boy spoke rather dryly.
+ “Miss Granger, it has been less than 72 hours since I went to Diagon Alley
+ and discovered my claim to fame.
+ I have spent the last two days buying science books.
+ 
+\emph on
+Believe me,
+\emph default
+ I intend to find out everything I can.” The boy hesitated.
+ “What 
+\emph on
+do
+\emph default
+ the books say about me?”
+\end_layout
+
+\begin_layout Standard
+Hermione Granger's mind flashed back, she hadn't realised she would be tested
+ on 
+\emph on
+those
+\emph default
+ books so she'd read them only once, but it was just a month ago so the
+ material was still fresh in her mind.
+ “You're the only one who's survived the Killing Curse so you're called
+ the Boy-Who-Lived.
+ You were born to James Potter and Lily Potter formerly Lily Evans on the
+ 31st of July 1980.
+ On the 31st of October 1981 the Dark Lord He-Who-Must-Not-Be-Named though
+ I don't know why not attacked your home.
+ You were found alive with the scar on your forehead in the ruins of your
+ parents' house near the burnt remains of You-Know-Who's body.
+ Chief Warlock Albus Percival Wulfric Brian Dumbledore sent you off somewhere,
+ no one knows where.
+ 
+\emph on
+The Rise and Fall of the Dark Arts
+\emph default
+ claims that you survived because of your mother's love and that your scar
+ contains all of the Dark Lord's magical power and that the centaurs fear
+ you, but 
+\emph on
+Great Wizarding Events of the Twentieth Century
+\emph default
+ doesn't mention anything like that and 
+\emph on
+Modern Magical History
+\emph default
+ warns that there are lots of crackpot theories about you.”
+\end_layout
+
+\begin_layout Standard
+The boy's mouth was hanging open.
+ “Were you told to wait for Harry Potter on the train to Hogwarts, or something
+ like that?”
+\end_layout
+
+\begin_layout Standard
+“No,” Hermione said.
+ “Who told you about 
+\emph on
+me?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Professor McGonagall and I believe I see why.
+ Do you have an eidetic memory, Hermione?”
+\end_layout
+
+\begin_layout Standard
+Hermione shook her head.
+ “It's not photographic, I've always wished it was but I had to read my
+ school books five times over to memorize them all.”
+\end_layout
+
+\begin_layout Standard
+“Really,” the boy said in a slightly strangled voice.
+ “I hope you don't mind if I test that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it's not that I don't believe you, but as the saying goes, `Trust, but
+ verify'.
+ No point in wondering when I can just do the experiment.”
+\end_layout
+
+\begin_layout Standard
+Hermione smiled, rather smugly.
+ She so loved tests.
+ “Go ahead.”
+\end_layout
+
+\begin_layout Standard
+The boy stuck a hand into a pouch at his side and said “Magical Drafts and
+ Potions by Arsenius Jigger”.
+ When he withdrew his hand it was holding the book he'd named.
+\end_layout
+
+\begin_layout Standard
+Instantly Hermione wanted one of those pouches more than she'd ever wanted
+ anything.
+\end_layout
+
+\begin_layout Standard
+The boy opened the book to somewhere in the middle and looked down.
+ “If you were making 
+\emph on
+oil of sharpness
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I can 
+\emph on
+see
+\emph default
+ that page from here, you know!”
+\end_layout
+
+\begin_layout Standard
+The boy tilted the book so that she couldn't see it any more, and flipped
+ the pages again.
+ “If you were brewing a 
+\emph on
+potion of spider climbing,
+\emph default
+ what would be the next ingredient you added after the Acromantula silk?”
+\end_layout
+
+\begin_layout Standard
+“After dropping in the silk, wait until the potion has turned exactly the
+ shade of the cloudless dawn sky, 8 degrees from the horizon and 8 minutes
+ before the tip of the sun first becomes visible.
+ Stir eight times widdershins and once deasil, and then add eight drams
+ of unicorn bogies.”
+\end_layout
+
+\begin_layout Standard
+The boy shut the book with a sharp snap and put the book back into his pouch,
+ which swallowed it with a small burping noise.
+ “Well well well 
+\emph on
+well
+\emph default
+ well well.
+ I should like to make you a proposition, Miss Granger.”
+\end_layout
+
+\begin_layout Standard
+“A proposition?” Hermione said suspiciously.
+ Girls weren't supposed to listen to those.
+\end_layout
+
+\begin_layout Standard
+It was also at this point that Hermione realised the other thing 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ well, one of the things 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ which was odd about the boy.
+ Apparently people who were 
+\emph on
+in
+\emph default
+ books actually 
+\emph on
+sounded
+\emph default
+ like a book when they talked.
+ This was quite the surprising discovery.
+\end_layout
+
+\begin_layout Standard
+The boy reached into his pouch and said, “can of pop”, retrieving a bright
+ green cylinder.
+ He held it out to her and said, “Can I offer you something to drink?”
+\end_layout
+
+\begin_layout Standard
+Hermione politely accepted the fizzy drink.
+ In fact she 
+\emph on
+was
+\emph default
+ feeling sort of thirsty by now.
+ “Thank you very much,” Hermione said as she popped the top.
+ “Was that your proposition?”
+\end_layout
+
+\begin_layout Standard
+The boy coughed.
+ “No,” he said.
+ Just as Hermione started to drink, he said, “I'd like you to help me take
+ over the universe.”
+\end_layout
+
+\begin_layout Standard
+Hermione finished her drink and lowered the can.
+ “No thank you, I'm not evil.”
+\end_layout
+
+\begin_layout Standard
+The boy looked at her in surprise, as though he'd been expecting some other
+ answer.
+ “Well, I was speaking a bit rhetorically,” he said.
+ “In the sense of the Baconian project, you know, not political power.
+ `The effecting of all things possible' and so on.
+ I want to conduct experimental studies of spells, figure out the underlying
+ laws, bring magic into the domain of science, merge the wizarding and Muggle
+ worlds, raise the entire planet's standard of living, move humanity centuries
+ ahead, discover the secret of immortality, colonize the Solar System, explore
+ the galaxy, and most importantly, figure out what the heck is really going
+ on here because all of this is blatantly impossible.”
+\end_layout
+
+\begin_layout Standard
+That sounded a bit more interesting.
+ “And?”
+\end_layout
+
+\begin_layout Standard
+The boy stared at her incredulously.
+ “
+\emph on
+And?
+\emph default
+ That's not 
+\emph on
+enough?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“And what do you want from me?” said Hermione.
+\end_layout
+
+\begin_layout Standard
+“I want you to help me do the research, of course.
+ With your encyclopedic memory added to my intelligence and rationality,
+ we'll have the Baconian project finished in no time, where by `no time'
+ I mean probably at least thirty-five years.”
+\end_layout
+
+\begin_layout Standard
+Hermione was beginning to find this boy annoying.
+ “I haven't seen you do anything intelligent.
+ Maybe I'll let 
+\emph on
+you
+\emph default
+ help me with 
+\emph on
+my
+\emph default
+ research.”
+\end_layout
+
+\begin_layout Standard
+There was a certain silence in the compartment.
+\end_layout
+
+\begin_layout Standard
+“So you're asking me to demonstrate my intelligence, then,” said the boy
+ after a long pause.
+\end_layout
+
+\begin_layout Standard
+Hermione nodded.
+\end_layout
+
+\begin_layout Standard
+“I warn you that challenging my ingenuity is a dangerous project, and tends
+ to make your life a lot more surreal.”
+\end_layout
+
+\begin_layout Standard
+“I'm not impressed yet,” Hermione said.
+ Unnoticed, the green drink once again rose to her lips.
+\end_layout
+
+\begin_layout Standard
+“Well, maybe 
+\emph on
+this
+\emph default
+ will impress you,” the boy said.
+ He leaned forward and looked at her intensely.
+ “I've already done a bit of experimenting and I found out that I don't
+ need the wand, I can make anything I want happen just by snapping my fingers.”
+\end_layout
+
+\begin_layout Standard
+It came just as Hermione was in the middle of swallowing, and she choked
+ and coughed and expelled the bright green fluid.
+\end_layout
+
+\begin_layout Standard
+Onto her brand new, never-worn witch's robes, on the very first day of school.
+\end_layout
+
+\begin_layout Standard
+Hermione actually screamed.
+ It was a high-pitched sound that sounded like an air raid siren in the
+ closed compartment.
+ “
+\emph on
+Eek! My clothes!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Don't panic!” said the boy.
+ “I can fix it for you.
+ Just watch!” He raised a hand and snapped his fingers.
+\end_layout
+
+\begin_layout Standard
+“You'll 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Then she looked down at herself.
+\end_layout
+
+\begin_layout Standard
+The green fluid was still there, but even as she watched, it started to
+ vanish and fade and within just a few moments, it was like she'd never
+ spilled anything at herself.
+\end_layout
+
+\begin_layout Standard
+Hermione stared at the boy, who was wearing a rather smug sort of smile.
+\end_layout
+
+\begin_layout Standard
+Wordless wandless magic! At 
+\emph on
+his
+\emph default
+ age? When he'd only gotten the schoolbooks 
+\emph on
+three days
+\emph default
+ ago?
+\end_layout
+
+\begin_layout Standard
+Then she remembered what she'd read, and she gasped and flinched back from
+ him.
+ 
+\emph on
+All the Dark Lord's magical power! In his scar!
+\end_layout
+
+\begin_layout Standard
+She rose hastily to her feet.
+ “I, I, I need to go the toilet, wait here all right 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” she had to find a grownup she had to tell them 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The boy's smile faded.
+ “It was just a trick, Hermione.
+ I'm sorry, I didn't mean to scare you.”
+\end_layout
+
+\begin_layout Standard
+Her hand halted on the door handle.
+ “A 
+\emph on
+trick?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said the boy.
+ “You asked me to demonstrate my intelligence.
+ So I did something apparently impossible, which is always a good way to
+ show off.
+ I can't 
+\emph on
+really
+\emph default
+ do anything just by snapping my fingers.” The boy paused.
+ “At least I don't 
+\emph on
+think
+\emph default
+ I can, I've never actually tested it experimentally.” The boy raised his
+ hand and snapped his fingers again.
+ “Nope, no banana.”
+\end_layout
+
+\begin_layout Standard
+Hermione was as confused as she'd ever been in her life.
+\end_layout
+
+\begin_layout Standard
+The boy was now smiling again at the look on her face.
+ “I did 
+\emph on
+warn
+\emph default
+ you that challenging my ingenuity tends to make your life surreal.
+ Do remember this the next time I warn you about something.”
+\end_layout
+
+\begin_layout Standard
+“But, but,” Hermione stammered.
+ “What did you 
+\emph on
+do,
+\emph default
+ then?”
+\end_layout
+
+\begin_layout Standard
+The boy's gaze took on a measuring, weighing quality that she'd never seen
+ before from someone her own age.
+ “You think you have what it takes to be a scientist in your own right,
+ with or without my help? Then let's see how 
+\emph on
+you
+\emph default
+ investigate a confusing phenomenon.”
+\end_layout
+
+\begin_layout Standard
+“I…” Hermione's mind went blank for a moment.
+ She loved tests but she'd never had a test like 
+\emph on
+this
+\emph default
+ before.
+ Frantically, she tried to cast back for anything she'd read about what
+ scientists were supposed to do.
+ Her mind skipped gears, ground against itself, and spat back the instructions
+ for doing a science investigation project:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Step 1: Form a hypothesis.
+\begin_inset Newline newline
+\end_inset
+
+Step 2: Do an experiment to test your hypothesis.
+\begin_inset Newline newline
+\end_inset
+
+Step 3: Measure the results.
+\begin_inset Newline newline
+\end_inset
+
+Step 4: Make a cardboard poster.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Step 1 was to form a hypothesis.
+ That meant, try to think of something that 
+\emph on
+could
+\emph default
+ have happened just now.
+ “All right.
+ My hypothesis is that you cast a Charm on my robes to make anything spilled
+ on it vanish.”
+\end_layout
+
+\begin_layout Standard
+“All right,” said the boy, “is that your answer?”
+\end_layout
+
+\begin_layout Standard
+The shock was wearing off, and Hermione's mind was starting to work properly.
+ “Wait, that can't be right.
+ I didn't see you touch your wand or say any spells so how could you have
+ cast a Charm?”
+\end_layout
+
+\begin_layout Standard
+The boy waited, his face neutral.
+\end_layout
+
+\begin_layout Standard
+“But suppose all the robes come from the store with a Charm 
+\emph on
+already
+\emph default
+ on them to keep them clean, which would be a useful sort of Charm for them
+ to have.
+ You found that out by spilling something on 
+\emph on
+yourself
+\emph default
+ earlier.”
+\end_layout
+
+\begin_layout Standard
+Now the boy's eyebrows lifted.
+ “Is 
+\emph on
+that
+\emph default
+ your answer?”
+\end_layout
+
+\begin_layout Standard
+“No, I haven't done Step 2, `Do an experiment to test your hypothesis.'”
+\end_layout
+
+\begin_layout Standard
+The boy closed his mouth again, and began to smile.
+\end_layout
+
+\begin_layout Standard
+Hermione looked at the drinks can, which she'd automatically put into the
+ cupholder at the window.
+ She took it up and peered inside, and found that it was around one-third
+ full.
+\end_layout
+
+\begin_layout Standard
+“Well,” said Hermione, “the experiment I want to do is to pour it on my
+ robes and see what happens, and my prediction is that the stain will disappear.
+ Only if it 
+\emph on
+doesn't
+\emph default
+ work, my robes will be stained, and I don't want that.”
+\end_layout
+
+\begin_layout Standard
+“Do it to mine,” said the boy, “that way you don't have to worry about your
+ robes getting stained.”
+\end_layout
+
+\begin_layout Standard
+“But 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Hermione said.
+ There was something 
+\emph on
+wrong
+\emph default
+ with that thinking but she didn't know how to say it exactly.
+\end_layout
+
+\begin_layout Standard
+“I have spare robes in my trunk,” said the boy.
+\end_layout
+
+\begin_layout Standard
+“But there's nowhere for you to change,” Hermione objected.
+ Then she thought better of it.
+ “Though I suppose I could leave and close the door 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I have somewhere to change in my trunk, too.”
+\end_layout
+
+\begin_layout Standard
+Hermione looked at his trunk, which, she was beginning to suspect, was rather
+ more special than her own.
+\end_layout
+
+\begin_layout Standard
+“All right,” Hermione said, “since you say so,” and she rather gingerly
+ poured a bit of green pop onto a corner of the boy's robes.
+ Then she stared at it, trying to remember how long the original fluid had
+ taken to disappear…
+\end_layout
+
+\begin_layout Standard
+And the green stain vanished!
+\end_layout
+
+\begin_layout Standard
+Hermione let out a sigh of relief, not least because this meant she wasn't
+ dealing with all of the Dark Lord's magical power.
+\end_layout
+
+\begin_layout Standard
+Well, Step 3 was measuring the results, but in this case that was just seeing
+ that the stain had vanished.
+ And she supposed she could probably skip Step 4, about the cardboard poster.
+ “My answer is that the robes are Charmed to keep themselves clean.”
+\end_layout
+
+\begin_layout Standard
+“Not quite,” said the boy.
+\end_layout
+
+\begin_layout Standard
+Hermione felt a stab of disappointment.
+ She really wished she 
+\emph on
+wouldn't
+\emph default
+ have felt that way, the boy wasn't a teacher, but it was still a test and
+ she'd gotten a question wrong and that always felt like a little punch
+ in the stomach.
+\end_layout
+
+\begin_layout Standard
+(It said almost everything you needed to know about Hermione Granger that
+ she had never let that stop her, or even let it interfere with her love
+ of being tested.)
+\end_layout
+
+\begin_layout Standard
+“The sad thing is,” said the boy, “you probably did everything the book
+ told you to do.
+ You made a prediction that would distinguish between the robe being charmed
+ and not charmed, and you tested it, and rejected the null hypothesis that
+ the robe was not charmed.
+ But unless you read the very, very best sort of books, they won't quite
+ teach you how to do science 
+\emph on
+properly
+\emph default
+.
+ Well enough to 
+\emph on
+really
+\emph default
+ get the right answer, I mean, and not just churn out another publication
+ like Dad always complains about.
+ So let me try to explain 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ without giving away the answer 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ what you did wrong this time, and I'll give you another chance.”
+\end_layout
+
+\begin_layout Standard
+She was starting to resent the boy's oh-so-superior tone when he was just
+ another eleven-year-old like her, but that was secondary to finding out
+ what she'd done wrong.
+ “All right.”
+\end_layout
+
+\begin_layout Standard
+The boy's expression grew more intense.
+ “This is a game based on a famous experiment called the 2-4-6 task, and
+ this is how it works.
+ I have a 
+\emph on
+rule
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ known to me, but not to you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ which fits some triplets of three numbers, but not others.
+ 2-4-6 is one example of a triplet which fits the rule.
+ In fact… let me write down the rule, just so you know it's a fixed rule,
+ and fold it up and give it to you.
+ Please don't look, since I infer from earlier that you can read upside-down.”
+\end_layout
+
+\begin_layout Standard
+The boy said “paper” and “mechanical pencil” to his pouch, and she shut
+ her eyes tightly while he wrote.
+\end_layout
+
+\begin_layout Standard
+“There,” said the boy, and he was holding a tightly folded piece of paper.
+ “Put this in your pocket,” and she did.
+\end_layout
+
+\begin_layout Standard
+“Now the way this game works,” said the boy, “is that you give me a triplet
+ of three numbers, and I'll tell you `Yes' if the three numbers are an instance
+ of the rule, and `No' if they're not.
+ I am Nature, the rule is one of my laws, and you are investigating me.
+ You already know that 2-4-6 gets a `Yes'.
+ When you've performed all the further experimental tests you want 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ asked me as many triplets as you feel necessary 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ you stop and guess the rule, and then you can unfold the sheet of paper
+ and see how you did.
+ Do you understand the game?”
+\end_layout
+
+\begin_layout Standard
+“Of course I do,” said Hermione.
+\end_layout
+
+\begin_layout Standard
+“Go.”
+\end_layout
+
+\begin_layout Standard
+“4-6-8” said Hermione.
+\end_layout
+
+\begin_layout Standard
+“Yes,” said the boy.
+\end_layout
+
+\begin_layout Standard
+“10-12-14”, said Hermione.
+\end_layout
+
+\begin_layout Standard
+“Yes,” said the boy.
+\end_layout
+
+\begin_layout Standard
+Hermione tried to cast her mind a little further afield, since it seemed
+ like she'd already done all the testing she needed, and yet it couldn't
+ be that easy, could it?
+\end_layout
+
+\begin_layout Standard
+“1-3-5.”
+\end_layout
+
+\begin_layout Standard
+“Yes.”
+\end_layout
+
+\begin_layout Standard
+“Minus 3, minus 1, plus 1.”
+\end_layout
+
+\begin_layout Standard
+“Yes.”
+\end_layout
+
+\begin_layout Standard
+Hermione couldn't think of anything else to do.
+ “The rule is that the numbers have to increase by two each time.”
+\end_layout
+
+\begin_layout Standard
+“Now suppose I tell you,” said the boy, “that this test is harder than it
+ looks, and that only 20% of grownups get it right.”
+\end_layout
+
+\begin_layout Standard
+Hermione frowned.
+ What had she missed? Then, suddenly, she thought of a test she still needed
+ to do.
+\end_layout
+
+\begin_layout Standard
+“2-5-8!” she said triumphantly.
+\end_layout
+
+\begin_layout Standard
+“Yes.”
+\end_layout
+
+\begin_layout Standard
+“10-20-30!”
+\end_layout
+
+\begin_layout Standard
+“Yes.”
+\end_layout
+
+\begin_layout Standard
+“The real answer is that the numbers have to go up by the 
+\emph on
+same
+\emph default
+ amount each time.
+ It doesn't have to be 2.”
+\end_layout
+
+\begin_layout Standard
+“Very well,” said the boy, “take the paper out and see how you did.”
+\end_layout
+
+\begin_layout Standard
+Hermione took the paper out of her pocket and unfolded it.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Three real numbers in increasing order, lowest to highest.
+\end_layout
+
+\begin_layout Standard
+Hermione's jaw dropped.
+ She had the distinct feeling of something terribly unfair having been done
+ to her, that the boy was a dirty rotten cheating liar, but when she cast
+ her mind back she couldn't think of any wrong responses that he'd given.
+\end_layout
+
+\begin_layout Standard
+“What you've just discovered is called `positive bias',” said the boy.
+ “You had a rule in your mind, and you kept on thinking of triplets that
+ should make the rule say `Yes'.
+ But you didn't try to test any triplets that should make the rule say `No'.
+ In fact you didn't get a 
+\emph on
+single
+\emph default
+ `No', so `any three numbers' could have just as easily been the rule.
+ It's sort of like how people imagine experiments that could confirm their
+ hypotheses instead of trying to imagine experiments that could falsify
+ them 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that's not quite exactly the same mistake but it's close.
+ You have to learn to look on the negative side of things, stare into the
+ darkness.
+ When this experiment is performed, only 20% of grownups get the answer
+ right.
+ And many of the others invent fantastically complicated hypotheses and
+ put great confidence in their wrong answers since they've done so many
+ experiments and everything came out like they expected.”
+\end_layout
+
+\begin_layout Standard
+“Now,” said the boy, “do you want to take another shot at the original problem?”
+\end_layout
+
+\begin_layout Standard
+His eyes were quite intent now, as though this were the 
+\emph on
+real
+\emph default
+ test.
+\end_layout
+
+\begin_layout Standard
+Hermione shut her eyes and tried to concentrate.
+ She was sweating underneath her robes.
+ She had an odd feeling that this was the hardest she'd ever been asked
+ to think on a test or maybe even the 
+\emph on
+first
+\emph default
+ time she'd ever been asked to think on a test.
+\end_layout
+
+\begin_layout Standard
+What other experiment could she do? She had a Chocolate Frog, could she
+ try to rub some of that on the robes and see if 
+\emph on
+it
+\emph default
+ vanished? But that still didn't seem like the kind of twisty negative thinking
+ the boy was asking for.
+ Like she was still asking for a `Yes' if the Chocolate Frog stain disappeared,
+ rather than asking for a `No'.
+\end_layout
+
+\begin_layout Standard
+So… on her hypothesis… when should the pop… 
+\emph on
+not
+\emph default
+ vanish?
+\end_layout
+
+\begin_layout Standard
+“I have an experiment to do,” Hermione said.
+ “I want to pour some pop on the floor, and see if it 
+\emph on
+doesn't
+\emph default
+ vanish.
+ Do you have some paper towels in your pouch, so I can mop up the spill
+ if this doesn't work?”
+\end_layout
+
+\begin_layout Standard
+“I have napkins,” said the boy.
+ His face still looked neutral.
+\end_layout
+
+\begin_layout Standard
+Hermione took the can, and poured a small bit of pop onto the floor.
+\end_layout
+
+\begin_layout Standard
+A few seconds later, it vanished.
+\end_layout
+
+\begin_layout Standard
+Then the realisation hit her and she felt like kicking herself.
+ “Of course! 
+\emph on
+You
+\emph default
+ gave me that can! It's not the robe that's enchanted, it was the pop all
+ along!”
+\end_layout
+
+\begin_layout Standard
+The boy stood up and bowed to her solemnly.
+ He was grinning widely now.
+ “Then… may I help you with your research, Hermione Granger?”
+\end_layout
+
+\begin_layout Standard
+“I, ah…” Hermione was still feeling the rush of euphoria, but she wasn't
+ quite sure about how to answer 
+\emph on
+that.
+\end_layout
+
+\begin_layout Standard
+They were interrupted by a weak, tentative, faint, rather 
+\emph on
+reluctant
+\emph default
+ knocking at the door.
+\end_layout
+
+\begin_layout Standard
+The boy turned and looked out the window, and said, “I'm not wearing my
+ scarf, so can you get that?”
+\end_layout
+
+\begin_layout Standard
+It was at this point that Hermione realised why the boy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ no, the Boy-Who-Lived, Harry Potter 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ had been wearing the scarf over his head in the first place, and felt a
+ little silly for not realising it earlier.
+ It was actually sort of odd, since she would have thought Harry Potter
+ would proudly display himself to the world; and the thought occurred to
+ her that he might actually be shyer than he seemed.
+\end_layout
+
+\begin_layout Standard
+When Hermione pulled the door open, she was greeted by a trembling young
+ boy who looked exactly like he knocked.
+\end_layout
+
+\begin_layout Standard
+“Excuse me,” said the boy in a tiny voice, “I'm Neville Longbottom.
+ I'm looking for my pet toad, I, I can't seem to find it anywhere on this
+ carriage… have you seen my toad?”
+\end_layout
+
+\begin_layout Standard
+“No,” Hermione said, and then her helpfulness kicked in full throttle.
+ “Have you checked all the other compartments?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” whispered the boy.
+\end_layout
+
+\begin_layout Standard
+“Then we'll just have to check all the other carriages,” Hermione said briskly.
+ “I'll help you.
+ My name is Hermione Granger, by the way.”
+\end_layout
+
+\begin_layout Standard
+The boy looked like he might faint with gratitude.
+\end_layout
+
+\begin_layout Standard
+“Hold on,” came the voice of the 
+\emph on
+other
+\emph default
+ boy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Harry Potter.
+ “I'm not sure that's the best way to do it.”
+\end_layout
+
+\begin_layout Standard
+At this Neville looked like he might cry, and Hermione swung around, angered.
+ If Harry Potter was the sort of person who'd abandon a little boy just
+ because he didn't want to be interrupted… “What? Why 
+\emph on
+not?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Well,” said Harry Potter, “It's going to take a while to check the whole
+ train by hand, and we might miss the toad anyway, and if we didn't find
+ it by the time we're at Hogwarts, he'd be in trouble.
+ So what would make a lot more sense is if he went directly to the front
+ carriage, where the prefects are, and asked a prefect for help.
+ That was the first thing I did when I was looking for you, Hermione, although
+ they didn't actually know.
+ But they might have spells or magic items that would make it a lot easier
+ to find a toad.
+ We're only first-years.”
+\end_layout
+
+\begin_layout Standard
+That… 
+\emph on
+did
+\emph default
+ make a lot of sense.
+\end_layout
+
+\begin_layout Standard
+“Do you think you can make it to the prefects' carriage on your own?” asked
+ Harry Potter.
+ “I've sort of got reasons for not wanting to show my face too much.”
+\end_layout
+
+\begin_layout Standard
+Suddenly Neville gasped and took a step back.
+ “I remember that voice! You're one of the Lords of Chaos! 
+\emph on
+You're the one who gave me chocolate!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+What? What what 
+\emph on
+what?
+\end_layout
+
+\begin_layout Standard
+Harry Potter turned his head from the window and rose dramatically.
+ “I 
+\emph on
+never!
+\emph default
+” he said, voice full of indignation.
+ “Do I look like the sort of villain who would give sweets to a child?”
+\end_layout
+
+\begin_layout Standard
+Neville's eyes widened.
+ “
+\emph on
+You're
+\emph default
+ Harry Potter? 
+\emph on
+The
+\emph default
+ Harry Potter? 
+\emph on
+You?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“No, just 
+\emph on
+a
+\emph default
+ Harry Potter, there are three of me on this train 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Neville gave a small shriek and ran away.
+ There was a brief pattering of frantic footsteps and then the sound of
+ a carriage door opening and closing.
+\end_layout
+
+\begin_layout Standard
+Hermione sat down hard on her bench.
+ Harry Potter closed the door and then sat down next to her.
+\end_layout
+
+\begin_layout Standard
+“Can you please explain to me what's going on?” Hermione said in a weak
+ voice.
+ She wondered if hanging around Harry Potter meant always being this confused.
+\end_layout
+
+\begin_layout Standard
+“Oh, well, what happened was that Fred and George and I saw this poor small
+ boy at the train station 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ the woman next to him had gone away for a bit, and he was looking really
+ frightened, like he was sure he was about to be attacked by Death Eaters
+ or something.
+ Now, there's a saying that the fear is often worse than the thing itself,
+ so it occurred to me that this was a lad who could actually benefit from
+ seeing his worst nightmare come true and that it wasn't so bad as he feared
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Hermione sat there with her mouth wide open.
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and Fred and George came up with this spell to make the scarves over our
+ faces darken and blur, like we were undead kings and those were our grave
+ shrouds 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+She didn't like at all where this was going.
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and after we were done giving him all the sweets I'd bought, we were like,
+ `Let's give him some money! Ha ha ha! Have some Knuts, boy! Have a silver
+ Sickle!' and dancing around him and laughing evilly and so on.
+ I think there were some people in the crowd who wanted to interfere at
+ first, but bystander apathy held them off at least until they saw what
+ we were doing, and then I think they were all too confused to do anything.
+ Finally he said in this tiny little whisper `go away' so the three of us
+ all screamed and ran off, shrieking something about the light burning us.
+ Hopefully he won't be as scared of being bullied in the future.
+ That's called desensitisation therapy, by the way.”
+\end_layout
+
+\begin_layout Standard
+Okay, she 
+\emph on
+hadn't
+\emph default
+ guessed right about where this was going.
+\end_layout
+
+\begin_layout Standard
+The burning fire of indignation that was one of Hermione's primary engines
+ sputtered into life, even though part of her 
+\emph on
+did
+\emph default
+ sort of see what they'd been trying to do.
+ “That's awful! 
+\emph on
+You're
+\emph default
+ awful! That poor boy! What you did was 
+\emph on
+mean!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“I think the word you're looking for is 
+\emph on
+enjoyable,
+\emph default
+ and in any case you're asking the wrong question.
+ The question is, did it do more good than harm, or more harm than good?
+ If you have any arguments to contribute to 
+\emph on
+that
+\emph default
+ question I'm glad to hear them, but I won't entertain any other criticisms
+ until that one is settled.
+ I certainly agree that what I did 
+\emph on
+looks
+\emph default
+ all terrible and bullying and mean, since it involves a scared little boy
+ and so on, but that's hardly the key issue now is it? That's called 
+\emph on
+consequentialism,
+\emph default
+ by the way, it means that whether an act is right or wrong isn't determined
+ by whether it 
+\emph on
+looks
+\emph default
+ bad, or mean, or anything like that, the only question is how it will turn
+ out in the end 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ what are the consequences.”
+\end_layout
+
+\begin_layout Standard
+Hermione opened her mouth to say something utterly 
+\emph on
+searing
+\emph default
+ but unfortunately she seemed to have neglected the part where she thought
+ of something to say before opening her mouth.
+ All she could come up with was, “What if he has 
+\emph on
+nightmares?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Honestly, I don't think he needed our help to have nightmares, and if he
+ has nightmares about 
+\emph on
+this
+\emph default
+ instead, then it'll be nightmares involving horrible monsters who give
+ you chocolate and that was sort of the whole 
+\emph on
+point
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Hermione's brain kept hiccoughing in confusion every time she tried to get
+ properly angry.
+ “Is your life always this peculiar?” she said at last.
+\end_layout
+
+\begin_layout Standard
+Harry Potter's face gleamed with pride.
+ “I 
+\emph on
+make
+\emph default
+ it that peculiar.
+ You're looking at the product of a lot of hard work and elbow grease.”
+\end_layout
+
+\begin_layout Standard
+“So…” Hermione said, and trailed off awkwardly.
+\end_layout
+
+\begin_layout Standard
+“So,” Harry Potter said, “how much science do you know exactly? I can do
+ calculus and I know some Bayesian probability theory and decision theory
+ and a lot of cognitive science, and I've read 
+\emph on
+The Feynman Lectures
+\emph default
+ (or volume 1 anyway) and 
+\emph on
+Judgment Under Uncertainty: Heuristics and Biases
+\emph default
+ and 
+\emph on
+Language in Thought and Action
+\emph default
+ and 
+\emph on
+Influence: Science and Practice
+\emph default
+ and 
+\emph on
+Rational Choice in an Uncertain World
+\emph default
+ and 
+\emph on
+Godel, Escher, Bach
+\emph default
+ and 
+\emph on
+A Step Farther Out
+\emph default
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+The ensuing quiz and counter-quiz went on for several minutes before being
+ interrupted by another timid knock at the door.
+ “Come in,” she and Harry Potter said at almost the same time, and it slid
+ back to reveal Neville Longbottom.
+\end_layout
+
+\begin_layout Standard
+Neville 
+\emph on
+was
+\emph default
+ actually crying now.
+ “I went to the front carriage and found a p-prefect but he t-told me that
+ prefects weren't to be bothered over little things like m-missing toads.”
+\end_layout
+
+\begin_layout Standard
+The Boy-Who-Lived's face changed.
+ His lips set in a thin line.
+ His voice, when he spoke, was cold and grim.
+ “What were his colours? Green and silver?”
+\end_layout
+
+\begin_layout Standard
+“N-no, his badge was r-red and gold.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Red and gold!
+\emph default
+” burst out Hermione.
+ “But those are 
+\emph on
+Gryffindor's
+\emph default
+ colours!”
+\end_layout
+
+\begin_layout Standard
+Harry Potter 
+\emph on
+hissed
+\emph default
+ at that, a frightening sort of sound that could have come from a live snake
+ and made both her and Neville flinch.
+ “I 
+\emph on
+suppose,”
+\emph default
+ Harry Potter spat, “that finding some first-year's toad isn't 
+\emph on
+heroic
+\emph default
+ enough to be worthy of a 
+\emph on
+Gryffindor
+\emph default
+ prefect.
+ Come on, Neville, 
+\emph on
+I'll
+\emph default
+ come with you this time, we'll see if the Boy-Who-Lived gets more attention.
+ First we'll find a prefect who ought to know a spell, and if that doesn't
+ work, we'll find a prefect who isn't afraid of getting their hands dirty,
+ and if 
+\emph on
+that
+\emph default
+ doesn't work, I'll start recruiting my fans and if we have to we'll take
+ apart the whole train screw by screw.”
+\end_layout
+
+\begin_layout Standard
+The Boy-Who-Lived stood up and grabbed Neville's hand in his, and Her\SpecialChar \-
+mione
+ realised with a sudden brain hiccough that they were nearly the same size,
+ even though some part of her had insisted that Harry Potter was a foot
+ taller than that, and Neville at least six inches shorter.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Stay!
+\emph default
+” Harry Potter snapped at her 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ no, wait, at his 
+\emph on
+trunk
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and he closed the door behind him firmly as he left.
+\end_layout
+
+\begin_layout Standard
+She probably should have gone with them, but in just a brief moment Harry
+ Potter had turned so scary that she was actually rather glad she hadn't
+ thought to suggest it.
+\end_layout
+
+\begin_layout Standard
+Hermione's mind was now so jumbled that she didn't even think she could
+ properly read “History: A Hogwarts”.
+ She felt as if she'd just been run over by a steamroller and turned into
+ a pancake.
+ She wasn't sure what she was thinking or what she was feeling or why.
+ She just sat by the window and stared at the moving scenery.
+\end_layout
+
+\begin_layout Standard
+Well, she did at least know why she was feeling a little sad inside.
+\end_layout
+
+\begin_layout Standard
+Maybe Gryffindor wasn't as wonderful as she had thought.
+\end_layout
+
+\end_body
+\end_document

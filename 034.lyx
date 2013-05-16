@@ -1,0 +1,1623 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume1_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Coordination Problems, Part II
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+M
+\end_layout
+
+\end_inset
+
+inerva
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ and Dumbledore together had applied their combined talent to conjure the
+ grand stage toward which Quirrell now slowly trudged; it was, at its core,
+ sturdy wood, but the outer surfaces shone with glitter of marble inlaid
+ with platinum and studded with gems of every House color.
+ Neither she nor the Headmaster was any Founder of Hogwarts, but the conjuration
+ only needed to last a few hours.
+ Minerva ordinarily enjoyed the few occasions when she had the occasion
+ to tire herself out on large Transfigurations; she should have enjoyed
+ the many small chances for artistry, and the illusion of opulence; but
+ this time she had done the work with the dreadful feeling of digging her
+ own grave.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+But Minerva was feeling a little better now.
+ There'd been one brief moment when the explosion might've come; but Dumbledore
+ had already been standing up and applauding warmly, and no one had proven
+ foolish enough to riot in front of the Headmaster.
+\end_layout
+
+\begin_layout Standard
+And the explosive mood had rapidly faded into a collective sentiment which
+ might perhaps have been described by the phrase: 
+\emph on
+Give us a break!
+\end_layout
+
+\begin_layout Standard
+Blaise Zabini had shot himself in the name of Sunshine, and the final score
+ had been 254 to 254 to 254.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Behind the stage, waiting to ascend, three children were glaring at each
+ other in mingled fury and frustration.
+ It didn't help that they were still damp from being fished out of the lake,
+ and that the Warming Charms didn't seem quite enough to make up for the
+ crisp December air, or maybe it was just their mood.
+\end_layout
+
+\begin_layout Standard
+“That's 
+\emph on
+it
+\emph default
+,” said Granger.
+ “I've 
+\emph on
+had
+\emph default
+ it! No more traitors!”
+\end_layout
+
+\begin_layout Standard
+“I completely agree with you, Miss Granger,” Draco said icily.
+ “Enough is enough.”
+\end_layout
+
+\begin_layout Standard
+“And what do 
+\emph on
+you
+\emph default
+ two intend to do about it?” snapped Harry Potter.
+ “Professor Quirrell already said he wouldn't ban spies!”
+\end_layout
+
+\begin_layout Standard
+“We'll ban them 
+\emph on
+for
+\emph default
+ him,” said Draco grimly.
+ He hadn't even understood what he meant by the words as he said them, but
+ the very act of speaking seemed to crystallize a plan 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The stage really was well done, at least for a temporary structure; the
+ makers hadn't fallen into the usual pitfall of being impressed by their
+ own illusion of wealth, and knew something about architecture and visual
+ style.
+ From where Draco stood, in the obvious place for him to stand, the watching
+ students would see him haloed in the faint glitter of emeralds; and Granger,
+ standing where Draco had subtly motioned her, would be haloed in Ravenclaw's
+ sapphire.
+ As for Harry Potter, Draco wasn't looking at him right now.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell had… awakened, or whatever it was he did; and was leaning
+ upon a platinum podium bare of all gems.
+ With evident showmanship, the Defense Professor was carefully stacking
+ and squaring those three envelopes containing the three parchments upon
+ which the three generals had written their wishes, as all the students
+ of Hogwarts watched, and waited.
+\end_layout
+
+\begin_layout Standard
+Finally Professor Quirrell looked up from the envelopes.
+ “Well,” said the Defense Professor.
+ “This is inconvenient.”
+\end_layout
+
+\begin_layout Standard
+A slight titter of laughter ran through the crowd, with a sharp undertone.
+\end_layout
+
+\begin_layout Standard
+“I suppose you are all wondering what I will do?” said Professor Quirrell.
+ “There is nothing for it; I shall have to do what is fair.
+ Although first there was a little speech I wanted to make, and before even
+ that, it appears to me that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy and Miss Granger have something they wish to share.”
+\end_layout
+
+\begin_layout Standard
+Draco blinked, and then he and Granger traded rapid glances 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+may I?
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+yes, go ahead 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+ and Draco raised his voice.
+\end_layout
+
+\begin_layout Standard
+“General Granger and I would both like to say,” Draco said in his most formal
+ voice, knowing it was being amplified and heard, “that we will no longer
+ accept the help of any traitors.
+ And if, in any battle, we find that Potter has accepted traitors from either
+ of our armies, we will join forces to crush him.”
+\end_layout
+
+\begin_layout Standard
+And Draco shot a glance filled at malice at the Boy-Who-Lived.
+ 
+\emph on
+Take that, General Chaos!
+\end_layout
+
+\begin_layout Standard
+“I agree completely with General Malfoy,” said Granger standing beside him,
+ her high voice clear and strong.
+ “Neither of us will use traitors, and if General Potter does, we will wipe
+ him off the battlefield.”
+\end_layout
+
+\begin_layout Standard
+There was a susurration of surprise from the watching students.
+\end_layout
+
+\begin_layout Standard
+“Very good,” said their Defense Professor, smiling.
+ “It took the two of you long enough, but you are still to be congratulated
+ on having thought of it before any other generals.”
+\end_layout
+
+\begin_layout Standard
+It took a moment for this to soak in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“In the future, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy, Miss Granger, before you come to my office with any request, consider
+ whether there is a way for you to accomplish it without my help.
+ I will not deduct Quirrell points on this occasion, but next time you may
+ expect to lose the full fifty.” Professor Quirrell wore an amused grin.
+ “And what do you have to say about that, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+Harry Potter's gaze went to Granger, then to Draco.
+ His face appeared calm; though Draco was sure 
+\emph on
+controlled
+\emph default
+ would have been the better term.
+\end_layout
+
+\begin_layout Standard
+Finally Harry Potter spoke, his voice level.
+ “The Chaos Legion is still happy to accept traitors.
+ See you on the battlefield.”
+\end_layout
+
+\begin_layout Standard
+Draco knew the shock was showing on his own face; there were astonished
+ murmurs from the watching students, and when Draco glanced at the front
+ row he saw that even Harry's Chaotics looked taken aback.
+\end_layout
+
+\begin_layout Standard
+Granger's face was angry, and getting angrier.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” she said in a sharp tone like she thought she was a teacher, “are
+ you 
+\emph on
+trying
+\emph default
+ to be obnoxious?”
+\end_layout
+
+\begin_layout Standard
+“Most certainly not,” Harry Potter said calmly.
+ “I won't make you do it every time.
+ Beat me once, and I'll stay beaten.
+ But threats aren't always enough, General of Sunshine.
+ You did not ask me to join with you, but tried simply to impose your will;
+ and sometimes you must actually defeat the enemy, to impose your will on
+ him.
+ You see, I am skeptical that Hermione Granger, the brightest academic star
+ of Hogwarts, and Draco, son of Lucius, scion of the Noble and Most Ancient
+ House of Malfoy, can work together to beat their common foe, Harry Potter.”
+ An amused smile crossed Harry Potter's face.
+ “Maybe I'll just do what Draco tried with Zabini, and write a letter to
+ Lucius Malfoy and see what 
+\emph on
+he
+\emph default
+ thinks about that.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Harry!
+\emph default
+” gasped Granger, looking absolutely aghast, and there were gasps from the
+ audience as well.
+\end_layout
+
+\begin_layout Standard
+Draco controlled the anger flushing through him.
+ That had been a 
+\emph on
+stupid
+\emph default
+ move on Harry's part, saying that in public.
+ If Harry had simply 
+\emph on
+done
+\emph default
+ it, it might have worked, Draco hadn't even thought about that, but 
+\emph on
+now
+\emph default
+ if Father did that it would look like he was playing into Harry's hands
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“If you think my father, Lord Malfoy, can be manipulated by 
+\emph on
+you
+\emph default
+ that easily,” Draco said coldly, “you have a surprise coming, Harry Potter.”
+\end_layout
+
+\begin_layout Standard
+And Draco realized as the words finished leaving his mouth that he'd just
+ backed 
+\emph on
+his own father
+\emph default
+ squarely into the corner, more or less without even meaning to.
+ Father probably 
+\emph on
+wasn't
+\emph default
+ going to like this, not the tiniest bit, but now it would be impossible
+ for him to say so… Draco would have to apologize for that, it 
+\emph on
+had
+\emph default
+ been an honest accident, but it was strange to think that he'd done it
+ at all.
+\end_layout
+
+\begin_layout Standard
+“Then go ahead and defeat the evil General Chaos,” Harry said, still looking
+ amused.
+ “I can't win against both your armies 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ not if you 
+\emph on
+really
+\emph default
+ work together.
+ But I wonder if perhaps I could break you up before then.”
+\end_layout
+
+\begin_layout Standard
+“You won't, and we'll 
+\emph on
+crush
+\emph default
+ you!” said Draco Malfoy.
+\end_layout
+
+\begin_layout Standard
+And beside him, Hermione Granger firmly nodded.
+\end_layout
+
+\begin_layout Standard
+“Well,” said Professor Quirrell after the astounded silence had stretched
+ for a while.
+ “That was 
+\emph on
+not
+\emph default
+ how I expected that particular conversation to go.” The Defense Professor
+ had a rather intrigued expression on his face.
+ “Truthfully, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I expected you to concede immediately and with a smile, then announce
+ that you had long since worked out my intended lesson but had decided not
+ to spoil it for others.
+ Indeed, I planned my speech accordingly, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.”
+\end_layout
+
+\begin_layout Standard
+Harry Potter just shrugged.
+ “Sorry about that,” he said, and said nothing more.
+\end_layout
+
+\begin_layout Standard
+“Oh, don't worry,” said Professor Quirrell.
+ “This, too, will serve.”
+\end_layout
+
+\begin_layout Standard
+And Professor Quirrell turned from the three children, and straightened
+ at the podium to address the whole watching crowd; his customary air of
+ detached amusement dropped away like a falling mask, and when he spoke
+ again his voice was amplified louder than it had been.
+\end_layout
+
+\begin_layout Standard
+“If not for Harry Potter,” said Professor Quirrell, his voice as crisp and
+ cold as December, “You-Know-Who would have won.”
+\end_layout
+
+\begin_layout Standard
+The silence was instant, and total.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Make no mistake,” said Professor Quirrell.
+ “The Dark Lord 
+\emph on
+was
+\emph default
+ winning.
+ There were fewer and fewer Aurors who dared face him, the vigilantes who
+ opposed him were being hunted down.
+ One Dark Lord and perhaps fifty Death Eaters were 
+\emph on
+winning
+\emph default
+ against a country of thousands.
+ That is beyond ridiculous! There are no grades low enough for me to mark
+ that incompetence!”
+\end_layout
+
+\begin_layout Standard
+There was a frown on the face of Headmaster Dumbledore; and on the faces
+ of the audience, puzzlement; and the utter silence went on.
+\end_layout
+
+\begin_layout Standard
+“Do you understand now how it happened? You saw it today.
+ I allowed traitors, and gave the generals no means to restrain them.
+ You saw the result.
+ Clever plots and clever betrayals, until the last soldier left on the battlefie
+ld shot himself! You cannot 
+\emph on
+possibly
+\emph default
+ doubt that all three of those armies could have been defeated by 
+\emph on
+any
+\emph default
+ outside foe that was unified within itself.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell leaned forward at the podium, his voice now filled with
+ a grim intensity.
+ His right hand stretched out, fingers open and spread.
+ “Division is weakness,” said the Defense Professor.
+ His hand closed into a tight fist.
+ “Unity is strength.
+ The Dark Lord understood that well, whatever his other follies; and he
+ 
+\emph on
+used
+\emph default
+ that understanding to create the one simple invention that made him the
+ most terrible Dark Lord in history.
+ Your parents faced one Dark Lord.
+ And fifty Death Eaters who were perfectly unified, knowing that any breach
+ of their loyalty would be punished by death, that any slack or incompetence
+ would be punished by pain.
+ None could escape the Dark Lord's grasp once they took his Mark.
+ And the Death Eaters agreed to take that terrible Mark because they knew
+ that once they took it, they would be 
+\emph on
+united
+\emph default
+, facing a divided land.
+ One Dark Lord and fifty Death Eaters would have defeated an entire country,
+ by the power of the Dark Mark.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's voice was bleak and hard.
+ “Your parents 
+\emph on
+could
+\emph default
+ have fought back in kind.
+ They did not.
+ There was a man named Yermy Wibble who called upon the nation to institute
+ a draft, though he did not quite have vision enough to propose a Mark of
+ Britain.
+ Yermy Wibble knew what would happen to him; he hoped his death would inspire
+ others.
+ So the Dark Lord took his family for good measure.
+ Their empty skins inspired nothing but fear, and no one dared to speak
+ again.
+ And your parents would have faced the consequences of their despicable
+ cowardice, if not for being saved by a one-year-old boy.” Professor Quirrell's
+ face showed full contempt.
+ “A dramatist would have called that a 
+\emph on
+dei ex machina,
+\emph default
+ for they did nothing to earn their salvation.
+ He-Who-Must-Not-Be-Named may not have deserved to win, but make no doubt
+ of it, your parents deserved to lose.”
+\end_layout
+
+\begin_layout Standard
+The voice of the Defense Professor rang forth like iron.
+ “And know this: your parents have learned nothing! The nation is still
+ fragmented and weak! How few decades passed between Grindelwald and You-Know-Wh
+o? Do you think 
+\emph on
+you
+\emph default
+ will not see the next threat in your own lifetimes? Will 
+\emph on
+you
+\emph default
+ repeat then the follies of your parents, when you have seen the results
+ so clearly laid out before you this day? For I can tell you what your parents
+ will do, when the day of darkness comes! I can tell you what lesson they
+ have learned! They have learned to hide like cowards and do nothing while
+ they wait for Harry Potter to save them!”
+\end_layout
+
+\begin_layout Standard
+There was a wondering look in the eyes of Headmaster Dumbledore; and other
+ students gazed up at their Defense Professor with bewilderment and anger
+ and awe.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's eyes were as cold now as his voice.
+ “Mark this, and mark it well.
+ He-Who-Must-Not-Be-Named wished to rule over this country, to hold it in
+ his cruel grasp forever.
+ But at least he wished to rule over a 
+\emph on
+living
+\emph default
+ country, and not a heap of ash! There have been Dark Lords who were mad,
+ who wished only to make the world a vast funeral pyre! There have been
+ wars in which one whole country marched against another! Your parents nearly
+ lost against half a hundred, who thought to take this country alive! How
+ quickly would they have been crushed by a foe more numerous than they,
+ a foe that cared for nothing but their destruction? This I foretell: When
+ the next threat rises, Lucius Malfoy will claim that you must follow him
+ or perish, that your only hope is to trust in his cruelty and strength.
+ And though Lucius Malfoy himself will believe it, this will be a lie.
+ For when the Dark Lord perished, Lucius Malfoy did not unite the Death
+ Eaters, they were shattered in an instant, they fled like whipped dogs
+ and betrayed each other! Lucius Malfoy is not strong enough to be a true
+ Lord, Dark or otherwise.”
+\end_layout
+
+\begin_layout Standard
+Draco Malfoy's fists were clenched white, there were tears in his eyes,
+ and fury, and unbearable shame.
+\end_layout
+
+\begin_layout Standard
+“No,” said Professor Quirrell, “I do not think it will be Lucius Malfoy
+ who saves you.
+ And lest you think that I speak on my own behalf, time will make clear
+ soon enough that this is not so.
+ I make you no recommendation, my students.
+ But I say that if a whole country were to find a leader as strong as the
+ Dark Lord, but honorable and pure, and take his Mark; then they could crush
+ any Dark Lord like an insect, and all the rest of our divided magical world
+ could not threaten them.
+ And if some still greater enemy rose against us in a war of extermination,
+ then only a united magical world could survive.”
+\end_layout
+
+\begin_layout Standard
+There were gasps, mostly from Muggleborns; the students in green-trimmed
+ robes looked merely puzzled.
+ Now it was Harry Potter whose fists were clenched tight and trembling;
+ and Hermione Granger beside him was angry and dismayed.
+\end_layout
+
+\begin_layout Standard
+The Headmaster rose from his seat, his face now stern, saying no word as
+ yet; but the command was clear.
+\end_layout
+
+\begin_layout Standard
+“I do not say 
+\emph on
+what
+\emph default
+ threat will come,” said Professor Quirrell.
+ “But you will not live all your lives in peace, not if the past history
+ of the world is any guide at all to its future.
+ And if you do in the future as you have seen three armies do this day,
+ if you cannot throw aside your petty bickering and take the Mark of a single
+ leader, then indeed you might wish that the Dark Lord had lived to rule
+ over you, and regret the day that ever Harry Potter was born 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Enough!
+\emph default
+” bellowed Albus Dumbledore.
+\end_layout
+
+\begin_layout Standard
+There was silence.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell slowly turned his head to gaze at where Albus Dumbledore
+ stood in the fury of his wizardry; their eyes met, and a soundless stress
+ pressed down like weight upon all the students, as they listened not daring
+ to move.
+\end_layout
+
+\begin_layout Standard
+“You, too, failed this country,” said Professor Quirrell.
+ “And you know the peril as well as I.”
+\end_layout
+
+\begin_layout Standard
+“Such speeches are not for the ears of students,” said Albus Dumbledore
+ in a dangerously rising voice.
+ “Nor for the mouths of professors!”
+\end_layout
+
+\begin_layout Standard
+Dryly, then, Professor Quirrell spoke: “There were many speeches made for
+ the ears of adults, as the Dark Lord rose.
+ And the adults clapped and cheered, and went home having enjoyed their
+ day's entertainment.
+ But I will obey you, Headmaster, and make no further speeches if you do
+ not like them.
+ My lesson is simple.
+ I will go on doing nothing about traitors, and we will see what students
+ can do for themselves about that, when they do not wait for professors
+ to save them.”
+\end_layout
+
+\begin_layout Standard
+And then Professor Quirrell turned back to his students, and his mouth quirked
+ up in a wry grin that seemed to dissipate the dreadful pressure like a
+ god blowing to scatter the clouds.
+ “But do please be kind to the traitors up until now,” said Professor Quirrell.
+ “They were just having fun.”
+\end_layout
+
+\begin_layout Standard
+There was laughter, though it was nervous at first, and then it seemed to
+ build, as Professor Quirrell stood there smiling wryly and some of the
+ tension released itself.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Draco's mind was still whirling through a thousand questions and a daze
+ of horror, as Professor Quirrell prepared to open the envelopes in which
+ the three had inscribed their wishes.
+\end_layout
+
+\begin_layout Standard
+It had never before occurred to Draco that moon-traveling Muggles were a
+ greater threat than the slow decline of wizardry, or that Father had proven
+ himself too weak to stop them.
+\end_layout
+
+\begin_layout Standard
+And even stranger, the obvious implication: Professor Quirrell believed
+ that 
+\emph on
+Harry
+\emph default
+ could.
+ The Defense Professor claimed to have made no recommendation, but he'd
+ mentioned Harry Potter over and over in his speech; others would already
+ be thinking the same thing as Draco.
+\end_layout
+
+\begin_layout Standard
+It was ridiculous.
+ The boy who had covered a stuffed chair in glitter and called it a throne
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The boy who faced down Snape and won,
+\emph default
+ whispered a traitorous voice, 
+\emph on
+that boy could grow into a Lord strong enough to rule, strong enough to
+ save us all 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry had been 
+\emph on
+raised
+\emph default
+ by Muggles! He was practically a mudblood himself, he wouldn't fight against
+ his adopted family 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He knows their arts, their secrets and their methods; he can take all of
+ the Muggles' science and use it against them, alongside our own power as
+ wizards.
+\end_layout
+
+\begin_layout Standard
+But what if he refuses? What if he's too weak?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Then,
+\emph default
+ said that inner voice, 
+\emph on
+it will have to be you, won't it, Draco Malfoy?
+\end_layout
+
+\begin_layout Standard
+And then there was a renewed hush from the crowd, as Professor Quirrell
+ opened the first envelope.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy,” said Professor Quirrell, “your wish is for… Slytherin to win the
+ House Cup.”
+\end_layout
+
+\begin_layout Standard
+There was a puzzled pause from the watching audience.
+\end_layout
+
+\begin_layout Standard
+“Yes, Professor,” said Draco in a clear voice, knowing that it was once
+ again being amplified.
+ “If you can't do that, then something else for Slytherin 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I will not award House points unfairly,” said Professor Quirrell.
+ He tapped a cheek, looking thoughtful.
+ “Which makes your wish difficult enough to be interesting.
+ Would you like to say anything about why, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy?”
+\end_layout
+
+\begin_layout Standard
+Draco turned from the Defense Professor, gazed out at the crowd from against
+ that backdrop of platinum and emeralds.
+ Not all of Slytherin had cheered for Dragon Army, there were anti-Malfoy
+ factions who had expressed that dissatisfaction by supporting the Boy-Who-Lived
+, or even Granger; and those factions would be encouraged greatly by what
+ Zabini had done.
+ He needed to remind them that Slytherin meant Malfoy and Malfoy meant Slytherin
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“No,” said Draco.
+ “They're Slytherins, they'll understand.”
+\end_layout
+
+\begin_layout Standard
+There was some laughter from the audience, especially in Slytherin, even
+ from some students who would have called themselves anti-Malfoy a moment
+ earlier.
+\end_layout
+
+\begin_layout Standard
+Flattery was a lovely thing.
+\end_layout
+
+\begin_layout Standard
+Draco turned back to look at Professor Quirrell again, and was surprised
+ to see an embarrassed look on Granger's face.
+\end_layout
+
+\begin_layout Standard
+“And for Miss Granger…” said Professor Quirrell.
+ There was the sound of a tearing envelope.
+ “Your wish is for… Ravenclaw to win the House Cup?”
+\end_layout
+
+\begin_layout Standard
+There was considerable laughter from the audience, including a chuckle from
+ Draco.
+ He hadn't thought Granger played that game.
+\end_layout
+
+\begin_layout Standard
+“Well, um,” said Granger, sounding like she was suddenly stumbling over
+ a memorized speech, “I meant to say, that…” She took a deep breath.
+ “There were soldiers from every House in my army, and I don't mean to slight
+ any of them.
+ But Houses should still count for something, too.
+ It was sad when students in the same House were hexing each other just
+ because they were in different armies.
+ People should be able to rely on whoever's in their House.
+ That's why Godric Gryffindor, and Salazar Slytherin, and Rowena Ravenclaw,
+ and Helga Hufflepuff created the four Houses of Hogwarts in the first place.
+ I'm the General of Sunshine, but even before that, I'm Hermione Granger
+ of Ravenclaw, and I'm proud to be part of a House that's eight hundred
+ years old.”
+\end_layout
+
+\begin_layout Standard
+“Well said, Miss Granger!” said Dumbledore's booming voice.
+\end_layout
+
+\begin_layout Standard
+Harry Potter was frowning, and something tickled at the edge of Draco's
+ recognition.
+\end_layout
+
+\begin_layout Standard
+“An interesting sentiment, Miss Granger,” said Professor Quirrell.
+ “But there are times when it is good for a Slytherin to have friends in
+ Ravenclaw, or for a Gryffindor to have friends in Hufflepuff.
+ Surely it would be best if you could rely both on your friends in your
+ House, and also your friends in your army?”
+\end_layout
+
+\begin_layout Standard
+Granger's eyes flicked briefly toward the watching students and teachers,
+ and she said nothing.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell nodded as though to himself, and then turned back to
+ the podium, and took up and tore open the last envelope.
+ Beside Draco, Harry Potter visibly tensed up as the Defense Professor drew
+ forth the parchment.
+ “And Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter wishes for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+There was a pause as Professor Quirrell looked at the parchment.
+\end_layout
+
+\begin_layout Standard
+Then, without any change of expression on Professor Quirrell's face, the
+ sheet of parchment burst into flames, and burned with a brief, intense
+ fire that left only drifting black dust sprinkling down from his hand.
+\end_layout
+
+\begin_layout Standard
+“Please confine yourself to the possible, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said Professor Quirrell, sounding very dry indeed.
+\end_layout
+
+\begin_layout Standard
+There was a long pause; Harry, standing beside Draco, looked rather shaken.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What in Merlin's name did he ask for?
+\end_layout
+
+\begin_layout Standard
+“I do hope,” said Professor Quirrell, “that you prepared another wish, if
+ I could not grant that one.”
+\end_layout
+
+\begin_layout Standard
+There was another pause.
+\end_layout
+
+\begin_layout Standard
+Harry drew a deep breath.
+ “I didn't,” he said, “but I already thought of another one.” Harry Potter
+ turned to look out at the audience, and his voice firmed as he spoke.
+ “People fear traitors because of the damage the traitor does directly,
+ the soldiers they shoot or the secrets they tell.
+ But that's only part of the danger.
+ What people do because they're 
+\emph on
+afraid
+\emph default
+ of traitors also costs them.
+ I used that strategy today against Sunshine and Dragon.
+ I didn't tell my traitors to cause as much direct damage as possible.
+ I told them to act in the way that would create the most distrust and confusion
+, and make the generals do the most costly things to try and stop them from
+ doing it again.
+ When there are just a few traitors and a whole country opposing them, it
+ stands to reason that what a few traitors do might be less damaging than
+ what a whole country does to stop them, that the cure might be worse than
+ the disease 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the Defense Professor, his voice suddenly cutting, “the lesson
+ of history is that you are simply wrong.
+ Your parents' generation did too little to unify themselves, not too much!
+ This whole country almost fell, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, though you were not there to see it.
+ I suggest that you ask your dorm-mates in Ravenclaw how many of them have
+ lost family to the Dark Lord.
+ Or if you are wiser, do 
+\emph on
+not
+\emph default
+ ask! 
+\emph on
+Do
+\emph default
+ you have a wish to make, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+“If you don't mind,” said the mild voice of Albus Dumbledore, “I should
+ like to hear what the Boy-Who-Lived has to say.
+ He has more experience than either of us at stopping wars.”
+\end_layout
+
+\begin_layout Standard
+A few people laughed, but not many.
+\end_layout
+
+\begin_layout Standard
+Harry Potter's gaze moved to Dumbledore, and he looked considering for a
+ moment.
+ “I'm not saying you're wrong, Professor Quirrell.
+ In the last war, people didn't act together, and a whole country almost
+ fell to a few dozen attackers, and yes, that was pathetic.
+ And if we make the same mistake next time, yes, that'll be even more pathetic.
+ But you never fight the same war twice.
+ And the problem is, the enemy is 
+\emph on
+also
+\emph default
+ allowed to be smart.
+ If you're divided you're vulnerable in one way; but when you try to unite,
+ then you face other risks, and other costs, and the enemy will try to take
+ advantage of those, too.
+ You can't stop thinking at just one level of the game.”
+\end_layout
+
+\begin_layout Standard
+“Simplicity also has a great deal to commend it, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the dry voice of the Defense Professor.
+ “I do hope that you have learned something this day about the dangers of
+ strategies more complicated than uniting your people and attacking your
+ enemy.
+ And if all this does not tie into your wish somehow, I shall be quite annoyed.”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Harry Potter, “it was pretty difficult coming up with a wish
+ to symbolize the costs of unity.
+ But the problem of acting together isn't just for wars, it's something
+ we have to solve all our lives, every day.
+ If everyone is coordinating using the same rules, and the rules are stupid,
+ then if 
+\emph on
+one
+\emph default
+ person decides to do things differently, they're breaking the rules.
+ But if 
+\emph on
+everyone
+\emph default
+ decides to do things differently, they can.
+ It's exactly the same problem of everyone needing to act together.
+ But for the 
+\emph on
+first
+\emph default
+ person who speaks out, it seems like they're going against the crowd.
+ And if you thought that the only important thing was that people should
+ always be unified, then you could never change the game, no matter how
+ stupid the rules.
+ So my own wish, to symbolize what happens when people unite in the wrong
+ direction, is that in Hogwarts we should play Quidditch without the Snitch.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+WHAT?
+\emph default
+” screamed a hundred voices in the crowd, as Draco's jaw dropped.
+\end_layout
+
+\begin_layout Standard
+“The Snitch ruins the whole game,” said Harry Potter.
+ “Everything the other players do ends up being irrelevant.
+ It would make overwhelmingly more sense to just buy a clock.
+ It's one of those incredibly stupid things you don't notice just because
+ you grew up with it, that people only do because everyone else is doing
+ it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+But by that point Harry Potter's voice could no longer be heard, because
+ the riot had started.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The riot ended around fifteen seconds later, after a gigantic spout of fire
+ blasted out of the highest tower of Hogwarts to the sound of a hundred
+ thunders.
+ Draco hadn't known Dumbledore could 
+\emph on
+do
+\emph default
+ that.
+\end_layout
+
+\begin_layout Standard
+The students sat down again very carefully and quietly.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was laughing, without pause.
+ “So be it, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ Your will be done.” The Defense Professor paused deliberately.
+ “Of course, I only promised 
+\emph on
+one
+\emph default
+ cunning plot.
+ And that is all that the three of you will get.”
+\end_layout
+
+\begin_layout Standard
+Draco had been half-expecting the words earlier, but now they still came
+ as a shock; Draco exchanged rapid glances with Granger, they would have
+ been the obvious allies but their wishes were directly opposed 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“You mean,” said Harry, “we have to all agree on a wish?”
+\end_layout
+
+\begin_layout Standard
+“Oh, that would be 
+\emph on
+far
+\emph default
+ too much to ask,” said Professor Quirrell.
+ “The three of you have no common enemy, do you?”
+\end_layout
+
+\begin_layout Standard
+And for one brief moment, so fast that Draco thought he might have imagined
+ it, the Defense Professor's eyes flicked in the direction of Dumbledore.
+\end_layout
+
+\begin_layout Standard
+“No,” said Professor Quirrell, “I mean that I shall grant three wishes using
+ a single plot.”
+\end_layout
+
+\begin_layout Standard
+There was a confused silence.
+\end_layout
+
+\begin_layout Standard
+“You can't do that,” Harry said flatly from beside Draco.
+ “Not even 
+\emph on
+I
+\emph default
+ can do that.
+ Two of those wishes are mutually incompatible.
+ It's 
+\emph on
+logically impossible 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+” and then Harry cut himself off.
+\end_layout
+
+\begin_layout Standard
+“You're a few years too young to tell me what I can't do, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said Professor Quirrell, with a brief dry smile.
+\end_layout
+
+\begin_layout Standard
+Then the Defense Professor turned back to the watching students.
+ “Truthfully, I have no confidence in your ability to learn this day's lesson.
+ Go home, and enjoy your time with your families, or what's left of them,
+ while they still live.
+ My own family is long since dead at the Dark Lord's hand.
+ I shall see you all when classes resume.”
+\end_layout
+
+\begin_layout Standard
+In the speechless silence that resulted, Professor Quirrell already turning
+ to walk off the stage, Draco heard the Defense Professor's voice say, quietly
+ and no longer amplified, “But you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I would speak to now.”
+\end_layout
+
+\end_body
+\end_document
