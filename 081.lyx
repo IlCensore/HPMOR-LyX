@@ -1,0 +1,2081 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume3_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Taboo Tradeoffs, Part III
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+I
+\end_layout
+
+\end_inset
+
+n
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ rising half-circles of dark stone, a great sea of upraised hands.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Lords and Ladies of the Wizengamot, in plum-colored robes marked with
+ a silver `W', stared down in stern rebuke at a young girl trembling in
+ chains.
+ If they had, in any particular ethical system, damned themselves, they
+ clearly thought quite highly of themselves for having done so.
+\end_layout
+
+\begin_layout Standard
+Harry's breath was trembling in his chest.
+ His dark side had come up with a plan 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and then rotated itself back out again because speaking too icily would
+ not be to Hermione's advantage; a fact which the only-half-cold Harry had
+ somehow not realized…
+\end_layout
+
+\begin_layout Standard
+“The vote carries, in favor,” intoned the secretary, when all the tallying
+ was done, and the upraised hands fell back down.
+ “The Wizengamot recognizes the blood debt owed by Hermione Granger to House
+ Malfoy for the attempted murder of its scion and ending of its line.”
+\end_layout
+
+\begin_layout Standard
+Lucius Malfoy was smiling in grim satisfaction.
+ “And now,” said the white-maned wizard, “I say that her debt shall be paid
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Harry clenched his fists beneath the bench and shouted, “By the debt owed
+ from House Malfoy to House Potter!”
+\end_layout
+
+\begin_layout Standard
+“Silence!” snapped the woman in too much pink makeup sitting next to Minister
+ Fudge.
+ “You've disrupted these proceedings quite enough already! Aurors, escort
+ him out!”
+\end_layout
+
+\begin_layout Standard
+“Wait,” said Augusta Longbottom from the top tier of seats.
+ “What debt is this?”
+\end_layout
+
+\begin_layout Standard
+Lucius's hands whitened on his cane.
+ “House Malfoy owes no debt to you!”
+\end_layout
+
+\begin_layout Standard
+It wasn't the world's most solid hope, it was based on one newspaper article
+ from a woman who'd been False-Memory-Charmed, but Rita Skeeter had seemed
+ to find it plausible, that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Weasley had allegedly owed James Potter a debt because…
+\end_layout
+
+\begin_layout Standard
+“I'm surprised you've forgotten,” Harry said evenly.
+ “Surely it was a cruel and painful period of your life, laboring under
+ the Imperius curse of He-Who-Must-Not-Be-Named, until you were freed of
+ it by the efforts of House Potter.
+ By my mother, Lily Potter, who died for it, and by my father, James Potter,
+ who died for it, and by me, of course.”
+\end_layout
+
+\begin_layout Standard
+There was a brief silence within the Most Ancient Hall.
+\end_layout
+
+\begin_layout Standard
+“Why, what an excellent point, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the old witch who'd been identified as Madam Bones.
+ “I, too, am quite surprised that Lord Malfoy would forget such a significant
+ event.
+ It must have been such a happy day for him.”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Augusta Longbottom.
+ “He must have been so grateful.”
+\end_layout
+
+\begin_layout Standard
+Madam Bones nodded.
+ “House Malfoy could not possibly deny that debt 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ unless, perhaps, Lord Malfoy is to tell us that he has misremembered something?
+ I should take quite a professional interest in that.
+ We are always trying to improve our picture of those dark days.”
+\end_layout
+
+\begin_layout Standard
+Lucius Malfoy's hands gripped the silver snake-handle of his cane like he
+ was about to strike with it, unleash whatever power it kept 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Then the Lord Malfoy seemed to relax, and a chill smile came over his face.
+ “Of course,” he said easily.
+ “I do confess I had not understood, but the child is quite correct.
+ But I do not quite think the two debts cancel 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ House Potter was only trying to save itself, after all 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Not so,” Dumbledore said from above.
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and therefore,” intoned Lucius Malfoy, “I demand monetary compensation
+ as well, for the redemption of the blood debt owed my son.
+ That, too, is the law.”
+\end_layout
+
+\begin_layout Standard
+Harry felt a strange inward flinch.
+ That had also been in the newspaper article, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Weasley had demanded an additional ten thousand Galleons 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“How much?” said the Boy-Who-Lived.
+\end_layout
+
+\begin_layout Standard
+Lucius was still wearing the cold smile.
+ “One hundred thousand Galleons.
+ If you have not that much in your vault, I suppose I must accept a promissory
+ note for the remainder.”
+\end_layout
+
+\begin_layout Standard
+A roar of protest went up from Dumbledore's side of the room, even some
+ of the plum-colored robes in the middle looked shocked.
+\end_layout
+
+\begin_layout Standard
+“Shall we put it to vote of the Wizengamot?” said Lucius Malfoy.
+ “I think few of us would like to see the little murderess go free.
+ By a show of hands, that additional compensation of one hundred thousand
+ Galleons would be required to cancel the debt!”
+\end_layout
+
+\begin_layout Standard
+The clerk began tallying, but that vote was also clear.
+\end_layout
+
+\begin_layout Standard
+Harry stood there, breathing deeply.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ You'd better not even have to think about this,
+\emph default
+ Harry's inner Gryffindor said threateningly.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ It's a major purchase,
+\emph default
+ observed Ravenclaw.
+ 
+\emph on
+We ought to spend a lot of time thinking about it.
+\end_layout
+
+\begin_layout Standard
+It shouldn't have been hard.
+ It 
+\emph on
+shouldn't
+\emph default
+ have.
+ Two million pounds was only money, and money was only worth what it could
+ buy…
+\end_layout
+
+\begin_layout Standard
+It was strange how much psychological attachment you could have to `only
+ money', or how painful it could be to imagine losing a bank vault full
+ of gold that you hadn't even imagined existed just one year earlier.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Kimball Kinnison wouldn't hesitate,
+\emph default
+ said Gryffindor.
+
+\emph on
+ Seriously.
+ Like, snap decision.
+ What sort of hero are you? I already hate you just for having to think
+ about it for longer than 50 milliseconds.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ This is real life,
+\emph default
+ said Ravenclaw.
+ 
+\emph on
+Losing all your money is a lot more painful for real people in real life
+ than in heroic books.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ What?
+\emph default
+ demanded Gryffindor.
+ 
+\emph on
+Whose side are you on?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ I wasn't advocating for a particular answer,
+\emph default
+ said Ravenclaw, 
+\emph on
+I was just saying it because it was true.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Could a hundred thousand Galleons be used to save more than one life if
+ spent some other way?
+\emph default
+ said Slytherin.
+ 
+\emph on
+We have research to do, battles to fight, the difference between being 40,000
+ Galleons rich and being 60,000 Galleons in debt is not trivial 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ So we'll just use one of our ways to make money fast and earn it all back,
+\emph default
+ said Hufflepuff.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ It's not certain those will work,
+\emph default
+ said Slytherin,
+\emph on
+ and a lot of them require starting cash 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Personally,
+\emph default
+ said Gryffindor, 
+\emph on
+I vote that we save Hermione and then gang up and kill our inner Slytherin.
+\end_layout
+
+\begin_layout Standard
+The clerk's voice said that the tally had been recorded and the vote had
+ passed…
+\end_layout
+
+\begin_layout Standard
+Harry's lips opened.
+\end_layout
+
+\begin_layout Standard
+“I accept your offer,” said Harry's lips, without any hesitation, without
+ any decision having been made; just as if the internal debate had been
+ pretense and illusion, the true controller of the voice having been no
+ part of it.
+\end_layout
+
+\begin_layout Standard
+It was clear that Lucius Malfoy had not been expecting that reply.
+\end_layout
+
+\begin_layout Standard
+The Lord Malfoy's mask of calm shattered, his eyes widened, he stared at
+ Harry in sheer blank astonishment.
+ His mouth had opened slightly, though he wasn't speaking, and if he was
+ making any peculiar noises it couldn't be heard over the roar of simultaneous
+ gasps from the Wizengamot 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A tap of stone silenced the crowd.
+\end_layout
+
+\begin_layout Standard
+“No,” said the voice of Dumbledore.
+\end_layout
+
+\begin_layout Standard
+Harry's head jerked around to stare at the ancient wizard.
+\end_layout
+
+\begin_layout Standard
+Dumbledore's lined face was pale, the silver beard was visibly trembling,
+ he looked like he was in the final throes of a terminal illness.
+ “I'm 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ sorry, Harry 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but this choice is not yours 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ for I am still the guardian of your vault.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” said Harry, too shocked to compose his reply.
+\end_layout
+
+\begin_layout Standard
+“I cannot let you go into debt to Lucius Malfoy, Harry! I cannot! You do
+ not know 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ you do not realize 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ DIE.
+\end_layout
+
+\begin_layout Standard
+Harry didn't even know which part of himself had spoken, it might have been
+ a unanimous vote, the pure rage and fury pouring through him.
+ For an instant he thought that the sheer force of the anger might take
+ magical wing and fly out to strike the Headmaster, send him tumbling back
+ dead from the podium 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+But when that mental voice had spoken, the old wizard was still standing
+ there, gazing at Harry, long dark wand in his right hand, short black rod
+ in his left.
+\end_layout
+
+\begin_layout Standard
+And Harry's eyes also went to the red-golden bird with its claws resting
+ on the shoulder of Dumbledore's black robes, silent when no phoenix should
+ have been silent.
+ “Fawkes,” Harry said, his voice sounding strange in his own ears, “can
+ you scream at him for me?”
+\end_layout
+
+\begin_layout Standard
+The fiery bird on the old wizard's shoulder didn't scream.
+ Maybe the Wizengamot had demanded that a spell of silence be put on the
+ creature, otherwise it probably would have been screaming the whole time.
+ But Fawkes hit his master, one golden wing buffeting the old wizard's head.
+\end_layout
+
+\begin_layout Standard
+“I cannot, Harry!” the old wizard said, the agony clear in his voice.
+ “I am doing as I must do!”
+\end_layout
+
+\begin_layout Standard
+And Harry knew, then, as he looked at the red-golden bird, what he had to
+ do as well.
+ It should have been obvious from the beginning, that solution.
+\end_layout
+
+\begin_layout Standard
+“Then I too will do what I must,” Harry said up to Dumbledore, as though
+ the two of them stood alone in the room.
+ “You do realize that, don't you?”
+\end_layout
+
+\begin_layout Standard
+The old wizard shook his trembling head.
+ “You will change your mind when you are older 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I'm not talking about that,” Harry said, his voice still strange in his
+ own ears.
+ “I mean that I will not allow Hermione Granger to be eaten by Dementors
+ under any circumstances.
+ Period.
+ Regardless of what any law says, and no matter what I have to do to stop
+ it.
+ Do I still need to spell it out?”
+\end_layout
+
+\begin_layout Standard
+A strange male voice spoke from somewhere far away, “Be sure that the girl
+ is taken directly to Azkaban, and put under extra guard.”
+\end_layout
+
+\begin_layout Standard
+Harry waited, staring at the old wizard, and then spoke again.
+ “I will go to Azkaban,” Harry said to the old wizard, as though they stood
+ alone in the world, “before Hermione can be taken there, and start snapping
+ my fingers.
+ It may cost me my life, but by the time she gets there, there won't be
+ an Azkaban anymore.”
+\end_layout
+
+\begin_layout Standard
+Some members of the Wizengamot gasped in surprise.
+\end_layout
+
+\begin_layout Standard
+Then a greater number started laughing.
+\end_layout
+
+\begin_layout Standard
+“How would you even get there, little boy?” someone said, from among those
+ who were laughing.
+\end_layout
+
+\begin_layout Standard
+“I have my ways of going places,” said the boy's distant voice.
+ Harry kept his eyes on Dumbledore, on the old wizard staring at him in
+ shock.
+ Harry didn't look directly at Fawkes, didn't give his plan away; but in
+ his mind he prepared to summon the phoenix to transport him, prepared to
+ fill his mind with light and fury, to call for the fire-bird with all his
+ might, he might have to do it upon the instant if Dumbledore pointed his
+ wand 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Would you truly?” the old wizard said to Harry, also as if the two of them
+ stood alone in the room.
+\end_layout
+
+\begin_layout Standard
+The room went silent again as everyone stared in shock at the Chief Warlock
+ of the Wizengamot, who seemed to be taking the mad threat completely seriously.
+\end_layout
+
+\begin_layout Standard
+The old wizard's eyes were locked only on Harry.
+ “Would you risk everything 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ everything 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ only for her?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said back in reply.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ That's the wrong answer, you know,
+\emph default
+ said Slytherin.
+
+\emph on
+ Seriously.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ But it's the true answer.
+\end_layout
+
+\begin_layout Standard
+“You will not see reason?” said the old wizard.
+\end_layout
+
+\begin_layout Standard
+“Apparently not,” Harry said back.
+\end_layout
+
+\begin_layout Standard
+The gazes stayed locked.
+\end_layout
+
+\begin_layout Standard
+“This is terrible folly,” said the old wizard.
+\end_layout
+
+\begin_layout Standard
+“I am aware of this,” answered the hero.
+ “Now get out of my way.”
+\end_layout
+
+\begin_layout Standard
+Strange light glinted in the ancient blue eyes.
+ “As you will, Harry Potter, but know that this is not over.”
+\end_layout
+
+\begin_layout Standard
+The rest of the world faded back into existence.
+\end_layout
+
+\begin_layout Standard
+“I withdraw my objection,” said the old wizard, “Harry Potter may do as
+ he wishes,” and the Wizengamot exploded in a roar of shock, only to be
+ silenced by a final tap of the stone rod.
+\end_layout
+
+\begin_layout Standard
+Harry turned his head back to look at Lord Malfoy, who looked like he'd
+ seen a cat turn into a person and start eating other cats.
+ To call the look confused did not begin to describe it.
+\end_layout
+
+\begin_layout Standard
+“You would truly…” Lucius Malfoy said slowly.
+ “You would truly pay a hundred thousand Galleons, to save one mudblood
+ girl.”
+\end_layout
+
+\begin_layout Standard
+“I think there's about forty thousand in my Gringotts vault,” Harry said.
+ It was strange how that was 
+\emph on
+still
+\emph default
+ causing more internal pain than the thought of taking an over-fifty-percent
+ risk to his life to destroy Azkaban.
+ “As for the other sixty thousand 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ what are the rules, exactly?”
+\end_layout
+
+\begin_layout Standard
+“It comes due when you graduate Hogwarts,” the old wizard said from high
+ above.
+ “But Lord Malfoy has certain rights over you before then, I fear.”
+\end_layout
+
+\begin_layout Standard
+Lucius Malfoy stood motionless, frowning down at Harry.
+ “Who is she to you, then? 
+\emph on
+What
+\emph default
+ is she to you, that you would pay so much to keep her from harm?”
+\end_layout
+
+\begin_layout Standard
+“My friend,” the boy said quietly.
+\end_layout
+
+\begin_layout Standard
+Lucius Malfoy's eyes narrowed.
+ “By the report I received, you cannot cast the Patronus Charm, and Dumbledore
+ knows this.
+ The power of a single Dementor nearly killed you.
+ You would not dare venture near Azkaban in your own person 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“That was in January,” said Harry.
+ “This is April.”
+\end_layout
+
+\begin_layout Standard
+Lucius Malfoy's eyes remained cool and calculating.
+ “You pretend you can destroy Azkaban, and Dumbledore pretends to believe
+ it.”
+\end_layout
+
+\begin_layout Standard
+Harry did not reply.
+\end_layout
+
+\begin_layout Standard
+The white-haired man turned slightly, toward the center of the half-circle,
+ as though to address the greater Wizengamot.
+ “I withdraw my offer!” shouted the Lord of Malfoy.
+ “I will not accept the debt to House Potter in payment, not even for a
+ hundred thousand Galleons! The girl's blood debt to House Malfoy stands!”
+\end_layout
+
+\begin_layout Standard
+Again the roar of many voices.
+ “Dishonorable!” someone cried.
+ “You acknowledge the debt to House Potter, and yet you would 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” and then that voice cut off.
+\end_layout
+
+\begin_layout Standard
+“I acknowledge the debt, but the law does not strictly oblige me to accept
+ it in cancellation,” said Lord Malfoy with a grim smile.
+ “The girl is no part of House Potter; the debt I owe House Potter is no
+ debt to her.
+ As for the 
+\emph on
+dishonor
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Lucius Malfoy paused.
+ “As for the grave shame I feel at my ingratitude toward the Potters, who
+ have done so much for me 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Lucius Malfoy bowed his head.
+ “May my ancestors forgive me.”
+\end_layout
+
+\begin_layout Standard
+“Well, boy?” called the scarred man sitting at Lord Malfoy's right hand.
+ “Go and destroy Azkaban, then!”
+\end_layout
+
+\begin_layout Standard
+“I'd like to see that,” said another voice.
+ “Will you be selling tickets?”
+\end_layout
+
+\begin_layout Standard
+It went without saying that Harry didn't pick this particular moment to
+ give up.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ The girl is no part of House Potter 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He had, in fact, seen the obvious way out of the dilemma almost instantly.
+\end_layout
+
+\begin_layout Standard
+It might have taken him longer if he hadn't recently overheard a number
+ of conversations between older Ravenclaw girls, and read a certain number
+ of Quibbler stories.
+\end_layout
+
+\begin_layout Standard
+He was, nonetheless, having trouble accepting it.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ This is ridiculous,
+\emph default
+ said a part of Harry which had just dubbed itself the Internal Consistency
+ Checker.
+ 
+\emph on
+Our actions here are completely incoherent.
+ First you feel less emotional reluctance to risk your bloody LIFE and probably
+ DIE for Hermione, than to part with a stupid heap of gold.
+ And now you're balking just at getting married?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ SYSTEM ERROR.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ You know what?
+\emph default
+ said Internal Consistency Checker.
+
+\emph on
+ You're stupid.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ I didn't say no,
+\emph default
+ thought Harry.
+ 
+\emph on
+I was just saying SYSTEM ERROR.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ I vote for destroying Azkaban,
+\emph default
+ said Gryffindor.
+ 
+\emph on
+It needs to be done anyway.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Really, really stupid,
+\emph default
+ said Internal Consistency Checker.
+ 
+\emph on
+Oh, screw this, I'm assuming control of our body.
+\end_layout
+
+\begin_layout Standard
+The boy took a deep breath, and opened his mouth 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+By this point Harry Potter had entirely forgotten the existence of Professor
+ McGonagall, who had been sitting there this whole time undergoing a number
+ of interesting changes of facial expression which Harry had not been looking
+ at because he was distracted.
+ It would have been overly harsh to say that Harry had forgotten her because
+ he did not consider her a PC.
+ It could be more kindly said that Professor McGonagall was not visibly
+ a solution to any of his current problems, and therefore she was not part
+ of the universe.
+\end_layout
+
+\begin_layout Standard
+So Harry, who at this point had a fair amount of adrenaline in his bloodstream,
+ startled and jumped quite visibly when Professor McGonagall, her eyes now
+ blazing with impossible hope and the tears on her cheek half-dried, leapt
+ to her feet and cried, “
+\emph on
+With me, Mr.
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph on
+Potter!
+\emph default
+” and, without waiting for a reply, tore down the stairs that led to the
+ bottom platform where waited a chair of dark metal.
+\end_layout
+
+\begin_layout Standard
+It took a moment, but Harry ran after; though it took him longer to reach
+ the bottom, after Professor McGonagall vaulted half the stairs with a strange
+ catlike motion and landed with the astonished-looking Auror trio already
+ pointing their wands at her.
+\end_layout
+
+\begin_layout Standard
+“Miss Granger!” cried Professor McGonagall.
+ “Can you speak yet?”
+\end_layout
+
+\begin_layout Standard
+Much as with Professor McGonagall, there was a certain sense in which it
+ could be said that Harry had forgotten about the existence of Hermione
+ Granger, because Harry had been tilting his neck back to look upward rather
+ than downward, and because he hadn't considered her a solution to any of
+ his current problems.
+ Though it was hardly certain, in fact it wasn't at all probable, that Harry
+ remembering to look at Hermione or think about what she must be feeling,
+ would have helped anything in the slightest.
+\end_layout
+
+\begin_layout Standard
+Harry reached the bottom of the stairs and saw Hermione Granger full on
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Without thinking, without being able to help himself, Harry shut his eyes,
+ but he'd seen.
+\end_layout
+
+\begin_layout Standard
+Her school robes around her neck, soaked all the way through with tears.
+\end_layout
+
+\begin_layout Standard
+The way she'd been looking away from 
+\emph on
+him
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+And the eye of memory and sympathy, which could not be shut, which could
+ not look away, knew that Hermione had recounted the worst shame of her
+ life in front of the nobility of magical Britain and Professor McGonagall
+ and Dumbledore and Harry; and then been sentenced to Azkaban where she
+ would be exposed to darkness and cold and all her worst memories until
+ she went mad and died; and then she'd heard that Harry was going to give
+ away all his money and go into debt to save her, and maybe even sacrifice
+ his life
+\end_layout
+
+\begin_layout Standard
+and with the Dementor standing only a few paces behind her
+\end_layout
+
+\begin_layout Standard
+she hadn't said anything…
+\end_layout
+
+\begin_layout Standard
+“Y-yes,” whispered the voice of Hermione Granger.
+ “I c-can talk.”
+\end_layout
+
+\begin_layout Standard
+Harry opened his eyes again and saw her face, now looking at him.
+ It didn't say anything like what he thought Hermione was feeling, faces
+ couldn't say anything that complicated, all facial muscles could do was
+ contort themselves into knots.
+\end_layout
+
+\begin_layout Standard
+“H-H-Harry, I-I'm so, I'm so 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Shut up,” Harry suggested.
+\end_layout
+
+\begin_layout Standard
+“s-s-sorry 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“If you'd never met me on the train you wouldn't be in any trouble right
+ now.
+ So shut up,” said Harry Potter.
+\end_layout
+
+\begin_layout Standard
+“Both of you stop being silly,” Professor McGonagall said in her firm Scottish
+ accent (it was strange how much that helped).
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, hold out your wand so that Miss Granger's fingers can touch it.
+ Miss Granger, repeat after me.
+ Upon my life and magic 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Harry did as he was bid, thrusting his wand forward to touch Hermione's
+ fingers; and then Hermione's faltering voice said, “Upon my life and magic
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I swear service to the House of Potter 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+And Hermione, without waiting for any further instructions, said, the words
+ spilling out of her in a rush, “I swear service to the House of Potter,
+ to obey its Master or Mistress, and stand at their right hand, and fight
+ at their command, and follow where they go, until the day I die.”
+\end_layout
+
+\begin_layout Standard
+All those words had been blurted out in a desperate gasp before Harry could
+ have thought or said anything, if he'd been mad enough to interrupt.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, repeat these words,” said Professor McGonagall.
+ “I, Harry, heir and last scion of the Potters, accept your service, until
+ the end of the world and its magic.”
+\end_layout
+
+\begin_layout Standard
+Harry took a breath and said, “I, Harry, heir and last scion of the Potters,
+ accept your service, until the end of the world and its magic.”
+\end_layout
+
+\begin_layout Standard
+“That's it,” said Professor McGonagall.
+ “Well done.”
+\end_layout
+
+\begin_layout Standard
+Harry looked up, and saw that the entire Wizengamot, whose existence he'd
+ forgotten, was staring at them.
+\end_layout
+
+\begin_layout Standard
+And then Minerva McGonagall, who 
+\emph on
+was
+\emph default
+ Head of House Gryffindor even if she didn't always act like it, looked
+ up high above at where Lucius Malfoy stood; and she said to him before
+ the entire Wizengamot, “I regret every point I ever gave you in Transfiguration
+, you vile little worm.”
+\end_layout
+
+\begin_layout Standard
+Whatever Lucius was about to say in reply was silenced by a tap of the short
+ rod in Dumbledore's hand.
+ “Ahem!” said the old wizard from his podium of dark stone.
+ “This session has carried on quite considerably, and if it is not dismissed
+ soon, some of us may miss their entire luncheon.
+ The law of this matter is clear.
+ You have already voted on the terms of the bargain, and Lord Malfoy cannot
+ legally decline it.
+ As we have far exceeded our allotted time, I now, in accordance with the
+ last decision of the survivors of the eighty-eighth Wizengamot, adjourn
+ this session.”
+\end_layout
+
+\begin_layout Standard
+The old wizard tapped the rod of dark stone three times.
+\end_layout
+
+\begin_layout Standard
+“You fools!” shouted Lucius Malfoy.
+ The white hair was shaking as though in a wind, the face beneath was pale
+ with fury.
+ “Do you think you'll get away with what you've done today? Do you think
+ that girl can try to murder my son and escape unscathed?”
+\end_layout
+
+\begin_layout Standard
+The toad-like pink-makeup woman, whose name Harry could no longer remember,
+ was standing up from her seat.
+ “Why, of course not,” she said with a sickening smile.
+ “After all, the girl
+\emph on
+ is
+\emph default
+ still a murderess, and I think the Ministry shall be watching her affairs
+ quite closely 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it hardly seems wise that she should be allowed to wander the streets,
+ after all 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Harry was fed up at this point.
+\end_layout
+
+\begin_layout Standard
+Without waiting to listen, Harry turned on his heel and strode forward in
+ long steps toward 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The horror only he could truly see, the absence of color and space, the
+ wound in the world, above which floated a tattered cloak; most imperfectly
+ guarded by a running moonlit squirrel and fluttering silver sparrow.
+\end_layout
+
+\begin_layout Standard
+His dark side had also noticed, when it was looking through the entire room
+ for anything that could possibly be used as a weapon, that the enemy had
+ been foolish enough to bring a Dementor into Harry's presence.
+ That was a powerful weapon indeed, and one that Harry might wield better
+ than its supposed masters.
+ There had been a time in Azkaban when Harry had told twelve Dementors to
+ turn and go, and they had gone.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ The Dementors are Death, and the Patronus Charm works by thinking about
+ happy thoughts instead of Death.
+\end_layout
+
+\begin_layout Standard
+If Harry's theory was correct, that one sentence would be all it took to
+ pop the Aurors' Patronus Charms like a soap bubble, and ensure that nobody
+ within reach of his voice could cast another one.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ I am going to cancel the Patronus Charms and prevent any more Patronuses
+ from being cast.
+ And then my Dementor, flying faster than any broomstick, is going to Kiss
+ everyone here who voted to send a twelve-year-old girl to Azkaban.
+\end_layout
+
+\begin_layout Standard
+Say that, to set up the if-then expectation, and wait for people to understand
+ and laugh.
+ Then speak the fatal truth; and when the Aurors' Patronuses winked out
+ to prove the point, either people's
+\emph on
+ anticipations
+\emph default
+ of the mindless void, or Harry's threat of its destruction, would make
+ the Dementor obey.
+ Those who had sought to compromise with the darkness would be consumed
+ by it.
+\end_layout
+
+\begin_layout Standard
+It was the other solution his dark side had devised.
+\end_layout
+
+\begin_layout Standard
+Ignoring the gasps rising from behind him, Harry crossed the radius of the
+ Patronuses, strode to a single pace from Death.
+ Its unhindered fear burst around him like a whirlpool, like stepping next
+ to the sucking drain of some huge bathtub emptying out its water; but with
+ the false Patronuses no longer obscuring the level on which they interacted,
+ Harry could reach the Dementor even as it could reach him.
+ Harry looked straight into the pulling vacuum and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ the Earth among the stars
+\end_layout
+
+\begin_layout Standard
+all his triumph at saving Hermione
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ someday the reality of which you are a shadow will cease to exist
+\end_layout
+
+\begin_layout Standard
+Harry took all the silver emotion that fueled his Patronus Charm and 
+\emph on
+shoved
+\emph default
+ it at the Dementor; and expected Death's shadow to flee from him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and as Harry did that, he flung his hands up and shouted “BOO!”
+\end_layout
+
+\begin_layout Standard
+The void retreated sharply away from Harry until it came up against the
+ dark stone behind.
+\end_layout
+
+\begin_layout Standard
+In the hall there was a deathly silence.
+\end_layout
+
+\begin_layout Standard
+Harry turned his back on the empty void, and looked up at where the toad-woman
+ stood.
+ She was pale beneath the pink makeup, her mouth opening and closing like
+ a fish.
+\end_layout
+
+\begin_layout Standard
+“I make you this one offer,” said the Boy-Who-Lived.
+ “I never learn that you've been interfering with me or any of mine.
+ And you never find out why the unkillable soul-eating monster is scared
+ of me.
+ Now sit down and shut up.”
+\end_layout
+
+\begin_layout Standard
+The toad-woman fell back down to her bench without a word.
+\end_layout
+
+\begin_layout Standard
+Harry looked further up.
+\end_layout
+
+\begin_layout Standard
+“A riddle, Lord Malfoy!” the Boy-Who-Lived shouted across the Most Ancient
+ Hall.
+ “I know you weren't in Ravenclaw, but try to answer this one anyway! What
+ destroys Dark Lords, frightens Dementors, and owes you sixty thousand Galleons?
+”
+\end_layout
+
+\begin_layout Standard
+For an instant Lord Malfoy stood there with eyes slightly widened; then
+ his face fell back into calm scorn, and his voice spoke coolly in reply.
+ “Are you openly threatening me, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+“I'm not threatening you,” said the Boy-Who-Lived.
+ “I'm
+\emph on
+ scaring
+\emph default
+ you.
+ There's a difference.”
+\end_layout
+
+\begin_layout Standard
+“Enough, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said Professor McGonagall.
+ “We shall be late for afternoon Transfiguration as it is.
+ And do come back here, you're still terrifying that poor Dementor.” She
+ turned to the Aurors.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Kleiner, if you would!”
+\end_layout
+
+\begin_layout Standard
+Harry strode back to them, as the Auror addressed moved forward and pressed
+ a short rod of dark metal to the dark metal chair, muttering an inaudible
+ word of dismissal.
+\end_layout
+
+\begin_layout Standard
+The chains slithered back as smoothly as they had come forth; and Hermione
+ pushed herself out of the chair as fast as she could, and half-ran and
+ half-staggered forward a few steps.
+\end_layout
+
+\begin_layout Standard
+Harry held out his arms 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and Hermione half-jumped half-fell into Professor McGonagall's arms, beginning
+ to sob hysterically.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Hmpfh,
+\emph default
+ said a voice inside Harry.
+ 
+\emph on
+I kind of thought we'd earned that one ourselves.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Oh, shut up.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall was holding Hermione so firmly that you might have
+ thought it was a mother holding her daughter, or maybe granddaughter.
+ After a few moments Hermione's sobs slowed, and then stopped.
+ Professor McGonagall suddenly shifted her stance and grabbed onto her more
+ tightly; the girl's hands were dangling limply, now, and her eyes were
+ closed
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“She'll be fine, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” Professor McGonagall said softly in Harry's direction, without
+ looking at him.
+ “She just needs a few hours in one of Madam Pomfrey's beds.”
+\end_layout
+
+\begin_layout Standard
+“All right, then,” Harry said.
+ “Let's get her to Madam Pomfrey's.”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Dumbledore, as he descended to the bottom of the dark stone
+ stairs.
+ “Let us all go home, indeed.” His blue eyes were locked on Harry, as hard
+ as sapphires.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Lords and Ladies of the Wizengamot are departing their wooden benches,
+ leaving as they came, looking rather nervous.
+\end_layout
+
+\begin_layout Standard
+The vast majority are thinking `The Dementor was frightened of the Boy-Who-Lived
+!'
+\end_layout
+
+\begin_layout Standard
+Some of the shrewder ones are already wondering how this will affect the
+ delicate power balance of the Wizengamot 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ if a new piece has appeared upon the gameboard.
+\end_layout
+
+\begin_layout Standard
+Almost none are thinking anything along the lines of `I wonder how he did
+ that.'
+\end_layout
+
+\begin_layout Standard
+This is the truth of the Wizengamot: Many are nobles, many are wealthy magnates
+ of business, a few came by their status in other ways.
+ Some of them are stupid.
+ Most are shrewd in the realms of business and politics, but their shrewdness
+ is circumscribed.
+ Almost none have walked the path of a powerful wizard.
+ They have not read through ancient books, scrutinized old scrolls, searching
+ for truths too powerful to walk openly and disguised in conundrums, hunting
+ for true magic among a hundred fantastic fairy tales.
+ When they are not looking at a contract of debt, they abandon what shrewdness
+ they possess and relax with some comfortable nonsense.
+ They believe in the Deathly Hallows, but they also believe that Merlin
+ fought the dread Totoro and imprisoned the Ree.
+ They know (because that too is part of the standard legend) that a powerful
+ wizard must learn to distinguish the truth among a hundred plausible lies.
+ But it has not occurred to them that they might do the same.
+\end_layout
+
+\begin_layout Standard
+(Why not? Why, indeed, would wizards with enough status and wealth to turn
+ their hands to almost any endeavor, choose to spend their lives fighting
+ over lucrative monopolies on ink importation? The Headmaster of Hogwarts
+ would hardly see the question; of course most people should not be powerful
+ wizards, just as most people should not be heroes.
+ The Defense Professor could explain at great and cynical length why their
+ ambitions are so trivial; to him, too, there is no puzzle.
+ Only Harry Potter, for all the books he has read, is unable to understand;
+ to the Boy-Who-Lived the life choices of the Lords and Ladies seem incomprehens
+ible 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ not what a good person would do, nor yet an evil person either.
+ Now which of the three is most wise?)
+\end_layout
+
+\begin_layout Standard
+For whatever reason, then, most of the Wizengamot has never walked the path
+ that leads to powerful wizardry; they do not seek out what is hidden.
+ For them, there is no 
+\emph on
+why.
+
+\emph default
+ There is no explanation.
+ There is no causality.
+ The Boy-Who-Lived, who was already halfway into the magisterium of legend,
+ has now been promoted all the way there; and it is a brute fact, simple
+ and unexplained, that the Boy-Who-Lived frightens Dementors.
+ Ten years earlier they were told that a one-year-old boy defeated the most
+ terrible Dark Lord of their generation, perhaps the most evil Dark Lord
+ ever to live; and they just accepted that too.
+\end_layout
+
+\begin_layout Standard
+You are not meant to question that sort of thing (they know in some unspoken
+ way).
+ If the most terrible Dark Lord in history, confronts an innocent baby 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ why, how could he 
+\emph on
+not
+\emph default
+ be vanquished? The rhythm of the play demands it.
+ You are supposed to applaud, not stand up from your seat in the audience
+ and say `Why?' It is just the story's conceit, that in the end the Dark
+ Lord is brought down by a little child; and if you are going to question
+ that, you might as well not attend the play in the first place.
+\end_layout
+
+\begin_layout Standard
+It does not occur to them to second-guess the application of such reasoning
+ to the events they have seen with their own eyes in the Most Ancient Hall.
+ Indeed, they are not consciously aware that they are using story-reasoning
+ on real life.
+ As for scrutinizing the Boy-Who-Lived with the same careful logic they
+ would use on an political alliance or a business arrangement 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ what brain would associate to 
+\emph on
+that,
+\emph default
+ when a part of the legendary magisterium is at hand?
+\end_layout
+
+\begin_layout Standard
+But there are a very few, seated on those wooden benches, who do
+\emph on
+ not
+\emph default
+ think like this.
+\end_layout
+
+\begin_layout Standard
+There are a certain few of the Wizengamot who have read through half-disintegrat
+ed scrolls and listened to tales of things that happened to someone's brother's
+ cousin, not for entertainment, but as part of a quest for power and truth.
+ They have already marked the Night of Godric's Hollow, as reported by Albus
+ Dumbledore, as an anomalous and potentially important event.
+ They have wondered why it happened, if it did happen; or if not, why Dumbledore
+ is lying.
+\end_layout
+
+\begin_layout Standard
+And when an eleven-year-old boy rises up and says “Lucius Malfoy” in that
+ cold adult voice, and goes on to speak words one simply would not expect
+ to hear from a first-year in Hogwarts, they do not allow the fact to slip
+ into the lawless blurs of legends and the premises of plays.
+\end_layout
+
+\begin_layout Standard
+They mark it as a clue.
+\end_layout
+
+\begin_layout Standard
+They add it to the list.
+\end_layout
+
+\begin_layout Standard
+This list is beginning to look somewhat alarming.
+\end_layout
+
+\begin_layout Standard
+It doesn't particularly help when the boy yells “BOO!” at a Dementor and
+ the decaying corpse presses itself flat against the opposite wall and its
+ horrible ear-hurting voice rasps, “
+\emph on
+Make him go away.
+\emph default
+”
+\end_layout
+
+\end_body
+\end_document

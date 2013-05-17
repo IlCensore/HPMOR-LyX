@@ -1,0 +1,2519 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume3_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Self Actualization Final, Responsibility
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+I
+\end_layout
+
+\end_inset
+
+t
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ was a looping, meandering alley in the midst of Hogwarts, wandering like
+ a stray lock of hair; sometimes crossing itself, it seemed, but you couldn't
+ ever get to the end if you gave into the temptation of apparent shortcuts.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At the end of the tangle, six students leaned against rough stones, robes
+ black against the grey walls and trimmed in green, eyes darting from one
+ to each other.
+ Torches burned in the windowless sconce, casting light to ward off the
+ darkness and heat to ward off the chill of the Slytherin dungeons.
+\end_layout
+
+\begin_layout Standard
+“I am 
+\emph on
+certain,
+\emph default
+” Reese Belka snapped, “absolutely
+\emph on
+ certain,
+\emph default
+ that was no true ritual.
+ Little firstie witches can't do that kind of magic, and even if they could,
+ who's ever heard of a Dark ritual which 
+\emph on
+sacrifices
+\emph default
+ a sealed horror for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+that?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Were you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said Lucian Bole.
+ “I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ after that girl snapped her fingers 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Belka's glare should have melted him.
+ “No,” she spat, “I was
+\emph on
+ not.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“That is, she wasn't naked,” drawled Marcus Flint, his broad shoulders leaning
+ back in apparent relaxation against the lumpy stone surface.
+ “Covered in chocolate frosting, yes, but not naked.”
+\end_layout
+
+\begin_layout Standard
+“This day Potter has offered great insult to our Houses,” said the grim
+ voice of Jaime Astorga.
+\end_layout
+
+\begin_layout Standard
+“Yes, well, I'm sorry to be blunt,” Randolph Lee said evenly.
+ The seventh-year duelist rubbed at his chin, where a faint fuzz of beard
+ had been allowed to grow.
+ “But when someone sticks you to the ceiling, it's a message, Astorga.
+ It's a message which says: I'm an incredibly powerful Dark Wizard who could've
+ done anything to you I damn well pleased, and I don't care if your House
+ is offended, either.”
+\end_layout
+
+\begin_layout Standard
+Robert Jugson III gave a soft, low laugh at this, a chuckle that sent chills
+ down several spines.
+ “It makes you wonder if you picked the wrong side, doesn't it? I've heard
+ tales about
+\emph on
+ messages
+\emph default
+ like that, sent at the old Dark Lord's bidding…”
+\end_layout
+
+\begin_layout Standard
+“I'm not ready to kneel to Potter just yet,” said Astorga, staring hard
+ into Jugson's eyes.
+\end_layout
+
+\begin_layout Standard
+“Neither am I,” said Belka.
+\end_layout
+
+\begin_layout Standard
+Jugson was holding his wand, and he turned it idly back and forth in his
+ fingers, pointing it up and then downward.
+ “Are you a Gryffindor or a Slytherin?” said Jugson.
+ “Everyone's got a price.
+ Everyone smart.”
+\end_layout
+
+\begin_layout Standard
+This statement produced a moment of silence.
+\end_layout
+
+\begin_layout Standard
+“Shouldn't Malfoy be here?” Bole said tentatively.
+\end_layout
+
+\begin_layout Standard
+Flint gave a dismissive flick of his fingers.
+ “Whatever Malfoy's plotting, he wants to put on an air of innocence.
+ He can't be seen missing at the same time as us.”
+\end_layout
+
+\begin_layout Standard
+“But everyone 
+\emph on
+knows
+\emph default
+ that already,” said Bole.
+ “Even in the other Houses.”
+\end_layout
+
+\begin_layout Standard
+“Yes, very clumsy,” said Belka.
+ She snorted.
+ “Malfoy or no, he's just a little firstie and we don't need him here.”
+\end_layout
+
+\begin_layout Standard
+“I will owl my father,” Jugson said softly, “and 
+\emph on
+he
+\emph default
+ will speak to Lord Malfoy himself 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Abruptly, Jugson stopped speaking.
+\end_layout
+
+\begin_layout Standard
+“I don't know about 
+\emph on
+you
+\emph default
+, dearies,” Belka said with fake sweetness, “but 
+\emph on
+I
+\emph default
+ don't plan on running scared from a false ritual, and 
+\emph on
+I'm
+\emph default
+ not done with Potter and his pet mudblood.”
+\end_layout
+
+\begin_layout Standard
+Nobody answered.
+ All their gazes were looking past her.
+\end_layout
+
+\begin_layout Standard
+Slowly, Belka turned around to see what the others were staring at.
+\end_layout
+
+\begin_layout Standard
+“You will do 
+\emph on
+nothing,
+\emph default
+” hissed their Head of House.
+ Severus Snape's face was enraged, when he spoke small spots of spittle
+ flew from his mouth, further dotting his already-dirtied robes.
+ “You fools have done 
+\emph on
+enough!
+\emph default
+ You have embarrassed my House 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+lost
+\emph default
+ to first-years 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ now you speak of embroiling noble Lords of the Wizengamot in your 
+\emph on
+pathetic
+\emph default
+ childish squabbles? 
+\emph on
+I
+\emph default
+ shall deal with this matter.
+
+\emph on
+ You
+\emph default
+ will not embarrass this House again, you will not
+\emph on
+ risk
+\emph default
+ embarrassing this House again! You are 
+\emph on
+done
+\emph default
+ with fighting witches, and if I hear otherwise 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If you thought they'd be sitting next to each other at dinnertime, after
+ that, you'd be quite mistaken.
+\end_layout
+
+\begin_layout Standard
+“What does she 
+\emph on
+want
+\emph default
+ from me?” came the plaintive cry of a boy who, for all his extensive reading
+ in the scientific literature, was still a bit naive about certain things.
+ “Did she
+\emph on
+ want
+\emph default
+ to get beaten up?”
+\end_layout
+
+\begin_layout Standard
+The upper-year Ravenclaw boys who'd sat down next to him at the dinner-table
+ exchanged swift glances with each other until, by some unspoken protocol,
+ the most experienced of their number spoke.
+\end_layout
+
+\begin_layout Standard
+“Look,” said Arty Grey, the seventh-year who was leading in their competition
+ by three witches and a Defense Professor, “the thing you've got to understand
+ is, just because she's
+\emph on
+ angry
+\emph default
+ doesn't mean you lost points.
+ Miss Granger is angry because she got all frightened and you're 
+\emph on
+there to be blamed,
+\emph default
+ you understand? But at the same time, even though she won't admit it, she'll
+ be touched that her boyfriend went to such ridiculous and frankly insane
+ lengths to protect her.”
+\end_layout
+
+\begin_layout Standard
+“This is not about 
+\emph on
+points,
+\emph default
+” ground out Harry Potter, the words visibly escaping from between his clenched
+ teeth.
+ Dinner sat ignored on the table in front of him.
+ “This is about
+\emph on
+ justice.
+
+\emph default
+ And 
+\emph on
+I.
+ Am.
+ Not.
+ Her.
+ Boyfriend!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+This was met by a certain amount of sniggering from all present.
+\end_layout
+
+\begin_layout Standard
+“Yeah, well,” said a sixth-year Ravenclaw boy, “I think after she kisses
+ you to bring you out of Dementation and you stick forty-four bullies to
+ the ceiling for her, we've gone way past `she's not my girlfriend, really'
+ and into the question of what your kids will be like.
+ Wow, that's a scary thought…” The Ravenclaw trailed off and then said,
+ in a smaller voice, “Please don't look at me like that.”
+\end_layout
+
+\begin_layout Standard
+“Look,” said Arty Grey, “I'm sorry to be blunt about this, but you can have
+ justice or you can have girls, you can't have both at the same time.” He
+ clapped a companionable hand on Harry Potter's shoulder.
+ “You've got potential, kid, more potential than any wizard I've ever seen,
+ but you've got to learn how to 
+\emph on
+use
+\emph default
+ it, you know? Be a bit sweeter to them, learn some spells to clean up that
+ mess you call hair.
+ Above all, you need to hide your evilness better 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ not 
+\emph on
+too
+\emph default
+ well, but better.
+ Nice well-groomed boys get girls, and Dark Wizards also get girls, but
+ nice well-groomed boys suspected of being 
+\emph on
+secretly
+\emph default
+ Dark get more girls than you can imagine 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Not interested,” Harry said flatly, as he picked up the boy's hand from
+ his shoulder and unceremoniously dropped it.
+\end_layout
+
+\begin_layout Standard
+“But you will be,” said Arty Grey, his voice low and foreboding.
+ “Ah, you will be!”
+\end_layout
+
+\begin_layout Standard
+Elsewhere along the same table 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Romantic?
+\emph default
+” shrieked Hermione Granger, so loudly that some of the girls next to her
+ winced.
+ “
+\emph on
+What part of that was romantic?
+\emph default
+ He didn't 
+\emph on
+ask!
+\emph default
+ He never 
+\emph on
+asks!
+\emph default
+ He just sends ghosts after people and glues them to ceilings and does whatever
+ he wants with 
+\emph on
+my
+\emph default
+ life!”
+\end_layout
+
+\begin_layout Standard
+“But don't you see?” said a fourth-year witch.
+ “It means that even though he's evil, he 
+\emph on
+loves
+\emph default
+ you!”
+\end_layout
+
+\begin_layout Standard
+“You're not helping,” said Penelope Clearwater a little further down the
+ table, but she was ignored.
+ Several older witches had started toward Hermione, after she'd sat down
+ at the extreme opposite end of the table from Harry Potter, but then a
+ swifter cloud of younger girls had surrounded Hermione in an impenetrable
+ barrier.
+\end_layout
+
+\begin_layout Standard
+“Boys,” said Hermione Granger, “should not be allowed to love girls without
+ asking them first! This is true in a number of ways and especially when
+ it comes to gluing people to the ceiling!”
+\end_layout
+
+\begin_layout Standard
+This was also ignored.
+ “It's just like a play!” sighed a third-year girl.
+\end_layout
+
+\begin_layout Standard
+“A play?” said Hermione.
+ “I'd like to see the play where anything like 
+\emph on
+this
+\emph default
+ happens!”
+\end_layout
+
+\begin_layout Standard
+“Oh,” said the third-year girl, “I was thinking of that really
+\emph on
+ romantic
+\emph default
+ one where there's this very nice, sweet boy who makes a Floo call, only
+ he mispronounces his destination and stumbles out into this room full of
+ Dark Wizards who are performing a forbidden ritual that should've stayed
+ forever lost to time, and they're sacrificing seven victims in order to
+ unseal this ancient horror which is supposed to grant someone a wish if
+ it's freed, so of course the boy's presence interrupts the ritual, and
+ as the horror is eating all the Dark Wizards and everyone is dying the
+ boy's last thought is that he wishes he could've had a girlfriend, and
+ the next thing you know the boy is lying in the lap of this beautiful woman
+ whose eyes are burning with a dreadful light, only she doesn't understand
+ anything about being human so the boy always has to stop her eating people.
+ This is just like that play, only you're the boy and Harry Potter is the
+ girl!”
+\end_layout
+
+\begin_layout Standard
+“That…” Hermione said, feeling quite surprised.
+ “That actually
+\emph on
+ does
+\emph default
+ sound something like 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“It 
+\emph on
+does?
+\emph default
+” blurted a second-year girl sitting across the table, who was now leaning
+ forward, looking horrified and yet even more fascinated.
+\end_layout
+
+\begin_layout Standard
+“No!” said Hermione.
+ “I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+he's not my boyfriend!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Two seconds later, Hermione's ears caught up with what her lips had just
+ said.
+\end_layout
+
+\begin_layout Standard
+The fourth-year witch put her hand on Hermione's shoulder and gave her a
+ comforting squeeze.
+ “Miss Granger,” she said in a soothing voice, “I think if you're really
+ honest with yourself, you'll admit that the real reason you're angry with
+ your dark master is that he channeled his unspeakable powers through Tracey
+ Davis instead of you.”
+\end_layout
+
+\begin_layout Standard
+Hermione's mouth opened but her throat locked up before the words came out,
+ which was probably a good thing, because if she'd actually yelled that
+ loudly it would've broken something.
+\end_layout
+
+\begin_layout Standard
+“How's that possible, actually?” said the third-year girl.
+ “I mean for Harry Potter to work through another girl even though he's
+ bound himself to you? Do the three of you have one of those, you know,
+ arrangements?”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Gaaaaack,
+\emph default
+” said Hermione Granger, her throat still locked, her brain halted, and
+ her vocal cords spontaneously making a noise like she was coughing up a
+ yak.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ (Later.)
+\end_layout
+
+\begin_layout Standard
+“I don't understand why you're being so 
+\emph on
+unreasonable
+\emph default
+,” said another second-year witch, who'd replaced the third-year-girl after
+ Hermione had threatened to ask Tracey to eat her soul.
+ “I mean, really, if someone like Harry Potter rescued 
+\emph on
+me
+\emph default
+, I'd be 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ sending him thank-you cards, and hugging him, and,” the girl's face was
+ a bit red, “well, kissing him, I'd hope.”
+\end_layout
+
+\begin_layout Standard
+“Yeah!” said the other second-year witch.
+ “I've never understood why girls in plays get 
+\emph on
+angry
+\emph default
+ when the main character goes out of his way to be nice to them.
+ 
+\emph on
+I
+\emph default
+ wouldn't act like that if the hero liked 
+\emph on
+me.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Hermione Granger had dropped her head to the dinner table, her hands slowly
+ pulling at her hair.
+\end_layout
+
+\begin_layout Standard
+“You just don't understand male psychology,” the fourth-year witch said
+ in an authoritative voice.
+ “Granger's got to make it
+\emph on
+ look
+\emph default
+ like she can mysteriously resist his seductive charm.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ (Even later.)
+\end_layout
+
+\begin_layout Standard
+And so before long Hermione Granger had turned to the only person left she
+ could talk to, the only person guaranteed to understand her point of view
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“They're all mad,” said Hermione Granger as she strode vigorously toward
+ Ravenclaw tower, having left dinner a bit early.
+ “Everyone except you and me, Harry, I mean 
+\emph on
+everyone
+\emph default
+ except us in this whole school of Hogwarts, they're all entirely
+\emph on
+ mad.
+
+\emph default
+ And Ravenclaw girls are the 
+\emph on
+worst,
+\emph default
+ I don't know 
+\emph on
+what
+\emph default
+ Ravenclaw girls go reading when they get older, but I'm certain they ought
+ not to be reading it.
+ One witch asked me if the two of us had soul-bonded, which I'm going to
+ look up in the library tonight, but I'm pretty sure has never actually
+ happened 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I don't even know a 
+\emph on
+name
+\emph default
+ for this kind of fallacious reasoning,” said Harry Potter.
+ The boy was walking normally, which meant he often had to skip forward
+ a few steps to match her own indignation-fueled speed.
+ “I seriously think if it was up to
+\emph on
+ them
+\emph default
+, they'd be dragging us off this minute to get our names changed to Potter-Evans
+-Verres-Granger… Ugh, saying that out loud makes me realize how awful it
+ sounds.”
+\end_layout
+
+\begin_layout Standard
+“You mean 
+\emph on
+your
+\emph default
+ name would be Potter-Evans-Verres-Granger and 
+\emph on
+mine
+\emph default
+ would be Granger-Potter-Evans-Verres,” said Hermione.
+ “It's too horrible to imagine.”
+\end_layout
+
+\begin_layout Standard
+“No,” said the boy, “House Potter is a Noble House, so I think that name
+ stays in front 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” she said indignantly.
+ “Who says 
+\emph on
+we
+\emph default
+ have to 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+There was a sudden awful silence, broken only by the thuds of their shoes.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Anyhow,
+\emph default
+” Hermione said hastily, “some of the crazy things they said at dinner got
+ me thinking, so I just want to say, Harry, that I really am grateful to
+ you for saving me and everybody from getting beat up, and even though some
+ parts of this afternoon upset me, I'm sure we can just talk about it calmly.”
+\end_layout
+
+\begin_layout Standard
+“Ah…” Harry said with a faint and tentative smile, his eyes showing a mixture
+ of befuddlement and apprehension, “that's… good, I guess?”
+\end_layout
+
+\begin_layout Standard
+To be specific, there'd been the fourth-year witch explaining that, since
+ Harry was the evil wizard who'd fallen in love with Hermione, and Hermione
+ was the pure and innocent girl who would either redeem him or get seduced
+ by the Dark Arts herself, it followed that Hermione 
+\emph on
+had
+\emph default
+ to be perpetually indignant at anything Harry did, even if it was him heroicall
+y saving her from certain doom, just so that their romance wouldn't resolve
+ itself before the end of Act IV.
+ And 
+\emph on
+then
+\emph default
+ Penelope Clearwater, who Hermione had really thought was smarter than that,
+ had remarked in a loud voice that for identical reasons it was
+\emph on
+ impossible
+\emph default
+ for Hermione to just go over and talk sensibly with Harry about why she
+ was feeling hurt, and anyway Dark Wizards were attracted to passionate
+ defiance in a woman, not logic.
+ This was the point at which Hermione had shoved herself up from the benches,
+ stomped furiously over to where Harry was sitting, and asked him in a reasonabl
+e voice if the two of them could go for a walk and sort things out.
+\end_layout
+
+\begin_layout Standard
+“So in other words,” Hermione said in her calmest voice ever, “you're not
+ really in trouble with me, I'm still talking to you, we're still friends,
+ and we're still studying together.
+ We're
+\emph on
+ not
+\emph default
+ having a fight.
+ Right?”
+\end_layout
+
+\begin_layout Standard
+Somehow this only seemed to increase Harry Potter's apprehension.
+ “Right,” said the Boy-Who-Lived.
+\end_layout
+
+\begin_layout Standard
+“Great!” said Hermione.
+ “So, 
+\emph on
+have
+\emph default
+ you worked out why I was upset, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+ “You wanted me to keep out of your affairs?” Harry said cautiously.
+ “I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I know you wanted to do things on your own.
+ And I 
+\emph on
+was
+\emph default
+ staying out of your way, until I'd heard you'd gotten ambushed by three
+ junior Death Eaters and, honestly, I wasn't expecting that.
+ 
+\emph on
+Professor Quirrell
+\emph default
+ wasn't expecting that.
+ I started to worry you'd gotten in over your head and then, no offense
+ Hermione, forty-four bullies in a massed ambush is way beyond what 
+\emph on
+anyone
+\emph default
+ could handle without help.
+ That's why I thought you really needed help just that once 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No, that part's fine,” said Hermione.
+ “We 
+\emph on
+were
+\emph default
+ in over our heads, honestly.
+ Please guess again, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.”
+\end_layout
+
+\begin_layout Standard
+“Um,” said Harry.
+ “What Tracey did… startled you?”
+\end_layout
+
+\begin_layout Standard
+“Startled me, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?” There might have been a touch of acidity in her voice.
+ “No, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I was 
+\emph on
+scared.
+
+\emph default
+ I was
+\emph on
+ frightened.
+
+\emph default
+ I wouldn't want to admit to being afraid of just 
+\emph on
+dragons
+\emph default
+ or something, people might think I was
+\emph on
+ cowardly
+\emph default
+, but when you can hear distant voices crying `Tekeli-li! Tekeli-li!' and
+ there's pools of blood seeping out from under all the doors, then it's
+ okay to be scared.”
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+am
+\emph default
+ sorry,” Harry said with what sounded like genuine regret.
+ “I thought you'd realize it was me.”
+\end_layout
+
+\begin_layout Standard
+“And the 
+\emph on
+reason
+\emph default
+ we all got scared like that, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, was that 
+\emph on
+you didn't ask first!
+\emph default
+” Despite her intentions, Hermione found her voice was rising again.
+ “You should've 
+\emph on
+asked
+\emph default
+ me before you did something like that, Harry! You should've said very specifica
+lly, `Hermione, can I make blood come out from under the doors?' It's important
+ to be specific when you're asking about that sort of thing!”
+\end_layout
+
+\begin_layout Standard
+The boy rubbed the back of his neck as he walked.
+ “I… honestly, I just thought you'd 
+\emph on
+have
+\emph default
+ to say no.”
+\end_layout
+
+\begin_layout Standard
+“Yes, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, 
+\emph on
+I could've said no
+\emph default
+.
+ That's 
+\emph on
+the whole point of asking first
+\emph default
+, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter!”
+\end_layout
+
+\begin_layout Standard
+“No, I mean you'd have 
+\emph on
+had
+\emph default
+ to say no, whether or not it was what you 
+\emph on
+really
+\emph default
+ wanted.
+ And then all of you would've gotten beaten up and it would've been 
+\emph on
+my
+\emph default
+ fault for asking first.”
+\end_layout
+
+\begin_layout Standard
+Hermione's eyebrows went up in a bit of surprise, and she kept walking for
+ a few steps while she tried to understand this.
+ “What?” she said.
+\end_layout
+
+\begin_layout Standard
+“Well…” the boy said a bit slowly.
+ “I mean… you're the Sunshine General, aren't you? You 
+\emph on
+couldn't
+\emph default
+ say yes to me scaring people, not even bullies, not even to save your friends
+ from getting beaten up.
+ You would've 
+\emph on
+had
+\emph default
+ to say no, and then you would've gotten hurt.
+ This way, you can tell people honestly that you had no idea and that it
+ wasn't your fault.
+ That's why I didn't warn you.”
+\end_layout
+
+\begin_layout Standard
+Hermione stopped walking, turned to face Harry full on instead of just turning
+ her head.
+ Her voice was carefully even as she said, “Harry, you've 
+\emph on
+got
+\emph default
+ to stop coming up with clever reasons for doing stupid things.”
+\end_layout
+
+\begin_layout Standard
+Harry's eyebrows flew up.
+ After a moment he said, “Look… I know what you mean, of course, but there's
+ still the question of whether it's actually 
+\emph on
+is
+\emph default
+ a good idea, not just a clever one 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I understand why you did what you did today,” Hermione said.
+ “But I want you to promise that from now on, you'll ask me first, always,
+ even if you can come up with a reason why you shouldn't.”
+\end_layout
+
+\begin_layout Standard
+There was a pause that stretched, and Hermione could feel her heart
+\begin_inset space ~
+\end_inset
+
+sinking.
+\end_layout
+
+\begin_layout Standard
+“Hermione 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry started to say.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Why?
+\emph default
+” The frustration burst out into her voice.
+ “
+\emph on
+Why is it so awful? All you have to do is ask!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry's eyes were very serious.
+ “Who in S.P.H.E.W.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+do you try hardest to defend, Hermione? Who are you most afraid for, when
+ you fight?”
+\end_layout
+
+\begin_layout Standard
+“Hannah Abbott,” Hermione said without having to think about it, and
+\begin_inset space ~
+\end_inset
+
+then felt a little bad, because Hannah 
+\emph on
+was
+\emph default
+ trying hard and she 
+\emph on
+had
+\emph default
+ improved a lot 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Would you feel okay about trusting someone else, like Tracey, with 
+\emph on
+final
+\emph default
+ responsibility for protecting Hannah? If you knew Hannah was about to walk
+ into an ambush, and you came up with a plan for protecting her, would you
+ feel good about letting Tracey say whether or not you were allowed to do
+ it?”
+\end_layout
+
+\begin_layout Standard
+“Well… no?” said Hermione, puzzled.
+\end_layout
+
+\begin_layout Standard
+The green eyes of the Boy-Who-Lived were steady on hers.
+ “Would you trust 
+\emph on
+Hannah
+\emph default
+ to have the final say in whether she needed protecting?”
+\end_layout
+
+\begin_layout Standard
+“I 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said Hermione, and then paused.
+ It was strange, she knew the right answer and she also knew the right answer
+ wasn't actually true.
+ Hannah was trying so hard to prove she wasn't afraid, even though she 
+\emph on
+was,
+\emph default
+ and it was easy to see how the Hufflepuff girl might try 
+\emph on
+too
+\emph default
+ hard 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Then Hermione realized the implication.
+ “You think I'm like
+\emph on
+ Hannah?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Not… exactly…” Harry ran his hands through his mess of hair.
+ “Listen, Hermione, what would 
+\emph on
+you
+\emph default
+ have suggested doing, if I'd warned you about an ambush by forty-four bullies?”
+\end_layout
+
+\begin_layout Standard
+“I would've done the 
+\emph on
+responsible
+\emph default
+ thing and told
+\emph on
+ Professor McGonagall
+\emph default
+ and let 
+\emph on
+her
+\emph default
+ take care of it,” Hermione said promptly.
+ “And 
+\emph on
+then
+\emph default
+ there wouldn't have been darkness and people screaming and horrible blue
+ light 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+But Harry just shook his head.
+ “That's 
+\emph on
+not
+\emph default
+ the responsible thing to do, Hermione.
+ It's what someone playing the
+\emph on
+ role
+\emph default
+ of a responsible girl would do.
+ 
+\emph on
+Yes
+\emph default
+, I thought of going to Professor McGonagall.
+ But she would've only stopped the disaster 
+\emph on
+once.
+
+\emph default
+ Probably before any disturbance happened in the first place, like by telling
+ the bullies she knew.
+ If the bullies got punished just for plotting, it would be by losing House
+ points, or at worst a day's detention, not anything that would really scare
+ them.
+ And then the bullies would have
+\emph on
+ tried again
+\emph default
+.
+ Fewer of them, with better operational security so I didn't hear about
+ it.
+ They would probably ambush
+\emph on
+ one
+\emph default
+ of you, alone.
+ Professor McGonagall doesn't have the
+\emph on
+ authority
+\emph default
+ to do something scary enough to protect you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and 
+\emph on
+she
+\emph default
+ wouldn't have overstepped her authority, because she's not really responsible.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Professor McGonagall
+\emph default
+ isn't responsible?” Hermione said incredulously.
+ She jammed her hands on her hips, now openly glaring at him.
+ “Are you 
+\emph on
+nuts?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The boy didn't blink.
+ “You could call it heroic responsibility, maybe,” Harry Potter said.
+ “Not like the usual sort.
+ It means that whatever happens, no matter what, it's 
+\emph on
+always
+\emph default
+ your fault.
+ Even if you tell Professor McGonagall, she's not responsible for what happens,
+ 
+\emph on
+you
+\emph default
+ are.
+ Following the school rules isn't an excuse, someone else being in charge
+ isn't an excuse, even trying your best isn't an excuse.
+ There just aren't any excuses, you've got to 
+\emph on
+get the job done no matter what
+\emph default
+.” Harry's face tightened.
+ “That's why I say you're not thinking responsibly, Hermione.
+ Thinking that your job is done when you tell Professor McGonagall 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that isn't heroine thinking.
+ Like Hannah being beat up is 
+\emph on
+okay
+\emph default
+ then, because it isn't 
+\emph on
+your fault
+\emph default
+ anymore.
+ Being a heroine means your job isn't finished until you've done 
+\emph on
+whatever it takes
+\emph default
+ to protect the other girls,
+\emph on
+ permanently.
+\emph default
+” In Harry's voice was a touch of the steel he had acquired since the day
+ Fawkes had been on his shoulder.
+ “You can't think as if just following the rules means you've done your
+ duty.”
+\end_layout
+
+\begin_layout Standard
+“I think,” Hermione said evenly, “that you and I might disagree about some
+ things, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ Like whether you or Professor McGonagall is more 
+\emph on
+responsible
+\emph default
+, and whether being
+\emph on
+ responsible
+\emph default
+ usually involves people running around and screaming, and how much it's
+ a good idea to follow school rules.
+ And just because we disagree, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, doesn't mean that
+\emph on
+ you
+\emph default
+ get the final say.”
+\end_layout
+
+\begin_layout Standard
+“Well,” said Harry, “you asked what was 
+\emph on
+so
+\emph default
+ awful about having to ask you first, and it was a surprisingly good question,
+ so I examined my mind and that's what I found.
+ I think my real fear is that if Hannah is in trouble and I come up with
+ a way to save her that seems weird or dark or something, you might not
+ weigh the consequences to Hannah.
+ You might not accept the heroine's responsibility of coming up with 
+\emph on
+some
+\emph default
+ way to save her, somehow, no matter what.
+ Instead you'd just carry out the
+\emph on
+ role
+\emph default
+ of Hermione Granger, the sensible Ravenclaw girl; and the 
+\emph on
+role
+\emph default
+ of Hermione Granger automatically says no, whether or not she has a better
+ plan in mind.
+ And then forty-four bullies will take turns beating up Hannah Abbott, and
+ it'll all be my fault because I 
+\emph on
+knew,
+\emph default
+ even if I didn't want reality to be that way, I knew that was how it would
+ go.
+ I'm pretty sure that was my secret, wordless, unutterable fear.”
+\end_layout
+
+\begin_layout Standard
+The frustration was building up inside her again.
+ “It's
+\emph on
+ my
+\emph default
+ life!” Hermione burst out.
+ She could imagine what it would be like with Harry messing with her all
+ the time, constantly inventing justifications not to ask her first and
+ not to listen to her objections.
+ She shouldn't have to 
+\emph on
+win an argument
+\emph default
+ just to 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ “There'll 
+\emph on
+always
+\emph default
+ be some reason, you can
+\emph on
+ always
+\emph default
+ say I'm not thinking right! I want my 
+\emph on
+own life!
+\emph default
+ Otherwise I'll walk away, I really will, I mean it Harry.”
+\end_layout
+
+\begin_layout Standard
+Harry sighed.
+ “This is exactly where I didn't want things to end up, and here we are.
+ You're afraid of just the same thing I am, aren't you? Afraid that if 
+\emph on
+you
+\emph default
+ let go of the steering wheel, we'll crash.” The corners of his lips twisted,
+ but it didn't look like a real smile.
+ “That's something I can understand.”
+\end_layout
+
+\begin_layout Standard
+“I don't think you understand 
+\emph on
+at all!
+\emph default
+” Hermione said sharply.
+ “You said we'd be 
+\emph on
+partners,
+\emph default
+ Harry!”
+\end_layout
+
+\begin_layout Standard
+That stopped him, she could see it stop him.
+\end_layout
+
+\begin_layout Standard
+“How about this?” Harry said at last.
+ “I'll promise to ask you first before I do anything that could be interpreted
+ as meddling in your affairs.
+ Only 
+\emph on
+you've
+\emph default
+ got to promise 
+\emph on
+me
+\emph default
+ to be reasonable, Hermione.
+ I mean 
+\emph on
+really
+\emph default
+, genuinely, stop and think for twenty seconds first, treat it as a real
+ choice.
+ The sort of reasonableness where you realize I'm offering a way to protect
+ the other girls, and that if you automatically say 
+\emph on
+no
+\emph default
+ without considering it properly, there's this 
+\emph on
+actual consequence
+\emph default
+ where Hannah Abbott ends up in the hospital.”
+\end_layout
+
+\begin_layout Standard
+Hermione stared at Harry, as his recitation wound down.
+\end_layout
+
+\begin_layout Standard
+“Well?” said Harry.
+\end_layout
+
+\begin_layout Standard
+“I shouldn't have to make promises,” she said, “just to be
+\emph on
+ consulted
+\emph default
+ about 
+\emph on
+my own life.
+\emph default
+” She turned from Harry and began walking toward the Ravenclaw tower, not
+ looking at him.
+ “But I'll think about it, anyway.”
+\end_layout
+
+\begin_layout Standard
+She heard Harry sigh, and after that they walked in silence for a while,
+ passing through an archway of some reddish metal like copper, into a corridor
+ that was just like the one they'd left except that it was tiled in pentagons
+ instead of squares.
+\end_layout
+
+\begin_layout Standard
+“Hermione…” said Harry.
+ “I've been watching you and thinking, since the day you said you were going
+ to be a hero.
+ You've
+\emph on
+ got
+\emph default
+ the courage.
+ You'll fight for what's right, even in the face of enemies that would scare
+ other people away.
+ You've certainly got the raw intelligence for it, and you're probably a
+ better person inside than I am.
+ But even so… well, to be honest, Hermione… I can't quite see you filling
+ Dumbledore's shoes, leading magical Britain's fight against You-Know-Who.
+ Not yet, anyway.”
+\end_layout
+
+\begin_layout Standard
+Hermione had turned her head to stare at Harry, who just went on walking,
+ as though lost in thought.
+ Fill 
+\emph on
+those
+\emph default
+ shoes? She'd never tried to imagine herself that way.
+ She'd never
+\emph on
+ imagined
+\emph default
+ imagining herself that way.
+\end_layout
+
+\begin_layout Standard
+“And maybe I'm wrong,” Harry said as they walked.
+ “Maybe I've just read too many stories where the heroes never do the sensible
+ thing and follow the rules and tell their Professor McGonagalls, so my
+ brain doesn't think you're a proper storybook hero.
+ Maybe it's you who's the sane one, Hermione, and me who's just being silly.
+ But every time you talk about following rules or relying on teachers, I
+ get that same feeling, like it's bound up with this one last thing that's
+ stopping you, one last thing that puts your PC self to sleep and turns
+ you into an NPC again…” Harry let out a sigh.
+ “Maybe that's why Dumbledore said I should have wicked stepparents.”
+\end_layout
+
+\begin_layout Standard
+“He said 
+\emph on
+what?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ “I still don't know whether the Headmaster was joking or… the thing is,
+ he was 
+\emph on
+right
+\emph default
+ in a way.
+ I
+\emph on
+ had
+\emph default
+ loving parents, but I never felt like I could trust their decisions, they
+ weren't 
+\emph on
+sane
+\emph default
+ enough.
+ I always knew that if I didn't think things through myself, I might get
+ hurt.
+ Professor McGonagall will do whatever it takes to get the job done
+\emph on
+ if
+\emph default
+ I'm there to nag her about it, she doesn't break rules on her own without
+ heroic supervision.
+ Professor Quirrell really
+\emph on
+ is
+\emph default
+ someone who gets things done no matter what, and he's the only other person
+ I know who notices stuff like the Snitch ruining Quidditch.
+ But 
+\emph on
+him
+\emph default
+ I can't trust to be
+\emph on
+ good
+\emph default
+.
+ Even if it's sad, I think that's part of the environment that creates what
+ Dumbledore calls a hero 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ people who don't have anyone else to shove final responsibility onto, and
+ that's why they form the mental habit of tracking everything themselves.
+\emph on
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hermione didn't say anything to that, but she was thinking back to something
+ Godric Gryffindor had written near the end of his very short autobiography.
+ Briefly and without any explanation, because the scroll had been meant
+ to be copied by hand, centuries before the Muggle printing press had inspired
+ wizards to invent the Reading-Writing Quill.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ No rescuer hath the rescuer,
+\emph default
+ Godric Gryffindor had written.
+ 
+\emph on
+No Lord hath the champion, no mother and no father, only nothingness above.
+\end_layout
+
+\begin_layout Standard
+If 
+\emph on
+that
+\emph default
+ was the price of being a hero, Hermione wasn't sure she wanted to pay it.
+ Or maybe 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ though it wasn't the sort of thing she would have thought, before she started
+ hanging around Harry 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ maybe Godric Gryffindor had gotten it 
+\emph on
+wrong
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“Do you trust 
+\emph on
+Dumbledore?
+\emph default
+” Hermione said.
+ “I mean, he's right here in our school and he's the most legendary hero
+ in the whole world 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“He 
+\emph on
+was
+\emph default
+ the most legendary hero,” said Harry.
+ “Now he sets chickens on fire.
+ Honestly, does Dumbledore seem reliable to
+\emph on
+ you?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Hermione didn't answer.
+\end_layout
+
+\begin_layout Standard
+Side by side, the two of them began to climb huge wide spiral stairs, the
+ steps alternating between bronze metal and blue stone; the final approach
+ to where the Ravenclaw portrait waited to guard their dorm with silly riddles.
+\end_layout
+
+\begin_layout Standard
+“Oh, and I just thought of something I should tell you,” Harry said when
+ they were about halfway up.
+ “Since it affects your life and all.
+ Think of it as a sort of down payment 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“What is it?” said Hermione.
+\end_layout
+
+\begin_layout Standard
+“I predict S.P.H.E.W.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+is about to retire.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Retire?
+\emph default
+” Hermione said, almost stumbling on one of the stairs.
+\end_layout
+
+\begin_layout Standard
+“Yeah,” Harry said.
+ “I mean, I could be wrong, but I suspect the teachers are about to clamp
+ down hard on fighting in the corridors.” Harry was grinning as he spoke,
+ a glint in his eyes behind the glasses hinting at secret knowledge.
+ “Cast new wards to detect offensive hexes, or start verifying reports of
+ bullying using Veritaserum 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I can think of several ways they might shut it down.
+ But if I'm right, it's something to celebrate, Hermione, you and all of
+ you.
+ You kicked up enough public ruckus that you got them to actually 
+\emph on
+do
+\emph default
+ something about the bullying.
+
+\emph on
+ All
+\emph default
+ the bullying.”
+\end_layout
+
+\begin_layout Standard
+Slowly, then, a smile began to creep up her lips, and as she reached the
+ top of the stairs and began walking toward the Ravenclaw portrait for her
+ riddle, Hermione felt rather lighter on her feet, a wonderful lifting feeling
+ spreading through her like she'd been pumped full of helium.
+\end_layout
+
+\begin_layout Standard
+Somehow, despite all the effort the eight of them had put in, she hadn't
+ expected 
+\emph on
+that
+\emph default
+ much, she hadn't expected it to actually 
+\emph on
+work
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+They'd made a 
+\emph on
+difference…
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was the end of breakfast-time on the next morning.
+\end_layout
+
+\begin_layout Standard
+The students from every year sat very still in their benches, all heads
+ turned in the same direction, toward the Head Table, before which one lone
+ first-year girl stood rigid and motionless, her head tilted back to stare
+ up at the Head of House Slytherin.
+\end_layout
+
+\begin_layout Standard
+Professor Snape's face was twisted with fury and triumph, vindictive as
+ any painting of a Dark Wizard; and behind him the other Professors sat
+ at the Head Table, watching with faces as though carved from stone.
+\end_layout
+
+\begin_layout Standard
+“
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ permanently disbanded,” spat the Potions Master.
+ “Your self-proclaimed Society is 
+\emph on
+outlawed
+\emph default
+ within Hogwarts, by my decision as a Professor! If your Society or any
+ member of it is discovered fighting in the hallways again, Granger, you
+ will be
+\emph on
+ personally
+\emph default
+ held responsible and expelled, by me, from the Hogwarts School of Witchcraft
+ and Wizardry!”
+\end_layout
+
+\begin_layout Standard
+That first-year girl stood there, before the Head Table where she'd been
+ called before only to receive commendations and smiles; stood there with
+ her spine held tall and upright in its curve like a centaur's bow, giving
+ nothing to the enemy.
+\end_layout
+
+\begin_layout Standard
+That first-year witch stood there with all tears and anger bottled, her
+ face still, nothing changing of her outward appearance, while something
+ slowly broke inside her, she could feel it breaking.
+\end_layout
+
+\begin_layout Standard
+It broke further when Professor Snape gave her two weeks detention for the
+ crime of violence in school, sneering with the contemptuous face he'd shown
+ them all on the first day of Potions, and with a little twist in the corner
+ of his smile that said the Potions Master knew exactly how unfair he was
+ being.
+\end_layout
+
+\begin_layout Standard
+Whatever-it-was inside her cracked all the way through, from top to bottom,
+ when Professor Snape took one hundred points from Ravenclaw.
+\end_layout
+
+\begin_layout Standard
+It ended, then, and Snape told her she was dismissed.
+\end_layout
+
+\begin_layout Standard
+She turned around and saw that at the Ravenclaw table, Harry Potter was
+ sitting still in his place, she couldn't see his expression from here,
+ she saw his fists on the table but she couldn't see if they were clenched
+ white like her own.
+ She had whispered to him, when Professor Snape had called her, that he
+ wasn't to do anything without asking first.
+\end_layout
+
+\begin_layout Standard
+Hermione wheeled back again to look at the Head Table, just as Snape was
+ turning away from her to resume his place.
+\end_layout
+
+\begin_layout Standard
+“I said you're dismissed, girl,” said the sneering voice, but there was
+ a pleased smile on Snape's face, like he was waiting for her to do something
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hermione strode forward another five steps toward the Head Table and said
+ in a breaking voice, “Headmaster?”
+\end_layout
+
+\begin_layout Standard
+Utter silence filled the Great Hall.
+\end_layout
+
+\begin_layout Standard
+Headmaster Dumbledore said nothing, didn't move.
+ It was as though he, too, was just carved from stone.
+\end_layout
+
+\begin_layout Standard
+Hermione turned her gaze to look at Professor Flitwick, whose head, barely
+ visible above the table, seemed to be staring down into his lap.
+ Beside him, Professor Sprout's face was very tight, she seemed to be forcing
+ herself to watch, and her lips were trembling, but she said nothing.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall's chair was empty, the Deputy Headmistress hadn't shown
+ up to breakfast that morning.
+\end_layout
+
+\begin_layout Standard
+“Why aren't any of you saying anything?” said Hermione Granger.
+ Her voice was trembling with the last of her hope, the last desperate reach
+ for help from that place inside her.
+ “You
+\emph on
+ know
+\emph default
+ what he's doing is wrong!”
+\end_layout
+
+\begin_layout Standard
+“Two more weeks' detention, for insolence,” Snape said silkily.
+\end_layout
+
+\begin_layout Standard
+It shattered.
+\end_layout
+
+\begin_layout Standard
+She looked at the Head Table for a few seconds longer, at Professor Flitwick
+ and Professor Sprout and the empty place where Professor McGonagall should've
+ been.
+ Then Hermione Granger turned and began walking toward the Ravenclaw table.
+\end_layout
+
+\begin_layout Standard
+There was a babble of voices starting up, as the students came unfrozen
+ from where they'd sat.
+\end_layout
+
+\begin_layout Standard
+And then, as she was almost to the Ravenclaw table 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The dry voice of Professor Quirrell cut through everything, and that voice
+ said, “One hundred points to Miss Granger for doing what is right.”
+\end_layout
+
+\begin_layout Standard
+Hermione almost fell over her own feet; and then she continued forward,
+ even as Snape shouted something furious, even as Professor Quirrell leaned
+ back in his chair and began to laugh, even as Dumbledore's voice was saying
+ something she didn't catch and then she was sitting down at the Ravenclaw
+ table again next to Harry Potter.
+\end_layout
+
+\begin_layout Standard
+Harry Potter was frozen beside her, he looked like someone who didn't dare
+ move.
+\end_layout
+
+\begin_layout Standard
+“It's all right,” her voice said to him, automatically without there being
+ any choice or thought involved, although really it wasn't right at all.
+ “But can you see if you can get me out of Snape's detentions, like you
+ did yourself that time?”
+\end_layout
+
+\begin_layout Standard
+Harry Potter nodded, a single jerky motion of his head.
+ “I 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said Harry.
+ “I 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I'm sorry, this 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ this is all my fault 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Don't be 
+\emph on
+ridiculous
+\emph default
+, Harry.” It was odd how her voice was coming out all normal, and without
+ her thinking about what to say.
+ Hermione looked down at her breakfast plate, but eating seemed to be clearly
+ out of the question, there was a roiling and churning in her stomach which
+ suggested that she was already on the verge of throwing up, which was odd
+ because she could have sworn her whole body felt numb, like she wasn't
+ feeling anything, at the same time.
+\end_layout
+
+\begin_layout Standard
+“And,” her voice said, “if you want to break school rules or something,
+ you can ask me about it, I promise I won't just say no.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+Non est salvatori salvator,
+\begin_inset Newline newline
+\end_inset
+
+neque defensori dominus,
+\begin_inset Newline newline
+\end_inset
+
+nec pater nec mater,
+\begin_inset Newline newline
+\end_inset
+
+nihil supernum.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Godric Gryffindor,
+\begin_inset Newline newline
+\end_inset
+
+1202 C.E.
+ 
+\end_layout
+
+\end_body
+\end_document

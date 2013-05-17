@@ -1,0 +1,185 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume2_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter*
+Notes
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Notes}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Chapter 58 TSPE, Constrained Cognition, Part VIII
+\end_layout
+
+\begin_layout Standard
+A movie trailer for 
+\emph on
+Army of Darkness,
+\emph default
+ resembling the one Harry saw, is THV1KkPXIxQ on YouTube.
+\end_layout
+
+\begin_layout Standard
+The key quote is as follows, spoken by a man of modern times to listeners
+ from the Middle Ages:
+\end_layout
+
+\begin_layout Standard
+“All right you primitive screwheads! Listen up! You see this? This… is my
+ 
+\emph on
+boomstick!
+\emph default
+”
+\end_layout
+
+\begin_layout Section*
+Chapter 64 Omake Files 4, Alternate Parallels
+\end_layout
+
+\begin_layout Standard
+If you're five hours past your bedtime and still reading this, may I suggest
+ getting some sleep? The fic will still be here tomorrow… unless, you know,
+ something 
+\emph on
+bad
+\emph default
+ happens to it and the next morning there's just a 404 at this address and
+ you're left with nothing but a fading memory and an eternal regret that
+ you didn't stay awake longer and keep reading while you still had the chance…
+ but hey, how probable is that?
+\end_layout
+
+\begin_layout Standard
+This story spreads by blogging, tweeting, word of mouth, favoriting, plugging
+ on forums, and adding to lists; and remember, if the readers before you
+ hadn't taken a moment to do that, you probably wouldn't have found this.
+ If that's not enough to motivate you, then let me add that if you don't
+ help spread rationality, Hermione will be sad.
+ You don't want her to be sad, right?
+\end_layout
+
+\begin_layout Standard
+Don't forget to visit LessWrong dot com and read the Sequences, the true
+ existence of which this fic is but a shadow.
+ I recommend starting with the sequence 
+\emph on
+How to Actually Change Your Mind.
+\end_layout
+
+\begin_layout Standard
+And now, with all universes owned by their respective creators, I present:
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\bar under
+OMAKE FILES #4:
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+THE OTHER FANFICTIONS
+\begin_inset Newline newline
+\end_inset
+
+ YOU COULD'VE BEEN READING
+\end_layout
+
+\end_body
+\end_document

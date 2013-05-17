@@ -1,0 +1,991 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume2_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Frontal Override
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+T
+\end_layout
+
+\end_inset
+
+he
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ biting January wind howled around the vast, blank stone walls that demarcated
+ the material bounds of the castle Hogwarts, whispering and whistling in
+ odd pitches as it blew past closed windows and stone turrets.
+ The most recent snow had mostly blown away, but occasional patches of melted
+ and refrozen ice still stuck to the stone face and blazed reflected sunlight.
+ From a distance, it must have looked like Hogwarts was blinking hundreds
+ of eyes.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A sudden gust made Draco flinch, and try, impossibly, to press his body
+ even closer to the stone, which felt like ice and smelled like ice.
+ Some utterly pointless instinct seemed convinced that he was about to be
+ blown off the outer wall of Hogwarts, and that the best way to prevent
+ this was to jerk around in helpless reflex and possibly throw up.
+\end_layout
+
+\begin_layout Standard
+Draco was trying very hard 
+\emph on
+not
+\emph default
+ to think about the six stories worth of empty air underneath him, and focus,
+ instead, on how he was going to kill Harry Potter.
+\end_layout
+
+\begin_layout Standard
+“You know, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy,” said the young girl beside him in a conversational voice, “if a
+ seer had told me that someday I'd be hanging onto the side of a castle
+ by my fingertips, trying not to look down or think about how loud Mum'd
+ scream if she saw me, I wouldn't've had 
+\emph on
+any
+\emph default
+ idea of how it'd happen, 
+\emph on
+except
+\emph default
+ that it'd be Harry Potter's fault.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Earlier:
+\end_layout
+
+\begin_layout Standard
+The two allied Generals stepped together over Longbottom's body, their boots
+ hitting the floor in almost perfect synchrony.
+\end_layout
+
+\begin_layout Standard
+Only a single soldier now stood between them and Harry, a Slytherin boy
+ named Samuel Clamons, whose hand was clenched white around his wand, held
+ upward to sustain his Prismatic Wall.
+ The boy's breathing was coming rapidly, but his face showed the same cold
+ determination that lit the eyes of his general, Harry Potter, who was standing
+ behind the Prismatic Wall at the dead end of the corridor next to an open
+ window, with his hands held mysteriously behind his back.
+\end_layout
+
+\begin_layout Standard
+The battle had been ridiculously difficult, for the enemy being outnumbered
+ two-to-one.
+ It should have been easy, Dragon Army and the Sunshine Regiment had melded
+ together easily in practice sessions, they'd fought each other long enough
+ to know each other very well indeed.
+ Morale was high, both armies knowing that this time they weren't just fighting
+ to win for themselves, but fighting for a world free of traitors.
+ Despite the surprised protests of both generals, the soldiers of the combined
+ army had insisted on calling themselves Dramione's Sungon Argiment, and
+ produced patches for their insignia of a smiling face wreathed in flames.
+\end_layout
+
+\begin_layout Standard
+But Harry's soldiers had all blackened their own insignia 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it didn't look like paint, more like they'd 
+\emph on
+burned
+\emph default
+ that part of their uniforms 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and they'd fought all through the upper levels of Hogwarts with a desperate
+ fury.
+ The cold rage that Draco sometimes saw in Harry had seemed to trickle down
+ into his soldiers, and they'd fought like it hadn't been play.
+ And Harry had emptied out his entire bag of tricks, there'd been tiny metal
+ balls (Granger had identified them as “ball bearings”) on floors and staircases
+, rendering them impassable until cleared, only Harry's army had already
+ practiced coordinated Hover Charms and they could fly their own people
+ 
+\emph on
+right over
+\emph default
+ the obstacles they'd made…
+\end_layout
+
+\begin_layout Standard
+You couldn't bring devices into the game from outside, but you could Transfigure
+ anything you wanted 
+\emph on
+during
+\emph default
+ the game, so long as it was safe.
+ And that just wasn't fair when you were fighting a boy raised by scientists,
+ who knew about things like ball bearings and skateboards and bungee cords.
+\end_layout
+
+\begin_layout Standard
+And so it had come to this.
+\end_layout
+
+\begin_layout Standard
+The survivors of the allied forces had cornered the last remnants of Harry
+ Potter's army in a dead-end corridor.
+\end_layout
+
+\begin_layout Standard
+Weasley and Vincent had rushed Longbottom at the same time, moving together
+ like they'd practiced for weeks instead of hours, and somehow Longbottom
+ had managed to hex them 
+\emph on
+both
+\emph default
+ before falling himself.
+\end_layout
+
+\begin_layout Standard
+And now it was Draco and Granger and Padma and Samuel and Harry, and by
+ the looks of Samuel, his Prismatic Wall couldn't last much longer.
+\end_layout
+
+\begin_layout Standard
+Draco had already leveled his wand at Harry, waiting for the Prismatic Wall
+ to fall of its own accord; there was no need to waste a Breaking Drill
+ Hex before then.
+ Padma leveled her own wand at Samuel, Granger leveled hers at Harry…
+\end_layout
+
+\begin_layout Standard
+Harry was still hiding his hands behind his back, instead of aiming his
+ wand; and looking at them with a face that could have been carved out of
+ ice.
+\end_layout
+
+\begin_layout Standard
+It might be a bluff.
+ It probably wasn't.
+\end_layout
+
+\begin_layout Standard
+There was a brief, tense silence.
+\end_layout
+
+\begin_layout Standard
+And then Harry spoke.
+\end_layout
+
+\begin_layout Standard
+“I'm the villain now,” the young boy said coldly, “and if you think villains
+ are this easy to finish off, you'd better think again.
+ Beat me when I'm fighting seriously, and I'll stay beaten; but lose, and
+ we'll be doing this all over again next time.”
+\end_layout
+
+\begin_layout Standard
+The boy brought his hands forward, and Draco saw that Harry was wearing
+ strange gloves, with a peculiar grayish material on the fingertips, and
+ buckles that stapped the gloves tightly to his wrists.
+\end_layout
+
+\begin_layout Standard
+Beside Draco, the Sunshine General gasped in horror; and Draco, without
+ even asking why, fired a Breaking Drill Hex.
+\end_layout
+
+\begin_layout Standard
+Samuel staggered, he let out a scream as he staggered, but he held the Wall;
+ and if Padma or Granger fired now, they would exhaust their own forces
+ so badly that they might just lose.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Harry!
+\emph default
+” shouted Granger.
+ “
+\emph on
+You can't be serious!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry was already in motion.
+\end_layout
+
+\begin_layout Standard
+And as he swung out the open window, his cold voice said, “Follow if you
+ dare.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The icy wind howled around them.
+\end_layout
+
+\begin_layout Standard
+Draco's arms were already starting to feel tired.
+\end_layout
+
+\begin_layout Standard
+…It had developed that, yesterday, Harry had carefully demonstrated to Granger
+ exactly how to Transfigure the gloves he was currently wearing, which used
+ something called `gecko setae'; and how to glue Transfigured patches of
+ the same material to the toes of their shoes; and Harry and Granger had,
+ in innocent childish play, tried climbing around the walls and ceiling
+ a little.
+\end_layout
+
+\begin_layout Standard
+And that, also yesterday, Harry had supplied Granger with a grand total
+ of exactly two doses of Feather-Falling Potion to carry around in her pouch,
+ “just in case”.
+\end_layout
+
+\begin_layout Standard
+Not that Padma would have followed them, anyway.
+ 
+\emph on
+She
+\emph default
+ wasn't crazy.
+\end_layout
+
+\begin_layout Standard
+Draco carefully peeled loose his right hand, stretched it over as far as
+ he could, and slapped it down on the stone again.
+ Beside him, Granger did the same.
+\end_layout
+
+\begin_layout Standard
+They'd already swallowed the Feather-Falling Potion.
+ It was skirting the edges of the game rules, but the potion wouldn't be
+ activated unless one of them actually fell, and so long as they 
+\emph on
+didn't
+\emph default
+ fall they weren't using the item.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was watching them.
+\end_layout
+
+\begin_layout Standard
+The two of them were 
+\emph on
+perfectly, completely, utterly safe.
+\end_layout
+
+\begin_layout Standard
+Harry Potter, on the other hand, was going to die.
+\end_layout
+
+\begin_layout Standard
+“I wonder why Harry is doing this,” said General Granger in a reflective
+ tone, as she slowly peeled the fingertips of one hand off the wall with
+ an extended sticky sound.
+ Her hand plopped back down again almost as soon as it was lifted.
+ “I'll have to ask him that after I kill him.”
+\end_layout
+
+\begin_layout Standard
+It was amazing how much the two of them were turning out to have in common.
+\end_layout
+
+\begin_layout Standard
+Draco didn't really feel like talking right now, but he managed to say,
+ through gritted teeth, “Could be revenge.
+ For the date.”
+\end_layout
+
+\begin_layout Standard
+“Really,” said Granger.
+ “After all this time.”
+\end_layout
+
+\begin_layout Standard
+Stick.
+ Plop.
+\end_layout
+
+\begin_layout Standard
+“How sweet of him,” said Granger.
+\end_layout
+
+\begin_layout Standard
+Stick.
+ Plop.
+\end_layout
+
+\begin_layout Standard
+“I guess I'll find some truly romantic way to thank him,” said Granger.
+\end_layout
+
+\begin_layout Standard
+Stick.
+ Plop.
+\end_layout
+
+\begin_layout Standard
+“What's he got against 
+\emph on
+you?
+\emph default
+” said Granger.
+\end_layout
+
+\begin_layout Standard
+Stick.
+ Plop.
+\end_layout
+
+\begin_layout Standard
+The icy wind howled around them.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One might have thought it would feel safer to have ground under your feet
+ again.
+\end_layout
+
+\begin_layout Standard
+But if that ground was a slanted roof tiled with rough slats, which had
+ rather a lot more ice on it than the stone walls, and you were running
+ across it at a high rate of speed…
+\end_layout
+
+\begin_layout Standard
+Then you would be 
+\emph on
+sadly mistaken.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Luminos!
+\emph default
+” shouted Draco.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Luminos!
+\emph default
+” shouted Granger.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Luminos!
+\emph default
+” shouted Draco.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Luminos!
+\emph default
+” shouted Granger.
+\end_layout
+
+\begin_layout Standard
+The distant figure was dodging and scrambling as it ran, and not a single
+ shot hit, but they were gaining.
+\end_layout
+
+\begin_layout Standard
+Until Granger slipped.
+\end_layout
+
+\begin_layout Standard
+It was inevitable, in retrospect, in real life you couldn't 
+\emph on
+actually
+\emph default
+ run across icy slanted rooftops at a high rate of speed.
+\end_layout
+
+\begin_layout Standard
+And also inevitably, because it happened without the slightest thought,
+ Draco spun and grabbed for Granger's right arm, and he 
+\emph on
+caught
+\emph default
+ her, only she was already too far off balance, she was falling and pulling
+ Draco with her, it all happened so quickly 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a hard, painful impact, not just Draco's weight hitting the roof\SpecialChar \-
+top
+ but some of Granger's weight too, and if she'd hit just a little bit closer
+ to the edge they could have made it, but instead her body tipped again
+ and her legs slipped off and her other hand grabbed frantically…
+\end_layout
+
+\begin_layout Standard
+And that was how Draco ended up holding onto Granger's arm in a white grip,
+ while her other hand clenched frantically at the edge of the rooftop and
+ the toes of Draco's shoes dug into the edge of a roof tile.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Hermione!
+\emph default
+” Harry's voice shrieked distantly.
+\end_layout
+
+\begin_layout Standard
+“Draco,” whispered Granger's voice, and Draco looked down.
+\end_layout
+
+\begin_layout Standard
+That might have been a mistake.
+ There was a lot of air underneath her, nothing but air, they were on the
+ edge of a rooftop that had jutted out from the main stone wall of Hogwarts.
+\end_layout
+
+\begin_layout Standard
+“He's going to come help me,” whispered the girl, “but first he's going
+ to 
+\emph on
+Luminos
+\emph default
+ both of us, there's no way he wouldn't.
+ You have to let me go.”
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 041-draco__the_drop_lord_1_by_dinosaurusgede-d2yp4hs.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It should have been the easiest thing in the world.
+\end_layout
+
+\begin_layout Standard
+She was just a mudblood, just a mudblood, 
+\emph on
+just a mudblood!
+\end_layout
+
+\begin_layout Standard
+She wouldn't even be 
+\emph on
+hurt!
+\end_layout
+
+\begin_layout Standard
+…Draco's brain wasn't listening to anything Draco was telling it right now.
+\end_layout
+
+\begin_layout Standard
+“Do it,” Hermione Granger whispered, her eyes blazing without a single trace
+ of fear, “do it, Draco, do it, you can beat him yourself 
+\emph on
+we have to win Draco!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There was a sound of someone running and it was coming closer.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oh, be rational…
+\end_layout
+
+\begin_layout Standard
+The voice in Draco's head sounded an awful lot like Harry Potter teaching
+ lessons.
+\end_layout
+
+\begin_layout Standard
+…
+\emph on
+are you going to let your brain run your life?
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Aftermath, 1:
+\end_layout
+
+\begin_layout Standard
+It was taking a bit of an effort for Daphne Greengrass to keep herself quiet,
+ as Millicent Bulstrode retold the story in the Slytherin girls' common
+ room (a cozy cool place in the dungeons running beneath the Hogwarts Lake,
+ with fish swimming past every window, and couches you could lie down in
+ if you wanted).
+ Mostly because, in Daphne's opinion, it was a perfectly good story already
+ without all of Millicent's 
+\emph on
+improvements
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+“And then what?” gasped Flora and Hestia Carrow.
+\end_layout
+
+\begin_layout Standard
+“General Granger looked up at him,” Millicent said dramatically, “and she
+ said, `Draco! You've got to let go of me! Don't worry about me, Draco,
+ I promise I'll be all right! And what do you suppose Malfoy did then?”
+\end_layout
+
+\begin_layout Standard
+“He said `Never!',” shouted Charlotte Wiland, “and held on even tighter!”
+\end_layout
+
+\begin_layout Standard
+All the listening girls except Pansy Parkinson nodded.
+\end_layout
+
+\begin_layout Standard
+“Nope!” said Millicent.
+ “He dropped her.
+ And then he jumped up and shot General Potter.
+ The end.”
+\end_layout
+
+\begin_layout Standard
+There was a stunned pause.
+\end_layout
+
+\begin_layout Standard
+“You can't 
+\emph on
+do
+\emph default
+ that!” said Charlotte.
+\end_layout
+
+\begin_layout Standard
+“She's a 
+\emph on
+mudblood,
+\emph default
+“ said Pansy, sounding confused.
+ “Of 
+\emph on
+course
+\emph default
+ he let go!”
+\end_layout
+
+\begin_layout Standard
+“Well, Malfoy shouldn't have grabbed her in the first place, then!” said
+ Charlotte.
+ “But once he grabbed her, he 
+\emph on
+had
+\emph default
+ to hang on! 
+\emph on
+Especially
+\emph default
+ in the face of approaching certain doom!” Tracey Davis, sitting next to
+ Daphne, was nodding along in firm agreement.
+\end_layout
+
+\begin_layout Standard
+“I don't see why,” said Pansy.
+\end_layout
+
+\begin_layout Standard
+“That's because you don't have the tiniest smidgin of romance in you,” said
+ Tracey.
+ “Besides, you can't just go dropping girls.
+ A boy who'd drop a girl like that… he'd drop 
+\emph on
+anyone.
+
+\emph default
+ He'd drop 
+\emph on
+you,
+\emph default
+ Pansy.”
+\end_layout
+
+\begin_layout Standard
+“What d'you mean, 
+\emph on
+drop me?
+\emph default
+” Pansy said.
+\end_layout
+
+\begin_layout Standard
+Daphne couldn't resist any more.
+ “You know,” Daphne said darkly, “you're eating breakfast one day at our
+ table, and the next thing you know, Malfoy 
+\emph on
+lets go of you,
+\emph default
+ and you're falling off the top of Hogwarts! That's what!”
+\end_layout
+
+\begin_layout Standard
+“Yeah!” said Charlotte.
+ “He's a witch dropper!”
+\end_layout
+
+\begin_layout Standard
+“You know why Atlantis fell?” said Tracey.
+ “'Cause someone like Malfoy 
+\emph on
+dropped
+\emph default
+ it, that's why!”
+\end_layout
+
+\begin_layout Standard
+Daphne lowered her voice.
+ “In fact… what if Malfoy's the one who made Hermione, I mean General Granger,
+ slip in the first place? What if he's out to make 
+\emph on
+all
+\emph default
+ the Muggleborns trip and fall?”
+\end_layout
+
+\begin_layout Standard
+“You mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ ?” gasped Tracey.
+\end_layout
+
+\begin_layout Standard
+“That's right!” Daphne said dramatically.
+ “What if Malfoy is 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+the heir of Slipperin?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“The next Drop Lord!” said Tracey.
+\end_layout
+
+\begin_layout Standard
+Which was far too good a line for anyone to keep to themselves, so by nightfall
+ it was all over Hogwarts, and the next morning it was the 
+\emph on
+Quibbler's
+\emph default
+ headline.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Aftermath, 2:
+\end_layout
+
+\begin_layout Standard
+Hermione made sure she got to their usual classroom nice and early that
+ evening, just so that she would be by herself, in a chair, peacefully reading
+ a book, when Harry got there.
+\end_layout
+
+\begin_layout Standard
+If there was any way for a door to creak open apologetically, that was how
+ the door was creaking open.
+\end_layout
+
+\begin_layout Standard
+“Um,” said Harry Potter's voice.
+\end_layout
+
+\begin_layout Standard
+Hermione kept reading.
+\end_layout
+
+\begin_layout Standard
+“I'm, um, kinda sorry, I didn't mean for you to 
+\emph on
+actually
+\emph default
+ fall off the roof or anything…”
+\end_layout
+
+\begin_layout Standard
+It had been quite an entertaining experience, in fact.
+\end_layout
+
+\begin_layout Standard
+“I, ah… I don't have much experience apologizing, I'll fall to my knees
+ if you want, or buy you something expensive, 
+\emph on
+Hermione I don't know how to apologize to you for this what can I do just
+ tell me?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+She kept reading the book in silence.
+\end_layout
+
+\begin_layout Standard
+It wasn't as if 
+\emph on
+she
+\emph default
+ had any idea how Harry could apologize, either.
+\end_layout
+
+\begin_layout Standard
+Right now she was just feeling a sort of odd curiosity as to what would
+ happen if she kept reading her book for a while.
+\end_layout
+
+\end_body
+\end_document

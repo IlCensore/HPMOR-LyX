@@ -1,0 +1,757 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume2_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Humanism, Part II
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+“F
+\end_layout
+
+\end_inset
+
+awkes,”
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ said Albus Dumbledore, his voice cracking, “help him, please 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\begin_inset Newline newline
+\end_inset
+
+A brilliant creature of red-gold shuffled into the field of vision, looking
+ down quizzically; and it began to croon.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The meaningless chirps slid off the emptiness, there was nothing onto which
+ they could hold.
+\end_layout
+
+\begin_layout Standard
+“You're noisy,” said the voice, “you should die.”
+\end_layout
+
+\begin_layout Standard
+“Chocolate,” Albus Dumbledore said, “you need chocolate, and your friends
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but I dare not take you back 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Then a shining raven came, and spoke in Professor Flitwick's voice; whereupon
+ Albus Dumbledore gasped in sudden comprehension, and cursed aloud at his
+ own stupidity.
+\end_layout
+
+\begin_layout Standard
+The empty thing laughed at that, for it had retained the capacity to be
+ amused.
+\end_layout
+
+\begin_layout Standard
+And a moment later they had all vanished in another flash of fire.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was only a moment, it seemed, between when Flitwick's raven had flown
+ to elsewhere, and when Albus Dumbledore reappeared in another crack of
+ red and golden fire with Harry in his arms; but somehow in that time Hermione
+ had already managed to fill her hands with chocolate.
+\end_layout
+
+\begin_layout Standard
+Before Hermione even got there, chocolate had zoomed off the table and straight
+ into Harry's mouth, which a tiny part of her mind said was unfair, 
+\emph on
+he'd
+\emph default
+ gotten a chance to do it for 
+\emph on
+her 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry spat the chocolate back out again.
+\end_layout
+
+\begin_layout Standard
+“Go away,” said a voice so empty it wasn't even cold.
+\end_layout
+
+\begin_layout Standard
+…
+\end_layout
+
+\begin_layout Standard
+Everything seemed to freeze, everyone who had been moving toward Harry halted,
+ all movements broken by the shock of those two dead words.
+\end_layout
+
+\begin_layout Standard
+Then: “No,” said Albus Dumbledore, “I will not,” and time resumed again,
+ even as another piece of chocolate zoomed off the table and into Harry's
+ mouth.
+\end_layout
+
+\begin_layout Standard
+Hermione was close enough now that she could see Harry's expression become
+ more hateful, as his mouth chewed with a mechanical, unnatural rhythm.
+\end_layout
+
+\begin_layout Standard
+The Headmaster's voice was grim as iron.
+ “Filius, call Minerva, tell her she must come at speed.”
+\end_layout
+
+\begin_layout Standard
+Professor Flitwick whispered to his silver raven, and it flew into the air
+ and vanished.
+\end_layout
+
+\begin_layout Standard
+Another piece of chocolate floated into Harry's mouth, and the mechanical
+ chewing continued.
+\end_layout
+
+\begin_layout Standard
+There were more students gathering around where the Headmaster watched over
+ Harry with grim eyes: Neville, Seamus, Dean, Lavender, Ernie, Terry, Anthony,
+ none of them daring to approach any closer than Hermione had.
+\end_layout
+
+\begin_layout Standard
+“What can we do?” said Dean in a trembling voice.
+\end_layout
+
+\begin_layout Standard
+“Back off and give him more space 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said the dry voice of Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“No!” interrupted the Headmaster.
+ “Let him be surrounded by his friends.”
+\end_layout
+
+\begin_layout Standard
+Harry swallowed his chocolate, and said in that empty voice, “They're stupid.
+ They should die
+\emph on
+mmmppphhh
+\emph default
+“ as another piece of chocolate entered his mouth.
+\end_layout
+
+\begin_layout Standard
+Hermione saw the looks of shock that crossed their faces.
+\end_layout
+
+\begin_layout Standard
+“He doesn't mean it, does he?” Seamus said it like he was begging.
+\end_layout
+
+\begin_layout Standard
+“You don't understand,” Hermione said, her voice breaking, “
+\emph on
+that's not Harry 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+“ and she shut up before she said anything more, but she 
+\emph on
+had
+\emph default
+ to say that much.
+\end_layout
+
+\begin_layout Standard
+She saw from the look on his face that Neville understood, and she also
+ saw that the others didn't.
+ If Harry had really never thought anything like that, then being exposed
+ to a Dementor for less than a minute wouldn't have made him say it.
+ That's what they were probably thinking.
+\end_layout
+
+\begin_layout Standard
+Less than a minute of Dementor exposure couldn't create a whole new evil
+ person inside you out of nothing.
+\end_layout
+
+\begin_layout Standard
+But if that person was 
+\emph on
+already there
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Does the Headmaster know?
+\end_layout
+
+\begin_layout Standard
+Hermione looked up at the Headmaster, and found that Albus Dumbledore was
+ gazing at 
+\emph on
+her
+\emph default
+, and that his blue eyes had grown suddenly piercing
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Words came into her mind.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Do not speak of it,
+\emph default
+ said the will of Dumbledore to her.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You know,
+\emph default
+ thought Hermione.
+ 
+\emph on
+About his dark side.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I know.
+ But this is beyond even that.
+ Fawkes's song cannot reach him, where he is lost.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What can we 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I have a plan,
+\emph default
+ sent the Headmaster.
+ 
+\emph on
+Patience.
+\end_layout
+
+\begin_layout Standard
+Something about the tenor of that thought made Hermione nervous.
+ 
+\emph on
+What sort of plan?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+It is better that you not know,
+\emph default
+ sent the Headmaster.
+\end_layout
+
+\begin_layout Standard
+Now Hermione was getting 
+\emph on
+really
+\emph default
+ nervous.
+ She didn't know how 
+\emph on
+much
+\emph default
+ the Headmaster knew about Harry's dark side 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+A fair point,
+\emph default
+ sent the Headmaster.
+ 
+\emph on
+I am about to tell you; steel yourself so as not to react.
+ Are you ready? Good.
+ I am going to pretend to cast the Killing Curse on Professor McGonagall
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ DO NOT REACT, Hermione!
+\end_layout
+
+\begin_layout Standard
+That took work.
+ The Headmaster really was crazy! That wouldn't bring Harry 
+\emph on
+out
+\emph default
+ of his dark side, Harry would go 
+\emph on
+completely berserk
+\emph default
+, he'd 
+\emph on
+kill
+\emph default
+ the Headmaster 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+But that is not true darkness,
+\emph default
+ sent Albus Dumbledore.
+ 
+\emph on
+That is protectiveness, that is love.
+ Fawkes will be able to reach him, then.
+ And when Harry sees that Minerva is alive after all, it will return him
+ fully.
+\end_layout
+
+\begin_layout Standard
+The thought came to Hermione 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I doubt that will work,
+\emph default
+ sent the Headmaster, 
+\emph on
+and you may not like the way he reacts if you try.
+ But you may try if you wish.
+\end_layout
+
+\begin_layout Standard
+She hadn't really meant that seriously! It was too 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Then her eyes moved, breaking gaze with the Headmaster, going to the boy
+ looking around with empty, despising eyes as his mouth kept chewing and
+ swallowing bar after bar of chocolate without effect.
+ Her heart wrenched, and suddenly a lot of things didn't seem to matter,
+ only that there was a chance.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a compulsion to chew and swallow chocolate.
+ The response to compulsion was killing.
+\end_layout
+
+\begin_layout Standard
+People had gathered around and stared.
+ That was annoying.
+ The response to annoyance was killing.
+\end_layout
+
+\begin_layout Standard
+Other people were chattering in the background.
+ That was insolent.
+ The response to insolence was to inflict pain, but since none of them were
+ useful, killing them would be simpler.
+\end_layout
+
+\begin_layout Standard
+Killing all those people would be difficult.
+ But many of them didn't trust Quirrell, who was strong.
+ Finding exactly the right trigger could cause them all to kill each other.
+\end_layout
+
+\begin_layout Standard
+Then a person leaned over into the field of vision and did something completely
+ strange, something that belonged to a foreign mode of thought, for which
+ there was only a single response stored anywhere 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She heard the gasps around her, and they didn't matter, she maintained the
+ kiss on those chocolate-smeared lips as the tears welled in her eyes.
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 044-dementor_exposure_cure_by_dinosaurusgede-d2yp436.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\size small
+She heard the gasps around her, and they didn't matter, she maintained the
+ kiss on those chocolate-smeared lips as the tears welled in her eyes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And Harry's arms came up and pushed her away, and his lips yelled, “
+\emph on
+I told you, no kissing!
+\emph default
+”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“I think he'll be all right now,” the Headmaster said, looking at where
+ Harry was crying in great wretched sobs as Fawkes crooned over him.
+ “Excellently done, Miss Granger.
+ Do you know, not even I would have expected that to actually work?”
+\end_layout
+
+\begin_layout Standard
+The phoenix's song wasn't meant for her, Hermione knew, but she could still
+ be soothed by it, which she needed, because her life was officially over.
+\end_layout
+
+\end_body
+\end_document

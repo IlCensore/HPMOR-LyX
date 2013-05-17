@@ -1,0 +1,347 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume3_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Taboo Tradeoffs, Aftermath I
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+W
+\end_layout
+
+\end_inset
+
+hen
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Padma entered the Transfiguration classroom, she saw that half the class
+ had beaten her there, a strange, deathly silence pervading the room.
+ Harry Potter sat alone in one corner, staring off into some unknown distance,
+ his eyes half-lidded, nearly closed.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rumor said that the Aurors had discovered that the Defense Professor had
+ Polyjuiced as Granger to fool Malfoy.
+\end_layout
+
+\begin_layout Standard
+Rumor said that Hermione had been bound by the Unbreakable Vow to be Draco
+ Malfoy's slave.
+\end_layout
+
+\begin_layout Standard
+Rumor said that Hermione had gotten the Dementor's Kiss.
+\end_layout
+
+\begin_layout Standard
+But if 
+\emph on
+that
+\emph default
+ were true, Harry Potter wouldn't be sitting there, he would be 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Padma didn't know what General Potter would do.
+ Her mind went blank, trying to think about it.
+\end_layout
+
+\begin_layout Standard
+Even when Professor McGonagall got there, the silence hadn't broken.
+ The Transfiguration Professor walked up to the board without a pause, erased
+ it with a sweep of her hand, and then began to write.
+\end_layout
+
+\begin_layout Standard
+“Today, children,” began the calm professional voice of the Transfiguration
+ Professor, just as though nothing out of the ordinary had happened that
+ week, “we shall learn how much effort it takes to sustain a Transfiguration,
+ and why, at your age, you should not even try.
+ The original Form is not gone, only suppressed; and to maintain that suppressio
+n 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Excuse me,” said Padma Patil.
+ She knew her voice was shaking, she knew that she was trembling visibly,
+ but she had to ask.
+ “Excuse me, Professor, what happened with Miss Granger?”
+\end_layout
+
+\begin_layout Standard
+The Transfiguration Professor paused at the board, and turned to look at
+ Padma.
+ The Professor should have looked stern, having been interrupted without
+ a hand being raised, but instead her face was kindly.
+ “You don't already know, Miss Patil? I expected that rumor would have spread.”
+\end_layout
+
+\begin_layout Standard
+“There's too many rumors,” said Padma.
+ “I don't know what's true.”
+\end_layout
+
+\begin_layout Standard
+Morag MacDougal raised her hand, then said without waiting to be called,
+ “I told you, Padma, what's 
+\emph on
+true
+\emph default
+ is that the Wizengamot found Granger guilty and ordered her to get the
+ Dementor's Kiss and they brought in the Dementor and Harry Potter glued
+ it to the ceiling and wouldn't let it down until 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Oh, dear Merlin,” said Professor McGonagall, her expression growing sharp,
+ but then she visibly calmed herself.
+ “The affair was utterly ridiculous and I shan't go into detail.
+ Let it stand that Miss Granger is resting with Madam Pomfrey for now, and
+ coming back to classes tomorrow.
+ And if I catch anyone bothering her, I shall turn them into glass vases
+ and drop them.”
+\end_layout
+
+\begin_layout Standard
+The entire class gasped at this; it wasn't so much that the threat was fatal,
+ as that it broke the safety rules for Transfiguration.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall turned back to her board 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+From a corner of the classroom, another voice rose up.
+ “What about Professor Quirrell?” said Terry Boot.
+ “Has he been arrested?”
+\end_layout
+
+\begin_layout Standard
+“The Aurors are only detaining him,” said the Transfiguration Professor
+ without turning around.
+ “If they have not given back our Defense Professor by tomorrow, I shall
+ ask the Headmaster to go fetch him.
+ Though I may as well tell you now that the Board of Governors has scheduled
+ a vote on whether Professor Quirrell's battles shall be allowed to continue.”
+\end_layout
+
+\begin_layout Standard
+Kevin Entwhistle spoke.
+ “And General Malfoy? When's he getting back from St.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Mungo's?”
+\end_layout
+
+\begin_layout Standard
+The Transfiguration Professor paused in her drawing.
+\end_layout
+
+\begin_layout Standard
+She turned around again, more slowly, this time.
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+am
+\emph default
+ sorry, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Entwhistle,” said Professor McGonagall.
+ Her face looked a little more lined than when she had entered the room.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy's health is in no danger, I am given to understand.
+ Unfortunately, I have received an owl from Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy's father withdrawing him from Hogwarts.
+ I am afraid he is not coming back.”
+\end_layout
+
+\end_body
+\end_document

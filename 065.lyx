@@ -1,0 +1,2014 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume3_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Contagious Lies
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+H
+\end_layout
+
+\end_inset
+
+ermione
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Granger had read somewhere once, that one of the keys to staying thin was
+ to pay attention to the food you ate, to notice yourself eating it, so
+ that you were satisfied with the meal.
+ This morning she'd made herself toast, and put butter on the toast, and
+ cinnamon on the butter, and it really should've been enough to get her
+ to 
+\emph on
+notice,
+\emph default
+ this time, the goodness that was in front of her…
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Without noticing the cinnamon or the butter, without noticing the food or
+ that she was eating, Hermione swallowed another bite of toast, and said,
+ “Can you try explaining that again? I'm still completely flabbergasted.”
+\end_layout
+
+\begin_layout Standard
+“It's pretty straightforward, if you think like a Light-Side Slytherin,”
+ said the boy that everyone else in school, excepting only the two of them,
+ now believed to be her true love.
+ Harry Potter's spoon absentmindedly stirred his breakfast cereal; he hadn't
+ taken many bites of it this morning, not that Hermione had seen.
+ “Every good thing in the world brings its own opposition into existence.
+ Phoenixes are no exception.”
+\end_layout
+
+\begin_layout Standard
+Hermione took another unnoticed bite out of her buttered and cinnamoned
+ toast, and said, “How can anyone 
+\emph on
+not understand
+\emph default
+ that Fawkes thinks you're a good enough person to ride around on your shoulder?
+ He wouldn't do that with a Dark Wizard! He just wouldn't!”
+\end_layout
+
+\begin_layout Standard
+And she hadn't yelled at anyone about Fawkes's touch on her
+\emph on
+ own
+\emph default
+ cheek, because she knew it wouldn't be right 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that if a phoenix touched you, you weren't supposed to brag about it, that
+ wasn't what a phoenix was 
+\emph on
+for
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+But she'd really 
+\emph on
+hoped
+\emph default
+ that it would squash the rumors about Harry Potter going evil and Hermione
+ Granger following him down.
+\end_layout
+
+\begin_layout Standard
+And it hadn't.
+\end_layout
+
+\begin_layout Standard
+And she truly couldn't understand why not.
+\end_layout
+
+\begin_layout Standard
+Harry ate another bite of his cereal, his eyes going distant now, no longer
+ meeting her own.
+ “Think of it this way: You skip school one day, and you lie and tell your
+ teacher you were sick.
+ The teacher tells you to bring a doctor's note, so you forge one.
+ The teacher says she's going to call the doctor to check, so you have to
+ give her a fake number for the doctor, and get a friend to pretend to be
+ the doctor when she calls 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“You did 
+\emph on
+what?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry looked up from his cereal then, and now he was smiling.
+ “I'm not saying I really 
+\emph on
+did
+\emph default
+ that, Hermione…” Then his eyes abruptly dropped back down to his cereal.
+ “No.
+ Just an example.
+ Lies propagate, that's what I'm saying.
+ You've got to tell more lies to cover them up, lie about every fact that's
+ connected to the first lie.
+ And if you 
+\emph on
+kept on
+\emph default
+ lying, and you
+\emph on
+ kept on
+\emph default
+ trying to cover it up, sooner or later you'd even have to start lying about
+ the general laws of thought.
+ Like, someone is selling you some kind of alternative medicine that doesn't
+ work, and any double-blind experimental study will confirm that it doesn't
+ work.
+ So if someone wants to 
+\emph on
+go on
+\emph default
+ defending the lie, they've got to get you to disbelieve in the experimental
+ method.
+ Like, the experimental method is just for merely 
+\emph on
+scientific
+\emph default
+ kinds of medicine, not amazing alternative medicine like theirs.
+ Or a good and virtuous person should believe as strongly as they can, no
+ matter what the evidence says.
+ Or truth doesn't exist and there's no such thing as objective reality.
+ A lot of common wisdom like that isn't just
+\emph on
+ mistaken,
+\emph default
+ it's anti-epistemology, it's
+\emph on
+ systematically
+\emph default
+ wrong.
+ Every rule of rationality that tells you how to find the truth, there's
+ someone out there who needs you to believe the opposite.
+ If you once tell a lie, the truth is ever after your enemy; and there's
+ a lot of people out there telling lies 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry's voice stopped.
+\end_layout
+
+\begin_layout Standard
+“What does that have to do with Fawkes?” she said.
+\end_layout
+
+\begin_layout Standard
+Harry withdrew his spoon from his cereal, and pointed in the direction of
+ the Head Table.
+ “The Headmaster has a phoenix, right? And he's Chief Warlock of the Wizengamot?
+ So he's got political opponents, like Lucius.
+ Now, d'you think that opposition is going to just roll over and surrender,
+ because Dumbledore has a phoenix and they don't? Do you think they'll admit
+ that Fawkes is even
+\emph on
+ evidence
+\emph default
+ that Dumbledore's a good person? Of course not.
+ They've got to invent 
+\emph on
+something
+\emph default
+ to say that makes Fawkes… 
+\emph on
+not important.
+
+\emph default
+ Like, phoenixes only follow people who charge straight at anyone they think
+ is evil, so having a phoenix just means you're an idiot or a dangerous
+ fanatic.
+ Or, phoenixes just follow people who are pure Gryffindor, so Gryffindor
+ they don't have the virtues of other Houses.
+ Or it just shows how much courage a magical animal thinks you have, nothing
+ else, and it wouldn't be fair to judge politicians based on that.
+ They have to say 
+\emph on
+something
+\emph default
+ to deny the phoenix.
+ I bet Lucius didn't even have to make up anything new.
+ I bet it had all been said before, centuries ago, since the first time
+ someone had a phoenix riding on his shoulder, and someone else wanted people
+ not to take that into account as evidence.
+ I bet by the time Fawkes came along it was already common wisdom, it would
+ have just seemed
+\emph on
+ strange
+\emph default
+ to take into account who a phoenix liked or disliked.
+ It would be like a Muggle newspaper testing political candidates to rate
+ their level of scientific literacy.
+ Every force for Good that exists in this universe, there's someone else
+ who benefits from people discounting it, or fencing it into a narrow box
+ where it can't get to them.”
+\end_layout
+
+\begin_layout Standard
+“But 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Hermione said.
+ “Okay, I see why Lucius Malfoy doesn't want anyone to think that Fawkes
+ matters, but why does anyone who
+\emph on
+ isn't
+\emph default
+ a bad guy 
+\emph on
+believe
+\emph default
+ it?”
+\end_layout
+
+\begin_layout Standard
+Harry Potter gave a little shrug.
+ His spoon dropped back into his cereal, and went on stirring without a
+ pause.
+ “Why does any kind of cynicism appeal to people? Because it seems like
+ a mark of maturity, of sophistication, like you've seen everything and
+ know better.
+ Or because putting something down feels like pushing yourself up.
+ Or they don't have a phoenix themselves, so their political instinct tells
+ them there's no advantage to be gained from saying nice things about phoenixes.
+ Or because being cynical feels like knowing a secret truth that common
+ people don't know…” Harry Potter looked in the direction of the Head Table,
+ and his voice dropped until it was almost a whisper.
+ “I think maybe that's what 
+\emph on
+he's
+\emph default
+ getting wrong 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that he's cynical about everything else, but not about cynicism itself.”
+\end_layout
+
+\begin_layout Standard
+Without thinking, Hermione looked in the direction of the Head Table herself,
+ but the Defense Professor's seat was still empty, as it had been on Monday
+ and Tuesday; the Deputy Headmistress had pronounced, earlier, that Professor
+ Quirrell's classes for today would be canceled.
+\end_layout
+
+\begin_layout Standard
+Afterward, when Harry had eaten a few bites of treacle tart and then left
+ the table, Hermione looked at Anthony and Padma, who had been coincidentally
+ eating nearby but certainly not eavesdropping or anything.
+\end_layout
+
+\begin_layout Standard
+Anthony and Padma looked back at her.
+\end_layout
+
+\begin_layout Standard
+Padma said hesitantly, “Is it just me, or has Harry Potter started talking
+ like a more 
+\emph on
+complicated
+\emph default
+ sort of book in the last few days? I mean, I haven't been listening to
+ him very long 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“It's not just you,” said Anthony.
+\end_layout
+
+\begin_layout Standard
+Hermione didn't say anything, but she was becoming increasingly worried.
+ Whatever had happened to Harry Potter on the day of the phoenix, it had
+ changed him; there was something new in him now.
+ Not cold, but 
+\emph on
+hard.
+
+\emph default
+ Sometimes she caught him staring out a window at nothing visible, a look
+ of grim determination on his face.
+ In Herbology class on Monday, a Venus Fire Trap had gone out of control;
+ and Harry had tackled Terry out of the way of a fireball even as Professor
+ Sprout had shouted a Flame-Freezing Charm; and when Harry had risen from
+ the floor he'd just gone back to his place like nothing interesting had
+ happened.
+ And when for once she'd gotten a better test score than Harry in their
+ Transfiguration exam, later that same Monday, Harry had smiled at her as
+ though to congratulate her, instead of gritting his teeth; and… that had
+ bothered her 
+\emph on
+a lot
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+She was getting the sense that Harry…
+\end_layout
+
+\begin_layout Standard
+…was pulling away from her…
+\end_layout
+
+\begin_layout Standard
+“He seems a lot 
+\emph on
+older
+\emph default
+ all of a sudden,” said Anthony.
+ “Not like a real grownup, I can't imagine 
+\emph on
+Harry
+\emph default
+ as a grownup, but it's like he suddenly turned into a 
+\emph on
+fourth-year version
+\emph default
+ of… of 
+\emph on
+whatever
+\emph default
+ he is.”
+\end_layout
+
+\begin_layout Standard
+“Well,” Padma said.
+ She daintily dabbed a chocolate-flavored scone with some scone-flavored
+ frosting.
+ “I think Dragon and Sunshine had better ally during the next battle or
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Harry Potter is going to 
+\emph on
+smash
+\emph default
+ us.
+ We were allied last time, and even then Chaos almost won 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Yeah,” said Anthony.
+ “You're right, Miss Patil.
+ Tell the Dragon General that we want to meet with you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No!” said Hermione.
+ “We shouldn't 
+\emph on
+have
+\emph default
+ to gang up on General Potter just to stand a chance.
+ That doesn't make sense, especially now that nobody can use Muggle things
+ anymore.
+ It's still twenty-four soldiers in every army.”
+\end_layout
+
+\begin_layout Standard
+Neither Padma or Anthony said anything to that.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Knock-knock, knock-knock.
+\end_layout
+
+\begin_layout Standard
+“Come in, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” she said.
+\end_layout
+
+\begin_layout Standard
+The door creaked open, and Harry Potter slipped through the opening into
+ her office; he pushed the door shut behind him with one hand, and wordlessly
+ seated himself in the cushioned chair that now stood in front of her desk.
+ She'd Transfigured that chair so often that it sometimes changed form to
+ reflect her mood, without any wand movement or incantation or even conscious
+ intent.
+ Right now, that chair had become deeply cushioned, so that as Harry sat
+ down he sank into it, as though the chair were hugging him.
+\end_layout
+
+\begin_layout Standard
+Harry didn't seem to notice.
+ There was an air of quiet determination about the boy; his eyes had locked
+ steadily with hers, and not let up for a moment.
+ “You called me?” said the boy.
+\end_layout
+
+\begin_layout Standard
+“I did,” said Professor McGonagall.
+ “I have two pieces of good news for you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ First 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ have you met Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Rubeus Hagrid, at all? The groundskeeper? He was an old friend of your parents.”
+\end_layout
+
+\begin_layout Standard
+Harry hesitated.
+ Then, “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid spoke to me a bit after I got here,” Harry said.
+ “I think it was on Tuesday of my first week of school.
+ He didn't say he knew my parents, though.
+ At the time I thought he just wanted to introduce himself to the Boy-Who-Lived…
+ did he have some kind of hidden agenda? He didn't 
+\emph on
+seem
+\emph default
+ like the type…”
+\end_layout
+
+\begin_layout Standard
+“Ah…” she said.
+ It took her a moment to pull her thoughts together.
+ “It's a long story, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, but Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid was falsely accused of murdering a student, five decades ago.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid's wand was snapped, and he was expelled.
+ Later, when Professor Dumbledore became Headmaster, he gave Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid a place here as Keeper of Grounds and Keys.”
+\end_layout
+
+\begin_layout Standard
+Harry's eyes watched her intently.
+ “You said that five decades ago was the last time a student died in Hogwarts,
+ and you were certain that five decades ago was the last time someone heard
+ the Sorting Hat's secret message.”
+\end_layout
+
+\begin_layout Standard
+She felt a slight chill 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ even the Headmaster or Severus might not have made that connection that
+ quickly 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and said, “Yes, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ Someone opened the Chamber of Secrets, but this was not believed, and Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid was blamed for the resulting death.
+ However, the Headmaster has located the additional enchantment on the Sorting
+ Hat, and he has shown it to a special panel of the Wizengamot.
+ As a result, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid's sentence has been revoked 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ just this morning, in fact 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and he will be allowed to acquire a new wand.” She hesitated.
+ “We… have not yet told Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid of this, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ We were waiting until the deed was done, so as not to give him false hope
+ after so long.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter… we were wondering if we could tell Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid that it was you who helped him…?”
+\end_layout
+
+\begin_layout Standard
+She saw the weighing look in his eyes 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“I remember Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid holding you when you were a baby,” she said.
+ “I think he would be very happy to know.”
+\end_layout
+
+\begin_layout Standard
+She could see it, though, on Harry's face, the moment when he decided that
+ Rubeus wouldn't be any use to him.
+\end_layout
+
+\begin_layout Standard
+Harry shook his head.
+ “Bad enough that someone might deduce there was a Parselmouth in this year's
+ crop of students,” Harry said.
+ “I think it'd be more prudent to just keep it all as secret as possible.”
+\end_layout
+
+\begin_layout Standard
+She remembered James and Lily, who'd never hesitated to return the friendship
+ the huge, bluff man had offered them, for all that James was the scion
+ of a wealthy House or Lily a budding Charms Mistress, and Rubeus a mere
+ half-giant whose wand had been snapped…
+\end_layout
+
+\begin_layout Standard
+“Because you don't expect him to prove useful, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+There was silence.
+ She hadn't intended to say that out loud.
+\end_layout
+
+\begin_layout Standard
+Sadness crossed Harry's face.
+ “Probably,” Harry said quietly.
+ “But I don't think he and I would get along, do you?”
+\end_layout
+
+\begin_layout Standard
+Something seemed to be stuck in her throat.
+\end_layout
+
+\begin_layout Standard
+“Speaking of making use of people,” Harry said.
+ “It seems I'm going to be thrown into a war with a Dark Lord sometime soon.
+ So while I'm in your office, I'd like to ask that my sleep cycle be extended
+ to thirty hours per day.
+ Neville Longbottom wants to start practicing dueling, there's an older
+ Hufflepuff who offered to teach him, and they invited me to join.
+ Plus there's other things I want to learn too 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and if you or the Headmaster think I should study anything in particular,
+ in order to become a powerful wizard when I grow up, let me know.
+ Please direct Madam Pomfrey to administer the appropriate potion, or whatever
+ it is that she needs to do 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Mr.
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph on
+Potter!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry's eyes gazed directly into her own.
+ “Yes, Minerva? I know it wasn't your idea, but I'd like to survive the
+ use the Headmaster's making of me.
+ Please don't be an obstacle to that.”
+\end_layout
+
+\begin_layout Standard
+It almost broke her.
+ “Harry,” she whispered in a bare voice, “children shouldn't have to 
+\emph on
+think
+\emph default
+ like that!”
+\end_layout
+
+\begin_layout Standard
+“You're right, they shouldn't,” Harry said.
+ “A 
+\emph on
+lot
+\emph default
+ of children have to grow up too early, though, not just me; and most children
+ like that would probably trade places with me in five seconds.
+ I'm not going to pity myself, Professor McGonagall, not when there are
+ people out there in real trouble and I'm not one of them.”
+\end_layout
+
+\begin_layout Standard
+She swallowed, hard, and said, “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, at thirty hours per day, you'll 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ get 
+\emph on
+older,
+\emph default
+ you'll age faster 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” 
+\emph on
+Like Albus.
+\end_layout
+
+\begin_layout Standard
+“And in my fifth year I'll be around the same physiological age as Hermione,”
+ said Harry.
+ “Doesn't seem 
+\emph on
+that
+\emph default
+ terrible.” There was a wry smile now on Harry's face.
+ “Honestly, I'd probably want this even if there 
+\emph on
+weren't
+\emph default
+ a Dark Lord.
+ Wizards live for a while, and either wizards or Muggles will probably push
+ that out even further over the next century.
+ There's no reason
+\emph on
+ not
+\emph default
+ to pack as many hours into a day as I can.
+ I've got things I plan to do, and `twere well they were done quickly.”
+\end_layout
+
+\begin_layout Standard
+There was a long pause.
+\end_layout
+
+\begin_layout Standard
+“All right,” Minerva said.
+ It came out as almost a whisper.
+ She raised her voice.
+ “All right, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I shall ask the Headmaster, and if he agrees, it shall be done.”
+\end_layout
+
+\begin_layout Standard
+Harry's eyes narrowed for a moment.
+ “I see.
+ Then please remind the Headmaster that Godric Gryffindor, in his last words,
+ said that if it had been the right thing for him to do, then he wouldn't
+ tell anyone else to choose wrongly, not even the youngest student in Hogwarts.”
+\end_layout
+
+\begin_layout Standard
+And she knew with a hollow feeling that any chance of Albus stopping this,
+ stopping any of this, had just Vanished into nothingness.
+ That was what Albus had told her when she'd objected that Cameron Edward
+ was too young, and then when she'd objected that Peter Pevensie was too
+ young, and finally she'd given up objecting.
+ “Who told you that, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?” 
+\emph on
+Not Albus 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ surely Albus would never
+\emph default
+ say 
+\emph on
+that to any student 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“I've been doing a lot of reading lately,” Harry said.
+ His body started to rise from the enveloping chair, then halted.
+ “Dare I ask about the second piece of good news?”
+\end_layout
+
+\begin_layout Standard
+“Oh,” she said.
+ “Ah 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Professor Quirrell has woken up and says that you may
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Hogwarts infirmary was a brilliantly open space, skylit on all four
+ sides despite seeming to be located squarely in the middle of the castle.
+ White beds in long rows stretched out, only three of them occupied at the
+ moment.
+ One older boy and one older girl on opposite sides, both lying motionless
+ with their eyes closed, probably unconscious and spell-bound while some
+ healing Charm or Potion reconfigured their bodies in uncomfortable ways;
+ and the third occupant had the curtain drawn around their bed, which was
+ presumably a good thing.
+ Madam Pomfrey had pushed him along with a hard shove and told him not to
+ gawk, and Harry had needed to remind himself sharply that some people still
+ didn't know who the Boy-Who-Lived was 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ either that, or Madam Pomfrey's identity was bound up with her absolute
+ dominance of her own hospital, etcetera, whatever.
+\end_layout
+
+\begin_layout Standard
+Behind the rows of beds were five doors, leading into the private rooms
+ where they stored the patients who would be staying for days instead of
+ hours, but whose condition didn't warrant a transfer to St.
+ Mungos.
+\end_layout
+
+\begin_layout Standard
+Windowless, skyless, unlit but for a single smokeless torch on one of the
+ solid stone walls; that was the room behind the middle door.
+ Harry had wondered whether professors could ask Hogwarts to change itself;
+ or if the infirmary always had a room like that available, for people who
+ didn't enjoy the light.
+\end_layout
+
+\begin_layout Standard
+In the center of the room, between two equal bedstands that looked to have
+ been carved from the same grey marble as the walls, rested a white hospital
+ bed, looking vaguely orangish in the unsmoking torchlight; and within that
+ bed, a white sheet pulled up about his thighs and wearing a hospital gown,
+ sat Professor Quirrell with his back slightly propped up against the headboard
+ of the bed.
+\end_layout
+
+\begin_layout Standard
+There was something frightening about seeing Professor Quirrell in one of
+ Madam Pomfrey's beds, even if the Defense Professor appeared uninjured.
+ Even knowing that Professor Quirrell had deliberately arranged his own
+ apparent defeat at Severus's hands, to give himself an excuse to recover
+ his strength from Azkaban.
+ Harry had never 
+\emph on
+actually
+\emph default
+ watched anyone dying in a hospital bed, but he'd seen too many movies.
+ It was an intimation of mortality, and the Defense Professor was 
+\emph on
+not
+\emph default
+ supposed to be mortal.
+\end_layout
+
+\begin_layout Standard
+Madam Pomfrey had told Harry that he was absolutely forbidden to pester
+ her patient.
+\end_layout
+
+\begin_layout Standard
+Harry had said, “I understand”, which technically did not say anything about
+ obedience.
+\end_layout
+
+\begin_layout Standard
+The stern old healer had then turned, and started to say to Professor Quirrell
+ that he was absolutely not to overexert himself or… upset himself…
+\end_layout
+
+\begin_layout Standard
+Madam Pomfrey had trailed off, hurriedly turned around, and fled the room.
+\end_layout
+
+\begin_layout Standard
+“Not bad,” Harry observed, after the door had shut behind the escaping medical
+ matron.
+ “I've got to learn how to do that, sometime.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell smiled a smile with absolutely no humor content, and
+ said, his voice sounding a good deal dryer than its usual dryness, “Thank
+ you for your artistic critique, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.”
+\end_layout
+
+\begin_layout Standard
+Harry stared into the pale blue eyes, and thought that Professor Quirrell
+ looked…
+\end_layout
+
+\begin_layout Standard
+…older.
+\end_layout
+
+\begin_layout Standard
+It was subtle, it might have just been Harry's imagination, it might have
+ been the poor lighting.
+ But the hair above Quirinus Quirrell's forehead might have receded a bit,
+ what remained might have thinned and greyed, an advancing of the baldness
+ that had already been visible on the back of his head.
+ The face might have grown a little sunken.
+\end_layout
+
+\begin_layout Standard
+The pale blue eyes had stayed sharp and intense.
+\end_layout
+
+\begin_layout Standard
+“I am glad,” Harry said quietly, “to see you in what appears to be good
+ health.”
+\end_layout
+
+\begin_layout Standard
+“Appearances can be deceiving, of course,” said Professor Quirrell.
+ He gave a flick of his fingers, and when his hand finished the gesture
+ he was holding his wand.
+ “Would you believe that woman thinks she has confiscated this from me?”
+\end_layout
+
+\begin_layout Standard
+Six incantations the Defense Professor spoke then; six of the thirty that
+ he had used to safeguard their important conversations in Mary's Room.
+\end_layout
+
+\begin_layout Standard
+Harry raised his eyebrows, silently quizzical.
+\end_layout
+
+\begin_layout Standard
+“That is all I can manage for now,” said the Defense Professor.
+ “I expect it shall prove sufficient.
+ Still, there is a proverb: If you do not wish a thing heard, do not say
+ it.
+ Consider it to apply in full measure.
+ I am told that you were trying to see me?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said.
+ He paused, gathered his thoughts.
+ “Did the Headmaster, or anyone, tell you that we can't go to lunch any
+ more?”
+\end_layout
+
+\begin_layout Standard
+“Something along those lines,” said the Defense Professor.
+ And without changing expression, “Of course I was terribly sorry to hear
+ it.”
+\end_layout
+
+\begin_layout Standard
+“It's more extreme than that, actually,” said Harry.
+ “I'm confined to Hogwarts and its grounds indefinitely.
+ I can't leave without a guard and a good reason.
+ I'm not going home for summer, and maybe not ever again.
+ I was hoping… to speak with you, about that.”
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+\end_layout
+
+\begin_layout Standard
+The Defense Professor exhaled a breath like a brief sigh, and said, “We
+ shall just have to rely on the known fact that the Deputy Headmistress
+ will personally murder anyone who tries to report me.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I intend to keep this conversation on track so that we may conclude
+ it quickly, is that understood?”
+\end_layout
+
+\begin_layout Standard
+Harry nodded, and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the light of the single torch, shaded toward the reddish end of the optical
+ spectrum, the snake's green scales were not very reflective, and the blue-and-w
+hite banding hardly more so.
+ Dark seemed the snake, in that light.
+ The eyes, which had seemed like gray pits before, now reflected the torchlight,
+ and seemed brighter than the rest of the snake.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Sso,
+\emph default
+” hissed the venomous creature.
+ “
+\emph on
+What did you wissh to ssay?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+And Harry hissed, “
+\emph on
+Sschoolmasster thinkss that woman'ss former Lord iss the one who sstole
+ her from prisson
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Harry 
+\emph on
+had
+\emph default
+ thought about it this time, and carefully, before he had decided that he
+ would reveal to Professor Quirrell
+\emph on
+ only
+\emph default
+ that the Headmaster believed that; and 
+\emph on
+not
+\emph default
+ say anything about the prophecy which had set Voldemort on Harry's parents,
+ nor that the Headmaster was reconstituting the Order of the Phoenix… it
+ was a risk, a significant risk, but Harry needed an ally in this.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+He believess that one iss alive?
+\emph default
+” the snake finally said.
+ The divided, two-pronged tongue flickered rapidly from side to side, sardonic
+ snakish laughter.
+ “
+\emph on
+Ssomehow I am not ssurprissed.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Yess,
+\emph default
+” Harry hissed dryly, “
+\emph on
+very amussing, I am ssure.
+ Except now am sstuck in Hogwartss for next ssix years, for ssafety! I have
+ decided that I will, indeed, sseek power; and confinement iss not helpful
+ for that.
+ Musst convince sschoolmasster that Dark Lord iss not yet awakened, that
+ esscape was work of ssome other power 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Again the rapid flickering of the snake's tongue; the snakish laughter was
+ stronger, dryer, this time.
+ “
+\emph on
+Amateur foolisshnesss.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Pardon?
+\emph default
+” hissed Harry.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You ssee misstake, think of undoing, ssetting time back to sstart.
+ Yet not even with hourglasss can time be undone.
+ Musst move forward insstead.
+ You think of convincing otherss they are misstaken.
+ Far eassier to convince them they are right.
+ Sso conssider, boy: what new happensstance would make schoolmasster decide
+ you were ssafe once more, ssimultaneoussly advance your other agendass?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry stared at the snake, puzzled.
+ His mind tried to comprehend and unravel the riddle 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Iss it not obviouss?
+\emph default
+” hissed the snake.
+ Again the tongue flickered sardonic laughter.
+ “
+\emph on
+To free yoursself, to gain power in Britain, you musst again be sseen to
+ defeat the Dark Lord.
+\emph default
+”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In reddish-orange flickering torchlight, a green snake swayed above a white
+ hospital bed, as the boy stared into the embers of its eyes.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Sso,
+\emph default
+” Harry said finally.
+ “
+\emph on
+Let uss be clear on what iss propossed.
+ You ssuggesst that we sset up imposstor to imperssonate Dark Lord.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Ssomething like that.
+
+\emph default
+ 
+\emph on
+Woman we resscued will cooperate, sshould be mosst convincing when sshe
+ iss sseen at hiss sside.
+\emph default
+” More sardonic tongue-flickering.
+ “
+\emph on
+You are kidnapped from Hogwartss to public location, many witnesssess, wardss
+ keep out protectorss.
+ Dark Lord announcess that he hass at long lasst regained physical form,
+ after wandering as sspirit for yearss; ssayss that he hass gained sstill
+ greater power, not even you can sstop him now.
+ Offerss to let you duel.
+ You casst guardian Charm, Dark Lord laughss at you, ssayss he iss not life-eate
+r.
+ Casstss Killing Cursse at you, you block, watcherss ssee Dark Lord explode
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Casst Killing Cursse?
+\emph default
+” Harry hissed in incredulity.
+ “
+\emph on
+At me? Again? Ssecond time? Nobody will believe Dark Lord could posssibly
+ be that sstupid 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You and I are only two people in country who would notice that,
+\emph default
+” hissed the snake.
+ “
+\emph on
+Trusst me on thiss, boy.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What if there iss third, ssomeday?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The snake swayed thoughtfully.
+ “
+\emph on
+Could write different sscript for play, if you wissh.
+ Whatever sscenario, sshould leave open posssibility Dark Lord might return
+ yet again 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ nation musst think they are sstill dependent on you to protect them.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry stared into the red-flickering pits of the snake's eyes.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Well?
+\emph default
+” hissed the swaying form.
+\end_layout
+
+\begin_layout Standard
+The obvious thought was that going along with the Defense Professor's plots
+ and deceptions a 
+\emph on
+second
+\emph default
+ time, spinning an even 
+\emph on
+more
+\emph default
+ complicated lie to cover up the first mistake, and creating 
+\emph on
+another
+\emph default
+ fatal vulnerability if anyone ever discovered the truth, would be 
+\emph on
+exactly
+\emph default
+ the same sort of stupidity as the putative Dark Lord using the Killing
+ Curse again.
+ It didn't even take his Hufflepuff side to point that out, Harry thought
+ it in his very own mental voice.
+\end_layout
+
+\begin_layout Standard
+But there was also a certain question as to whether the appropriate moral
+ to learn from the last experience was to always say 
+\emph on
+no
+\emph default
+ immediately to the Defense Professor, or…
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Will think about it,
+\emph default
+” hissed Harry.
+ “
+\emph on
+Will not ansswer right away, thiss time, will enumerate risskss and benefitss
+ firsst 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Undersstood,
+\emph default
+” hissed the snake.
+ “
+\emph on
+But remember thiss, boy, other eventss proceed without you.
+ Hessitation iss alwayss eassy, rarely usseful.
+\emph default
+”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The boy emerged from the private room into the main infirmary, running nervous
+ fingers through his messy black hair as he walked past the white beds,
+ occupied and unoccupied.
+\end_layout
+
+\begin_layout Standard
+Shortly afterward, the boy emerged from the Hogwarts infirmary entirely,
+ passing Madam Pomfrey on the way out with a distracted nod.
+\end_layout
+
+\begin_layout Standard
+The boy walked out into a hallway, then into a larger corridor, and then
+ stopped and leaned against the wall.
+\end_layout
+
+\begin_layout Standard
+The thing was…
+\end_layout
+
+\begin_layout Standard
+…he really 
+\emph on
+didn't
+\emph default
+ want to be stuck in Hogwarts for the next six years; and when you thought
+ about it…
+\end_layout
+
+\begin_layout Standard
+… the Incident with Rescuing Bellatrix From Azkaban wasn't
+\emph on
+ just
+\emph default
+ imposing costs on Harry.
+ Other people would be worrying, living in fear of the Dark Lord's return,
+ expending unknown resources to take unknown precautions.
+ Harry could demand that they write the script in such fashion as to make
+ it seem
+\emph on
+ not
+\emph default
+ plausible that the Dark Lord would return a third time.
+ And then people would relax, it would all be over.
+\end_layout
+
+\begin_layout Standard
+Unless of course there actually 
+\emph on
+was
+\emph default
+ a Dark Lord out there to be feared.
+ There 
+\emph on
+had
+\emph default
+ been a prophecy.
+\end_layout
+
+\begin_layout Standard
+The boy leaning against the wall vented a soft sigh, and started walking
+ again.
+\end_layout
+
+\begin_layout Standard
+Harry had almost forgotten, but he 
+\emph on
+had
+\emph default
+ gotten around to showing Professor Quirrell the deck of cards he'd been
+ given on Sunday night by `Santa Claus', within which the King of Hearts
+ was allegedly a portkey that would take him to the Salem Witches' Institute
+ in America.
+ Although of course Harry hadn't told Professor Quirrell 
+\emph on
+who'd
+\emph default
+ sent him the card, nor what it was 
+\emph on
+supposed
+\emph default
+ to do, before he'd asked Professor Quirrell if it was possible to tell
+ where the portkey would send him.
+\end_layout
+
+\begin_layout Standard
+The Defense Professor had transformed back to human form, and examined the
+ King of Hearts, tapping it a few times with his wand.
+\end_layout
+
+\begin_layout Standard
+And according to Professor Quirrell…
+\end_layout
+
+\begin_layout Standard
+…the portkey would send the user somewhere in London, but he couldn't pinpoint
+ it any nearer than that.
+\end_layout
+
+\begin_layout Standard
+Harry had shown Professor Quirrell the note that had accompanied the deck
+ of cards, saying nothing of the earlier notes.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell had taken it in at a glance, given a dry chuckle, and
+ observed that if you read the note 
+\emph on
+carefully
+\emph default
+, it did not 
+\emph on
+explicitly
+\emph default
+ say that the portkey would take him to the Salem Witches' Institute.
+\end_layout
+
+\begin_layout Standard
+You needed to learn to pay attention to that kind of subtlety, Professor
+ Quirrell said, if you wanted to be a powerful wizard when you grew up;
+ or, indeed, if you wanted to grow up at all.
+\end_layout
+
+\begin_layout Standard
+The boy sighed again as he trudged off to class.
+\end_layout
+
+\begin_layout Standard
+He was starting to wonder if all the other wizarding schools were also like
+ this, or if it was only Hogwarts that had a problem.
+\end_layout
+
+\end_body
+\end_document

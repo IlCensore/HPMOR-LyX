@@ -1,0 +1,6022 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume3_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 17cm
+\paperheight 24cm
+\leftmargin 2.1cm
+\topmargin 1.8cm
+\rightmargin 1.8cm
+\bottommargin 2.3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Taboo Tradeoffs Prelude: Cheating
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+I
+\end_layout
+
+\end_inset
+
+t
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ was Saturday, on the 4th of April, in the year 1992.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis looked rather nervous, as they sat in a certain special section of
+ the Hogwarts Quidditch stands 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ though today the cushioned benches did not look upon flying broomsticks,
+ but rather viewed a gigantic square of something like parchment; a great
+ white blankness soon to flicker with windows into grass and soldiers.
+ For now it showed only the reflected dull gray color of the surrounding
+ overcast skies.
+ (Looking rather stormy, though the weather-wizards had promised that the
+ rain wouldn't break before nightfall.)
+\end_layout
+
+\begin_layout Standard
+Ordinarily it was the ancient tradition of Hogwarts that mere parents were
+ to Stay Out 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ for much the same reason that impatient children are told to get out of
+ the kitchen and not meddle in the cook's affairs.
+ The only reason for a parent-teacher conference was if a teacher felt that
+ a parent wasn't shaping up properly.
+ It took an exceptional circumstance to make the Hogwarts administration
+ feel that 
+\emph on
+it
+\emph default
+ had to justify itself to 
+\emph on
+you.
+
+\emph default
+ On any given occasion, generally speaking, the Hogwarts administration
+ was backed up by eight hundred years of distinguished history and you were
+ not.
+\end_layout
+
+\begin_layout Standard
+Thus it had been with some trepidation that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis had insisted on an audience with Deputy Headmistress McGonagall.
+ It was hard to muster a proper sense of indignation when you were confronting
+ the same dignified witch who, twelve years and four months earlier, had
+ given both of you two weeks' detention after catching you in the act of
+ conceiving Tracey.
+\end_layout
+
+\begin_layout Standard
+On the other hand, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis's courage had been helped by angrily waving about a copy of 
+\emph on
+The
+\emph default
+ 
+\emph on
+Quibbler
+\emph default
+ whose headline showed, in bright bold text for all the world to see:
+\end_layout
+
+\begin_layout Standard
+\align center
+PACTS WITH POTTER?
+\begin_inset Newline newline
+\end_inset
+
+ BONES, DAVIS, GRANGER
+\begin_inset Newline newline
+\end_inset
+
+ IN LOVE RECTANGLE OF FEAR
+\end_layout
+
+\begin_layout Standard
+And so Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis had argued their way into the Faculty Box of the Hogwarts Quidditch
+ stands, where they were now ensconced with an excellent view of Professor
+ Quirrell's enchanted screens, so that the two of them could see for themselves
+ “Just what the Fiddly-Snocks has been going on in this school, if you'll
+ pardon the expression, Deputy Headmistress McGonagall!”
+\end_layout
+
+\begin_layout Standard
+Seated to the left of Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis was another concerned parent, a white-haired man in elegant black
+ robes of unmatchable quality, one Lucius Malfoy, political leader of the
+ strongest faction of the Wizengamot.
+\end_layout
+
+\begin_layout Standard
+To the left of Lord Malfoy, a sneeringly aristocratic man with a scarred
+ face who had been introduced to them as Lord Jugson.
+\end_layout
+
+\begin_layout Standard
+Then an elderly but sharp-eyed fellow named Charles Nott, rumored to be
+ nearly as wealthy as Lord Malfoy, seated on Lord Jugson's left.
+\end_layout
+
+\begin_layout Standard
+On the right of Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis, one would find the comely Lady and yet handsomer Lord of the Noble
+ and Most Ancient House of Greengrass.
+ Young they were as wizards counted age, garbed in grey silken robes set
+ with tiny dark emeralds embroidered into the shape of grass blades.
+ The Lady Greengrass was considered a key swing vote on the Wizengamot,
+ her own mother having retired from the body with surprising speed.
+ Her charming husband, though his family was not noble or wealthy of itself,
+ had taken a seat on the Hogwarts Board of Governors.
+\end_layout
+
+\begin_layout Standard
+To their right, a square-jawed and incredibly tough-looking old witch, who
+ had shaken hands with Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis without the slightest hint of condescension.
+ This was Amelia Bones, Director of the Department of Magical Law Enforcement.
+\end_layout
+
+\begin_layout Standard
+To Amelia's right was a seniorish woman who had set the fashion scene of
+ magical Britain on its ear by integrating a live vulture into her hat,
+ one Augusta Longbottom.
+ Though she was not addressed as Lady, Madam Longbottom would exercise the
+ full rights of the Longbottom family for so long as their last scion had
+ yet to attain his majority, and she was considered a prominent figure in
+ a minority faction of the Wizengamot.
+\end_layout
+
+\begin_layout Standard
+At the side of Madam Longbottom was seated none other than Chief Warlock
+ Supreme Mugwump Headmaster Albus Percival Wulfric Brian Dumbledore, legendary
+ defeater of Grindelwald, protector of Britain, rediscoverer of the fabled
+ twelve uses of dragon's blood, the most powerful wizard in the world &c.
+\end_layout
+
+\begin_layout Standard
+And finally, on the far right, one would find the enigmatic Defense Professor
+ of Hogwarts, Quirinus Quirrell, who was leaning back on the cushioned benches
+ as though resting; seeming entirely and naturally at ease in the rarefied
+ company of a voting quorum of the Hogwarts Board of Governors, which had
+ dropped by on this fine Saturday to learn just what the Fiddly-Snocks had
+ been going on at Hogwarts in general and with Draco Malfoy, Theodore Nott,
+ Daphne Greengrass, Susan Bones, and Neville Longbottom in particular.
+ The name of Harry Potter had also been much discussed.
+\end_layout
+
+\begin_layout Standard
+Oh, and one mustn't forget Tracey Davis, of course.
+ Director Bones's eyebrows had climbed in some interest upon hearing the
+ young couple introduced as her parents.
+ Lord Jugson had given them a brief, incredulous stare before dismissing
+ them with a snort.
+ Lucius Malfoy had greeted them politely, his smile containing a hint of
+ grim amusement mixed with pity.
+\end_layout
+
+\begin_layout Standard
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis, whose last vote on anything of significance had been touching their
+ wands to the name of Minister Fudge, who had all of three hundred Galleons
+ stored in their Gringotts vault, and who respectively worked at selling
+ cauldrons in a Potions shop and enchanting Omnioculars, were pressed up
+ tightly against each other, sitting rigidly erect upon their cushioned
+ benches, and desperately wishing they'd worn nicer robes.
+\end_layout
+
+\begin_layout Standard
+The sky above was a solid mass of cloud dispersed into darker and lighter
+ grays, grim with the promise of future storms; though no lightning flickered
+ as yet, nor distant rumbles of thunder echoed; and only a few threatening
+ droplets had fallen.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To their designated starting place in a certain forest, the Sunshine Regiment
+ marched, though it was really more like a slow walk; you wouldn't want
+ to tire yourself out before the battle even started, and the breezes of
+ April were annoyingly humid, though cool.
+ Ahead of them, a yellow flame wandered slowly through the air, guiding
+ them according to their pace.
+\end_layout
+
+\begin_layout Standard
+Susan Bones kept throwing worried glances toward the Sunshine General as
+ they marched through the grayly illuminated forest.
+ Professor Snape's going after Hermione seemed to have really shaken her.
+ Hermione had even missed her Sunshine Regiment Official Planning Meeting,
+ which seemed understandable enough; but when Susan had offered her sympathy
+ afterward, Hermione had stammered that she'd lost track of time, which
+ wasn't at all a usual thing for her to say, and the girl had looked exhausted
+ and frightened like she'd just spent three days locked in a bathroom stall
+ with a Dementor.
+ Even now, when all the Sunshine General's focus should've been on the coming
+ battle, the Ravenclaw girl's gaze was constantly darting in all directions,
+ as though she expected Dark Wizards to jump out of the bushes and sacrifice
+ her.
+\end_layout
+
+\begin_layout Standard
+“The ban on Muggle artifacts cuts down our options a lot,” Anthony Goldstein
+ was saying in the dour tones the boy used to denote deliberate pessimism.
+ “I had the idea of trying to Transfigure nets to throw on people, but 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No good,” said Ernie Macmillan.
+ The Hufflepuff boy shook his head, looking even more serious than Anthony.
+ “I mean, it's just like throwing a hex, they'd 
+\emph on
+dodge
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+Anthony nodded.
+ “That's what I figured, too.
+ Do you have any ideas, Seamus?”
+\end_layout
+
+\begin_layout Standard
+The former Chaotic Lieutenant still looked a bit nervous and out-of-place,
+ marching along with his new comrades in the Sunshine Regiment.
+ “Sorry,” said the newly minted Captain Finnigan.
+ “I'm more the strategic master type.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+I'm
+\emph default
+ the strategic master type,” said Ron Weasley, sounding put-off.
+\end_layout
+
+\begin_layout Standard
+“There are 
+\emph on
+three
+\emph default
+ armies,” the Sunshine General said acerbically, “which means we fight 
+\emph on
+two
+\emph default
+ armies at once, which means we need more than one strategist, which means
+ shut up, Ron!”
+\end_layout
+
+\begin_layout Standard
+Ron gave their General a surprised and worried look.
+ “Hey,” the Gryffindor boy said in a calming tone, “you shouldn't let Snape
+ get to you so much 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“What do 
+\emph on
+you
+\emph default
+ think we ought to do, General?” Susan said very loudly and quickly.
+ “I mean, we don't really have a plan at this point.” Their official planning
+ session had failed
+\emph on
+ amazingly
+\emph default
+ with Hermione gone and both Ron and Anthony thinking they were in charge.
+\end_layout
+
+\begin_layout Standard
+“Do we really need a plan?” the Sunshine General said, sounding a little
+ distracted.
+ “We've got you and me and Lavender and Parvati and Hannah and Daphne and
+ Ron and Ernie and Anthony 
+\emph on
+and
+\emph default
+ Captain Finnigan.”
+\end_layout
+
+\begin_layout Standard
+“That 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” began Anthony.
+\end_layout
+
+\begin_layout Standard
+“Sounds like a pretty good strategy,” Ron said with an approving nod.
+ “We've got as many strong soldiers now as both other armies put together.
+ Chaos's only got Potter and Longbottom and Nott left 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ well, and Zabini too, I suppose 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“And Tracey,” said Hermione.
+\end_layout
+
+\begin_layout Standard
+Several people swallowed nervously.
+\end_layout
+
+\begin_layout Standard
+“Oh, 
+\emph on
+stop it,
+\emph default
+” Susan said sharply.
+ “She's just a battle-hardened member of S.P.H.E.W., that's all General Sunshine
+ means.”
+\end_layout
+
+\begin_layout Standard
+“Still,” Ernie said, turning to look seriously at Susan, “I think you'd
+ better go with whatever group fights Chaos, Captain Bones.
+ I know you can't use your double magical powers except when innocents are
+ in danger, but I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ just in case Miss Davis
+\emph on
+ does,
+\emph default
+ you know, go out of control and try to eat someone's soul 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I can handle her,” Susan told him, keeping her voice reassuring.
+ Admittedly, Susan hadn't been replaced by a Metamorphmagus at the moment,
+ but then Tracey probably wasn't Polyjuiced Dumbledore or whoever.
+\end_layout
+
+\begin_layout Standard
+Captain Finnigan intoned in a deep, sort-of-rumbling voice, “I find your
+ lack of skepticism disturbing.” He raised his hand with his thumb and forefinger
+ almost touching, pointed at Ernie.
+\end_layout
+
+\begin_layout Standard
+For some reason Anthony Goldstein seemed to be having a sudden choking fit.
+ “What's that supposed to mean?” said Ernie.
+\end_layout
+
+\begin_layout Standard
+“It's just something General Potter says sometimes,” said Captain Finnigan.
+ “Funny, when you first join the Chaos Legion it all seems crazy, and then
+ after a couple of months you realize that actually everyone who 
+\emph on
+isn't
+\emph default
+ in the Chaos Legion is crazy 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+said
+\emph default
+,” Ron said loudly, “it sounds like good strategy.
+ We don't Transfigure anything, we don't tire ourselves out, we handle whatever
+ they throw at us, and then we just overrun them.”
+\end_layout
+
+\begin_layout Standard
+“Okay,” said Hermione.
+ “Let's do that.”
+\end_layout
+
+\begin_layout Standard
+“But 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said Anthony, shooting a glare at Ron.
+ “But General, Harry Potter's got 
+\emph on
+sixteen
+\emph default
+ people left in his army.
+ Dragon and us each have twenty-eight.
+ Harry 
+\emph on
+knows
+\emph default
+ that, he knows he's 
+\emph on
+got
+\emph default
+ to come up with something 
+\emph on
+incredible
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Like 
+\emph on
+what?
+\emph default
+” demanded Hermione, sounding stressed.
+ “If we don't 
+\emph on
+know
+\emph default
+ what he's planning, we might as well save our magic for doing massed 
+\emph on
+Finites.
+
+\emph default
+ Like we
+\emph on
+ should've
+\emph default
+ done 
+\emph on
+last
+\emph default
+ time!”
+\end_layout
+
+\begin_layout Standard
+Susan touched Hermione gently on the shoulder.
+ “General Granger?” said Susan.
+ “I think you should take a break for a bit before the battle.”
+\end_layout
+
+\begin_layout Standard
+She'd been expecting Hermione to argue, but Hermione just nodded and then
+ walked a little faster, pulling away from the Sunshine Regiment Official
+ Officer Group, her eyes still watching the forest, and sometimes the sky.
+\end_layout
+
+\begin_layout Standard
+Susan followed her.
+ It wouldn't do, having it look like the Sunshine General was being ejected
+ from her own Official Officer Group.
+\end_layout
+
+\begin_layout Standard
+“Hermione?” Susan said softly, after they'd walked a bit away.
+ “You've got to focus.
+ Professor Quirrell's in charge here, not Snape, and he won't let anything
+ bad happen to you or anyone.”
+\end_layout
+
+\begin_layout Standard
+“You're not helping,” Hermione said, sounding shaky.
+ “You're not helping at all, Captain Bones.”
+\end_layout
+
+\begin_layout Standard
+The two of them walked faster, circling around some of the other soldiers,
+ inspecting the marching perimeter and glancing at the surrounding trees.
+\end_layout
+
+\begin_layout Standard
+“Susan?” Hermione said in a small voice, when they'd gotten further away
+ from all the others.
+ “Do you think Daphne's right about Draco Malfoy plotting something?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Susan said at once, not even thinking about it.
+ “You can tell, because his name's got the letters M-A-L-F-O and Y in it.”
+\end_layout
+
+\begin_layout Standard
+Hermione looked around, as if to make sure that nobody was watching, although
+ of course that was a wonderful way to get other people to pay attention
+ to you.
+ “Could Malfoy have been behind what Snape did?”
+\end_layout
+
+\begin_layout Standard
+“Snape could be behind Malfoy,” Susan said thoughtfully, remembering dinner-tabl
+e conversations she'd heard at Auntie's, “or Lucius Malfoy could be behind
+ both of them.” A slight chill went down Susan's spine as this last thought
+ occurred to her.
+ Suddenly, telling Hermione to just focus on the coming battle seemed a
+ lot less reasonable.
+ “Why, did you find some sort of clue about that?”
+\end_layout
+
+\begin_layout Standard
+Hermione shook her head.
+ “No,” the Ravenclaw girl said, in a voice that sounded almost like she
+ was about to cry.
+ “I was 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ just thinking about it myself 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ that's all.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In their designated place in a forest near Hogwarts, the Dragon General
+ and the warriors of Dragon Army waited where their red flame had led them,
+ beneath grey skies.
+\end_layout
+
+\begin_layout Standard
+At Draco's right side stood Padma Patil, his second-in-command, who had
+ once led all of Dragon Army after Draco had been stunned.
+ At Draco's back was Vincent, the son of Crabbe, a family which had served
+ the Malfoys into the distance of forgotten memory; the muscular boy was
+ watchful as he was always watchful, whether battle had been declared or
+ no.
+ Further back, Gregory of the Goyles stood waiting beside one of the two
+ broomsticks Dragon Army had been given; if the Goyles had not served the
+ Malfoys so long as the Crabbes, yet they had served no less well.
+\end_layout
+
+\begin_layout Standard
+And at Draco's left side, now, stood one Dean Thomas of Gryffindor, a mudblood
+ or possible half-blood who knew nothing of his father.
+\end_layout
+
+\begin_layout Standard
+Sending Dean Thomas to Dragon Army had been a quite deliberate move on Harry's
+ part, Draco was certain.
+ Three other former Chaotics had also been transferred to Dragon Army, and
+ all were watching Draco hawklike to see if he offered the former Lieutenant
+ the slightest insult.
+\end_layout
+
+\begin_layout Standard
+Some might have called it sabotage, but Draco knew better.
+ Harry had also sent Lieutenant Finnigan to the Sunshine Regiment, even
+ though Professor Quirrell's mandate had only required that Harry give up
+ 
+\emph on
+one
+\emph default
+ Lieutenant.
+ That too had been a deliberate move, making crystal clear to everyone that
+ Harry 
+\emph on
+wasn't
+\emph default
+ dumping his least-favored soldiers.
+\end_layout
+
+\begin_layout Standard
+In one sense, it might have been easier for Draco to win the true loyalties
+ of his new soldiers if they'd thought Harry hadn't wanted them.
+ In another sense… well, it wasn't easy to put into words.
+ Harry had given him good soldiers with their pride intact, but it was more
+ than that.
+ Harry had showed kindliness toward his soldiers, but it was more than 
+\emph on
+that
+\emph default
+.
+ It wasn't just Harry playing fair, it was something that… that you couldn't
+ help but contrast with the way the game was played in Slytherin House.
+\end_layout
+
+\begin_layout Standard
+So Draco hadn't offered the slightest insult to Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas, but brought him straight to his side, subordinate to himself and
+ Padma but no one else.
+ It was a test, Draco had told Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas and everyone, not a promotion.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas would have to show himself worthy of rank within Dragon Army 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but he would be given a chance, and the chance 
+\emph on
+would
+\emph default
+ be fair.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas had looked surprised at the ceremony of it (the Chaos Legion, from
+ what Draco had heard, didn't stand on formality) but the Gryffindor boy
+ had stood a little straighter, and nodded.
+\end_layout
+
+\begin_layout Standard
+And then, after Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas had done well enough in one of Dragon Army's training sessions, he'd
+ been brought into the strategy session in Dragon Army's huge military office.
+ And a few minutes into the session, Padma had happened to ask 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ as though it was a perfectly normal question 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ whether Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas had any ideas about how to defeat the Chaos Legion.
+\end_layout
+
+\begin_layout Standard
+The Gryffindor boy had said cheerfully that Harry had predicted that General
+ Malfoy would get one of his soldiers to ask him that, and that Harry had
+ given him the message that General Malfoy should ask himself where his
+ relative advantage lay 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ what Draco Malfoy could do, or what Dragon Army could do, that the Chaos
+ Legion couldn't match 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and then try to exploit it for all it was worth.
+ Dean Thomas couldn't think of what that advantage might be, but if he 
+\emph on
+did
+\emph default
+ come up with any ideas for beating Chaos, he'd share them.
+ Harry had ordered him to, after all.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Sigh,
+\emph default
+ Draco had thought, since he couldn't actually sigh out loud.
+ But it was good advice, and Draco had followed it, sitting at his bedroom
+ desk with quill and parchment listing out everything that might be a relative
+ advantage.
+\end_layout
+
+\begin_layout Standard
+And, almost to Draco's own surprise, he'd had an 
+\emph on
+idea,
+\emph default
+ a real one.
+ In fact he'd had 
+\emph on
+two.
+\end_layout
+
+\begin_layout Standard
+The hollow bell sounded through the forest, somehow sounding more ominous
+ than ever before.
+ On the instant, the two pilots cried “
+\emph on
+Up!
+\emph default
+” and leapt onto their broomsticks, heading into the gray sky.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis had now slumped slightly against each other, more from sheer muscle
+ exhaustion than from any decrease of tension.
+ Before them, the vast blank white parchment flickered with three great
+ windows, as though holes had been cut through into the forest, showing
+ three armies on the march.
+ Lesser windows showed the six riders upon their broomsticks, and the corner
+ of the parchment showed a view of the entire forest, with glowing dots
+ to indicate armies and scouts.
+\end_layout
+
+\begin_layout Standard
+The window into Sunshine showed General Granger and her Captains marching
+ in the center of the Sunshine Regiment, protected by
+\emph on
+ Contego
+\emph default
+ screens along with a number of other young witches.
+ The Sunshine Regiment, the Defense Professor had remarked, knew well that
+ it had now acquired a strong advantage in experienced soldiers, and it
+ meant to protect those soldiers from a surprise attack.
+ Aside from that, the Sunshine Soldiers were moving forward at a steady
+ march, conserving their strength.
+\end_layout
+
+\begin_layout Standard
+The soldiers in General Malfoy's army, at least those with higher Transfiguratio
+n scores, were picking up leaves and Transfiguring them into… well, if you
+ looked at Padma Patil, who was almost done with hers, it looked like her
+ leaf was becoming a left-handed glove bearing a dangling strap.
+ (The window had zoomed in to show this.)
+\end_layout
+
+\begin_layout Standard
+Lord Jugson was watching the screen with a flat expression; his voice, when
+ he spoke, seemed to ooze and drip with disdain.
+ “What
+\emph on
+ is
+\emph default
+ your son doing, Lucius?”
+\end_layout
+
+\begin_layout Standard
+The foreign-born witch who stood at Draco Malfoy's right side had finished
+ Transfiguring her glove, and was now bringing it before the Dragon General
+ like a sacrifice.
+\end_layout
+
+\begin_layout Standard
+“I do not know,” said Lucius Malfoy, his tone calm though no less aristocratic,
+ “but I must trust that he has good reason for doing it.”
+\end_layout
+
+\begin_layout Standard
+All Dragon Army stopped for a moment as Padma slid the glove over her left
+ hand, strapped it in place, and presented it before Draco Malfoy; who also
+ stopped in place, took several deep breaths, raised his wand, executed
+ a precise set of eight movements and bellowed “
+\emph on
+Colloportus!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The Dragon Warrior raised her gloved hand, flexed it, and gave a small bow
+ to Draco Malfoy, who returned it more shallowly, though the Dragon General
+ was staggering slightly.
+ Padma then returned to her place at Draco's side, and the Dragons began
+ marching once more.
+\end_layout
+
+\begin_layout Standard
+“Well,” remarked Augusta Longbottom.
+ “I don't suppose someone would care to explain?” Amelia Bones was frowning
+ slightly as she gazed at the screen.
+\end_layout
+
+\begin_layout Standard
+“For some reason or other,” said the amused voice of Professor Quirrell,
+ “it seems that the scion of Malfoy is able to cast surprisingly strong
+ magic for a first-year student.
+ Due to the purity of his blood, of course.
+ Certainly the good Lord Malfoy would not have openly flouted the underage
+ magic laws by arranging for his son to receive a wand before his acceptance
+ into Hogwarts.”
+\end_layout
+
+\begin_layout Standard
+“I suggest you be careful in your implications, Quirrell,” Lucius Malfoy
+ said coldly.
+\end_layout
+
+\begin_layout Standard
+“Oh, I am,” Professor Quirrell said.
+ “A 
+\emph on
+Colloportus
+\emph default
+ cannot be dispelled by 
+\emph on
+Finite Incantatem;
+\emph default
+ it requires an
+\emph on
+ Alohomora
+\emph default
+ of equal strength.
+ Until then, a glove so Charmed will resist lesser material forces, deflect
+ the Sleep Hex and the Stunning Hex.
+ And as neither Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter nor Miss Granger can cast a counterspell powerful enough, that Charm
+ is invincible upon this battlefield.
+ It is not the original intent of the Charm, nor the intent of whoever taught
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy an emergency spell for evading his enemies.
+ But it would seem that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy has been learning creativity.”
+\end_layout
+
+\begin_layout Standard
+Lucius Malfoy had straightened as the Defense Professor spoke; he now sat
+ erect upon his cushioned bench, his head held perceptibly higher than before,
+ and when he spoke it was with quiet pride.
+ “He will be the greatest Lord Malfoy that has yet lived.”
+\end_layout
+
+\begin_layout Standard
+“Faint praise,” Augusta Longbottom said under her breath; Amelia Bones chuckled,
+ as did Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis for a tiny, fatal fraction of a second before he stopped with a strangled
+ gargle.
+\end_layout
+
+\begin_layout Standard
+“I quite agree,” said Professor Quirrell, though it wasn't clear to whom
+ he spoke.
+ “Unfortunately for Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy, he is still new to the art of creativity, and so he has committed
+ a classic error of Ravenclaw.”
+\end_layout
+
+\begin_layout Standard
+“And what might that be?” said Lucius Malfoy, his voice now turned chill
+ once more.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell had leaned back in his seat, the pale blue eyes briefly
+ unfocusing as one of the windows shifted its viewpoint within the greater
+ screen, zooming in to show the sweat now on Draco Malfoy's forehead.
+ “It is such a beautiful idea that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy has quite overlooked its pragmatic difficulties.”
+\end_layout
+
+\begin_layout Standard
+“Would someone care to explain that?” said Lady Greengrass.
+ “Not all of us present are experts at such… affairs.”
+\end_layout
+
+\begin_layout Standard
+Amelia Bones spoke, the old witch's voice somewhat dry.
+ “It will tempt them to try to catch hexes that they would be wiser to simply
+ dodge.
+ The more so, if they have had little practice catching them.
+ And the casting of so many Charms will tire their strongest warrior.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell gave the DMLE Director a half-nod of acknowledgment.
+ “As you say, Madam Bones.
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy is new to the business of having ideas, and so when he has one, he
+ becomes proud of himself for having it.
+ He has not yet had enough ideas to unflinchingly discard those that are
+ beautiful in some aspects and impractical in others; he has not yet acquired
+ confidence in his own ability to think of better ideas as he requires them.
+ What we are seeing here is not Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy's best idea, I fear, but rather his only idea.”
+\end_layout
+
+\begin_layout Standard
+Lord Malfoy simply turned to watch the screens again, as though the Defense
+ Professor had used up his right to exist.
+\end_layout
+
+\begin_layout Standard
+“But 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said Lord Greengrass.
+ “But 
+\emph on
+what
+\emph default
+ in Merlin's name is Harry Potter 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sixteen remaining soldiers of the Chaos Legion 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ or fifteen plus Blaise Zabini, rather 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ marched confidently through the forest, their shoes thudding over the still-dry
+ ground.
+ Their camouflage uniforms blended into the forest even more than usual,
+ all colors washed out by the tints of an overcast day.
+\end_layout
+
+\begin_layout Standard
+Sixteen Chaos Legionnaires, against twenty-eight Dragon Warriors and twenty-eigh
+t Sunshine Soldiers.
+\end_layout
+
+\begin_layout Standard
+The common consensus had been that, with odds 
+\emph on
+that
+\emph default
+ bad, it was practically impossible for them to lose.
+ After all, General Chaos was 
+\emph on
+bound
+\emph default
+ to come up with something really
+\emph on
+ spectacular,
+\emph default
+ facing odds like that.
+\end_layout
+
+\begin_layout Standard
+There was something almost nightmarish about how everyone seemed to now
+ 
+\emph on
+expect
+\emph default
+ Harry to pull miracles out of his hat, on demand, any time one was needed.
+ It meant that if you couldn't do the impossible, you were 
+\emph on
+disappointing your friends
+\emph default
+ and
+\emph on
+ failing to live up to your potential…
+\end_layout
+
+\begin_layout Standard
+Harry hadn't bothered complaining to Professor Quirrell about `too much
+ pressure'.
+ Harry's mental model of the Defense Professor had predicted him looking
+ severely annoyed, saying things along the lines of 
+\emph on
+You are perfectly capable of solving this problem, Mr.
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph on
+Potter; did you even try?
+\emph default
+ and then deducting several hundred Quirrell points.
+\end_layout
+
+\begin_layout Standard
+From above, from where two broomsticks watched their march, the high young
+ voice of Tess Walsh cried “Friend!” and after another moment, “Gingersnap!”
+\end_layout
+
+\begin_layout Standard
+A handful of seconds later, the soldier who'd code-named herself Gingersnap
+ returned bearing a double handful of acorns, sweating slightly in the cool
+ but humid air from the jog that had taken her to the oak tree Neville had
+ spotted.
+ Gingersnap approached to where Shannon was holding a uniform-shirt with
+ the neck tied off, in lieu of anyone having to Transfigure a bag.
+ When Gingersnap brought her hands forward to try and dump her acorns into
+ the holding-shirt, Chaotic Shannon, giggling, jerked the shirt to the right,
+ then to the left again as Gingersnap made another effort to dump the acorns,
+ until a sharp “Miss Friedman!” from Lieutenant Nott caused Shannon to sigh
+ and hold the shirt still.
+ Gingersnap dumped her acorns into those accumulated, and then headed out
+ for more.
+\end_layout
+
+\begin_layout Standard
+Somewhere in the background, Ellie Knight was singing her very own version
+ of the Chaos Legion's marching song, and around half the other soldiers
+ were trying to step along with it despite not knowing the tune in advance.
+ Nearby, Nita Berdine, who had a high Transfiguration score, finished creating
+ yet another pair of green sunglasses, and handed them to Adam Beringer,
+ who folded up the sunglasses before tucking them into his uniform pocket.
+ Other soldiers were already wearing their own green sunglasses, despite
+ the cloudy day.
+\end_layout
+
+\begin_layout Standard
+You might guess that there was some sort of incredibly complicated and fascinati
+ng explanation behind this, and you would be right.
+\end_layout
+
+\begin_layout Standard
+Two days earlier Harry had been sitting amid his bookcases in the comfy
+ rocking-chair he'd obtained for his trunk's cavern level, pondering silently
+ in the quiet span between classes and dinnertime, thinking about power.
+\end_layout
+
+\begin_layout Standard
+For sixteen Chaotics to defeat twenty-eight Sunnies and twenty-eight Dragons
+ they would need a force amplifier.
+ There were limits to what you could do with maneuver.
+ There 
+\emph on
+had
+\emph default
+ to be a secret weapon and it had to be invincible, or at least moderately
+ unstoppable.
+\end_layout
+
+\begin_layout Standard
+Muggle artifacts were now illegal in Hogwarts's mock battles, banned by
+ Ministry edict.
+ And the trouble with finding some other clever and unusual spell was that
+ an army twice your own size could brute-force 
+\emph on
+Finite
+\emph default
+ almost anything you tried.
+ The Sunshine Regiment might have missed that tactic with the Transfigured
+ chainmail, but nobody would miss it again now that Professor Quirrell had
+ spelled it out.
+ And 
+\emph on
+Finite Incantatem
+\emph default
+ was a brute-force counterspell which required at least as much magic as
+ the spell being canceled… which, if you were severely outnumbered, made
+ it a whole new order of military challenge.
+ The enemy could 
+\emph on
+Finite
+\emph default
+ anything you tried, and still have enough magic left over for shields and
+ volleys of Sleep Hexes.
+\end_layout
+
+\begin_layout Standard
+Unless, somehow, you could invoke potencies beyond the ordinary strength
+ of first-year Hogwarts students, something too powerful for the enemy to
+ 
+\emph on
+Finite
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+So Harry had asked Neville if he'd ever heard of any 
+\emph on
+small, safe
+\emph default
+ sacrificial rituals 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And then, after the screaming and the shouting had subsided, after Harry
+ had stopped trying to argue about Unbreakable Vows and just given up the
+ whole thing as clearly impossible from a public relations standpoint, Harry
+ had realized that he hadn't even needed to go there.
+ They taught you how to invoke potencies far beyond your own strength in
+ ordinary Hogwarts classes.
+\end_layout
+
+\begin_layout Standard
+Sometimes, even though you were looking straight at something, you didn't
+ realize 
+\emph on
+what
+\emph default
+ you were looking at until you happened to ask exactly the right question.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Defense.
+ Charms.
+ Transfiguration.
+ Potions.
+ History of Magic.
+ Astronomy.
+ Broomstick Flying.
+ Herbology…
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Foe!
+\emph default
+” screamed the voice from above.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was a good thing that Neville Longbottom hadn't the tiniest idea that
+ his grandmother was watching; or he would've been more self-conscious about
+ screaming scary battlecries at the top of his lungs while casting 
+\emph on
+Luminos
+\emph default
+ every three seconds as he rocketed through a dense forest of trees, hot
+ on the tail of Gregory Goyle.
+\end_layout
+
+\begin_layout Standard
+(“But 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Augusta Longbottom said, her expression showing almost as much astonishment
+ as worry.
+ “But Neville is afraid of heights!”)
+\end_layout
+
+\begin_layout Standard
+(“Not all fears last,” said Amelia Bones.
+ The old witch was favoring the great screen before them with a measuring
+ gaze.
+ “Or perhaps he has found courage.
+ It is much the same, in the end.”)
+\end_layout
+
+\begin_layout Standard
+A glimmer of red 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Neville dodged, very nearly into a tree but he 
+\emph on
+did
+\emph default
+ dodge; and then Neville somehow also managed to dodge
+\emph on
+ almost
+\emph default
+ all of the branches before they smacked him in the face.
+\end_layout
+
+\begin_layout Standard
+Now Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle's broomstick was pulling further and further away 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ even though the two of them were riding exactly the same broomstick and
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle weighed more, somehow Neville was still falling behind.
+ So Neville slowed down, pulled back, angled up out of the forest and began
+ to accelerate back toward where the Chaos Legion still marched.
+\end_layout
+
+\begin_layout Standard
+Twenty seconds later 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it hadn't been a 
+\emph on
+long
+\emph default
+ chase, just an 
+\emph on
+exciting
+\emph default
+ one 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Neville was back among his fellow Chaotics, and dismounted his broom to
+ walk on the ground for a little bit.
+\end_layout
+
+\begin_layout Standard
+“Neville 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” said General Potter.
+ Harry's voice was a little distant, as he walked carefully and steadily
+ through the forest, his wand still applied to the almost-finished Form
+ of the object he was slowly Transfiguring.
+ Beside him, Blaise Zabini, working a smaller version of the same Transfiguratio
+n, looked like a shambling Inferi as he stumbled forward.
+ “I told you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Neville 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ you don't have to 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Yes, I do,” said Neville.
+ He looked down at where his fingers grasped the broomstick, and saw that
+ not just his hands, but his whole arms were shaking.
+ But unless anyone else in Chaos had been practicing dueling for an hour
+ a day with Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Diggory, and then practicing their aim in private for another hour afterward,
+ Neville was probably the best shot from a broomstick even after taking
+ into account that he wasn't a very good flyer.
+\end_layout
+
+\begin_layout Standard
+“Good show, Neville,” Theodore said from where he was walking ahead of them
+ all, leading the Chaos Legion forward through the forest while wearing
+ only his undershirt.
+\end_layout
+
+\begin_layout Standard
+(Augusta Longbottom and Charles Nott exchanged brief astonished glances
+ and then wrenched their gazes away from one another as though stung.)
+\end_layout
+
+\begin_layout Standard
+Neville took a few deep breaths, trying to steady his hands, trying to think;
+ Harry might not be good for deep strategic thinking while he was in the
+ middle of an extended Transfiguration.
+ “Lieutenant Nott, do you have any idea why Dragon Army just did that? They
+ 
+\emph on
+lost
+\emph default
+ a broom 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” The Dragons had started the combat with a feint to provide a distraction
+ for Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle's approach through the forest; Neville hadn't realized there were
+\emph on
+ two
+\emph default
+ brooms attacking until almost too late.
+ But the Chaos Legion had 
+\emph on
+gotten
+\emph default
+ the other pilot.
+ That was why broomsticks usually didn't attack before armies met, it meant
+ a whole army would concentrate fire on the broomstick.
+ “And the Dragons didn't even get anyone, did they?”
+\end_layout
+
+\begin_layout Standard
+“Nope!” Tracey Davis said proudly.
+ She too was now marching by General Potter's side, her wand gripped low
+ and watchful as her eyes scanned the surrounding forest.
+ “I threw up a Prismatic Sphere like a split second before Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle's hex got Zabini, and the way Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle had his other arm stretched out I think he planned to knock down the
+ General, too.” The Slytherin witch smiled with vicious confidence.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle tried a Breaking Drill Hex, but learned to his dismay that his weak
+ magic was no match for my newfound dark powers, hahahaha!”
+\end_layout
+
+\begin_layout Standard
+Some Chaotics laughed with her, but a queasy sensation was starting in Neville's
+ stomach as he realized how close the Chaos Legion had come to complete
+ disaster.
+ If Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle had managed to disrupt both Transfigurations 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Report!” snapped the Dragon General, doing his best to conceal the fatigue
+ he felt after casting seventeen Locking Charms, with more yet to come.
+\end_layout
+
+\begin_layout Standard
+Beads of sweat now dotted Gregory's forehead.
+ “The enemy got Dylan Vaughan,” Gregory said formally.
+ “Harry Potter and Blaise Zabini were each Transfiguring something dark-grey
+ and roundish, I don't think it was finished but it looked like it would
+ be big and hollow, sort of cauldron-shaped.
+ Zabini's was smaller than Potter's.
+ I couldn't get either of them or disrupt their Transfigurations, Tracey
+ Davis blocked me.
+ Neville Longbottom is on a broomstick and he's still a terrible flyer but
+ his aim is really good.”
+\end_layout
+
+\begin_layout Standard
+Draco listened, frowning, and then he glanced at Padma and Dean Thomas,
+ who both shook their own heads, indicating that they also couldn't think
+ of what might be big and grey and shaped like a cauldron.
+\end_layout
+
+\begin_layout Standard
+“Anything else?” said Draco.
+ If that was it, they'd lost a broom for nothing 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“The only other weird thing I saw,” Gregory said, sounding puzzled, “was
+ that some Chaotics were wearing… sort of like goggles?”
+\end_layout
+
+\begin_layout Standard
+Draco thought about this, not noticing that he'd stopped marching or that
+ all of Dragon Army had automatically stopped with him.
+\end_layout
+
+\begin_layout Standard
+“Was there anything special about the goggles?” Draco said.
+\end_layout
+
+\begin_layout Standard
+“Um…” Gregory said.
+ “They were… greenish, maybe?”
+\end_layout
+
+\begin_layout Standard
+“Okay,” said Draco.
+ Again without thinking, he began walking once more and his Dragons followed.
+ “Here's our new strategy.
+ We're only going to send eleven Dragons against the Chaos Legion, not fourteen.
+ That should be enough to beat them, now that we can neutralize their special
+ advantage.” It was a gamble, but you had to take gambles sometimes, if you
+ wanted to come in first in a three-way battle.
+\end_layout
+
+\begin_layout Standard
+“You figured out Chaos's plan, General Malfoy?” said Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas with considerable surprise.
+\end_layout
+
+\begin_layout Standard
+“What 
+\emph on
+are
+\emph default
+ they doing?” said Padma.
+\end_layout
+
+\begin_layout Standard
+“I haven't the faintest idea,” said Draco, with a smirk of the most refined
+ smugness.
+ “We'll just do the 
+\emph on
+obvious
+\emph default
+ thing.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry, having now finished his cauldron, was carefully scooping acorns into
+ the container while the scouts searched for a nearby source of water that
+ could be used as a liquid base.
+ They'd come across frequent sinkholes and miniature creeks in the forest
+ before, so it ought not to take long.
+ Another scout had brought a straight stick that would serve as a stirrer,
+ so Harry didn't have to Transfigure one.
+\end_layout
+
+\begin_layout Standard
+Sometimes, even though you were looking straight at something, you didn't
+ realize 
+\emph on
+what
+\emph default
+ you were looking at until you happened to ask exactly the right question…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ How can I invoke magical powers that ought to be beyond the reach of first-year
+ students?
+\end_layout
+
+\begin_layout Standard
+There was a cautionary tale the Potions Master had told them (with much
+ sneers and laughter to make the stupidity seem low-status instead of daring
+ and romantic) about a second-year witch in Beauxbatons who'd stolen some
+ extremely restricted and expensive ingredients, and tried to brew 
+\emph on
+Polyjuice
+\emph default
+ so she could borrow the form of another girl for purposes better left unmention
+ed.
+ Only she'd managed to contaminate the potion with
+\emph on
+ cat hairs,
+\emph default
+ and then instead of seeking a healer immediately, the witch had hidden
+ herself in a bathroom, hoping the effects would just wear off; and when
+ she'd finally been found, it had been too late to reverse the transformation
+ completely, condemning her to a life of despair as a sort of cat-girl hybrid.
+\end_layout
+
+\begin_layout Standard
+Harry hadn't realized what that 
+\emph on
+meant
+\emph default
+ until the instant of thinking the right question 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but what that implied was that a young wizard or witch could do things
+ with Potions-Making that they couldn't even come 
+\emph on
+close
+\emph default
+ to doing with Charms.
+ Polyjuice was one of the most potent potions known… but what made Polyjuice
+ a N.E.W.T.-level potion, apparently, wasn't the required age before you had
+ enough magical power; it was how difficult the potion was to brew 
+\emph on
+precisely
+\emph default
+ and what happened to you if you screwed up.
+\end_layout
+
+\begin_layout Standard
+Nobody in any army had tried brewing any potions up until then.
+ But Professor Quirrell would let you get away with nearly anything, if
+ it was something you 
+\emph on
+could
+\emph default
+ have done in a real war.
+
+\emph on
+ Cheating is technique,
+\emph default
+ the Defense Professor had once lectured them.
+ 
+\emph on
+Or rather, cheating is what the losers call technique, and will be worth
+ extra Quirrell points when executed successfully.
+
+\emph default
+ In principle, there was nothing
+\emph on
+ unrealistic
+\emph default
+ about Transfiguring a couple of cauldrons and brewing potions out of whatever
+ came to hand, if you had enough time before the armies met.
+\end_layout
+
+\begin_layout Standard
+So Harry had retrieved his copy of 
+\emph on
+Magical Drafts and Potions,
+\emph default
+ and begun looking for a safe but useful potion he could brew in the minutes
+ before the battle started 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ a potion which would win the battle too fast for counterspells, or produce
+ spell effects too strong for first-years to 
+\emph on
+Finite.
+\end_layout
+
+\begin_layout Standard
+Sometimes, even though you were looking straight at something, you didn't
+ realize 
+\emph on
+what
+\emph default
+ you were looking at until you happened to ask exactly the right question…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ What potion can I brew using only components gathered from an ordinary
+ forest?
+\end_layout
+
+\begin_layout Standard
+Every recipe in 
+\emph on
+Magical Drafts and Potions
+\emph default
+ used at least one ingredient from a magical plant or animal.
+ Which was unfortunate, because all the 
+\emph on
+magical
+\emph default
+ plants and animals were in the Forbidden Forest, not the safer and lesser
+ woods where battles were held.
+\end_layout
+
+\begin_layout Standard
+Someone else might have given up at that point.
+\end_layout
+
+\begin_layout Standard
+Harry had turned the pages from one recipe to another, skimming faster and
+ faster in dawning realization, confirming what he had already read and
+ was now 
+\emph on
+seeing
+\emph default
+ for the first time.
+\end_layout
+
+\begin_layout Standard
+Every single Potions recipe seemed to demand at least one magical ingredient,
+ 
+\emph on
+but why should that be true?
+\end_layout
+
+\begin_layout Standard
+Charms required no material components at all; you just said the words and
+ waved your wand.
+ Harry had been thinking about Potions-Making as essentially analogous:
+ Instead of your spoken syllables triggering a spell effect for no comprehensibl
+e reason, you collected a batch of disgusting ingredients and stirred four
+ times clockwise, and 
+\emph on
+that
+\emph default
+ arbitrarily triggered a spell effect.
+\end_layout
+
+\begin_layout Standard
+In which case, given that most potions used ordinary components like porcupine
+ quills or stewed slugs, you'd expect to see some potions using 
+\emph on
+only
+\emph default
+ ordinary components.
+\end_layout
+
+\begin_layout Standard
+But instead 
+\emph on
+every
+\emph default
+ single recipe in 
+\emph on
+Magical Drafts and Potions
+\emph default
+ demanded at least 
+\emph on
+one
+\emph default
+ component from a magical plant or animal 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ an ingredient like silk from an Acromantula or petals from a Venus Fire
+ Trap.
+\end_layout
+
+\begin_layout Standard
+Sometimes, even though you were looking straight at something, you didn't
+ realize 
+\emph on
+what
+\emph default
+ you were looking at until you happened to ask exactly the right question…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ If making a potion is like casting a Charm, why don't I fall over from
+ exhaustion after brewing a draught as powerful as boil-curing?
+\end_layout
+
+\begin_layout Standard
+The Friday before last, Harry's double Potions class had brewed
+\emph on
+ potion of boil-curing…
+\emph default
+ although even the most trivial healing Charms, if you tried to cast them
+ with wand and incantation, were at least fourth-year spells.
+ And afterward, they'd all felt the way they usually felt after Potions
+ class, namely, 
+\emph on
+not
+\emph default
+ magically exhausted to any discernible degree.
+\end_layout
+
+\begin_layout Standard
+Harry had shut his copy of 
+\emph on
+Magical Drafts and Potions
+\emph default
+ with a snap, and rushed down to the Ravenclaw common room.
+ Harry had found a seventh-year Ravenclaw doing his N.E.W.T.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+potions homework and paid the older boy a Sickle to borrow 
+\emph on
+Moste Potente Potions
+\emph default
+ for five minutes; because Harry hadn't wanted to run all the way to the
+ library to find confirmation.
+\end_layout
+
+\begin_layout Standard
+After skimming through five recipes in the seventh-year book, Harry had
+ read the sixth recipe, for a 
+\emph on
+potion of fire breathing
+\emph default
+, which required Ashwinder eggs… and the book warned that the resulting
+ fire could be no hotter than the magical fire which had spawned the Ashwinder
+ which had laid the eggs.
+\end_layout
+
+\begin_layout Standard
+Harry had shouted “
+\emph on
+Eureka!
+\emph default
+” right in the middle of the Ravenclaw common room, and been severely rebuked
+ by a nearby prefect, who'd thought Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter was trying to cast a spell.
+ Nobody in the wizarding world knew or cared about some ancient Muggle named
+ Archimedes, nor the ur-physicist's realization that the water displaced
+ from a bathtub would equal the volume of the object entering the bathtub…
+\end_layout
+
+\begin_layout Standard
+Conservation laws.
+ They'd been the critical insight in more Muggle discoveries than Harry
+ could easily count.
+ In Muggle technology you couldn't raise a feather one meter off the ground
+ without the power coming from 
+\emph on
+somewhere.
+
+\emph default
+ If you looked at molten lava spilling from a volcano and asked where the
+ heat came from, a physicist would tell you about radioactive heavy metals
+ in the center of the Earth's molten core.
+ If you asked where the energy to power the radioactivity came from, the
+ physicist would point to an era before the Earth had formed, and a primordial
+ supernova in the early days of the galaxy which had baked atomic nuclei
+ heavier than the natural limit, the supernova compressing protons and neutrons
+ into a tight unstable package that yielded back some of the supernova's
+ energy when it split.
+ A light bulb was fueled by electricity, fueled by a nuclear power plant,
+ fueled by a supernova… You could play the game all the way back to the
+ Big Bang.
+\end_layout
+
+\begin_layout Standard
+Magic did 
+\emph on
+not
+\emph default
+ appear to work like this, to put it mildly.
+ Magic's attitude toward laws like Conservation of Energy was somewhere
+ between a giant extended middle finger, and a shrug of total indifference.
+ 
+\emph on
+Aguamenti
+\emph default
+ created water out of nothingness, so far as anyone knew; there was no known
+ lake whose water level went down each time.
+ That was a simple fifth-year spell, not considered impressive by wizards,
+ because creating a mere glass of water didn't seem amazing to them.
+ They didn't have the wacky notion that mass ought to be conserved, or that
+ creating a gram of mass was somehow equivalent to creating 90,000,000,000,000
+ joules of energy.
+ There was an upper-year spell Harry had run across whose 
+\emph on
+literal incantation
+\emph default
+ was `
+\emph on
+Arresto Momentum!'
+\emph default
+ and when Harry had asked if the momentum went anywhere 
+\emph on
+else
+\emph default
+ he'd just gotten a puzzled look.
+ So Harry had kept a desperate eye out for 
+\emph on
+some
+\emph default
+ kind of conservation principle in magic, 
+\emph on
+anywhere
+\emph default
+…
+\end_layout
+
+\begin_layout Standard
+…and the whole time it had been right in front of him in every Potions class.
+ Potions-Making didn't 
+\emph on
+create
+\emph default
+ magic, it
+\emph on
+ preserved
+\emph default
+ magic, that was why every potion needed at least one magical ingredient.
+ And by following instructions like `stir four times counterclockwise and
+ once clockwise' 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Harry had hypothesized 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ you were doing something like casting a small spell that reshaped the magic
+ in the ingredients.
+ (And unbound the physical form so that ingredients like porcupine quills
+ dissolved smoothly into a drinkable liquid; Harry strongly suspected that
+ a Muggle following exactly the same recipe would end up with nothing but
+ a spiny mess.) That was what Potions-Making really
+\emph on
+ was,
+\emph default
+ the art of transforming existing magical essences.
+ So you were a 
+\emph on
+little
+\emph default
+ tired after Potions class, but not much, because you weren't empowering
+ the potions yourself, you were just reshaping magic that was already there.
+ And that was why a second-year witch could brew Polyjuice, or at least
+ get close.
+\end_layout
+
+\begin_layout Standard
+Harry had kept scanning through 
+\emph on
+Moste Potente Potions,
+\emph default
+ looking for something that might disprove his shiny new theory.
+ After five minutes he'd flipped the older boy another Sickle, over his
+ protests, and kept going.
+\end_layout
+
+\begin_layout Standard
+The 
+\emph on
+potion of giant strength
+\emph default
+ required a Re'em to trample the mashed Dugbogs you stirred into the potion.
+ It was odd, Harry had realized after a moment, because crushed Dugbogs
+ weren't strong themselves, they were just… very, very crushed after the
+ Re'em got through with them.
+\end_layout
+
+\begin_layout Standard
+Another recipe said to `touch with forged bronze', i.e., grasp a Knut in pliers
+ so you could skim the potion's surface; and if you dropped the Knut all
+ the way in, the book warned, the potion would instantly superheat and boil
+ over the cauldron.
+\end_layout
+
+\begin_layout Standard
+Harry had stared at the recipes and their warnings, forming a second and
+ stranger hypothesis.
+ Of course it wouldn't be as simple as Potions-Making using magical potentials
+ imbued in the ingredients, like Muggle cars fueled by the combustion potential
+ of gasoline.
+ Magic would never be as 
+\emph on
+sensible
+\emph default
+ as that…
+\end_layout
+
+\begin_layout Standard
+And then Harry had gone to Professor Flitwick 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ since he didn't want to approach Professor Snape outside of class 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and Harry had told Professor Flitwick that he wanted to invent a new potion,
+ and he knew what the ingredients ought to be and what the potion should
+ do, but he didn't know how to deduce the required stirring pattern 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After Professor Flitwick had stopped screaming in horror and running in
+ little circles, and Professor McGonagall had been called into the ensuing
+ fierce interrogation to promise Harry that in this case it was both acceptable
+ and important for him to reveal his underlying theory, it had developed
+ that Harry had 
+\emph on
+not
+\emph default
+ made an original magical discovery, but rediscovered a law so ancient that
+ nobody knew who had first formulated it:
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ A potion spends that which is invested in the creation of its ingredients.
+\end_layout
+
+\begin_layout Standard
+The heat of goblin forges that had cast the bronze Knut, the Re'em's strength
+ that had crushed the Dugbogs, the magical fire that had spawned the Ashwinder:
+ all these potencies could be recalled, unlocked, and restructured by the
+ spell-like process of stirring the ingredients in exact patterns.
+\end_layout
+
+\begin_layout Standard
+(From a Muggle standpoint it was just 
+\emph on
+odd,
+\emph default
+ a deranged version of thermodynamics invented by someone who thought life
+ ought to be 
+\emph on
+fair
+\emph default
+.
+ From a Muggle standpoint, the heat expended in forging the Knut hadn't
+ gone 
+\emph on
+into
+\emph default
+ the bronze, the heat had 
+\emph on
+left
+\emph default
+ and dissipated into the environment, becoming permanently less available.
+ Energy was conserved, could be neither created nor destroyed; 
+\emph on
+entropy
+\emph default
+ always increased.
+ But wizards didn't think that way: from their perspective, if you'd put
+ some amount of work into making a Knut, it stood to reason that you could
+ get exactly the same work back out.
+ Harry had tried to explain why this sounded a bit 
+\emph on
+odd
+\emph default
+ if you'd been raised by Muggles, and Professor McGonagall had asked bemusedly
+ why the Muggle perspective was any better than the wizarding one.)
+\end_layout
+
+\begin_layout Standard
+The fundamental principle of Potions-Making had no name and no standard
+ phrasing, since then you might be tempted to write it down.
+\end_layout
+
+\begin_layout Standard
+And someone who wasn't wise enough to figure out the principle themselves
+ might read it.
+\end_layout
+
+\begin_layout Standard
+And they would start having all sorts of bright ideas for inventing new
+ Potions.
+\end_layout
+
+\begin_layout Standard
+And then they would be turned into catgirls.
+\end_layout
+
+\begin_layout Standard
+It had been made very clear to Harry that he 
+\emph on
+wasn't
+\emph default
+ going to be sharing this particular discovery with Neville, or Hermione
+ either after the next armies' battle.
+ Harry had tried to say something about Hermione seeming really off lately
+ and this being just the sort of thing that might cheer her up.
+ Professor McGonagall had said flatly that he wasn't even to think it, and
+ Professor Flitwick had raised his little hands and made a gesture as of
+ snapping a wand in half.
+\end_layout
+
+\begin_layout Standard
+Although the two Professors had been kind enough to suggest that if Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter thought he knew what the potion's ingredients should be, he might
+ be able to find an 
+\emph on
+already-existing
+\emph default
+ recipe that did the same thing; and Professor Flitwick had mentioned several
+ volumes in the Hogwarts library that might be useful…
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The vast parchment-like screen now showed only an aerial view of the forest,
+ from which you could barely make out the camouflaged forms of three armies,
+ split up into two groups each, converging to fight their three-way battle.
+\end_layout
+
+\begin_layout Standard
+The benches of the Quidditch stadium were now rapidly filling up with the
+ more easily bored sort of spectator who only wanted to be there for the
+ final battle and skip out on all the boring points along the way.
+ (If there was anything wrong with Professor Quirrell's battles, it was
+ widely agreed, it was that his spectacles didn't last nearly as 
+\emph on
+long
+\emph default
+ as Quidditch matches, once they actually started.
+ To this Professor Quirrell had replied only, 
+\emph on
+Such is real life,
+\emph default
+ and that had been that.)
+\end_layout
+
+\begin_layout Standard
+Within the huge window 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it was all one window now, observing from a great height 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ the vague collections of tiny camouflaged forms grew closer.
+\end_layout
+
+\begin_layout Standard
+Closer.
+\end_layout
+
+\begin_layout Standard
+Almost touching 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The vast white parchment window showed the first touch of battle between
+ Sunshine and Chaos, a screaming mass of running children with smiley-faces
+ upon their breasts, charging forward with
+\emph on
+ Contego
+\emph default
+ shields held high and others shouting “
+\emph on
+Somnium!
+\emph default
+” 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Until one of their number shrieked “
+\emph on
+Prismatis!
+\emph default
+” in a terrified voice and the entire charge came to a sudden halt before
+ the sparkling wall of force that had appeared in front of them.
+\end_layout
+
+\begin_layout Standard
+Tracey Davis had walked out from behind the trees.
+\end_layout
+
+\begin_layout Standard
+“That's right,” said Tracey, her voice low and grim as she leveled her wand
+ on the barrier.
+ “You 
+\emph on
+should
+\emph default
+ fear me.
+ For I am Tracey Davis, the Darke Lady! That's Darke Lady spelled D-A-R-K-E,
+ with an E!”
+\end_layout
+
+\begin_layout Standard
+(Amelia Bones, Director of the Department of Magical Law Enforcement, was
+ sending an inquiring look at Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis, both of whom looked like they would have dearly preferred to die
+ on the spot.)
+\end_layout
+
+\begin_layout Standard
+Behind the Prismatic Barrier, there was some kind of hushed argument taking
+ place among the Sunshine Soldiers, one of whom in particular seemed to
+ be getting scolded by several of the others.
+\end_layout
+
+\begin_layout Standard
+Then, a moment later, 
+\emph on
+Tracey
+\emph default
+ flinched.
+\end_layout
+
+\begin_layout Standard
+Susan Bones had come to the front of the Sunshine contingent.
+\end_layout
+
+\begin_layout Standard
+(“Goodness,” said Augusta Longbottom.
+ “What 
+\emph on
+do
+\emph default
+ you suppose your grand-niece has been learning at Hogwarts?”)
+\end_layout
+
+\begin_layout Standard
+(“I don't know,” Amelia Bones said calmly, “but I shall owl her a Chocolate
+ Frog and instructions to learn more of it.”)
+\end_layout
+
+\begin_layout Standard
+The Prismatic Barrier vanished.
+\end_layout
+
+\begin_layout Standard
+The Sunshine Soldiers resumed their charge forward.
+\end_layout
+
+\begin_layout Standard
+Tracey yelled, her voice high with strain, “
+\emph on
+Inflammare!
+\emph default
+” and the Sunshine charge came to another sudden halt as a line of fire
+ blazed up between them in the half-dry grass, extending to follow the path
+ of Tracey's wand as she pointed it; an instant later Susan Bones cried
+ “
+\emph on
+Finite Incantatem!
+\emph default
+” and the flames dimmed, brightened, dimmed in the contest of their wills,
+ other soldiers raising their wards to aim at Tracey; and 
+\emph on
+that
+\emph default
+ was when Neville Longbottom plunged shrieking out of the sky.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One of the Dragon Warriors, Raymond Arnold, made a hand-sign, pointing forward
+ and oblique left; and there was a sudden hushed hiss of whispers among
+ the Dragon Army contingent as they all quietly reoriented themselves in
+ the direction of the enemy.
+ The Sunnies knew they were there, of course both armies knew; but somehow,
+ in this moment, they had all become instinctively quiet.
+\end_layout
+
+\begin_layout Standard
+The Dragons crept forward further, and then further, the dull camouflaged
+ forms of the Sunnies beginning to appear among the distant trees, and still
+ nobody spoke, nobody bellowed the call to charge.
+\end_layout
+
+\begin_layout Standard
+Draco was now at the forefront of his soldiers, Vincent behind him and Padma
+ only a shade further back; if the three of them could take the shock of
+ Sunshine's best, the rest of Dragon Army might stand a chance.
+\end_layout
+
+\begin_layout Standard
+Then Draco saw one Sunnie staring at him from the distance, in the vanguard
+ of her own army; staring at him with a look of fury 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Across the forest battleground, their eyes met.
+\end_layout
+
+\begin_layout Standard
+Draco had only a fraction of a second to wonder, in the back of his mind,
+ what Hermione Granger was so angry about, before the shout went up from
+ both their armies; and they were all running forward to the charge, himself
+ and Granger on a direct collision course for each other.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The other Chaotics had appeared now from among the trees, some had 
+\emph on
+dropped out
+\emph default
+ of trees, and the battle was in full force now, everyone firing in every
+ direction at anything that looked like an enemy.
+ Plus a number of Sunnies crying 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Luminos!
+\emph default
+” at Neville Longbottom as the Chaos Hufflepuff twisted and rocketed up
+ through the air on courses that could only be described as, indeed, “chaotic”
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And it happened, the way it happened only one time out of twenty in mock
+ aerial combat, that Neville Longbottom's
+\emph on
+ broomstick
+\emph default
+ glowed bright red beneath his clenched hands.
+\end_layout
+
+\begin_layout Standard
+It should've meant that Longbottom was out of the game.
+\end_layout
+
+\begin_layout Standard
+Then, in the Hogwarts stands, among the watching crowds of students, a scream
+ went up 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Combat realism.
+
+\emph default
+ It was Professor Quirrell's one master rule.
+ You could get away with anything if it was
+\emph on
+ realistic,
+\emph default
+ and in real life, a soldier didn't just vanish when their 
+\emph on
+broomstick
+\emph default
+ got hit by a curse.
+\end_layout
+
+\begin_layout Standard
+Neville was falling toward the ground and screaming “
+\emph on
+Chaotic landing!
+\emph default
+” and the Chaotics were wrenching their attention away from fights to cast
+ the Hover Charm (and run at the same time so they wouldn't be sitting ducks),
+ almost everyone else stopping to gape 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And Neville Longbottom slammed into the leaf-laden forest ground, landing
+ on one knee, one foot, and both hands, as though he were kneeling down
+ to be knighted.
+\end_layout
+
+\begin_layout Standard
+Everything stopped.
+ Even Tracey and Susan paused in their duel.
+\end_layout
+
+\begin_layout Standard
+In the stadium, all crowd noises vanished.
+\end_layout
+
+\begin_layout Standard
+There was a universal silence composed of astonishment, concern, and sheer
+ dumbstruck gaping awe, as everyone waited to see what would happen next.
+\end_layout
+
+\begin_layout Standard
+And then Neville Longbottom slowly rose to his feet, and leveled his wand,
+ still in hand, at the Sunshine Soldiers.
+\end_layout
+
+\begin_layout Standard
+Though nobody on the battlefield heard it, a large segment of the stadium
+ audience had begun chanting, in steadily rising notes each time the word
+ was uttered, “DOOM DOOM DOOM DOOM DOOM”, because you just couldn't see
+ that and 
+\emph on
+not
+\emph default
+ think it required musical accompaniment.
+\end_layout
+
+\begin_layout Standard
+“The crowd is cheering your grandson,” said Amelia Bones.
+ The old witch was favoring the screen with a measuring look.
+\end_layout
+
+\begin_layout Standard
+“So they are,” said Augusta Longbottom.
+ “Some, if I hear correctly, are cheering, 
+\emph on
+Our blood for Neville! Our souls for Neville!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Quite,” said Amelia, taking a sip from a teacup which had not been there
+ moments earlier.
+ “It shows the lad has leadership potential.”
+\end_layout
+
+\begin_layout Standard
+“These cheers,” continued Augusta, her voice taking on an even more stunned
+ quality, “seem to be coming from the Hufflepuff benches.”
+\end_layout
+
+\begin_layout Standard
+“It 
+\emph on
+is
+\emph default
+ the House of the loyal, my dear,” said Amelia.
+\end_layout
+
+\begin_layout Standard
+“Albus Percival Wulfric Brian Dumbledore! 
+\emph on
+What in Merlin's name has been happening in this school?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Lucius Malfoy was watching the screens with an ironic smile, his fingers
+ tapping at his armrest in no discernible pattern.
+ “I do not know what is more frightening, the thought that he has some hidden
+ plan behind all this, or the thought that he does not.”
+\end_layout
+
+\begin_layout Standard
+“Look!” cried the Lord of Greengrass.
+ The dapper young man had risen half out of his chair, pointing his finger
+ at the screen.
+ “There she goes!”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“We'll both take him at once,” Daphne whispered.
+ She knew that a few fear-filled minutes of real combat experience, a handful
+ of times each week, might not be enough to match Neville's regular dueling
+ practice with Harry and Cedric Diggory over the same period.
+ “He's too much for one of us, but both of us together 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ I'll use my Charm, you just try to stun him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Hannah, beside her, nodded, and then they both screamed at the top of their
+ lungs and charged forward, the Hover Charms of two supporting Sunshine
+ Soldiers moving them faster and making them light on their feet, Daphne
+ already crying “
+\emph on
+Tonare!
+\emph default
+” even as Hannah kept a huge 
+\emph on
+Contego
+\emph default
+ shield moving in front of them, and with a brief extra lift they leapt
+ over the heads of the front screen of soldiers and landed in front of Neville
+ with their hair billowing high around them
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(Photographs were strictly prohibited at all Hogwarts games, but somehow
+ this moment 
+\emph on
+still
+\emph default
+ ended up on the front page of the next day's 
+\emph on
+Quibbler
+\emph default
+.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and in the same instant, because fighting older bullies had burned away
+ the slightest traces of hesitation, Hannah fired her first Sleep Hex at
+ Neville (she'd started the incantation while she was still in the air)
+ even as Daphne, concentrating more on speed than on force, slashed down
+ with her Ancient Blade at where she thought Neville's thighs would be 
+\emph on
+after
+\emph default
+ he dodged 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+But Neville leapt 
+\emph on
+up,
+\emph default
+ not sideways, leapt up higher than he should've been able to go, so that
+ her glowing sword cut only the air beneath his feet.
+ Somehow Daphne realized what it meant, that Neville still had other Chaotics
+ Hovering him, in time for her to raise her Blade up over her head, but
+ Neville 
+\emph on
+fell too fast
+\emph default
+ and when his Blade smashed into hers it was like being hit by a Bludger.
+ It knocked Daphne off her feet and sent her sprawling backward onto the
+ grass, hitting the ground hard on her back.
+ It might have been all over for her, then, if Neville hadn't landed too
+ hard himself and gone to his knees with a pained gasp.
+ And then before Neville could bring his glowing Blade down, Hannah shouted
+ “
+\emph on
+Somnium!
+\emph default
+” and Neville lurched frantically backward 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ though of course no spell had actually come from Hannah's wand, the Hufflepuff
+ girl couldn't really have fired again that fast 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ which gave Daphne a second to scramble to her feet and get both hands around
+ her wand again 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Dear Merlin,” said Lady Greengrass.
+ Her voice seemed unsteady, the aristocratic poise well-punctured.
+ “My daughter is
+\emph on
+ fighting
+\emph default
+ with the Charm of the Most Ancient Blade, in her first year.
+ I never knew 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ she possessed such extraordinary talent 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Excellent blood,” Charles Nott said approvingly, causing Augusta to snort.
+\end_layout
+
+\begin_layout Standard
+“My good Lady,” said Professor Quirrell, sounding grave.
+ “Do not wrong your daughter so.
+ That is not mere 
+\emph on
+talent
+\emph default
+ which you see.” His voice grew a little dryer.
+ “
+\emph on
+That
+\emph default
+ is what happens when young wizards and witches put their competitive efforts
+ into a game which, unlike Quidditch or Exploding Snap, involves 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ to put it bluntly 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ actual spellcasting.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Expelliarmus!
+\emph default
+” shouted Draco, trying not to let his voice crack as he simultaneously
+ dodged the blazing red stunbolt that Hermione Granger had fired at him,
+ his muscles twisting with the need to dodge in the wrong direction 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ she'd pointed to his left, and then with a mysterious twitch fired right
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hermione dodged the fast-moving dueling hex, and cried with hardly another
+ moment's pause, “
+\emph on
+Steleus!
+\emph default
+”, a wide-angle Hex that Draco couldn't avoid, but he managed to point his
+ wand at his own face and cry “
+\emph on
+Quiescus!
+\emph default
+” before the sudden urge to inhale could devolve into a sneezing fit that
+ would've ended the battle.
+\end_layout
+
+\begin_layout Standard
+Draco Malfoy was already half-exhausted from all the Locking Charms and
+ Transfigurations earlier, but his confusion was beginning to give way to
+ a sense of his own blood boiling, he didn't know 
+\emph on
+why
+\emph default
+ Granger was attacking him so angrily all of a sudden, but 
+\emph on
+if she wanted a fight he'd give her one 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(The Dragons and Sunnies weren't stopping to watch the duel of their Generals,
+ the Dragons were too disciplined to stop and watch and that meant the Sunnies
+ had to go on fighting too; but the gaping audience in the Hogwarts Quidditch
+ stands were being distracted even from Neville and Daphne's spectacle,
+ shifting their eyes to the duel of two Generals as Malfoy and Granger fired
+ hex after hex and jinx after jinx at each other, casting more rapidly than
+ any other student in their year could have managed, the Dragon General's
+ trained dueling dance matched by the Sunshine General's frantic energy,
+ the combat between them beginning to resemble an adult duel as the two
+ most magically powerful first-years resorted to spells more exotic than
+ the usual Sleep Hex.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ although, Draco was beginning to realize, when he and Harry and Professor
+ Quirrell had dismissed Miss Granger as having as much intent to kill as
+ a bowl of wet grapes, 
+\emph on
+they'd never seen her angry.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Daphne lashed out with her Ancient Blade, again not trying to hit hard but
+ just moving the Blade as fast as possible, at the same time Hannah cried
+ “
+\emph on
+Somnium!
+\emph default
+” and Neville leapt back again, but it had been another bluff and Hannah
+ was moving in to fire a real spell almost point-blank 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and Neville Longbottom did exactly what 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ he would explain afterward 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Cedric Diggory had trained him to do if he was fighting Bellatrix Black,
+ which was to spin around and kick Hannah
+\emph on
+ really hard
+\emph default
+ in the pit of her stomach.
+\end_layout
+
+\begin_layout Standard
+The Hufflepuff girl made a sad little sound, a gasping cry of pain, as she
+ was knocked off her feet by the hard shoe sinking into her abdomen with
+ the force of Neville's whole body behind it.
+\end_layout
+
+\begin_layout Standard
+For an instant the battlefield stood still, everything halted except Hannah's
+ falling form.
+\end_layout
+
+\begin_layout Standard
+Then Neville's face turned to absolute dismay and he lowered his wand, the
+ Chaotic Lieutenant starting instinctively toward his House-mate as he reached
+ for her with his other hand 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Even as Hannah turned her fall into a roll and came out with her wand raised
+ and shot him.
+\end_layout
+
+\begin_layout Standard
+A fractional second later, Daphne, who hadn't hesitated either, sank her
+ Most Ancient Blade squarely into Neville's back, causing the Chaotic Lieutenant
+'s muscles to jerk convulsively with the stunning magic discharging into
+ him even as Hannah's Sleep Hex took effect, and then the last scion of
+ Longbottom was sprawled still on the ground with a look of total surprise
+ frozen to his face.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Today Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Longbottom has learned a valuable lesson about his feelings of pity and
+ remorse,” said Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“And chivalry,” said Amelia, sipping her tea again.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Are you all right?” whispered Daphne, as she stood protectively over where
+ Hannah lay on the ground clutching her stomach.
+ The girl didn't give anything back in reply except more retching sounds
+ that sounded like Hannah was trying not to throw up while trying not to
+ cry.
+\end_layout
+
+\begin_layout Standard
+Somehow, even though it might not have been good tactics 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it would've been better if Hannah had been hexed outright, than for other
+ soldiers to be tied up 
+\emph on
+protecting
+\emph default
+ her 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ a number of Sunnies seemed to be standing in front of Hannah with their
+ wands clutched tightly, staring angrily at the Chaotics.
+ Someone had thrown up a Prismatic barrier between the two groups, Daphne
+ couldn't see who.
+\end_layout
+
+\begin_layout Standard
+And for some reason the Chaotics didn't seem to be pressing the attack.
+ Even Tracey had completely dropped the grim look on her face and was shifting
+ her weight nervously from one foot to another, as though she was having
+ trouble remembering which side she was on
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Hold!
+\emph default
+” shouted a voice.
+ “
+\emph on
+Hold battle!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There wasn't much battle going on anyway, but it held.
+\end_layout
+
+\begin_layout Standard
+General Potter, looking every inch the Boy-Who-Lived, strode out from the
+ trees with something large and camouflage-cloth-covered held under one
+ arm.
+\end_layout
+
+\begin_layout Standard
+“Is Miss Abbott breathing all right?” General Potter yelled.
+\end_layout
+
+\begin_layout Standard
+Daphne didn't look back.
+ She didn't trust that this wasn't a trap 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it was absolutely certain that if the Chaotics took the opportunity to
+ attack, Professor Quirrell would not only rule it legal but also award
+ them extra points afterward.
+ But Daphne could hear the answer well enough with her ears, it wasn't like
+ Hannah was trying to breathe 
+\emph on
+quietly
+\emph default
+, and so she said, “Sort of.”
+\end_layout
+
+\begin_layout Standard
+“She should get out of here and to someone who can use healing Charms,”
+ Harry said.
+ “Just in case that broke something.”
+\end_layout
+
+\begin_layout Standard
+From behind Daphne, a small gasping voice said, “I
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ can
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ still
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ fight
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Miss Abbott, don't 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry said, just as there was the sound from behind Daphne of someone
+ collapsing back to the grass after trying and failing to get to her feet.
+ Everyone winced, but Daphne didn't turn her back on Harry.
+\end_layout
+
+\begin_layout Standard
+“Why haven't the teachers stopped the battle?” said Susan, her voice angry.
+\end_layout
+
+\begin_layout Standard
+“I expect it's because Miss Abbott is in no danger of permanent damage and
+ Professor Quirrell thinks we're learning valuable lessons,” Harry said
+ in a hard voice.
+ “Look, Miss Abbott, if you go, Tracey will also retire from the battle.
+ You already outnumber us, so that's a very good deal for your side.
+ Please take it.”
+\end_layout
+
+\begin_layout Standard
+“Hannah, just 
+\emph on
+go!
+\emph default
+” said Daphne.
+ “I mean, just say you're out!”
+\end_layout
+
+\begin_layout Standard
+When Daphne glanced back she saw that Hannah was shaking her head, still
+ curled up in a ball on the grass.
+\end_layout
+
+\begin_layout Standard
+“Oh, screw this,” said Harry.
+ “
+\emph on
+Chaotics! The faster we stun them, the faster she's out of here! We're going
+ to do this very quickly, even if we take casualties! End truce! TUNAFISH!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Daphne's political hindbrain had only an instant to admire how Harry's few
+ words had just made the Chaotics the 
+\emph on
+good
+\emph default
+ guys, and then in almost perfect unison, the Chaotics were plunging their
+ hands into the pockets of their uniforms and drawing out green sunglasses
+ in an unfamiliar style.
+ Not like anything you would wear to the beach, more like goggles for advanced
+ Potions 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Then Daphne realized what was about to happen and snapped up her other hand
+ to shield her eyes, just as Harry ripped the cloth off the cauldron.
+\end_layout
+
+\begin_layout Standard
+The fluid that spilled forth as Harry Potter threw the cauldron's contents
+ into the air was too bright to be seen, too brilliant to be imagined, incandesc
+ent like the Sun magnified a dozen times 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(which was exactly what it was)
+\end_layout
+
+\begin_layout Standard
+(the sunlight which had been invested to create the acorns, the bright energy
+ that had fueled a tree rising up from the bare dirt)
+\end_layout
+
+\begin_layout Standard
+(blazing a searing purple, the color of the mixed blue and red wavelengths
+ that chlorophyll absorbed)
+\end_layout
+
+\begin_layout Standard
+(with almost none of the green wavelengths that chlorophyll reflected to
+ create the green color of leaves)
+\end_layout
+
+\begin_layout Standard
+(which was the color of the Chaos Legion's sunglasses, made to pass through
+ green wavelengths, blocking red and blue, reducing even the most incandescent
+ purple glare to something bearable)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ the violet light blazed on and on, Daphne tried dropping her arm from her
+ eyes but found that she couldn't look directly at
+\emph on
+ anything,
+\emph default
+ even the secondhand purple glare was so bright she had to squint; and she
+ had only time to cry one 
+\emph on
+Finite Incantatem,
+\emph default
+ which didn't work, before a Sleep Hex took her.
+\end_layout
+
+\begin_layout Standard
+What was left of the battle didn't take very long after that.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“NOW!” bellowed Blaise Zabini, formerly of Sunshine, now commanding a detachment
+ of Chaos Legionnaires.
+ “I mean, TUNAFISH!” The Slytherin boy's hand grasped the cloth shielding
+ the cauldron from the triggering touch of daylight, already beginning to
+ move it aside.
+\end_layout
+
+\begin_layout Standard
+“NOW!” bellowed Dean Thomas, formerly of Chaos, commanding a consignment
+ of Dragon Warriors.
+ “DO WHATEVER THEY DO!”
+\end_layout
+
+\begin_layout Standard
+The Chaotics of Zabini's detachment plunged their hands into their uniform
+ pockets, and came forth bearing green sunglasses 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ an action almost perfectly mirrored by Dean and the Dragon Warriors, who
+ drew forth green-colored Potions goggles, and quickly drew the straps over
+ their own heads, even as the Chaotics put on their sunglasses and the violet
+ incandescence blasted forth.
+\end_layout
+
+\begin_layout Standard
+(As General Malfoy had explained, if Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Goyle reported that the Chaos Legion was wearing green-colored Potions goggles,
+ you didn't have to know 
+\emph on
+why
+\emph default
+ to Transfigure some copies.)
+\end_layout
+
+\begin_layout Standard
+“THAT'S CHEATING!” shrieked Blaise Zabini.
+\end_layout
+
+\begin_layout Standard
+“THAT'S TECHNIQUE!” Dean yelled back.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+“DRAGONS,
+\begin_inset space ~
+\end_inset
+
+CHARGE!”
+\end_layout
+
+\begin_layout Standard
+(“Pardon me,” the Lady Greengrass said.
+ “Could you stop
+\emph on
+ laughing
+\emph default
+ like that, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Quirrell? It's unnerving.”)
+\end_layout
+
+\begin_layout Standard
+“FINITE THEIR GOGGLES!” shouted Blaise Zabini, as the two armies ran headlong
+ toward each other through omnipresent eye-searing purple glare.
+ “WE CAN STILL WIN!”
+\end_layout
+
+\begin_layout Standard
+“YOU HEARD HIM!” bellowed Dean.
+ “GET THEIR GLASSES!”
+\end_layout
+
+\begin_layout Standard
+Blaise Zabini's reply to this wasn't anything articulate.
+\end_layout
+
+\begin_layout Standard
+That battle went on a lot longer.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Stupefy!
+\emph default
+” shrieked the Sunshine General.
+\end_layout
+
+\begin_layout Standard
+Draco didn't dodge, he didn't counter, he didn't have enough energy left
+ for either, all he could do was whip his left hand into position and hope
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The red stunbolt dissipated again on Draco's
+\emph on
+ Colloportused
+\emph default
+ glove, which he'd Transfigured and spell-locked to his hand the same as
+ the rest of Dragon Army.
+ It was all that was saving him now, that shield.
+\end_layout
+
+\begin_layout Standard
+It should have been a time to counterattack, but Draco could only catch
+ his breath, as the two of them danced backward and forward beneath the
+ trees in the never-ending movements of their duel.
+ Across from him, General Granger was panting hard, the young girl's face
+ glistening with sweat like dew, her chestnut hair wetted into brown plaits.
+ Her camouflage uniform was stained with damp spots, her shoulders visibly
+ trembling with exhaustion, but her wand was still steel-steady where it
+ stayed level on Draco through all their motion.
+ Her eyes glaring, her cheeks flushed with rage.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ So, little girl, why're you pretending to fight like a grownup today?
+\end_layout
+
+\begin_layout Standard
+The taunt came to mind, but he didn't really think he needed Granger any
+ angrier; so instead Draco just said 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ though he could hear his own voice cracking 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ “Any reason you're feeling mad at me, Granger?”
+\end_layout
+
+\begin_layout Standard
+The girl was gasping for breath herself, her own voice wobbling as she spoke.
+ “I know what you're up to,” said Hermione Granger, her voice rising.
+ “I know what you and Snape are up to, Malfoy, and I know who's behind it!”
+\end_layout
+
+\begin_layout Standard
+“Huh?” Draco said without even thinking about it.
+\end_layout
+
+\begin_layout Standard
+That only seemed to increase Granger's fury, and her fingers whitened on
+ the wand she held leveled on him.
+\end_layout
+
+\begin_layout Standard
+And then Draco got it, and it boiled his own blood in his veins.
+ Even 
+\emph on
+she
+\emph default
+ thought he was secretly plotting against her 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You too?
+\emph default
+” Draco yelled.
+ “
+\emph on
+I helped you, you bucktoothed bint! You, you, you,” 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+ stuttering past all the Dark curses that came to mind until he found something
+ he could actually cast at her 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ “
+\emph on
+DENSAUGEO!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+But Granger flashed and whirled around the Tooth-Lengthening Hex, and then
+ her own wand came around and leveled at almost point-blank range, even
+ as Draco brought up his left hand like a shield, placing the magic-locked
+ glove between himself and whatever she was about to fire, and the Sunshine
+ General's own voice rose to a shriek audible across the whole battleground
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+ALOHOMORA!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Time should have paused.
+\end_layout
+
+\begin_layout Standard
+But it didn't.
+\end_layout
+
+\begin_layout Standard
+Instead the padlocked glove on Draco's hand flashed briefly grey, and then
+ the padlock clicked and fell off.
+\end_layout
+
+\begin_layout Standard
+Just like that.
+\end_layout
+
+\begin_layout Standard
+Just like that.
+\end_layout
+
+\begin_layout Standard
+The screens showed it all very clearly, to the entire watching Hogwarts
+ stadium.
+\end_layout
+
+\begin_layout Standard
+And the bone-dead-silent hush that fell over every bench in every bleacher
+ said that everyone understood quite clearly what it meant, that the scion
+ of House Malfoy had just had his magic overcome by a Muggleborn.
+\end_layout
+
+\begin_layout Standard
+Hermione Granger didn't pause in her fight, gave no sign that she even knew
+ what she'd done; instead her foot snapped out in a Muggle-style kick that
+ knocked Draco's wand cleanly out of his hand, his shocked mind and body
+ moving just a little too slowly.
+ Draco dove after his wand, scrabbling frantically on the ground, but from
+ behind him a girl's cracking voice said “
+\emph on
+Somnium!
+\emph default
+” and Draco Malfoy fell and didn't rise again.
+\end_layout
+
+\begin_layout Standard
+There was another moment of frozen silence.
+ The Sunshine General was wobbling on her feet, looking like she might faint.
+\end_layout
+
+\begin_layout Standard
+Then the Dragon Warriors screamed at the top of their lungs and charged
+ forward to avenge their fallen commander.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+and Mrs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Davis were shaking as they stood up from the comfortable chairs of the faculty
+ Quidditch box; they couldn't quite clutch each other while walking, but
+ they held hands tightly, pretending hard to be invisible.
+ If they'd been children young enough for accidental magic they probably
+ would've spontaneously Disillusioned themselves.
+\end_layout
+
+\begin_layout Standard
+The elderly Charles Nott said nothing as he stood from his chair.
+ The scarred Lord Jugson said nothing, as he stood from his own chair.
+\end_layout
+
+\begin_layout Standard
+Lucius Malfoy said nothing as he stood.
+\end_layout
+
+\begin_layout Standard
+All three of them turned without pause and strode toward the stairwell of
+ the elevated bleachers, moving in eerie unison like an Auror trio 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Lord Malfoy,” the Defense Professor said in mild tones.
+ That man was still seated in his own chair, looking upon his parchment-like
+ screens, arms limp at his side, as though for some reason he didn't feel
+ like moving.
+\end_layout
+
+\begin_layout Standard
+The white-haired man halted just before reaching the exit archway, and the
+ elderly man and the scarred man halted as well, flanking him.
+ Lord Malfoy's head turned, too slightly to be any form of acknowledgement,
+ but in the Defense Professor's direction.
+\end_layout
+
+\begin_layout Standard
+“Your son performed exceptionally well today,” said Professor Quirrell.
+ “I must confess that I underestimated him.
+ And he has earned his army's loyalty, as you have witnessed.” Still very
+ mild, the Defense Professor's voice.
+ “Speaking as your son's teacher, it is my opinion that he will not benefit
+ if you interfere in his 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Lord Malfoy and his compatriots vanished down the stairs.
+\end_layout
+
+\begin_layout Standard
+“A fine try, Quirinus,” Dumbledore said quietly.
+ The old wizard's face showed small lines of worry; he hadn't risen from
+ his own seat either, staring at the parchment screens as though they were
+ still active.
+ “Do you think he will listen?”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor's shoulders twitched in a slight shrug, the only movement
+ they'd shown since the battle ended.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Well
+\emph default
+,” said the Lady Greengrass, as she rose up and cracked her knuckles, stretching
+, her husband silent beside her.
+ “I must say, that was quite… interesting…”
+\end_layout
+
+\begin_layout Standard
+Amelia Bones had risen from her own cushioned seat without any fuss.
+ “Interesting indeed,” said Director Bones.
+ “I do confess, I find myself disturbed by the skill with which those children
+ were fighting one another.”
+\end_layout
+
+\begin_layout Standard
+“The skill?” Lord Greengrass said.
+ “Their spells didn't seem all that impressive to me.
+ Except for Daphne's, of course.”
+\end_layout
+
+\begin_layout Standard
+The old witch did not move her eyes from where she was gazing at the Defense
+ Professor's balding head.
+ “The Stunning Hex is not a first-year spell, Lord Greengrass, but that
+ is not the skill I had in mind.
+ They supported each other with those simple spells, they reacted at speed
+ to surprises…” The Director of the DMLE paused, as though searching for
+ words that a mere civilian could understand.
+ “In the midst of battle,” she said finally, “with spells flying in every
+ direction… those children seemed quite at home.”
+\end_layout
+
+\begin_layout Standard
+“Indeed, Director Bones,” said the Defense Professor.
+ “Some arts are best begun in youth.”
+\end_layout
+
+\begin_layout Standard
+The old witch's eyes narrowed.
+ “You are readying them to become a military force, Professor.
+ To what end?”
+\end_layout
+
+\begin_layout Standard
+“Now hold on!” interjected Lord Greengrass.
+ “There's plenty of schools where they teach dueling in first year!”
+\end_layout
+
+\begin_layout Standard
+“Dueling?” said the Defense Professor.
+ From behind it wasn't visible if the pale face was smiling.
+ “That is 
+\emph on
+nothing
+\emph default
+, Lord Greengrass, to what my students have learned.
+ They have learned not to hesitate in the face of ambushes and greater foes.
+ They have learned to adapt when combat conditions change and change again.
+ They have learned to protect their allies, to protect more those who are
+ more valuable, to abandon pieces which cannot be rescued.
+ They have learned that to survive they must follow orders.
+ Some have even learned a little creativity.
+ Oh, no, Lord Greengrass, 
+\emph on
+these
+\emph default
+ wizards will not hide in their manors and wait to be protected, when the
+ next threat comes.
+ They will know that they know how to fight.”
+\end_layout
+
+\begin_layout Standard
+Augusta Longbottom loudly clapped her hands together three times.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ We won.
+\end_layout
+
+\begin_layout Standard
+It was the first thing Draco heard when he woke up on the battlefield, Padma
+ telling him how his soldiers had rallied after he fell.
+ How, thanks to the Dragon General's foresight, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas had led his detachment to victory over Chaos.
+ How General Potter had defeated the portion of the Sunshine Regiment that
+ clashed with him.
+ How Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Thomas's Dragon Warriors had rejoined the main body of soldiers bearing
+ both their own goggles and the sunglasses of the defeated Chaotics.
+ How, only moments later, General Potter's remaining contingent had attacked
+ both other armies with a potion that emitted searing purple light.
+ But Dragon had held the numerical advantage over Sunshine and Chaos both,
+ and enough sunglasses for their warriors; and so Padma had managed to lead
+ her inherited army to victory.
+\end_layout
+
+\begin_layout Standard
+From the light in Padma's eyes and her arrogant smile that would have done
+ proud to a Malfoy, she was expecting congratulations.
+ Draco managed to grit out some form of praise from between his clenched
+ teeth, and couldn't have said afterward what it was.
+ The foreign-born witch, it appeared, hadn't any idea what'd happened, or
+ what it meant.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ I lost.
+\end_layout
+
+\begin_layout Standard
+The Dragons trudged back to Hogwarts beneath gray skies, cold droplets landing
+ heavy on Draco's skin, one by one.
+ While he'd been stunned, it had begun, the long-promised rain finally beginning
+ to fall.
+ There was only one option left to Draco now.
+ A forced move, as Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+MacNair, who'd taught Draco chess, would have termed it.
+ Harry Potter probably wouldn't like it, if he really was in love with Granger
+ the way everyone said.
+ But the forced move, as Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+MacNair had defined it, was one you needed to make if you wanted the game
+ to continue at all.
+\end_layout
+
+\begin_layout Standard
+It kept on playing in Draco's mind, over and over again, even as he walked
+ like an automaton through the massive portals of Hogwarts, sent away Vincent
+ and Gregory with two sharp words, and became alone within his private bedroom,
+ sitting on his bed, staring at the wall above his desk.
+ Filling his mind like a Dementor had locked him into the memory.
+\end_layout
+
+\begin_layout Standard
+The grey flash coming from his glove, the lock clicking and falling away
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Draco knew, he 
+\emph on
+knew
+\emph default
+ what he'd done wrong.
+ He'd been so tired after casting twenty-seven Locking Charms for all the
+ other Dragon Warriors.
+ Less than a minute wasn't enough time to recover after each spell.
+ And so he'd 
+\emph on
+just
+\emph default
+ cast
+\emph on
+ Colloportus
+\emph default
+ on his own padlocked glove, 
+\emph on
+just
+\emph default
+ cast the spell, not put in all his strength to bind it stronger than Harry
+ Potter or Hermione Granger could undo.
+\end_layout
+
+\begin_layout Standard
+But nobody was going to 
+\emph on
+believe
+\emph default
+ that, even if it was true.
+ Even in Slytherin, nobody would believe that.
+ It
+\emph on
+ sounded
+\emph default
+ like an excuse, and an excuse was all that anyone would hear.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Granger whirled and spun and screamed `ALOHOMORA!'
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Draco's mind kept playing it over and over as the resentment built.
+ He'd 
+\emph on
+helped
+\emph default
+ Granger 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ cooperated with her on banning traitors 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ held her hand as she'd dangled off the roof 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ stopped a riot from breaking out around her in the Great Hall 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ did she have any idea what he'd 
+\emph on
+risked,
+\emph default
+ what he'd probably already 
+\emph on
+lost
+\emph default
+, what it meant for the heir of 
+\emph on
+House Malfoy
+\emph default
+ to do that for a 
+\emph on
+mudblood
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And now there was only one move left, and the thing about a forced move
+ was that you 
+\emph on
+had
+\emph default
+ to make it, even if it meant getting detention and losing House points.
+ Professor Snape would certainly 
+\emph on
+understand
+\emph default
+ but there were limits (Father had warned him) to what Snape would overlook.
+\end_layout
+
+\begin_layout Standard
+Challenge Granger to a wizard's duel, in open defiance of Hogwarts regulations.
+ Attack her outright, if she tried to refuse.
+ Defeat her one-on-one, in public, not with clever dueling technique, but
+ by 
+\emph on
+overpowering
+\emph default
+ her magic.
+ Beat her solidly, completely, 
+\emph on
+crush
+\emph default
+ her as utterly as the Dark Lord himself had crushed his enemies.
+ Make it absolutely clear to everyone, so that nobody could possibly doubt,
+ that Draco had just been exhausted from casting the spell so many times.
+ Prove that the Malfoy blood was stronger than any mudblood's 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Only it's not,
+\emph default
+ Harry Potter's voice whispered inside Draco's mind.
+ 
+\emph on
+It's easy to forget what's really true, Draco, once you start trying to
+ win at politics.
+ But in reality there's only one thing that makes you a wizard, remember?
+\end_layout
+
+\begin_layout Standard
+Draco knew, then, he knew the reason for the disquiet in the back of his
+ mind, as he stared at the blank wall above his desk contemplating his forced
+ move.
+ It should've been simple 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ when you only had one move, the thing to do was make it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Granger whirling, spinning, sweat-dampened hair flying around her, bolts
+ flying from her wand as fast as his own, jinx and counter-jinx, glowing
+ bats flying at his face, and through all of it the look of fury in Granger's
+ eyes 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There'd been a part of him 
+\emph on
+admiring
+\emph default
+ that, before it had all gone wrong, admiring Granger's fury and power;
+ a part of him that had exulted in the first 
+\emph on
+real
+\emph default
+ fight he'd ever been in, against…
+\end_layout
+
+\begin_layout Standard
+…his first equal opponent.
+\end_layout
+
+\begin_layout Standard
+If he challenged Granger, and 
+\emph on
+lost…
+\end_layout
+
+\begin_layout Standard
+It ought not to be possible, Draco had gotten his wand two full years before
+ anyone else in his Hogwarts class.
+\end_layout
+
+\begin_layout Standard
+Only there was a 
+\emph on
+reason
+\emph default
+ why they usually didn't bother giving wands to nine-year-olds.
+ Age counted too, it wasn't just how long you'd held a wand.
+ Granger's birthday had been only a few days into the year, when Harry had
+ bought her that pouch.
+ That meant she was twelve now, that she'd been twelve almost since the
+ start of Hogwarts.
+ And the truth was, Draco hadn't been practicing much outside of class,
+ probably not nearly as much as Hermione Granger of Ravenclaw.
+ Draco hadn't thought he 
+\emph on
+needed
+\emph default
+ any more practice to stay ahead…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ And Granger was exhausted too,
+\emph default
+ whispered the Voice of Contrary Evidence inside him.
+ Granger must have been exhausted from all those Stunning Hexes, and even
+ in that state she'd been able to undo his Locking Charm.
+\end_layout
+
+\begin_layout Standard
+And Draco 
+\emph on
+could not
+\emph default
+ afford to challenge Granger publicly, one-on-one with no excuses, and 
+\emph on
+lose.
+\end_layout
+
+\begin_layout Standard
+Draco knew what you were supposed to do in this sort of situation.
+ You were supposed to cheat.
+ But if anyone discovered Draco cheating, it would be 
+\emph on
+disastrous
+\emph default
+, perfect blackmail material even if it never got out publicly, and any
+ Slytherins watching would 
+\emph on
+know
+\emph default
+ that, they'd be
+\emph on
+ looking…
+\end_layout
+
+\begin_layout Standard
+And then, if you were watching, you would have seen Draco Malfoy get up
+ from his bed, and go to his desk, and take out a sheet of the finest sheepskin
+ parchment, and a pearl-carven inkwell, filled with greenish-silver ink
+ that had been made with true silver and crushed emeralds.
+ From the great trunk at his bed's foot, the Slytherin drew forth a book
+ bound also in silver and emeralds, entitled 
+\emph on
+The Etiquette of the Houses of Britain.
+
+\emph default
+ And with a new, clean quill, Draco Malfoy began to write, frequently looking
+ to the book where it lay open as a reference.
+ There was a grim smile on the boy's face, making the young Malfoy look
+ very much like his father, as he carefully drew each letter as though it
+ were a separate artwork.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+ From Draco, son of Lucius son of Abraxis Lords of the Noble and Most Ancient
+ House of Malfoy, son also of Narcissa daughter of Druella Lady of the Noble
+ and Most Ancient House of Black, scion and heir of the Noble and Most Ancient
+ House of Malfoy:
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+To Hermione, the first Granger:
+\end_layout
+
+\begin_layout Standard
+(That form might have been meant to sound polite, long ago when it had been
+ invented; nowadays, after centuries of being used to address mudbloods,
+ it carried a lovely tinge of refined venom.)
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+I, Draco, of Most Ancient House, demand redress, for
+\end_layout
+
+\begin_layout Standard
+Draco paused, carefully moving the quill aside so that it wouldn't drip.
+ He needed a pretext for this, at least if he wanted to impose the duel's
+ conditions.
+ The challenged had the choice of terms, 
+\emph on
+unless
+\emph default
+ they had insulted a Noble House.
+ He needed to make it look like Granger had insulted him…
+\end_layout
+
+\begin_layout Standard
+What was he thinking? Granger 
+\emph on
+had
+\emph default
+ insulted him.
+\end_layout
+
+\begin_layout Standard
+Draco flipped the book to the page of standard formulae, and found one that
+ seemed appropriate.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+I, Draco, of Most Ancient House, demand redress, for that I have thrice
+ over helped you and offered you only my goodwill, and in return you falsely
+ accused me of plotting against you,
+\end_layout
+
+\begin_layout Standard
+Draco had to stop and take a breath, forcing down the seething anger; he
+ was starting to genuinely 
+\emph on
+feel
+\emph default
+ the insult now, and he'd just written out the last phrase and underlined
+ it without thinking, like it was an ordinary letter.
+ After a moment's reflection, he decided to let it stand; it might not be
+ the exact formal phrasing but it had a raw, angry tone that seemed appropriate.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+which insult you committed before the eyes of Britain.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Thus I, Draco, compel you, Hermione, by custom, by law, by
+\end_layout
+
+\begin_layout Standard
+“The seventeenth ruling of the thirty-first Wizengamot,” Draco said aloud
+ without looking, a line delivered in many plays; he sat straighter as he
+ said it, feeling every pulse of the noble blood in his veins.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Thus I, Draco, compel you, Hermione, by custom, by law, by the 17th ruling
+ of the 31st Wizengamot, to meet me in wizard's duel with terms: That we
+ each come alone and in silence, speaking to none before or after,
+\end_layout
+
+\begin_layout Standard
+If the duel went poorly, Draco could just say nothing and leave it at that.
+ And if he did defeat Granger, he would have learned experimentally that
+ he could beat her 
+\emph on
+again
+\emph default
+ in a public challenge.
+ It wasn't cheating, but it was Science, which was almost as good.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+contesting by magic solely, without death or lasting injury,
+\end_layout
+
+\begin_layout Standard
+…where? Draco had been told about a room in Hogwarts that was good for duels,
+ where everything valuable was already protected by wards, and there were
+ no portraits to tattle on you… which one had it been again…
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+in the trophy room of the Castle of the Hogwarts School of Witchcraft and
+ Wizardry,
+\end_layout
+
+\begin_layout Standard
+And their 
+\emph on
+second
+\emph default
+ and public duel had better be
+\emph on
+ soon
+\emph default
+, like tomorrow, it would take very little time for his reputation in Slytherin
+ to go irretrievably to sludge.
+ He needed to fight Granger for the first time 
+\emph on
+tonight
+\emph default
+.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+upon midnight's stroke that shall end this very day.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Draco, of the Noble and Most Ancient House of Malfoy.
+\end_layout
+
+\begin_layout Standard
+Draco signed the formal parchment, and then drew forth his ordinary and
+ lesser parchment, and his regular ink, for his post scriptum:
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+If you don't know how the rules work, Granger, here's how it is.
+ You insulted a Most Ancient House, and I've got the lawful right to challenge.
+ And if you affront the conditions of the duel, like by having Flitwick
+ show up at the trophy room, or even just telling anyone else, my father
+ will take you and your false honor straight to the Wizengamot.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Draco Malfo
+\end_layout
+
+\begin_layout Standard
+On the last letter his quill pressed down on the parchment so viciously
+ that the nib snapped off, creating a streak of ink and a small rip in the
+ parchment, which Draco decided also looked appropriate.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+That night at dinnertime, Susan Bones came to Harry Potter and told him
+ that she thought Draco Malfoy was going to carry out his plot against Hermione
+ very soon.
+ She was warning all the members of S.P.H.E.W., and she'd warned Professor Sprout,
+ and she'd warned Professor Flitwick, and she was going to send a letter
+ to her Aunt tonight, and now she was warning Harry Potter, too.
+ Only they couldn't quite talk about it with Padma 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ Susan said, looking very serious 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ because Padma was feeling torn between her loyalty to Hermione and her
+ loyalty to her General.
+\end_layout
+
+\begin_layout Standard
+Harry James Potter-Evans-Verres, who was at this point feeling more frustrated
+ with the entire situation than anything really
+\emph on
+ productive
+\emph default
+, snapped at her that 
+\emph on
+yes
+\emph default
+, he knew something had to be done.
+\end_layout
+
+\begin_layout Standard
+After Susan Bones left, Harry looked over at the other end of the Ravenclaw
+ table, where Hermione had sat down away from him or Padma or Anthony or
+ any of her other friends.
+\end_layout
+
+\begin_layout Standard
+But Hermione didn't look like she was in a mood where somebody going over
+ and bothering her would be taken very well.
+\end_layout
+
+\begin_layout Standard
+Later, looking backward, Harry would think of how, in his SF and fantasy
+ novels, people always made their big, important choices for big, important
+ reasons.
+ Hari Seldon had built his Foundation to rebuild the ashes of the Galactic
+ Empire, rather than because he would look more important if he could be
+ in charge of his own research group.
+ Raistlin Majere had severed ties with his brother because he wanted to
+ become a god, not because he was incompetent at personal relationships
+ and unwilling to take advice on how to do better.
+ Frodo Baggins had taken the Ring because he was a hero who wanted to save
+ Middle-Earth, not because it would've been too awkward not to.
+ If anyone ever wrote a true history of the world 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ not that anyone ever could or would 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ probably 97% of all the key moments of Fate would turn out to be constructed
+ of lies and tissue paper and trivial little thoughts that somebody could've
+ just as easily thought differently.
+\end_layout
+
+\begin_layout Standard
+Harry James Potter-Evans-Verres looked at Hermione Granger, where she'd
+ sat down at the other end of the table, and felt a sense of reluctance
+ to bother her when she looked like she was already in a bad mood.
+\end_layout
+
+\begin_layout Standard
+So then Harry thought that it probably made more sense to talk to Draco
+ Malfoy first, just so that he could absolutely positively definitely assure
+ Hermione that Draco really wasn't plotting against her.
+\end_layout
+
+\begin_layout Standard
+And later on after dinner, when Harry went down to the Slytherin basement
+ and was told by Vincent that 
+\emph on
+the boss ain't to be disturbed
+\emph default
+… then Harry 
+\emph on
+thought
+\emph default
+ that maybe he should see if Hermione would talk to him right away.
+ That he should just get started on unraveling the whole mess before it
+ raveled any further.
+ Harry wondered if he might just be procrastinating, if his mind had just
+ found a clever excuse to put off something unenjoyable-but-necessary.
+\end_layout
+
+\begin_layout Standard
+He actually thought that.
+\end_layout
+
+\begin_layout Standard
+And then Harry James Potter-Evans-Verres decided that he'd just talk to
+ Draco Malfoy the next morning instead, after Sunday breakfast, and 
+\emph on
+then
+\emph default
+ talk to Hermione.
+\end_layout
+
+\begin_layout Standard
+Human beings did that sort of thing all the time.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was Sunday morning, on the 5th of April, 1992, and the simulated sky
+ above the Great Hall of Hogwarts showed great torrents of rain pouring
+ down in such density that the lightning flashes were diminished and scattered
+ into small pulses of white light that sometimes transformed the House tables,
+ paling their faces and making all the students appear briefly to be ghosts.
+\end_layout
+
+\begin_layout Standard
+Harry sat at the Ravenclaw table, wearily eating a waffle, waiting for Draco
+ to make an appearance so that he could get started on sorting this whole
+ thing out.
+ There was a
+\emph on
+ Quibbler
+\emph default
+ being passed around which had somehow ended up with Hannah and Daphne on
+ the front page, but it hadn't gotten to his place yet.
+\end_layout
+
+\begin_layout Standard
+A few minutes later Harry finished eating his waffle, and then looked around
+ 
+\emph on
+again
+\emph default
+ to see if Draco had arrived yet for breakfast at the Slytherin table.
+\end_layout
+
+\begin_layout Standard
+It was odd.
+\end_layout
+
+\begin_layout Standard
+Draco Malfoy was almost never late.
+\end_layout
+
+\begin_layout Standard
+Since Harry was looking in the direction of the Slytherin table, he didn't
+ see Hermione Granger entering through the huge doors of the Great Hall.
+ Thus he was rather startled when he turned back and discovered Hermione
+ sitting down directly beside him at the Ravenclaw table, just as if she
+ hadn't not-done that for more than a week.
+\end_layout
+
+\begin_layout Standard
+“Hi, Harry,” Hermione said, her voice sounding almost exactly normal.
+ She started to put toast on her plate and a selection of healthy fruits
+ and vegetables.
+ “How are you?”
+\end_layout
+
+\begin_layout Standard
+“Within one standard deviation of my own peculiar little average,” Harry
+ automatically replied.
+ “How are 
+\emph on
+you
+\emph default
+ doing? Did you sleep okay?”
+\end_layout
+
+\begin_layout Standard
+There were dark bags under Hermione Granger's eyes.
+\end_layout
+
+\begin_layout Standard
+“Why, yes, I'm fine,” said Hermione Granger.
+\end_layout
+
+\begin_layout Standard
+“Um,” Harry said.
+ He took a slice of pie onto his plate (as his brain was occupied with other
+ things, Harry's hand simply took the tastiest thing within range, without
+ evaluating complex concepts like whether he was ready to eat dessert).
+ “Um, Hermione, I'm going to need to talk to you later today, is that okay?”
+\end_layout
+
+\begin_layout Standard
+“Sure,” said Hermione.
+ “Why wouldn't it be?”
+\end_layout
+
+\begin_layout Standard
+“Because 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry said.
+ “I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ you and I 
+\emph on
+haven't
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ for the last few days 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+ Shut up,
+\emph default
+ suggested an internal part of Harry that seemed to have been recently allocated
+ for governing Hermione-related issues.
+\end_layout
+
+\begin_layout Standard
+Hermione Granger didn't look like she was paying much attention to him in
+ any case.
+ She just stared down at her plate, and then, after about ten seconds of
+ awkward silence, began to eat her tomato slices, one after another, without
+ pause.
+\end_layout
+
+\begin_layout Standard
+Harry looked away from her and began to eat a slice of pie which, he discovered,
+ had somehow materialized on his plate.
+\end_layout
+
+\begin_layout Standard
+“So!” Hermione Granger suddenly said after she'd polished off most of her
+ plate in silence.
+ “Anything happening today?”
+\end_layout
+
+\begin_layout Standard
+“Um…” Harry said.
+ He looked around frantically, as though to find something-happening that
+ he could use as conversational fodder.
+\end_layout
+
+\begin_layout Standard
+And so Harry was one of the first to see it, and wordlessly point, although
+ the sudden swell of whispers that swept through the Great Hall showed that
+ a number of other people had seen it too.
+\end_layout
+
+\begin_layout Standard
+The distinctive crimson tinge of the robes would have been recognizable
+ anywhere, but it still took Harry's brain a few moments to place the faces.
+ An Asianish-looking man, solemn, and today looking rather grim.
+ A man with a piercing gaze that swept over the room, his long black hair
+ waving behind him in a ponytail.
+ A man thin and pale and unshaven, with a face so blank that it was like
+ stone.
+ It took Harry a few moment to place the faces, and remember the names,
+ from that long-ago day in January when the Dementor had come to Hogwarts:
+ 
+\emph on
+Komodo, Butnaru, Goryanof.
+\end_layout
+
+\begin_layout Standard
+“An Auror trio?” Hermione said in a strange bright voice.
+ “Why, I wonder what they'd be doing here.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore was in their company as well, looking as worried as Harry had
+ ever seen him; and after a moment's pause while the old wizard's eyes scanned
+ the Great Hall and the students whispering over their breakfasts, he pointed
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ straight at Harry.
+\end_layout
+
+\begin_layout Standard
+“Oh, 
+\emph on
+now
+\emph default
+ what,” Harry said under his breath.
+ His inward thoughts were a lot more panicked than that, as he wondered
+ frantically if anyone had connected him to the Azkaban breakout somehow.
+ He looked at the Head Table, trying to make the glance casual, and realized
+ that Professor Quirrell was nowhere to be seen, this morning 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Aurors swept toward him with swift strides, Auror Goryanof approaching
+ from the other side of the Ravenclaw table as though to block any escape
+ in that direction, Auror Komodo and Auror Butnaru approaching from Harry's
+ side, the Headmaster following straight on Komodo's heels.
+\end_layout
+
+\begin_layout Standard
+All conversation everywhere had ground to utter silence.
+\end_layout
+
+\begin_layout Standard
+The Aurors reached Harry's place at the table, surrounding him from three
+ angles.
+\end_layout
+
+\begin_layout Standard
+“Yes?” Harry said, as normally as he could.
+ “What is it?”
+\end_layout
+
+\begin_layout Standard
+“Hermione Granger,” Auror Komodo said in a toneless voice, “you are under
+ arrest for the attempted murder of Draco Malfoy.”
+\end_layout
+
+\end_body
+\end_document

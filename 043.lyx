@@ -1,0 +1,2227 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume2_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Humanism, Part I
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+T
+\end_layout
+
+\end_inset
+
+he
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ gentle sun of January shone on the cold fields outside Hogwarts.
+\begin_inset Newline newline
+\end_inset
+
+For some of the students it was a study hour, and others had been let out
+ of class.
+ The first-years who'd signed up for it were practicing a certain spell,
+ a spell that was most advantageously learned outdoors, beneath the bright
+ sun and a clear blue sky, rather than within the confines of any classroom.
+ Cookies and lemonade were also considered helpful.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The early gestures of the spell were complex and precise; you twitched your
+ wand once, twice, thrice, and four times with small tilts at exactly the
+ right relative angles, you shifted your forefinger and thumb exactly the
+ right distances…
+\end_layout
+
+\begin_layout Standard
+The Ministry thought this meant it was futile to try and teach anyone the
+ spell before their fifth year.
+ There had been a few known cases of younger children learning it, and this
+ had been dismissed as “genius”.
+\end_layout
+
+\begin_layout Standard
+It might not have been a very polite way of putting it, but Harry was beginning
+ to see why Professor Quirrell had claimed that the Ministry Committee of
+ Curriculum would have been of greater benefit to wizardkind if they had
+ been used as landfill.
+\end_layout
+
+\begin_layout Standard
+So the gestures were complicated and delicate.
+ That didn't stop you from learning it when you were eleven.
+ It meant you had to be extra careful and practice each part for a lot longer
+ than usual, that was all.
+\end_layout
+
+\begin_layout Standard
+Most Charms that could only be learned by older students were like that
+ because they required more strength of magic than any young student could
+ muster.
+ But the Patronus Charm 
+\emph on
+wasn't
+\emph default
+ like that, it wasn't difficult because it needed too much magic, it was
+ difficult because it took 
+\emph on
+more
+\emph default
+ than mere magic.
+\end_layout
+
+\begin_layout Standard
+It took the warm, happy feelings that you kept close in your heart, the
+ loving memories, a different kind of strength that you didn't need for
+ ordinary spells.
+\end_layout
+
+\begin_layout Standard
+Harry twitched his wand once, twice, thrice and four times, shifted his
+ fingers exactly the right distances…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Good luck at school, Harry.
+ Do you think I bought you enough books?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“You can never have enough books… but you certainly tried, it was a really,
+ really, really good try…”
+\end_layout
+
+\begin_layout Standard
+It had brought tears to his eyes, the first time Harry had remembered and
+ tried to put it into the spell.
+\end_layout
+
+\begin_layout Standard
+Harry brought the wand up and around and brandished it, a gesture that didn't
+ have to be precise, only bold and defiant.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Expecto Patronum!
+\emph default
+” cried Harry.
+\end_layout
+
+\begin_layout Standard
+Nothing happened.
+\end_layout
+
+\begin_layout Standard
+Not a single flicker of light.
+\end_layout
+
+\begin_layout Standard
+When Harry looked up, Remus Lupin was still studying the wand, a rather
+ troubled look on his faintly scarred face.
+\end_layout
+
+\begin_layout Standard
+Finally Remus shook his head.
+ “I'm sorry, Harry,” the man said quietly.
+ “Your wandwork was exactly right.”
+\end_layout
+
+\begin_layout Standard
+And there wasn't a flicker of light anywhere else, either, because all the
+ other first-years who were supposed to be practicing their Patronus Charms
+ had been glancing out of the corners of their eyes at Harry instead.
+\end_layout
+
+\begin_layout Standard
+The tears were threatening to come back into Harry's eyes, and they weren't
+ happy tears.
+ Of all the things, of all the things, Harry had never expected this.
+\end_layout
+
+\begin_layout Standard
+There was something horribly humiliating about being informed that you weren't
+ happy enough.
+\end_layout
+
+\begin_layout Standard
+What did Anthony Goldstein have inside him that Harry didn't, that made
+ Anthony's wand shine with that bright light?
+\end_layout
+
+\begin_layout Standard
+Did Anthony love his own father more?
+\end_layout
+
+\begin_layout Standard
+“What thought were you using to cast it?” said Remus.
+\end_layout
+
+\begin_layout Standard
+“My father,” Harry said, his voice trembling.
+ “I asked him to buy me some books before I came to Hogwarts, and he did,
+ and they were expensive, and then he asked me if they were enough 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Harry didn't try to explain about the Verres family motto.
+\end_layout
+
+\begin_layout Standard
+“Take a rest before you try a different thought, Harry,” said Remus.
+ He gestured toward where some other students were sitting on the ground,
+ looking disappointed or embarrassed or regretful.
+ “You won't be able to cast a Patronus Charm while you're feeling ashamed
+ of not being grateful enough.” There was a gentle compassion in Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Lupin's voice, and for a moment, Harry felt like hitting something.
+\end_layout
+
+\begin_layout Standard
+Instead Harry turned around, and stalked to where the other failures were
+ sitting.
+ The other students whose wandwork had also been proclaimed perfect, and
+ who were now supposed to be searching for happier thoughts; by the looks
+ of them they weren't making much progress.
+ There were many robes there trimmed in dark blue, and a handful of red,
+ and one lone Hufflepuff girl who was still crying.
+ The Slytherins hadn't even bothered showing up, except for Daphne Greengrass
+ and Tracey Davis, who were still trying to get the gestures.
+\end_layout
+
+\begin_layout Standard
+Harry plopped down on the cold dead grass of winter, next to the student
+ whose failure had surprised him the most.
+\end_layout
+
+\begin_layout Standard
+“So you couldn't do it either,” Hermione said.
+ She'd fled the field at first, but she'd come back after that, and you
+ had to look closely at her reddened eyes to see that she'd been crying.
+\end_layout
+
+\begin_layout Standard
+“I,” Harry said, “I, I'd probably feel a lot worse about that if you hadn't
+ failed, you're the nicest, person I know, that I've ever met, Hermione,
+ and if 
+\emph on
+you
+\emph default
+ also can't do it, it means I might still be, be good…”
+\end_layout
+
+\begin_layout Standard
+“I should have gone to Gryffindor,” Hermione whispered.
+ She blinked hard a few times, but she didn't wipe her eyes.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The boy and the girl walked forward together, definitely not holding hands,
+ but each drawing a kind of strength from the other's presence, something
+ that let them ignore the whispers of their year-mates, as they walked through
+ the hallway approaching the great doors of Hogwarts.
+\end_layout
+
+\begin_layout Standard
+Harry hadn't been able to cast the Patronus Charm no matter what happy thought
+ he tried.
+ People hadn't seemed surprised by that, which made it even worse.
+ Hermione hadn't been able to do it either.
+ People had been 
+\emph on
+very
+\emph default
+ surprised by that, and Harry had seen her starting to get the same sidelong
+ looks as him.
+ The other Ravenclaws who'd failed weren't getting those looks.
+ But Hermione was the Sunshine General, and her fans were treating it like
+ she'd failed them, somehow, like she'd betrayed a promise she'd never made.
+\end_layout
+
+\begin_layout Standard
+The two of them had gone to the library to research the Patronus Charm,
+ which was Hermione's way of dealing with distress, as it was sometimes
+ also Harry's.
+ Study, learn, try to understand 
+\emph on
+why…
+\end_layout
+
+\begin_layout Standard
+The books had confirmed what the Headmaster had told Harry; often, wizards
+ who couldn't cast the Patronus Charm in practice would be able to do so
+ in the presence of a real Dementor, going from flat failure all the way
+ to a full corporeal Patronus.
+ It defied all logic, the Dementor's aura of fear ought to make it 
+\emph on
+harder
+\emph default
+ to wield a happy thought; but that was the way it was.
+\end_layout
+
+\begin_layout Standard
+So the two of them were both going to give it one last try, there was no
+ way either of them wouldn't give it one last try.
+\end_layout
+
+\begin_layout Standard
+It was the day the Dementor came to Hogwarts.
+\end_layout
+
+\begin_layout Standard
+Earlier, Harry had unTransfigured his father's rock from where it usually
+ rested on his pinky ring in the form of a tiny diamond, and placed the
+ huge gray stone back into his pouch.
+ Just in case Harry's magic failed entirely, when he confronted the darkest
+ of all creatures.
+\end_layout
+
+\begin_layout Standard
+Harry had already started to feel pessimistic, and he wasn't even in front
+ of a Dementor yet.
+\end_layout
+
+\begin_layout Standard
+“I bet you can do it and I can't,” Harry said in a whisper.
+ “I bet that's what happens.”
+\end_layout
+
+\begin_layout Standard
+“It felt wrong to me,” Hermione said, her voice even quieter than his.
+ “I tried it this morning and I realized.
+ When I was doing the brandish at the end, even before I said the words,
+ it felt wrong.”
+\end_layout
+
+\begin_layout Standard
+Harry didn't say anything.
+ He'd felt the same thing, right from the start, though it had taken another
+ five attempts using five other happy thoughts before he'd been able to
+ acknowledge it to himself.
+ Every time he tried to brandish his wand, it had felt hollow; the spell
+ he was trying to learn didn't fit him.
+\end_layout
+
+\begin_layout Standard
+“It doesn't mean we're going to be Dark Wizards,” said Harry.
+ “Lots of people who can't cast the Patronus Charm aren't Dark Wizards.
+ Godric Gryffindor wasn't a Dark Wizard…”
+\end_layout
+
+\begin_layout Standard
+Godric had defeated Dark Lords, fought to protect commoners from Noble Houses
+ and Muggles from wizards.
+ He'd had many fine friends and true, and lost no more than half of them
+ in one good cause or another.
+ He'd listened to the screams of the wounded, in the armies he'd raised
+ to defend the innocent; young wizards of courage had rallied to his calls,
+ and he'd buried them afterward.
+ Until finally, when his wizardry had only just begun to fail him in his
+ old age, he'd brought together the three other most powerful wizards of
+ his era to raise Hogwarts from the bare ground; the one great accomplishment
+ to Godric's name that wasn't about war, any kind of war, no matter how
+ just.
+ It was Salazar, and not Godric, who'd taught the first Hogwarts class in
+ Battle Magic.
+ Godric had taught the first Hogwarts class in Herbology, the magics of
+ green growing life.
+\end_layout
+
+\begin_layout Standard
+To his last day he'd never been able to cast the Patronus Charm.
+\end_layout
+
+\begin_layout Standard
+Godric Gryffindor had been a good man, not a happy one.
+\end_layout
+
+\begin_layout Standard
+Harry didn't believe in angst, he couldn't stand reading about whiny he\SpecialChar \-
+roes,
+ he knew a billion other people in the world would have given anything to
+ trade places with him, and…
+\end_layout
+
+\begin_layout Standard
+And on his deathbed, Godric had told Helga (for Salazar had abandoned him,
+ and Rowena passed before) that he didn't regret any of it, and he was 
+\emph on
+not
+\emph default
+ warning his students not to follow in his footsteps, no one was 
+\emph on
+ever
+\emph default
+ to say he'd told anyone not to follow in his footsteps.
+ If it had been the right thing for 
+\emph on
+him
+\emph default
+ to do, then he wouldn't tell anyone else to choose wrongly, not even the
+ youngest student in Hogwarts.
+ And yet for those who 
+\emph on
+did
+\emph default
+ follow in his footsteps, he hoped they would remember that Gryffindor had
+ told his House that it was all right for them to be happier than him.
+ That red and gold would be bright warm colors, from now on.
+\end_layout
+
+\begin_layout Standard
+And Helga had promised him, weeping, that when she was Headmistress she
+ would make sure of it.
+\end_layout
+
+\begin_layout Standard
+Whereupon Godric had died, and left no ghost behind him; and Harry had shoved
+ the book back to Hermione and walked away a little, so she wouldn't see
+ him crying.
+\end_layout
+
+\begin_layout Standard
+You wouldn't think that a book with an innocent title like “The Patronus
+ Charm: Wizards Who Could and Couldn't” would be the saddest book Harry
+ had ever read.
+\end_layout
+
+\begin_layout Standard
+Harry…
+\end_layout
+
+\begin_layout Standard
+Harry didn't want that.
+\end_layout
+
+\begin_layout Standard
+To be in that book.
+\end_layout
+
+\begin_layout Standard
+Harry didn't want that.
+\end_layout
+
+\begin_layout Standard
+The rest of the school just seemed to think that 
+\emph on
+No Patronus
+\emph default
+ meant 
+\emph on
+Bad Person,
+\emph default
+ plain and simple.
+ Somehow the fact that Godric Gryffindor also hadn't been able to cast the
+ Patronus Charm seemed not to get repeated.
+ Maybe people didn't talk about it to respect his last wish, Fred and George
+ probably didn't know and Harry certainly wasn't about to tell them.
+ Or maybe the other failures didn't mention it because it was less shameful,
+ the smaller loss of pride and status, to be thought Dark rather than unhappy.
+\end_layout
+
+\begin_layout Standard
+Harry saw that Hermione, beside him, was blinking hard; and he wondered
+ if she was thinking of Rowena Ravenclaw, who'd also loved books.
+\end_layout
+
+\begin_layout Standard
+“Okay,” Harry whispered.
+ “Happier thoughts.
+ If you do go to a full corporeal Patronus, what do you think your animal
+ will be?”
+\end_layout
+
+\begin_layout Standard
+“An otter,” Hermione said at once.
+\end_layout
+
+\begin_layout Standard
+“An 
+\emph on
+otter?
+\emph default
+” Harry whispered incredulously.
+\end_layout
+
+\begin_layout Standard
+“Yes, an otter,” said Hermione.
+ “What about yours?”
+\end_layout
+
+\begin_layout Standard
+“Peregrine falcon,” Harry said without hesitation.
+ “It can dive faster than three hundred kilometers per hour, it's the fastest
+ living creature there is.” The peregrine falcon had been Harry's favorite
+ animal since forever.
+ Harry was determined to become an Animagus someday, just to get that as
+ his form, and fly by the strength of his own wings, and see the land below
+ with sharper eyes… “But why an 
+\emph on
+otter?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Hermione smiled, but didn't say anything.
+\end_layout
+
+\begin_layout Standard
+And the vast doors of Hogwarts swung open.
+\end_layout
+
+\begin_layout Standard
+They walked for a time, the children, over a pathway that led toward the
+ unforbidden forest, and continued through the forest itself.
+ The Sun was lowering to near the horizon, the shadows long, the sunlight
+ filtered through the bare branches of the winter trees; for it was January,
+ and the first-years the last to learn, that day.
+\end_layout
+
+\begin_layout Standard
+Then the path swerved and took a new direction, and they all saw it in the
+ distance, the clearing in the forest, and the sere winter grounds, yellowing
+ dried grass whitened by a few small remnants of snow.
+\end_layout
+
+\begin_layout Standard
+The human figures still small at that range.
+ The two spots of dim white light from the Aurors' Patronuses, and the brighter
+ spot of silver light from the Headmaster's, next to something…
+\end_layout
+
+\begin_layout Standard
+Harry squinted.
+\end_layout
+
+\begin_layout Standard
+Something…
+\end_layout
+
+\begin_layout Standard
+It must have been purely Harry's imagination, because there shouldn't have
+ been any way for a Dementor to reach past three corporeal Patronuses, but
+ he thought he could feel a touch of emptiness brushing at his mind, brushing
+ straight at the soft inner center of himself without any respect for Occlumency
+ barriers.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Seamus Finnigan was ashen and trembling as he rejoined the students milling
+ about on the withered and snow-spotted grass.
+ Seamus's Patronus Charm had been successful, but there was still that interval
+ between when the Headmaster dispelled his own Patronus and when you were
+ supposed to cast your own, when you faced the Dementor's fear unshielded.
+\end_layout
+
+\begin_layout Standard
+Up to twenty seconds of exposure at five paces was certainly safe, even
+ for an eleven-year-old wizard with weak resistance and a still-maturing
+ brain.
+ There was a lot of variance in how hard the Dementor's power hit people,
+ which was another thing not quite understood; but twenty seconds was definitely
+ safe.
+\end_layout
+
+\begin_layout Standard
+Forty seconds of Dementor exposure at five paces might 
+\emph on
+possibly
+\emph default
+ have been enough to cause permanent damage, though only to the most sensitive
+ subjects.
+\end_layout
+
+\begin_layout Standard
+It was harsh training even by the standards of Hogwarts, where the way you
+ learned to fly on a hippogriff was by being tossed on one and told to get
+ going.
+ Harry was no fan of overprotectiveness, and if you looked at the difference
+ in maturity between a fourth-year in Hogwarts and a fourteen-year-old Muggle,
+ it was clear that Muggles were smothering their children… but even Harry
+ had started to wonder if this was pushing it.
+ Not every hurt could be healed afterward.
+\end_layout
+
+\begin_layout Standard
+But if you couldn't cast the spell under those conditions, it meant you
+ couldn't rely on using the Patronus Charm to defend yourself; overconfidence
+ was even more dangerous to wizards than to Muggles.
+ Dementors could drain your magic and your physical vitality, not just your
+ happy thoughts, which meant you might 
+\emph on
+not
+\emph default
+ be able to Apparate away if you waited too long, or if you didn't recognize
+ the approaching fear until the Dementor was within range for its attack.
+ (During his reading, Harry had discovered with considerable horror that
+ some books claimed the Dementor's Kiss would 
+\emph on
+eat your soul
+\emph default
+ and that this was the reason for the permanent mindless coma into which
+ it put the victims.
+ And that wizards who 
+\emph on
+believed this
+\emph default
+ had deliberately used the Dementor's Kiss to 
+\emph on
+execute criminals.
+
+\emph default
+ It was a certainty that some called criminals were innocent, and even if
+ they weren't, 
+\emph on
+destroying their souls?
+\emph default
+ If Harry had believed in souls, he would have… drawn a blank, he just couldn't
+ think of an appropriate response to that.)
+\end_layout
+
+\begin_layout Standard
+The Headmaster was taking security seriously, and so were the three Aurors
+ standing guard.
+ Their leader was an Asianish-looking man, solemn without being grim, Auror
+ Komodo, whose wand never left his hand.
+ His Patronus, an orangutan of solid moonlight, paced back and forth between
+ the Dementor and the first-years awaiting their turn; beside the orangutan
+ moved the bright white panther of Auror Butnaru, a man with a piercing
+ gaze, long black hair in a ponytail, and a long braided goatee.
+ Those two Aurors, and their two Patronuses, were all watching the Dementor.
+ On the opposite side of the students was the resting Auror Goryanof, tall
+ and thin and pale and unshaven, sitting back on a chair he'd conjured without
+ word or wand, and maintaining an absentminded pokerface as he scanned the
+ entire scene.
+ Professor Quirrell had shown up not long after the first-years began their
+ attempts, and his eyes never strayed far from Harry.
+ The tiny Professor Flitwick, who had been a champion duellist, was fiddling
+ absently with his wand; and 
+\emph on
+his
+\emph default
+ eyes, peering out from within the huge puffy beard that served as his face,
+ stayed focused on Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+And it must have been Harry's imagination, but Professor Quirrell seemed
+ to wince slightly each time the Headmaster's Patronus winked out to test
+ the next student.
+ Maybe Professor Quirrell was imagining the same placebo effect as Harry,
+ that backwash of emptiness caressing at his mind.
+\end_layout
+
+\begin_layout Standard
+“Anthony Goldstein,” called the voice of the Headmaster.
+\end_layout
+
+\begin_layout Standard
+Harry quietly walked toward Seamus, even as Anthony began to approach the
+ shining silver phoenix, and… whatever it was beneath the tattered cloak.
+\end_layout
+
+\begin_layout Standard
+“What did you see?” Harry asked Seamus in a low voice.
+\end_layout
+
+\begin_layout Standard
+A lot of students hadn't answered Harry, when he'd tried to gather the data;
+ but Seamus was Finnigan of Chaos, one of Harry's lieutenants.
+ Maybe that wasn't fair, but…
+\end_layout
+
+\begin_layout Standard
+“Dead,” said Seamus in a whisper, “grayish and slimy… dead and left in water
+ for a while… “
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ “That's what a lot of people see,” Harry said.
+ He projected confidence, even though it was fake, because Seamus needed
+ it.
+ “Go eat some chocolate, you'll feel better.”
+\end_layout
+
+\begin_layout Standard
+Seamus nodded and stumbled off toward the table of healing sweets.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Expecto Patronum!
+\emph default
+” cried a young boy's voice.
+\end_layout
+
+\begin_layout Standard
+Then there were gasps of shock, even from the Aurors.
+\end_layout
+
+\begin_layout Standard
+Harry spun around to look 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a brilliant silver bird standing between Anthony Goldstein and
+ the cage.
+ The bird reared its head and let out a cry, and the cry was also silver,
+ as bright and hard and beautiful as metal.
+\end_layout
+
+\begin_layout Standard
+And something in the back of Harry's mind said, 
+\emph on
+if that's a peregrine falcon, I'm going to strangle him in his sleep.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Shut up,
+\emph default
+ Harry said to the thought, 
+\emph on
+do you want us to be a Dark Wizard?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What's the point? You're going to end up as one eventually.
+\end_layout
+
+\begin_layout Standard
+That… wasn't something Harry would usually have thought…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+It's a placebo effect,
+\emph default
+ Harry told himself again.
+ 
+\emph on
+The Dementor can't actually get to me through three corporeal Patronuses,
+ I'm just imagining what I think it's like.
+ When I actually face the Dementor, it'll feel completely different, and
+ then I'll know I was just being silly before.
+\end_layout
+
+\begin_layout Standard
+A slight chill went down Harry's spine then, because he had a feeling that
+ yes, it 
+\emph on
+would
+\emph default
+ be completely different, and not in a positive direction.
+\end_layout
+
+\begin_layout Standard
+The blazing silver phoenix sprang back into existence from the Headmaster's
+ wand, the lesser bird vanished; and Anthony Goldstein began to walk back.
+\end_layout
+
+\begin_layout Standard
+The Headmaster was coming with Anthony instead of calling out the next name,
+ the Patronus waiting behind to guard the Dementor.
+\end_layout
+
+\begin_layout Standard
+Harry glanced over to where Hermione was standing, just behind the glowing
+ panther.
+ Hermione's turn would have come next, but had apparently just been delayed.
+\end_layout
+
+\begin_layout Standard
+She looked stressed.
+\end_layout
+
+\begin_layout Standard
+Earlier, she'd politely asked Harry to please stop trying to destress her.
+\end_layout
+
+\begin_layout Standard
+Dumbledore was smiling slightly as he escorted Anthony back toward the others;
+ smiling only slightly, because the Headmaster looked very, very tired.
+\end_layout
+
+\begin_layout Standard
+“Unbelievable,” said Dumbledore in a voice that sounded much weaker than
+ his accustomed boom.
+ “A corporeal Patronus, in his first year.
+ And an astounding number of successes among the other young students.
+ Quirinus, I must acknowledge that you have proved your point.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell inclined his head.
+ “A simple enough guess, I should think.
+ A Dementor attacks through fear, and children are less afraid.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Less
+\emph default
+ afraid?” said Auror Goryanof from where he was sitting.
+\end_layout
+
+\begin_layout Standard
+“So I said as well,” said Dumbledore.
+ “And Professor Quirrell pointed out that adults had more courage, not less
+ to fear; which thought, I confess, had never occurred to me before.”
+\end_layout
+
+\begin_layout Standard
+“That was not my 
+\emph on
+precise
+\emph default
+ phrasing,” Professor Quirrell said dryly, “but it will do.
+ And the rest of our agreement, Headmaster?”
+\end_layout
+
+\begin_layout Standard
+“As you say,” Dumbledore said reluctantly.
+ “I admit I was not expecting to lose that wager, Quirinus, but you have
+ proven your wisdom.”
+\end_layout
+
+\begin_layout Standard
+All the students were looking at them, puzzled; except Hermione, who was
+ staring in the direction of the cage and the tall decaying robes; and Harry,
+ who was watching everyone, since he was imagining himself feeling paranoid.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell said, in tones that did not invite further comments,
+ “I am allowed to teach the Killing Curse to students who wish to learn
+ it.
+ Which will render them considerably safer from Dark Wizards and other pests,
+ and it is foolish to think they will otherwise know no deadly magics.” Professor
+ Quirrell paused, his eyes narrowing.
+ “Headmaster, I respectfully observe that you are not looking well.
+ I suggest leaving the remainder of the day's task to Professor Flitwick.”
+\end_layout
+
+\begin_layout Standard
+Dumbledore shook his head.
+ “We are almost done for the day, Quirinus.
+ I will last.”
+\end_layout
+
+\begin_layout Standard
+Hermione had approached Anthony.
+ “Captain Goldstein,” she said, and her voice trembled only a little, “can
+ you give me any advice?”
+\end_layout
+
+\begin_layout Standard
+“Don't be afraid,” Anthony said firmly.
+ “Don't think about anything it tries to make you think about.
+ You're not just holding up the wand in front of you as a shield against
+ the fear, you're 
+\emph on
+brandishing
+\emph default
+ your wand to drive the fear away, that's how you make a happy thought into
+ something solid…” Anthony shrugged helplessly.
+ “I mean, I 
+\emph on
+heard
+\emph default
+ all that before, but…”
+\end_layout
+
+\begin_layout Standard
+Other students were starting to congregate around Anthony, with their own
+ questions.
+\end_layout
+
+\begin_layout Standard
+“Miss Granger?” the Headmaster said.
+ His voice might have been gentle, or just weakened.
+\end_layout
+
+\begin_layout Standard
+Hermione straightened her shoulders, and followed him.
+\end_layout
+
+\begin_layout Standard
+“What did you see under the cloak?” Harry said to Anthony.
+\end_layout
+
+\begin_layout Standard
+Anthony looked at Harry, surprised, and then answered, “A very tall man
+ who was dead, I mean, sort of dead-shaped and dead-colored… it hurt to
+ see him and I knew that was the Dementor trying to get at me.”
+\end_layout
+
+\begin_layout Standard
+Harry looked back out at where Hermione was confronting the cage and the
+ cloak.
+\end_layout
+
+\begin_layout Standard
+Hermione raised her wand into position for the first gestures.
+\end_layout
+
+\begin_layout Standard
+The Headmaster's phoenix winked out of existence.
+\end_layout
+
+\begin_layout Standard
+And Hermione gave a tiny, pathetic shriek, flinched 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ took a step back, Harry could see her wand moving, and then she brandished
+ it and said “Expecto Patronum!”
+\end_layout
+
+\begin_layout Standard
+Nothing happened.
+\end_layout
+
+\begin_layout Standard
+Hermione turned and ran.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Expecto Patronum!
+\emph default
+” said the Headmaster's deeper voice, and the silver phoenix blazed back
+ to life.
+\end_layout
+
+\begin_layout Standard
+The young girl stumbled, and kept running, strange sounds beginning to come
+ from her throat.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Hermione!
+\emph default
+” Susan yelled it, and Hannah, and Daphne, and Ernie, and they all started
+ to run toward her; even as Harry, who was always thinking one step ahead,
+ spun on his own heel and ran for the table with the chocolate.
+\end_layout
+
+\begin_layout Standard
+Even after Harry had shoved the chocolate into Hermione's mouth and she'd
+ chewed and swallowed, she was still breathing in great gasps and crying,
+ her eyes still seemed unfocused.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She can't have been permanently Demented,
+\emph default
+ Harry thought desperately at the confusion inside him, the horrible fear
+ and deathly fury beginning to twist around each other, 
+\emph on
+she can't have been, she wasn't exposed for even ten seconds let alone forty
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+But she could be 
+\emph on
+temporarily
+\emph default
+ Demented, as Harry realized in that moment, there wasn't any rule that
+ you couldn't be 
+\emph on
+temporarily
+\emph default
+ injured by a Dementor in just ten seconds if you were sensitive enough.
+\end_layout
+
+\begin_layout Standard
+Then Hermione's eyes seemed to focus, and dart around, and settle on him.
+\end_layout
+
+\begin_layout Standard
+“Harry,” she gasped, and the other students went silent.
+ “Harry, don't.
+ 
+\emph on
+Don't!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry was suddenly afraid to ask what he shouldn't do, was 
+\emph on
+he
+\emph default
+ in her worst memories, or some sleep's nightmare that she was now reliving
+ in waking life?
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Don't go near it!”
+\emph default
+ said Hermione.
+ Her hand reached out, grabbed him by the lapel of his robes.
+ “You mustn't go near it, Harry! 
+\emph on
+It spoke to me, Harry, it knows you, it knows you're here!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“What 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry said, and then cursed himself for asking.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+The Dementor!
+\emph default
+” said Hermione.
+ Her voice rose to a shriek.
+ “
+\emph on
+Professor Quirrell wants it to eat you!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+In the sudden hush, Professor Quirrell came forward a few steps; but he
+ didn't approach any closer (Harry was there, after all).
+ “Miss Granger,” he said, and his voice was grave, “I think you should have
+ some more chocolate.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Professor Flitwick, don't let Harry try, send him back!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The Headmaster had arrived by then, and he and Professor Flitwick were exchangin
+g worried looks.
+\end_layout
+
+\begin_layout Standard
+“I did not hear the Dementor speak,” the Headmaster said.
+ “Still…”
+\end_layout
+
+\begin_layout Standard
+“Just ask,” said Professor Quirrell, sounding a little weary.
+\end_layout
+
+\begin_layout Standard
+“Did the Dementor say 
+\emph on
+how
+\emph default
+ it would get to Harry?” said the Headmaster.
+\end_layout
+
+\begin_layout Standard
+“All his tastiest parts first,” said Hermione, “it would 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ it would eat 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Hermione blinked.
+ Some sanity seemed to come back into her eyes.
+\end_layout
+
+\begin_layout Standard
+Then she started crying.
+\end_layout
+
+\begin_layout Standard
+“You were too brave, Hermione Granger,” the Headmaster said.
+ His voice was gentle, and clearly audible.
+ “Too much braver than I comprehended.
+ You should have turned and run, not endured and tried to complete your
+ Charm.
+ When you are older and stronger, Miss Granger, I know that you will try
+ again, and I know that you will succeed.”
+\end_layout
+
+\begin_layout Standard
+“I'm sorry,” Hermione said in gasps, “I'm sorry, I'm sorry, I'm sorry… I'm
+ sorry, Harry, I can't tell you what I saw, I didn't look at it, I didn't
+ dare look at it, I knew it was too horrible to ever be seen…”
+\end_layout
+
+\begin_layout Standard
+It should have been Harry, but he'd hesitated, because his hands were all
+ chocolatey; and then Ernie and Susan were there, helping Hermione from
+ where she'd fallen on the grass, leading her toward the snacks table.
+\end_layout
+
+\begin_layout Standard
+Five bars of chocolate later, Hermione seemed to be all right again, and
+ she went over and apologized to Professor Quirrell; but she was always
+ watching Harry, every time that he glanced in her direction.
+ He'd stepped toward her only once, and stopped when she'd stepped away.
+ Her eyes had silently apologized, and silently pleaded for him to leave
+ her be.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Neville Longbottom had seen something dead and half-dissolved, oozing and
+ running with a face like a squashed sponge.
+\end_layout
+
+\begin_layout Standard
+It was the worst thing anyone had yet described seeing.
+ Neville had been able to produce a small flicker of light from his wand
+ before, but he had, intelligently and with great presence of mind, turned
+ and run away instead of trying to cast his own Patronus Charm.
+\end_layout
+
+\begin_layout Standard
+(The Headmaster had said nothing to the other students, told no one else
+ to be less brave; but Professor Quirrell had calmly observed that if you
+ made the mistake 
+\emph on
+after
+\emph default
+ being warned, that was when ignorance became stupidity.)
+\end_layout
+
+\begin_layout Standard
+“Professor Quirrell?” Harry said in a low voice, having come as close to
+ the Defense Professor as he dared.
+ “What do 
+\emph on
+you
+\emph default
+ see when you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Don't ask.” The voice was very flat.
+\end_layout
+
+\begin_layout Standard
+Harry nodded respectfully.
+ “What was your 
+\emph on
+original
+\emph default
+ phrasing to the Headmaster, if I can ask?”
+\end_layout
+
+\begin_layout Standard
+Dryly.
+ “Our worst memories can only grow worse as we grow older.”
+\end_layout
+
+\begin_layout Standard
+“Ah,” Harry said.
+ “Logical.”
+\end_layout
+
+\begin_layout Standard
+Something strange flickered in Professor Quirrell's eyes, then, as he looked
+ at Harry.
+ “Let us hope,” Professor Quirrell said, “that you succeed upon this try,
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ For if you do, the Headmaster may teach you his trick of using a Patronus
+ to send messages that cannot be forged or intercepted, and the military
+ importance of that is impossible to overstate.
+ It would be a tremendous advantage to the Chaos Legion, and someday, I
+ suspect, this entire country.
+ But if you do 
+\emph on
+not
+\emph default
+ succeed, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter… well, 
+\emph on
+I
+\emph default
+ shall understand.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Morag MacDougal had said, in a wavering voice, “Ouch”, and Dumbledore had
+ recast his Patronus right away.
+\end_layout
+
+\begin_layout Standard
+Parvati Patil had produced a corporeal Patronus in the form of a tiger,
+ larger than Dumbledore's phoenix, though not nearly as bright.
+ There had been a great burst of applause from all the watchers, though
+ not the same shock as when Anthony had done it.
+\end_layout
+
+\begin_layout Standard
+And then it was Harry's turn.
+\end_layout
+
+\begin_layout Standard
+The Headmaster called the name of Harry Potter, and Harry was afraid.
+\end_layout
+
+\begin_layout Standard
+Harry knew, he knew that he was going to fail, and he knew that it was going
+ to hurt.
+\end_layout
+
+\begin_layout Standard
+But he still had to try; because sometimes, in the presence of a Dementor,
+ a wizard went from not a flicker of light to a full corporeal Patronus,
+ and no one understood why.
+\end_layout
+
+\begin_layout Standard
+And because if Harry 
+\emph on
+couldn't
+\emph default
+ defend himself from Dementors, he had to be able to recognize their approach,
+ recognize the feeling of them in his mind, and run before it was too late.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What is my worst memory…?
+\end_layout
+
+\begin_layout Standard
+Harry had expected the Headmaster to give him a worried look, or a hopeful
+ look, or deeply wise advice; but instead Albus Dumbledore only watched
+ him with quiet calm.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+He thinks I'm going to fail, but he won't sabotage me by telling me so,
+\emph default
+ thought Harry, 
+\emph on
+if he had true words of encouragement to speak, he would speak them…
+\end_layout
+
+\begin_layout Standard
+The cage came closer.
+ It was already tarnished, but not rusted away to nothing, not yet.
+\end_layout
+
+\begin_layout Standard
+The cloak came closer.
+ It was unraveling and shot through with unpatched holes; it had been new
+ that morning, Auror Goryanof had said.
+\end_layout
+
+\begin_layout Standard
+“Headmaster?” Harry said.
+ “What do you see?”
+\end_layout
+
+\begin_layout Standard
+The Headmaster's voice was also calm.
+ “The Dementors are creatures of fear, and as your fear of the Dementor
+ diminishes, so does the fearsomeness of its form.
+ I see a tall, thin, naked man.
+ He is not decaying.
+ He is only slightly painful to look upon.
+ That is all.
+ What do you see, Harry?”
+\end_layout
+
+\begin_layout Standard
+…Harry couldn't see under the cloak.
+\end_layout
+
+\begin_layout Standard
+Or that wasn't right, it was that his mind was 
+\emph on
+refusing
+\emph default
+ to see what was under the cloak…
+\end_layout
+
+\begin_layout Standard
+No, his mind was trying to see the 
+\emph on
+wrong
+\emph default
+ thing under the cloak, Harry could feel it, his eyes trying to force a
+ mistake.
+ But Harry had done his best to train himself to notice that tiny feeling
+ of confusion, to automatically flinch away from making stuff up; and every
+ time his mind tried to start inventing a lie about what was under the cloak,
+ that reflex was fast enough to shut it down.
+\end_layout
+
+\begin_layout Standard
+Harry looked under the cloak and saw…
+\end_layout
+
+\begin_layout Standard
+An open question.
+ Harry wouldn't let his mind see something false, and so he didn't see anything,
+ like the part of his visual cortex getting that signal was just ceasing
+ to exist.
+ There was a blind spot under the cloak.
+ Harry couldn't know what was under there.
+\end_layout
+
+\begin_layout Standard
+Just that it was far worse than any decaying mummy.
+\end_layout
+
+\begin_layout Standard
+The unseeable horror beneath the cloak was very close, now, but the blazing
+ bird of moonlight, the white phoenix, yet lay between them.
+\end_layout
+
+\begin_layout Standard
+Harry wanted to run away like some of the other students had.
+ Half the ones who'd had no luck with their Patronus Charms just hadn't
+ shown up today in the first place.
+ Of those remaining, half had fled before the Headmaster had even dispelled
+ his own Patronus, and no one had said a word.
+ There'd been a little laughter when Terry had turned and walked back before
+ his own try; and Susan and Hannah, who'd gone before, had yelled at everyone
+ to shut up.
+\end_layout
+
+\begin_layout Standard
+But Harry was the Boy-Who-Lived, and he would lose much respect if he was
+ seen to give up without even trying…
+\end_layout
+
+\begin_layout Standard
+Pride and roles seemed to diminish and fall away, in the presence of whatever
+ lay beneath the cloak.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Why am I still here?
+\end_layout
+
+\begin_layout Standard
+It wasn't the shame of others thinking him cowardly, that kept Harry's feet
+ in place.
+\end_layout
+
+\begin_layout Standard
+It wasn't the hope of repairing his reputation that brought up his wand.
+\end_layout
+
+\begin_layout Standard
+It wasn't the desire to master the Patronus Charm as magic, that moved his
+ fingers into the initial position.
+\end_layout
+
+\begin_layout Standard
+It was something else, something that 
+\emph on
+had
+\emph default
+ to oppose whatever lay beneath the cloak, this was the true darkness and
+ Harry had to find out whether it lay within him, the power to drive it
+ back.
+\end_layout
+
+\begin_layout Standard
+Harry had planned to try one final time to think of his book-shopping spree
+ with his father, but instead, at the last minute, facing the Dementor,
+ a different memory occurred to him, something he hadn't tried before; a
+ thought that wasn't warm and happy in the ordinary way, but felt righter,
+ somehow.
+\end_layout
+
+\begin_layout Standard
+And Harry remembered the stars, remembered them burning terribly bright
+ and unwavering in the Silent Night; he let that image fill him, fill all
+ of him like an Occlumency barrier across his entire mind, became once again
+ the bodiless awareness of the void.
+\end_layout
+
+\begin_layout Standard
+The bright silver shining phoenix vanished.
+\end_layout
+
+\begin_layout Standard
+And the Dementor smashed into his mind like the fist of God.
+\end_layout
+
+\begin_layout Standard
+
+\size large
+FEAR / COLD / DARKNESS
+\end_layout
+
+\begin_layout Standard
+There was an instant when the two forces clashed head-on, when the peaceful
+ starlit memory held its own against the fear, even as Harry's fingers began
+ the wand motions, practiced until they had become automatic.
+ They weren't warm and happy, those blazing points of light in perfect blackness
+; but it was an image the Dementor could not easily pierce.
+ For the silent burning stars were vast and unafraid, and to shine in the
+ cold and darkness was their natural state.
+\end_layout
+
+\begin_layout Standard
+But there was a flaw, a crack, a fault-line in the immovable object trying
+ to resist that irresistible force.
+ Harry felt a twinge of anger at the Dementor for trying to feed on him,
+ and it was like slipping on wet ice.
+ Harry's mind began to slide sideways, into bitterness, black fury, deathly
+ hatred 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's wand came up in the final brandish.
+\end_layout
+
+\begin_layout Standard
+It felt wrong.
+\end_layout
+
+\begin_layout Standard
+“Expecto Patronum,” his voice spoke, the words hollow and pointless.
+\end_layout
+
+\begin_layout Standard
+And Harry fell into his dark side, fell down into his dark side, further
+ and faster and deeper than ever before, down down down as the slide accelerated
+, as the Dementor latched onto the exposed and vulnerable parts and fed
+ on them, eating away the light.
+ A fading reflex scrabbled for warmth, but even as an image of Hermione
+ came to him, or an image of Mum and Dad, the Dementor twisted it, showed
+ him Hermione lying dead on the ground, the corpses of his mother and father,
+ and then even that was sucked away.
+\end_layout
+
+\begin_layout Standard
+Into the vacuum rose the memory, the worst memory, something forgotten so
+ long ago that the neural patterns shouldn't have still existed.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Lily, take Harry and go! It's him!” shouted a man's voice.
+ “Go! Run! I'll hold him off!”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And Harry couldn't help but think, in the empty depths of his dark side,
+ how ridiculously overconfident James Potter had been.
+ Hold off Lord Voldemort? With what?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Then the other voice spoke, high-pitched like the hiss of a teakettle, and
+ it was like dry ice laid on Harry's every nerve, like a brand of metal
+ cooled to liquid helium temperatures and laid on every part of him.
+ And the voice said:
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Avadakedavra.”
+\end_layout
+
+\begin_layout Standard
+(The wand flew from the boy's nerveless fingers as his body began to convulse
+ and fall, the Headmaster's eyes widening in alarm as he began his own Patronus
+ Charm.)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Not Harry, not Harry, please not Harry!” screamed the woman's voice.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Whatever was left of Harry listened with all the light drained out of him,
+ in the dead void of his heart, and wondered if she thought that Lord Voldemort
+ would stop because she asked politely.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Step aside, woman!” said the shrill voice of burning cold.
+ “For you I am not come, only the boy.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Not Harry! Please… have mercy… have mercy…”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Lily Potter, Harry thought, seemed not to understand what type of people
+ became Dark Lords in the first place; and if this was the best strategy
+ she could conceive to save her child's life, that was her final failure
+ as a mother.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“I give you this rare chance to flee,” said the shrill voice.
+ “But I will not trouble myself to subdue you, and your death here will
+ not save your child.
+ Step aside, foolish woman, if you have any sense in you at all!”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Not Harry, please no, take me, kill me instead!”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The empty thing that was Harry wondered if Lily Potter seriously imagined
+ that Lord Voldemort would say yes, kill her, and then depart leaving her
+ son unharmed.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Very well,” said the voice of death, now sounding coldly amused, “I accept
+ the bargain.
+ Yourself to die, and the child to live.
+ Now drop your wand so that I can murder you.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+There was a hideous silence.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Lord Voldemort began to laugh, horrible contemptuous laughter.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And then, at last, Lily Potter's voice shrieked in desperate hate, “Avada
+ ke-”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The lethal voice finished first, the curse rapid and precise.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Avadakedavra.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+A blinding flare of green marked the end of Lily Potter.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+And the boy in the crib saw it, the eyes, those two crimson eyes, seeming
+ to glow bright red, to blaze like miniature suns, filling Harry's whole
+ vision as they locked to his own 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The other children saw Harry Potter fall, they heard Harry Potter scream,
+ a thin high-pitched scream that seemed to pierce their ears like knives.
+\end_layout
+
+\begin_layout Standard
+There was a brilliant silver flash as the Headmaster bellowed “
+\emph on
+Expecto Patronum!
+\emph default
+” and the blazing phoenix returned to being.
+\end_layout
+
+\begin_layout Standard
+But Harry Potter's horrible scream went on and on and on, even as the Headmaster
+ scooped up the boy in his arms and bore him away from the Dementor, even
+ as Neville Longbottom and Professor Flitwick both went for the chocolate
+ at the same time and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hermione knew it, she knew it as she saw it, she knew that her nightmare
+ had been real, it was coming true, somehow it was coming true.
+\end_layout
+
+\begin_layout Standard
+“Get him chocolate!” demanded the voice of Professor Quirrell, pointlessly,
+ because Professor Flitwick's tiny form was already cannonballing toward
+ where the Headmaster was racing toward the students.
+\end_layout
+
+\begin_layout Standard
+Hermione was moving forward herself, though she didn't know what else she
+ meant to do 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Cast Patronuses!
+\emph default
+” shouted the Headmaster, as he brought Harry behind the Aurors.
+ “
+\emph on
+Everyone who can! Get them between Harry and the Dementor! It's still feeding
+ on him!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+There was a moment of frozen horror.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Expecto Patronum!
+\emph default
+” shouted Professor Flitwick and Auror Goryanof, and then Anthony Goldstein,
+ but he failed the first time, and then Parvati Patil, who succeeded, and
+ then Anthony tried again and his silver bird spread its wings and screamed
+ at the Dementor, and Dean Thomas roared the words like they had been written
+ in letters of fire and his wand gave birth to a towering white bear; there
+ were eight blazing Patronuses all in a line between Harry and the Dementor,
+ and Harry went on screaming and screaming as the Headmaster laid him on
+ the dried grass.
+\end_layout
+
+\begin_layout Standard
+Hermione couldn't cast a Patronus Charm, so she ran toward where Harry lay.
+ In her mind, something tried to guess how long it had been already.
+ Was it twenty seconds? More?
+\end_layout
+
+\begin_layout Standard
+There was a dreadful agony and bewilderment on the face of Albus Dumbledore.
+ His long black wand was in his hand, but he spoke no spells, only looked
+ down at Harry's convulsing body in horror 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hermione didn't know what to do, she didn't know what to do, she didn't
+ understand what was happening, and the most powerful wizard in the world
+ seemed equally at a loss.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Use your phoenix!
+\emph default
+” bellowed Professor Quirrell.
+ “
+\emph on
+Take him far away from that Dementor!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Without a single word the Headmaster scooped up Harry in his arms and vanished
+ in a crack of fire along with the suddenly appearing Fawkes; and the Headmaster
+'s Patronus winked out, where it had guarded the Dementor.
+\end_layout
+
+\begin_layout Standard
+Horror and confusion and sudden babble.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter should recover,” Professor Quirrell said, raising his voice, but
+ his tone now calm once again, “I think it was just over twenty seconds.”
+\end_layout
+
+\begin_layout Standard
+Then the blazing white phoenix appeared again, like it was flying before
+ them from elsewhere, to Hermione Granger came the creature of moonlight,
+ and it cried to her in Albus Dumbledore's voice:
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+It still feeds on him, even here! How? If you know, Hermione Granger, you
+ must tell me! Tell me!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The senior Auror turned to stare at her, and so did many students.
+ Professor Flitwick didn't turn, he was now leveling his wand on Professor
+ Quirrell, who was holding out clearly empty hands.
+\end_layout
+
+\begin_layout Standard
+Seconds ticked past, uncounted.
+\end_layout
+
+\begin_layout Standard
+She couldn't remember it, she couldn't remember the nightmare clearly, she
+ couldn't remember why she had thought it was possible, why she had been
+ afraid 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hermione realized then what she ought to do, and it was the hardest decision
+ of her life.
+\end_layout
+
+\begin_layout Standard
+What if whatever had happened to Harry, happened to her too?
+\end_layout
+
+\begin_layout Standard
+All her limbs cold as death, her vision gone dark, fear overwhelming everything;
+ she'd seen Harry dying, Mum and Dad dying, all her friends dying, everyone
+ dying, so that in the end, when she died, she would be alone.
+ That was her secret nightmare she'd never talked about with anyone, that
+ had given the Dementor its power over her, the loneliest thing was to die
+ alone.
+\end_layout
+
+\begin_layout Standard
+She didn't want to go to that place again, she, she didn't, she didn't want
+ to stay there forever 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You have courage enough for Gryffindor,
+\emph default
+ said the calm voice of the Sorting Hat in her memory, 
+\emph on
+but you will do what is right in any House I give you.
+ You will learn, you will stand by your friends, in any House you choose.
+ So don't be afraid, Hermione Granger, just decide where you belong…
+\end_layout
+
+\begin_layout Standard
+There was no time for deciding, Harry was dying.
+\end_layout
+
+\begin_layout Standard
+“I can't remember now,” said Hermione, her voice cracking, “but just hold
+ on, I'll go in front of the Dementor again…”
+\end_layout
+
+\begin_layout Standard
+She started to run toward the Dementor.
+\end_layout
+
+\begin_layout Standard
+“Miss Granger!” squeaked Professor Flitwick, but he made no move to stop
+ her, only kept holding his wand on Professor Quirrell.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Everyone!
+\emph default
+” shouted Auror Komodo in a voice of military command.
+ “
+\emph on
+Get your Patronuses out of her way!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+FLITWICK!
+\emph default
+” roared Professor Quirrell.
+ “
+\emph on
+SUMMON POTTER'S WAND!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Even as Hermione understood, Professor Flitwick was already crying “
+\emph on
+Accio!
+\emph default
+”, and she saw the stick of wood zooming up from where it had lain almost
+ touching the Dementor's cage.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The eyes opened, dead and vacant.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Harry!
+\emph default
+” gasped a voice in the colorless world.
+ “
+\emph on
+Harry! Speak to me!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The face of Albus Dumbledore leaned over into the field of vision, which
+ had been occupied by a distant marble ceiling.
+\end_layout
+
+\begin_layout Standard
+“You're annoying,” said the empty voice.
+ “You should die.”
+\end_layout
+
+\end_body
+\end_document

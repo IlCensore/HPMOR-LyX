@@ -1,0 +1,1460 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume2_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+The Stanford Prison Experiment, Part
+\begin_inset space ~
+\end_inset
+
+X
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+“W
+\end_layout
+
+\end_inset
+
+ake.”
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Harry's eyes flew open as he came awake with a choking gasp, a jerking start
+ of his prone body.
+ He couldn't remember any dreams, maybe his brain had been too exhausted
+ to dream, it seemed like he'd only closed his eyes and then heard that
+ word spoken a moment after.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“You must awaken,” said the voice of Quirinus Quirrell.
+ “I gave you as much time as I could, but it would be wise to reserve at
+ least one use of your Time-Turner.
+ Soon we must go backward four hours to Mary's Place, appearing in every
+ way as though we have done nothing interesting this day.
+ I wished to speak to you before then.”
+\end_layout
+
+\begin_layout Standard
+Harry slowly sat up in the midst of darkness.
+ His body ached, and not only in the places where it had laid on the hard
+ concrete.
+ Images tumbled over each other in his memory, everything his unconscious
+ brain had been too tired to discharge into a proper nightmare.
+\end_layout
+
+\begin_layout Standard
+Twelve terrible voids floating down a metal corridor, tarnishing the metal
+ around them, light dimmed and temperature falling as the emptiness tried
+ to suck all life out of the world 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Chalk-white skin, stretched just above the bone that had remained after
+ fat and muscle faded 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A metal door 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A woman's voice 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No, I didn't mean it, please don't die 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I can't remember my children's names any more 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Don't go, don't take it away, don't don't don't 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“What was that place?” Harry said hoarsely, in a voice pushed out of his
+ throat like water forced through a too-thin pipe, in the darkness it sounded
+ almost as shattered as Bellatrix Black's voice had been.
+ “
+\emph on
+What was that place? That wasn't a prison, that was HELL!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Hell?” said the calm voice of the Defense Professor.
+ “You mean the Christian punishment fantasy? I suppose there is a similarity.”
+\end_layout
+
+\begin_layout Standard
+“How 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry's voice was blocking, there was something huge lodged in his throat.
+ “How 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ how could they 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” 
+\emph on
+People
+\emph default
+ had built that place, someone had 
+\emph on
+made
+\emph default
+ Azkaban, they'd made it on 
+\emph on
+purpose,
+\emph default
+ they'd done it 
+\emph on
+deliberately,
+\emph default
+ that woman, she'd had children, children she wouldn't remember, some judge
+ had 
+\emph on
+decided
+\emph default
+ for that to happen to her, someone had needed to 
+\emph on
+drag
+\emph default
+ her into that cell and lock its door while she screamed, someone fed her
+ every day and walked away 
+\emph on
+without letting her out
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+HOW COULD PEOPLE DO THAT?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Why shouldn't they?” said the Defense Professor.
+ A pale blue light lit the warehouse, then, showing a high, cavernous concrete
+ ceiling, and a dusty concrete floor; and Professor Quirrell sitting some
+ distance away from Harry, leaning his back against a painted wall; the
+ pale blue light turned the walls to glacier surfaces, the dust on the floor
+ to speckled snow, and the man himself had become an ice sculpture, shrouded
+ in darkness where his black robes lay over him.
+ “What use are the prisoners of Azkaban to them?”
+\end_layout
+
+\begin_layout Standard
+Harry's mouth opened in a croak.
+ No words exited.
+\end_layout
+
+\begin_layout Standard
+A faint smile twitched on the Defense Professor's lips.
+ “You know, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, if He-Who-Must-Not-Be-Named had come to rule over magical Britain,
+ and built such a place as Azkaban, he would have built it because he enjoyed
+ seeing his enemies suffer.
+ And if instead he began to find their suffering distasteful, why, he would
+ order Azkaban torn down the next day.
+ As for those who did make Azkaban, and those who do not tear it down, while
+ preaching lofty sermons and imagining themselves 
+\emph on
+not
+\emph default
+ to be villains… well, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I think if I had my choice of taking tea with them, or taking tea
+ with You-Know-Who, I should find my sensibilities less offended by the
+ Dark Lord.”
+\end_layout
+
+\begin_layout Standard
+“I don't understand,” Harry said, his voice was shaking, he'd read about
+ the classic experiment on the psychology of prisons, the ordinary college
+ students who had turned sadistic as soon as they were assigned the role
+ of prison guards; only now he realized that the experiment hadn't examined
+ the right question, the one most important question, they hadn't looked
+ at the key people, not the prison guards but 
+\emph on
+everyone else,
+\emph default
+ “I really don't understand, Professor Quirrell, how can people just stand
+ by and let this happen, 
+\emph on
+why
+\emph default
+ is the country of magical Britain 
+\emph on
+doing this
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” Harry's voice stopped.
+\end_layout
+
+\begin_layout Standard
+The Defense Professor's eyes appeared to be the same color as always, in
+ the pale blue light, for that light was the same color as Quirinus Quirrell's
+ irises, those never-thawing chips of ice.
+ “Welcome, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, to your first encounter with the realities of politics.
+ What do the wretched creatures in Azkaban have to offer any faction? Who
+ would benefit from aiding them? A politician who openly sided with them
+ would associate themselves with criminals, with weakness, with distasteful
+ things that people would rather not think about.
+ Alternatively, the politician could demonstrate their might and cruelty
+ by calling for longer sentences; to make a display of strength requires
+ a victim to crush beneath you, after all.
+ And the populace applauds, for it is their instinct to back the winner.”
+ A coldly amused laugh.
+ “You see, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, no one ever quite believes that 
+\emph on
+they
+\emph default
+ will go to Azkaban, so they see no harm in it for themselves.
+ As for what they inflict on others… I suppose you were once told that people
+ care about that sort of thing? It is a lie, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, people don't care in the slightest, and if you had not led a vastly
+ sheltered childhood you would have noticed that long ago.
+ Console yourself with this: those now prisoner in Azkaban voted for the
+ same Ministers of Magic who pledged to move their cells closer to the Dementors.
+ I admit, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, that I see little hope for democracy as an effective form of government,
+ but I admire the poetry of how it makes its victims complicit in their
+ own destruction.”
+\end_layout
+
+\begin_layout Standard
+Harry's recently cohered self was threatening to shatter into fragments
+ again, the words falling like hammerstrikes on his consciousness, driving
+ him back, step by step, over the precipice where lurked some vast abyss;
+ and he was trying to find something to save himself, some clever retort
+ that would refute the words, but it did not come.
+\end_layout
+
+\begin_layout Standard
+The Defense Professor watched Harry, the gaze reflecting more curiosity
+ than command.
+ “It is very simple, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, to understand how Azkaban was built, and how it continues to be.
+ Men care for what they, themselves, expect to suffer or gain; and so long
+ as they do not expect it to redound upon themselves, their cruelty and
+ carelessness is without limit.
+ All the other wizards of this country are no different within than he who
+ sought to rule over them, You-Know-Who; they only lack his power and his…
+ frankness.”
+\end_layout
+
+\begin_layout Standard
+The boy's hands were clenched into fists so tightly that the nails cut into
+ his palm, if his fingers were white or his face was pale you couldn't have
+ seen that, for the dim blue light cast all into ice or shadow.
+ “You once offered to support me if my ambition were to be the next Dark
+ Lord.
+ Is that why, Professor?”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor inclined his head, a thin smile on his lips.
+ “Learn all that I have to teach you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, and you will rule this country in time.
+ Then you may tear down the prison that democracy made, if you find that
+ Azkaban still offends your sensibilities.
+ Like it or not, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, you have seen this day that your own will conflicts with the will
+ of this country's populace, and that you do not bow your head and submit
+ to their decision when that occurs.
+ So to them, whether or not they know it, and whether or not you acknowledge
+ it, you are their next Dark Lord.”
+\end_layout
+
+\begin_layout Standard
+In the monochromatic light, unwavering, the boy and the Defense Professor
+ both seemed like motionless ice sculptures, the irises of their eyes reduced
+ to similar colors, looking very much the same in that light.
+\end_layout
+
+\begin_layout Standard
+Harry stared directly into those pale eyes.
+ All the long-suppressed questions, the ones he'd told himself he was putting
+ on hold until the Ides of May.
+ That had been a lie, Harry now knew, a self-deception, he had kept silent
+ for fear of what he might hear.
+ And now everything was coming forth from his lips, all at once.
+ “On our first day of class, you tried to convince my classmates I was a
+ killer.”
+\end_layout
+
+\begin_layout Standard
+“You are.” Amusedly.
+ “But if your question is why I 
+\emph on
+told
+\emph default
+ them that, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, the answer is that you will find ambiguity a great ally on your
+ road to power.
+ Give a sign of Slytherin on one day, and contradict it with a sign of Gryffindo
+r the next; and the Slytherins will be enabled to believe what they wish,
+ while the Gryffindors argue themselves into supporting you as well.
+ So long as there is uncertainty, people can believe whatever seems to be
+ to their own advantage.
+ And so long as you appear strong, so long as you appear to be winning,
+ their instincts will tell them that their advantage lies with you.
+ Walk always in the shadow, and light and darkness both will follow.”
+\end_layout
+
+\begin_layout Standard
+“And,” said the boy, his voice level, “just what do 
+\emph on
+you
+\emph default
+ want out of all this?”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell had leaned further back against the wall from where he
+ sat, casting his face into shadow, his eyes changing from pale ice into
+ dark pits like those of his snake form.
+ “I wish for Britain to grow strong under a strong leader; that 
+\emph on
+is
+\emph default
+ my desire.
+ As for my reasons why,” Professor Quirrell smiled without mirth, “I think
+ they shall stay my own.”
+\end_layout
+
+\begin_layout Standard
+“The sense of doom that I feel around you.” The words were becoming harder
+ and harder to say, as the subject danced closer and closer to something
+ terrible and forbidden.
+ “You always knew what it meant.”
+\end_layout
+
+\begin_layout Standard
+“I had several guesses,” said Professor Quirrell, his expression unreadable.
+ “And I will not yet say all I guessed.
+ But this much I will tell you: it is 
+\emph on
+your
+\emph default
+ doom which flares when we come near, not mine.”
+\end_layout
+
+\begin_layout Standard
+For once Harry's brain managed to mark this as a questionable assertion
+ and possible lie, instead of believing everything it heard.
+ “Why do you sometimes turn into a zombie?”
+\end_layout
+
+\begin_layout Standard
+“Personal reasons,” said Professor Quirrell with no humor at all in his
+ voice.
+\end_layout
+
+\begin_layout Standard
+“What was your ulterior motive for rescuing Bellatrix?”
+\end_layout
+
+\begin_layout Standard
+There was a brief silence, during which Harry tried hard to control his
+ breathing, keep it steady.
+\end_layout
+
+\begin_layout Standard
+Finally the Defense Professor shrugged, as though it were of no account.
+ “I all but spelled it out for you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ I told you everything you needed to deduce the answer, if you had been
+ mature enough to consider that first obvious question.
+ Bellatrix Black was the Dark Lord's most powerful servant, her loyalty
+ the most assured; she was the single person most likely to be entrusted
+ with some part of the lost lore of Slytherin that should have been yours.”
+\end_layout
+
+\begin_layout Standard
+Slowly the anger crept over Harry, slowly the wrath, something terrible
+ beginning to boil his blood, in just a few moments he would say something
+ that he really shouldn't say while the two of them were alone in a deserted
+ warehouse 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“But she 
+\emph on
+was
+\emph default
+ innocent,” said the Defense Professor.
+ He was not smiling.
+ “And the degree to which all her choices were taken away from her, so that
+ she never had a chance to suffer for her 
+\emph on
+own
+\emph default
+ mistakes… it struck me as 
+\emph on
+excessive
+\emph default
+, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ If she tells you nothing of use 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” The Defense Professor gave another small shrug.
+ “I shall not consider this day's work a waste.”
+\end_layout
+
+\begin_layout Standard
+“How altruistic of you,” Harry said coldly.
+ “So if all wizards are like You-Know-Who inside, are you an exception to
+ that, then?”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor's eyes were still in shadow, dark pits that could
+ not be met.
+ “Call it a whim, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ It has sometimes amused me to play the part of a hero.
+ Who knows but that You-Know-Who would say the same.”
+\end_layout
+
+\begin_layout Standard
+Harry opened his mouth a final time 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And found that he couldn't say it, he couldn't ask the last question, the
+ last and most important question, he couldn't make the words come out.
+ Even though a refusal like that was forbidden to a rationalist, for all
+ that he'd ever recited the Litany of Tarski or the Litany of Gendlin or
+ sworn that whatever could be destroyed by the truth should be, in that
+ one moment, he could not bring himself to say his last question out loud.
+ Even though he knew he was thinking wrongly, even though he knew he was
+ supposed to be better than this, he still couldn't say it.
+\end_layout
+
+\begin_layout Standard
+“Now it is my turn to inquire of you.” Professor Quirrell's back straightened
+ from where it had leaned back against the glacier wall of painted concrete.
+ “I was wondering, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, if you had anything to say about nearly killing me and ruining our
+ mutual endeavor.
+ I am given to understand that an apology, in such cases, is considered
+ a sign of respect.
+ But you have not offered me one.
+ Is it just that you have not yet gotten around to it, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+The tone was calm, the quiet edge so fine and sharp that it would slice
+ all the way through you before you realized you were being murdered.
+\end_layout
+
+\begin_layout Standard
+And Harry just looked at the Defense Professor with cool eyes that would
+ never flinch from anything; not even death, now.
+ He was no longer in Azkaban, no longer fearful of the part of himself that
+ was fearless; and the solid gemstone that was Harry had rotated to meet
+ the stress, turning smoothly from one facet to another, from light to darkness,
+ warm to cold.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+A calculated ploy on his part, to make me feel guilty, put me in a position
+ where I must submit?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Genuine emotion on his part?
+\end_layout
+
+\begin_layout Standard
+“I see,” said Professor Quirrell.
+ “I suppose that answers 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No,” said the boy in a cool, collected voice, “you do not get to frame
+ the conversation that easily, Professor.
+ I went to considerable lengths to protect you and get you out of Azkaban
+ safely, 
+\emph on
+after
+\emph default
+ I thought you had tried to kill a police officer.
+ That included facing down twelve Dementors without a Patronus Charm.
+ I wonder, if I had apologized when you demanded it, would you have said
+ thank-you in turn? Or am I correct in thinking that it was my submission
+ you demanded there, and not only my respect?”
+\end_layout
+
+\begin_layout Standard
+There was a pause, and then Professor Quirrell's voice came in reply, openly
+ icy with danger no longer veiled.
+ “It seems you still cannot bring yourself to lose, Mr.
+ Potter.”
+\end_layout
+
+\begin_layout Standard
+Darkness stared out of Harry's eyes without flinching, the Defense Professor
+ himself reduced to a mortal thing within them.
+ “Oh, and are 
+\emph on
+you
+\emph default
+ pondering now, whether 
+\emph on
+you
+\emph default
+ should pretend to lose to me, and pretend to humble yourself before my
+ own anger, in order to preserve your own plans? Did the thought of a calculated
+ false apology even 
+\emph on
+cross your mind?
+\emph default
+ Me neither, Professor Quirrell.”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor laughed, low and humorless, emptier than the void
+ between the stars, dangerous as any vacuum filled with hard radiation.
+ “No, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, you have not learned your lesson, not at all.”
+\end_layout
+
+\begin_layout Standard
+“I thought of losing many times, in Azkaban,” said the boy, his voice level.
+ “That I ought to simply give up, and turn myself over to the Aurors.
+ Losing would have been the sensible thing to do.
+ I heard your voice saying it to me, in my mind; and I would have 
+\emph on
+done
+\emph default
+ it, if I had been there by myself.
+ But I could not bring myself to lose 
+\emph on
+you
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+There was silence, then, for a time; as though even the Defense Professor
+ could not quite think of what to say to that.
+\end_layout
+
+\begin_layout Standard
+“I am curious,” said Professor Quirrell at last.
+ “What do you think that I should apologize for, precisely? I gave you explicit
+ instructions in the event of a fight.
+ You were to stay down, stay out of the way, cast no magic.
+ You violated those instructions and brought down the mission.”
+\end_layout
+
+\begin_layout Standard
+“I made no decision,” the boy said evenly, “there was no choice in it, only
+ a wish that the Auror should not die, and my Patronus was there.
+ For that wish to have never occurred, you should have warned me that you
+ might bluff using a Killing Curse.
+ By default, I assume that if you point your wand at someone and say Avada
+ Kedavra, it is because you want them dead.
+ Shouldn't that be the first rule of Unforgivable Curse Safety?”
+\end_layout
+
+\begin_layout Standard
+“Rules are for duels,” said the Defense Professor.
+ Some of the coldness had returned to his voice.
+ “And dueling is a sport, not a branch of Battle Magic.
+ In a real fight, a curse which cannot be blocked and 
+\emph on
+must
+\emph default
+ be dodged is an indispensable tactic.
+ I would have thought this obvious to you, but it seems I misjudged your
+ intellect.”
+\end_layout
+
+\begin_layout Standard
+“It also seems to me imprudent,” said the boy, continuing as though the
+ other had not spoken, “to not 
+\emph on
+tell me
+\emph default
+ that my casting any spell on you might kill us both.
+ What if you had suffered some mishap, and I had tried an Innervate, or
+ a Hover Charm? That ignorance, which you permitted for purposes I cannot
+ guess, played also some part in this catastrophe.”
+\end_layout
+
+\begin_layout Standard
+There was another silence.
+ The Defense Professor's eyes had narrowed, and there was a faintly puzzled
+ look on his face, as though he had encountered some completely unfamiliar
+ situation; and still the man spoke no word.
+\end_layout
+
+\begin_layout Standard
+“Well,” said the boy.
+ His eyes had not wavered from the Defense Professor's.
+ “I certainly regret hurting you, Professor.
+ But I do not think the situation calls for me to submit to you.
+ I never really did understand the concept of apology, still less as it
+ applies to a situation like this; if you have my regrets, but not my submission
+, does that count as saying sorry?”
+\end_layout
+
+\begin_layout Standard
+Again that cold, cold laugh, darker than the void between the stars.
+\end_layout
+
+\begin_layout Standard
+“I wouldn't know,” said the Defense Professor, “I, too, never understood
+ the concept of apology.
+ That ploy would be futile between us, it seems, with both of us knowing
+ it for a lie.
+ Let us speak no more of it, then.
+ Debts will be settled between us in time.”
+\end_layout
+
+\begin_layout Standard
+There was silence for a time.
+\end_layout
+
+\begin_layout Standard
+“By the way,” said the boy.
+ “Hermione Granger would never have built Azkaban, no matter who was going
+ to be put in it.
+ And she'd die before she hurt an innocent.
+ Just mentioning that, since you said before that all wizards are like You-Know-
+Who inside, and that's just false as a point of simple fact.
+ Would've realized it earlier if I hadn't been,” the boy gave a brief grim
+ smile, “stressed out.”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor's eyes were half-lidded, his expression distant.
+ “People's insides are not always like their outsides, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ Perhaps she simply wishes others to think of her as a good girl.
+ She cannot use the Patronus Charm 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Hah,” said the boy; his smile seemed realer now, warmer.
+ “She's having trouble for exactly the same reason I did.
+ There's enough light in her to destroy Dementors, I'm sure.
+ She wouldn't be able to 
+\emph on
+stop
+\emph default
+ herself from destroying Dementors, even at the cost of her own life…” The
+ boy trailed off, and then his voice resumed.
+ “
+\emph on
+I
+\emph default
+ might not be such a good person, maybe; but they do exist, and she's one
+ of them.”
+\end_layout
+
+\begin_layout Standard
+Dryly.
+ “She is young, and to make a show of kindness costs her little.”
+\end_layout
+
+\begin_layout Standard
+There was a pause at this.
+ Then the boy said, “Professor, I have to ask, when you see something all
+ dark and gloomy, doesn't it ever occur to you to try and 
+\emph on
+improve
+\emph default
+ it somehow? Like, yes, something goes terribly wrong in people's heads
+ that makes them think it's great to torture criminals, but that doesn't
+ mean they're truly evil inside; and maybe if you taught them the right
+ things, showed them what they were doing wrong, you could change
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell laughed, then, and not with the emptiness of before.
+ “Ah, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, sometimes I do forget how very young you are.
+ Sooner you could change the color of the sky.” Another chuckle, this one
+ colder.
+ “And the reason it is easy for you to forgive such fools and think well
+ of them, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, is that you yourself have not been sorely hurt.
+ You will think less fondly of commonplace idiots after the first time their
+ folly costs you something dear.
+ Such as a hundred Galleons from your own pocket, perhaps, rather than the
+ agonizing deaths of a hundred strangers.” The Defense Professor was smiling
+ thinly.
+ He took a pocket-watch out of his robes, looked at it.
+ “Let us depart now, if there is nothing more to say between us.”
+\end_layout
+
+\begin_layout Standard
+“You don't have any questions about the impossible things I did to get us
+ out of Azkaban?”
+\end_layout
+
+\begin_layout Standard
+“No,” said the Defense Professor.
+ “I believe I have solved most of them already.
+ As for the rest, it is too rare that I find a person whom I cannot see
+ through immediately, be they friend or foe.
+ I shall unravel the puzzles about you for myself, in due time.”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor shoved himself up, pushing back on the wall with both
+ hands and rising to his feet, smoothly if too slowly.
+ The boy, less gracefully, did the same.
+\end_layout
+
+\begin_layout Standard
+And the boy blurted out the last most terrible question which he had earlier
+ been unable to ask; as though to say it aloud would make it real, and as
+ though it were not, already, vastly obvious.
+\end_layout
+
+\begin_layout Standard
+“Why am I not like the other children my own age?”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In a deserted side-road of Diagon Alley, where scraps of un-Vanished trash
+ could be seen lodged into the edges of the brick street and the blank brick
+ building-sides that surrounded it, along with scattered dirt and other
+ signs of neglect, an ancient wizard and his phoenix Apparated into existence.
+\end_layout
+
+\begin_layout Standard
+The wizard was already reaching within his robes for his hourglass when,
+ in habit, his eyes jumped to a random spot between the road and the wall,
+ to memorize it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And the old wizard blinked in surprise; there was a scrap of parchment in
+ that spot.
+\end_layout
+
+\begin_layout Standard
+A frown crossed Albus Dumbledore's face as he took a step forward and took
+ the crumpled scrap, unfolding it.
+\end_layout
+
+\begin_layout Standard
+On it was the single word “NO”, and nothing more.
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 060-dumbledore__s_crumpled_scrap_by_dinosaurusgede-d33de3i.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\size small
+And the old wizard blinked in surprise; there was a scrap of parchment in
+ that spot.
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+A frown crossed Albus Dumbledore's face as he took a step forward and took
+ the crumpled scrap, unfolding it.
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+On it was the single word “NO”, and nothing more.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Slowly the wizard let it flutter from his fingers.
+ Absently he reached down to the pavement, and picked up the nearest scrap
+ of parchment, which looked remarkably similar to the one he had just taken;
+ he touched it with his wand, and a moment later it was inscribed with the
+ same word “NO”, in the same handwriting, which was his own.
+\end_layout
+
+\begin_layout Standard
+The old wizard had planned to go back three hours to when Harry Potter first
+ arrived in Diagon Alley.
+ He had already watched, upon his instruments, the boy leaving Hogwarts,
+ and that could not be undone (his one attempt to fool his own instruments,
+ and so control Time without altering its appearance to himself, had ended
+ in sufficient disaster to convince him to never again try such trickery).
+ He had hoped to retrieve the boy at the first possible moment after his
+ arrival, and take him to another safe location, if not Hogwarts (for his
+ instruments had not shown the boy's return).
+ But now 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“A paradox if I retrieve him immediately after he arrives in Diagon Alley?”
+ murmured the old wizard to himself.
+ “Perhaps they did not set in motion their plan to rob Azkaban, until after
+ they had confirmed his arrival here… or else… perhaps…”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Painted concrete, hard floor and distant ceilings, two figures facing off
+ across from each other.
+ One entity who wore the shape of a man in his late thirties and already
+ balding, and another mind that wore the form of an eleven-year-old boy
+ with a scar upon his forehead.
+ Ice and shadow, pale blue light.
+\end_layout
+
+\begin_layout Standard
+“I don't know,” said the man.
+\end_layout
+
+\begin_layout Standard
+The boy just looked at him.
+ And then said, “Oh, really?”
+\end_layout
+
+\begin_layout Standard
+“Truly,” said the man.
+ “I know nothing, and of my guesses I will not speak.
+ Yet I will say this much 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\end_body
+\end_document

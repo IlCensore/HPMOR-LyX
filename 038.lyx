@@ -1,0 +1,1372 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume2_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+The Cardinal Sin
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+B
+\end_layout
+
+\end_inset
+
+right
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ the sun, bright the air, bright the students and bright their parents,
+ clean the paved ground of Platform 9.75, the winter Sun hanging low in the
+ sky at 9:45am in the morning on January 5th, 1992.
+ Some of the younger students wore scarves and mittens, but most simply
+ wore their robes; they were wizards, after all.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After Harry had moved away from the landing platform, he took off his scarf
+ and coat, opened a compartment of his trunk, and stowed away his winter
+ things.
+\end_layout
+
+\begin_layout Standard
+For a long moment, he stood there letting the January air bite at him, just
+ to see what it was like.
+\end_layout
+
+\begin_layout Standard
+Harry took out his wizards' robes, shrugged them on.
+\end_layout
+
+\begin_layout Standard
+And finally, Harry drew his wand; and he couldn't help thinking of the parents
+ he'd only just kissed goodbye, of the world whose problems he was leaving
+ behind…
+\end_layout
+
+\begin_layout Standard
+With a strange feeling of guilt for the unavoidable, Harry said, “
+\emph on
+Thermos.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The warmth flowed through him.
+\end_layout
+
+\begin_layout Standard
+And the Boy-Who-Lived was back.
+\end_layout
+
+\begin_layout Standard
+Harry yawned and stretched, feeling more lethargic than anything else at
+ the conclusion of his vacation.
+ He didn't feel like reading his textbooks, or even any serious science
+ fiction, this morning; what he needed was something completely frivolous
+ to occupy his attention…
+\end_layout
+
+\begin_layout Standard
+Well, that wouldn't be hard to come by, if he was willing to part with four
+ Knuts.
+\end_layout
+
+\begin_layout Standard
+Besides, if the 
+\emph on
+Daily Prophet
+\emph default
+ was corrupt and the 
+\emph on
+Quibbler
+\emph default
+ was the only competing newspaper, there might be some suppressed real news
+ in there.
+\end_layout
+
+\begin_layout Standard
+Harry trudged back over to the same newsstand from last time, wondering
+ if the 
+\emph on
+Quibbler
+\emph default
+ could top the headline he'd seen before.
+\end_layout
+
+\begin_layout Standard
+The vendor started to smile as Harry approached, and then the man's face
+ suddenly changed, as he caught sight of the scar.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Harry Potter?
+\emph default
+” gasped the vendor.
+\end_layout
+
+\begin_layout Standard
+“No, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Durian,” said Harry, eyes dipping briefly to the man's nametag, “just an
+ amazing imitation 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+And then Harry's voice stopped in his throat, as he caught sight of the
+ top fold of the 
+\emph on
+Quibbler.
+\end_layout
+
+\begin_layout Quote
+\align center
+
+\emph on
+SLOSHED SEER SPILLS SECRETS:
+\begin_inset Newline newline
+\end_inset
+
+ DARK LORD TO RETURN,
+\end_layout
+
+\begin_layout Standard
+For just an instant, Harry tried to clamp down on his face, before realizing
+ that 
+\emph on
+not
+\emph default
+ being shocked could be just as revealing, in a sense 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Excuse me,” Harry said.
+ His voice sounded a little alarmed, and he didn't even know whether that
+ was too revealing, or just what his normal reaction 
+\emph on
+would
+\emph default
+ be if he didn't know anything.
+ He'd spent too much time around Slytherins, he was forgetting how to keep
+ secrets from ordinary people.
+ Four Knuts hit the counter.
+ “One copy of the 
+\emph on
+Quibbler,
+\emph default
+ please.”
+\end_layout
+
+\begin_layout Standard
+“Oh, no worries, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter!” said the vendor hastily, waving his hands.
+ “It's 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ never mind, just 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+A newspaper flew through the air and hit Harry's fingers, and he unfolded
+ it.
+\end_layout
+
+\begin_layout Quote
+\align center
+
+\emph on
+SLOSHED SEER SPILLS SECRETS:
+\begin_inset Newline newline
+\end_inset
+
+ DARK LORD TO RETURN,
+\begin_inset Newline newline
+\end_inset
+
+ WED DRACO MALFOY
+\end_layout
+
+\begin_layout Standard
+“It's free,” said the vendor, “for 
+\emph on
+you
+\emph default
+, I mean 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“No,” Harry said, “I was going to buy one anyway.”
+\end_layout
+
+\begin_layout Standard
+The vendor took the coins, and Harry read on.
+\end_layout
+
+\begin_layout Standard
+“Gosh,” Harry said half a minute later, “you get a seer smashed on six slugs
+ of Scotch and she spills all 
+\emph on
+sorts
+\emph default
+ of secret stuff.
+ I mean, who'd have thought that Sirius Black and Peter Pettigrew were secretly
+ the same person?”
+\end_layout
+
+\begin_layout Standard
+“Not me,” said the vendor.
+\end_layout
+
+\begin_layout Standard
+“They've even got a picture of the two of them together, so we know who
+ it is that's secretly the same person.”
+\end_layout
+
+\begin_layout Standard
+“Yup,” said the vendor.
+ “Pretty clever disguise, innit?”
+\end_layout
+
+\begin_layout Standard
+“And I'm secretly sixty-five years old.”
+\end_layout
+
+\begin_layout Standard
+“You don't look half that,” the vendor said amiably.
+\end_layout
+
+\begin_layout Standard
+“And I'm betrothed to Hermione Granger, 
+\emph on
+and
+\emph default
+ Bellatrix Black, 
+\emph on
+and
+\emph default
+ Luna Lovegood, and oh yes, Draco Malfoy too…”
+\end_layout
+
+\begin_layout Standard
+“Goin' ter be one interesting wedding,” said the vendor.
+\end_layout
+
+\begin_layout Standard
+Harry looked up from the newspaper, and said in a pleasant voice, “You know,
+ I heard at first that Luna Lovegood was insane, and I wondered if she really
+ was, or if she was just making stuff up and giggling to herself the whole
+ time.
+ Then when I read my second 
+\emph on
+Quibbler
+\emph default
+ headline, I decided that she 
+\emph on
+couldn't
+\emph default
+ be insane, I mean, it can't be 
+\emph on
+easy
+\emph default
+ to make this stuff up, you couldn't do it by 
+\emph on
+accident
+\emph default
+.
+ And 
+\emph on
+now
+\emph default
+ do you know what I think? I think she must be mad after all.
+ When ordinary people try to make stuff up, it doesn't come out like 
+\emph on
+this
+\emph default
+.
+ Something's got to go really 
+\emph on
+wrong
+\emph default
+ with the inside of your head before 
+\emph on
+this
+\emph default
+ is what comes out when you start making stuff up!”
+\end_layout
+
+\begin_layout Standard
+The vendor stared at Harry.
+\end_layout
+
+\begin_layout Standard
+“Seriously,” said Harry.
+ “Who 
+\emph on
+reads
+\emph default
+ this stuff?”
+\end_layout
+
+\begin_layout Standard
+“You,” said the vendor.
+\end_layout
+
+\begin_layout Standard
+Harry wandered off to read his newspaper.
+\end_layout
+
+\begin_layout Standard
+He didn't sit at the same nearby table he'd sat down at with Draco, the
+ 
+\emph on
+first
+\emph default
+ time he'd prepared to board this train.
+ That seemed like tempting history to repeat itself.
+\end_layout
+
+\begin_layout Standard
+It wasn't 
+\emph on
+just
+\emph default
+ that his first week at Hogwarts had been, judging by the 
+\emph on
+Quibbler
+\emph default
+, fifty-four years long.
+ It was that, in Harry's humble opinion, his life did not 
+\emph on
+need
+\emph default
+ any new threads of complexity.
+\end_layout
+
+\begin_layout Standard
+So Harry found a small iron chair somewhere else, distant from the main
+ crowd and the occasional muffled cracks of parents Apparating in with their
+ children, and sat down and read the 
+\emph on
+Quibbler
+\emph default
+ to see if it contained any suppressed news.
+\end_layout
+
+\begin_layout Standard
+And besides the obvious craziness (heaven help them all if any of 
+\emph on
+that
+\emph default
+ was real) there was a good deal of snide romantic gossip; but nothing that
+ would really be all that 
+\emph on
+important
+\emph default
+ if it was true.
+\end_layout
+
+\begin_layout Standard
+Harry was just reading about the Ministry's proposed marriage law, to ban
+ all marriages, when 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Harry Potter,” said a silken voice that sent a shock of adrenaline jolting
+ through Harry's blood.
+\end_layout
+
+\begin_layout Standard
+Harry looked up.
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 038-encounter_lucius_by_dinosaurusgede-d30969x.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+
+\size small
+Harry was just reading about the Ministry's proposed marriage law, to ban
+ all marriages, when 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+“Harry Potter,” said a silken voice that sent a shock of adrenaline jolting
+ through Harry's blood.
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+Harry looked up.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Lucius Malfoy,” Harry said, his voice weary.
+ Next time he was going to do the smart thing, and wait outside in the Muggle
+ part of King's Cross until 10:55am.
+\end_layout
+
+\begin_layout Standard
+Lucius inclined his head courteously, sending his long white hair drifting
+ over his shoulders.
+ The man was still carrying that same cane, lacquered in black with a silver
+ snake's head for its handle; and something about his grip silently said
+ 
+\emph on
+this is a weapon of deadly power,
+\emph default
+ not 
+\emph on
+I am feeble and leaning on this.
+
+\emph default
+ His face was expressionless.
+\end_layout
+
+\begin_layout Standard
+Two men flanked him, their eyes continuously scanning, their wands already
+ gripped low in their hands.
+ The two of them moved like a single organism with four legs and four arms,
+ the senior Crabbe-and-Goyle, and Harry thought he could guess which was
+ which, but then it didn't really matter.
+ They were merely Lucius's appendages, as certainly as if they'd been the
+ two rightmost toes on his left foot.
+\end_layout
+
+\begin_layout Standard
+“I apologize for disturbing you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said the smooth, silken voice.
+ “But you have answered none of my owls; and this, I thought, might be my
+ only opportunity to meet you.”
+\end_layout
+
+\begin_layout Standard
+“I have received none of your owls,” Harry said calmly.
+ “Dumbledore intercepted them, I presume.
+ But I would not have answered them if I had, except through Draco.
+ For me to deal with you directly, without Draco's knowledge, would trespass
+ on our friendship.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Please go away, please go away…
+\end_layout
+
+\begin_layout Standard
+The grey eyes glittered at him.
+ “Is that your pose, then…” said the senior Malfoy.
+ “Well.
+ I shall play along a little.
+ What was your purpose in maneuvering your good friend, my son, into a public
+ alliance with that girl?”
+\end_layout
+
+\begin_layout Standard
+“Oh,” Harry said lightly, “that's obvious, right? Draco's working with Gran\SpecialChar \-
+ger
+ will make him realize that Muggleborns are human after all.
+ Bwa.
+ Ha.
+ Ha.”
+\end_layout
+
+\begin_layout Standard
+A thin trace of a smile moved over Lucius's lips.
+ “Yes, that does sound like one of Dumbledore's plans.
+ Which it is 
+\emph on
+not
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“Indeed,” said Harry.
+ “It is part of my game with Draco, and no work of Dumbledore's, and that
+ is all I will say.”
+\end_layout
+
+\begin_layout Standard
+“Let us dispense with games,” said the senior Malfoy, the grey eyes suddenly
+ hardening.
+ “If my suspicions are true, you would hardly do Dumbledore's bidding in
+ any case, 
+\emph on
+Mr.
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph on
+Potter.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+There was a slight pause.
+\end_layout
+
+\begin_layout Standard
+“So you know,” Harry said, his voice cold.
+ “Tell me.
+ At which point, exactly, did you realize?”
+\end_layout
+
+\begin_layout Standard
+“When I read your response to Professor Quirrell's little speech,” said
+ the white-haired man, and chuckled grimly.
+ “I was puzzled, at first, for it seemed not in your own interest; it took
+ me days to understand whose interest was being served, and then it all
+ finally became clear.
+ And it is also obvious that you are weak, in some ways if not others.”
+\end_layout
+
+\begin_layout Standard
+“Very clever of you,” said Harry, still cold.
+ “But perhaps you mistake my interests.”
+\end_layout
+
+\begin_layout Standard
+“Perhaps I do.” A hint of steel came into the silken voice.
+ “Indeed, that is precisely what I fear.
+ You are playing strange games with my son, to a purpose I cannot guess.
+ That is not a friendly act, and you cannot but 
+\emph on
+expect
+\emph default
+ me to be concerned!”
+\end_layout
+
+\begin_layout Standard
+Lucius was leaning upon his cane with both hands now, and both those hands
+ white, and his bodyguards had suddenly tensed.
+\end_layout
+
+\begin_layout Standard
+Some instinct within Harry claimed that it would be a very bad idea to show
+ his fear, to let Lucius see that he could be intimidated.
+ They were in a public train station anyway 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“I find it interesting,” Harry said, putting steel into his own voice, “that
+ you think I could benefit from doing Draco harm.
+ But it is irrelevant, Lucius.
+ 
+\emph on
+He
+\emph default
+ is my friend, and I do not betray my friends.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” whispered Lucius.
+ His face showed sheer shock.
+\end_layout
+
+\begin_layout Standard
+Then 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Company,” said one of the minions, and Harry thought, from the voice, that
+ it must be the senior Crabbe.
+\end_layout
+
+\begin_layout Standard
+Lucius straightened and turned, then let out a hiss of disapproval.
+\end_layout
+
+\begin_layout Standard
+Neville was approaching, looking scared but determined, in tow behind a
+ tall woman who didn't look scared at all.
+\end_layout
+
+\begin_layout Standard
+“Madam Longbottom,” Lucius said icily.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy,” returned the woman with equal ice.
+ “Are you being an annoyance to our Harry Potter?”
+\end_layout
+
+\begin_layout Standard
+The bark of laughter that came from Lucius seemed strangely bitter.
+ “Oh, I rather think not.
+ Come to protect him from me, have you?” The white-haired head shifted toward
+ Neville.
+ “And this would be Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter's loyal lieutenant, the last scion of Longbottom, Neville, self-styled
+ of Chaos.
+ How strangely does the world turn.
+ Sometimes I think it must all be mad.”
+\end_layout
+
+\begin_layout Standard
+Harry had no idea at all what to say to that, and Neville looked confused,
+ and frightened.
+\end_layout
+
+\begin_layout Standard
+“I doubt it is the world that is mad,” said Madam Longbottom.
+ Her voice took on a gloating tone.
+ “You seem in a poor mood, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy.
+ Did the speech of our dear Professor Quirrell cost you a few allies?”
+\end_layout
+
+\begin_layout Standard
+“It was a clever enough slander of my abilities,” Lucius said coldly, “though
+ only effective upon the fools who believe that I was truly a Death Eater.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” blurted Neville.
+\end_layout
+
+\begin_layout Standard
+“I was under the 
+\emph on
+Imperius,
+\emph default
+ young man,” said Lucius, now sounding tired.
+ “The Dark Lord could hardly have begun recruiting among pureblood families
+ without the support of House Malfoy.
+ I demurred, and he simply made sure of me.
+ His own Death Eaters did not know it until afterward, hence the false Mark
+ I bear; though since I did not truly consent, it does not bind me.
+ Some of the Death Eaters still believe I was foremost among their number,
+ and for the peace of this nation I let them believe it, to keep them controlled.
+ But I was not such a fool as to support that ill-fated adventurer of my
+ own choice 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Ignore him,” Madam Longbottom said, the instruction addressed to Harry
+ as well as Neville.
+ “He must spend the rest of his life pretending, for fear of your testimony
+ under Veritaseum.” Said with malicious satisfaction.
+\end_layout
+
+\begin_layout Standard
+Lucius turned his back on her dismissively, and faced Harry again.
+ “Will you request this harridan to depart, 
+\emph on
+Mr.
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+
+\emph on
+Potter?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“I think not,” said Harry in a dry voice.
+ “I prefer to deal with the part of House Malfoy that's my own age.”
+\end_layout
+
+\begin_layout Standard
+There was a long pause, then.
+ The grey eyes searched him.
+\end_layout
+
+\begin_layout Standard
+“Of course…” said Lucius slowly.
+ “I 
+\emph on
+do
+\emph default
+ feel the fool now.
+ This whole time you were just pretending to have no idea what we were talking
+ about.”
+\end_layout
+
+\begin_layout Standard
+Harry met the gaze, and said nothing.
+\end_layout
+
+\begin_layout Standard
+Lucius raised his cane a few centimeters and struck it hard on the ground.
+\end_layout
+
+\begin_layout Standard
+The world vanished in a pale haze, all sounds went quiet, there was nothing
+ in the universe but Harry and Lucius Malfoy and the snake-headed cane.
+\end_layout
+
+\begin_layout Standard
+“My son is my heart,” said the senior Malfoy, “the last worthwhile thing
+ I have left in this world, and this I say to you in a spirit of friendship:
+ if he were to come to harm, I would give my life over to vengeance.
+ But so long as my son does 
+\emph on
+not
+\emph default
+ come to harm, I wish you the best of luck in your endeavors.
+ And as you have asked nothing more of me, I will ask nothing more of you.”
+\end_layout
+
+\begin_layout Standard
+Then the pale haze vanished, showing an outraged Madam Longbottom being
+ blocked from moving forward by the senior Crabbe; her wand was in her hand,
+ now.
+\end_layout
+
+\begin_layout Standard
+“How 
+\emph on
+dare
+\emph default
+ you!” she hissed.
+\end_layout
+
+\begin_layout Standard
+Lucius's dark robes swirled around him, and his white hair, as he turned
+ to the senior Goyle.
+ “We return to Malfoy Manor.”
+\end_layout
+
+\begin_layout Standard
+There were three pops of Apparition, and they were gone.
+\end_layout
+
+\begin_layout Standard
+A silence followed.
+\end_layout
+
+\begin_layout Standard
+“Dear 
+\emph on
+heavens
+\emph default
+,” said Madam Longbottom.
+ “What was that about?”
+\end_layout
+
+\begin_layout Standard
+Harry shrugged helplessly.
+ Then he looked at Neville.
+\end_layout
+
+\begin_layout Standard
+There was sweat on Neville's forehead.
+\end_layout
+
+\begin_layout Standard
+“Thank you very much, Neville,” said Harry.
+ “Your help was greatly appreciated, Neville.
+ And now, Neville, I think you should sit down.”
+\end_layout
+
+\begin_layout Standard
+“Yes, General,” said Neville, and instead of coming over to one of the other
+ chairs near Harry, he semi-collapsed into a sitting position on the pavement.
+\end_layout
+
+\begin_layout Standard
+“You have wrought many changes in my grandson,” said Madam Longbottom.
+ “I approve of some, but not others.”
+\end_layout
+
+\begin_layout Standard
+“Send me the list of which is which,” said Harry.
+ “I'll see what I can do.”
+\end_layout
+
+\begin_layout Standard
+Neville groaned, but said nothing.
+\end_layout
+
+\begin_layout Standard
+Madam Longbottom gave a chuckle.
+ “I shall, young man, thank you.” Her voice lowered.
+ “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter… the speech given by Professor Quirrell is something our nation has
+ long needed to hear.
+ I cannot say as much of your comment on it.”
+\end_layout
+
+\begin_layout Standard
+“I will take your opinion under advisement,” Harry said mildly.
+\end_layout
+
+\begin_layout Standard
+“I dearly hope that you do,” said Madam Longbottom, and turned back to her
+ grandson.
+ “Do I still need to 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“It's okay for you to go, Granma,” said Neville.
+ “I'll be fine on my own, this time.”
+\end_layout
+
+\begin_layout Standard
+“Now 
+\emph on
+that
+\emph default
+ I approve of,” she said, and popped and vanished like a soap bubble.
+\end_layout
+
+\begin_layout Standard
+The two boys sat quietly for a moment.
+\end_layout
+
+\begin_layout Standard
+Neville spoke first, his voice weary.
+ “You're going to try to fix all the changes she 
+\emph on
+approves
+\emph default
+ of, right?”
+\end_layout
+
+\begin_layout Standard
+“Not 
+\emph on
+all
+\emph default
+ of them,” Harry said innocently.
+ “I just want to make sure I'm not corrupting you.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Draco looked 
+\emph on
+very
+\emph default
+ worried.
+ His head kept darting around, despite the fact that Draco had insisted
+ on them going down into Harry's trunk, and using a true Quieting Charm
+ and not just the sound-blurring barrier.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What
+\emph default
+ did you say to Father?” blurted Draco, the moment the Quieting Charm went
+ up and the sounds of Platform 9 3/4 vanished.
+\end_layout
+
+\begin_layout Standard
+“I… look, can you tell me what he said to 
+\emph on
+you,
+\emph default
+ before he dropped you off?” said Harry.
+\end_layout
+
+\begin_layout Standard
+“That I should tell him right away if you seemed to be threatening me,”
+ said Draco.
+ “That I should tell him right away if there was anything 
+\emph on
+I
+\emph default
+ was doing that could pose a threat to 
+\emph on
+you!
+\emph default
+ Father thinks you're 
+\emph on
+dangerous,
+\emph default
+ Harry, whatever you said to him today it 
+\emph on
+scared
+\emph default
+ him! 
+\emph on
+It's not a good idea to scare Father!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oh, hell…
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What
+\emph default
+ did you talk about?” demanded Draco.
+\end_layout
+
+\begin_layout Standard
+Harry leaned back wearily in the small folding chair that sat at the bottom
+ of his trunk's cavern.
+ “You know, Draco, just as the fundamental question of rationality is `What
+ do I think I know and how do I think I know it?', there's also a cardinal
+ sin, a way of thinking that's the opposite of that.
+ Like the ancient Greek philosophers.
+ They had no clue what was going on, so they'd go around saying things like
+ `All is water' or `All is fire', and they never asked themselves, `Wait
+ a minute, even if everything 
+\emph on
+is
+\emph default
+ water, how could I possibly 
+\emph on
+know
+\emph default
+ that?' They didn't ask themselves if they had evidence which discriminated
+ 
+\emph on
+that
+\emph default
+ possibility from all the 
+\emph on
+other
+\emph default
+ possibilities you could imagine, evidence they'd be very unlikely to encounter
+ if the theory 
+\emph on
+wasn't
+\emph default
+ true 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Harry
+\emph default
+,” Draco said, his voice strained, “
+\emph on
+What did you talk about with Father?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“I don't know, actually,” said Harry, “so it's very important that I 
+\emph on
+not
+\emph default
+ just make stuff up 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+Harry had never heard Draco shriek in horror in quite that high a pitch
+ before.
+\end_layout
+
+\end_body
+\end_document

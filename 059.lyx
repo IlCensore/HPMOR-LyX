@@ -1,0 +1,1634 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume2_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+The Stanford Prison Experiment, Curiosity, Part
+\begin_inset space ~
+\end_inset
+
+IX
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+TSPE, Curiosity, Part IX
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+B
+\end_layout
+
+\end_inset
+
+roomsticks
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ had been invented during what a Muggle would have called the Dark Ages,
+ supposedly by a legendary witch named Celestria Relevo, allegedly the great-gre
+at-granddaughter of Merlin.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Celestria Relevo, or whichever person or group had really invented those
+ enchantments, hadn't known a darned thing about Newtonian mechanics.
+\end_layout
+
+\begin_layout Standard
+Broomsticks, therefore, worked by Aristotelian physics.
+\end_layout
+
+\begin_layout Standard
+They went where you pointed them.
+\end_layout
+
+\begin_layout Standard
+If you wanted to move straight forward, you pointed them straight forward;
+ you didn't worry about keeping some of the thrust going downward to cancel
+ out the effect of gravity.
+\end_layout
+
+\begin_layout Standard
+If you turned a broomstick, all of its new velocity was in the new direction
+ of pointing, it didn't go sideways based on its old momentum.
+\end_layout
+
+\begin_layout Standard
+Broomsticks had maximum speeds, not maximum accelerations.
+ Not because of anything to do with air resistance, but because a broomstick
+ had some maximum Aristotelian impetus its enchantments could exert.
+\end_layout
+
+\begin_layout Standard
+Harry had never explicitly 
+\emph on
+noticed
+\emph default
+ that before, despite being dextrous enough to get the best grades in flying
+ class.
+ Broomsticks worked so much like the human mind 
+\emph on
+instinctively expected them to work
+\emph default
+ that his brain had managed to 
+\emph on
+entirely overlook their physical absurdity.
+
+\emph default
+ Harry, on his first Thursday of broomstick lessons, had been distracted
+ by more interesting-seeming phenomena, words written on paper and a glowing
+ red ball.
+ So his brain had simply suspended its disbelief, marked the reality of
+ broomsticks as accepted, and proceeded to have its fun, without ever once
+ 
+\emph on
+thinking of the question
+\emph default
+ whose answer would have been obvious.
+ For it is a sad fact that we only ever 
+\emph on
+think
+\emph default
+ about a tiny fraction of all the phenomena we encounter…
+\end_layout
+
+\begin_layout Standard
+That is the story of how Harry James Potter-Evans-Verres was almost killed
+ by his own lack of curiosity.
+\end_layout
+
+\begin_layout Standard
+Because rockets did 
+\emph on
+not
+\emph default
+ work by Aristotelian physics.
+\end_layout
+
+\begin_layout Standard
+Rockets did 
+\emph on
+not
+\emph default
+ work like a human mind instinctively thought a flying thing should work.
+\end_layout
+
+\begin_layout Standard
+A rocket-assisted broomstick, therefore, did 
+\emph on
+not
+\emph default
+ move like the magical broomsticks upon which Harry was such a very good
+ flyer.
+\end_layout
+
+\begin_layout Standard
+None of this actually went through Harry's mind at the time.
+\end_layout
+
+\begin_layout Standard
+For one thing, the loudest noise he'd ever heard in his life was preventing
+ him from hearing himself think.
+\end_layout
+
+\begin_layout Standard
+For another thing, accelerating upward at four gravities meant that he had
+ around two and a half seconds, total, to go from the bottom to the top
+ of Azkaban.
+\end_layout
+
+\begin_layout Standard
+And even if they were two and a half of the 
+\emph on
+longest
+\emph default
+ seconds in the history of Time, that wasn't enough room to do much thinking.
+\end_layout
+
+\begin_layout Standard
+There was time only to see the lights of the Aurors' curses arrowing down
+ at him, slightly angle the broomstick to avoid them, realize that the broomstic
+k was simply continuing on with mostly the same momentum instead of going
+ in the direction he pointed it, and activate the wordless concepts
+\end_layout
+
+\begin_layout Standard
+*
+\emph on
+crap*
+\end_layout
+
+\begin_layout Standard
+and
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+*Newton*
+\end_layout
+
+\begin_layout Standard
+whereupon Harry angled the broomstick much harder and then they started
+ to very quickly approach the wall so he angled it back the other way and
+ there were more lights coming down and the Dementors were sliding smoothly
+ up toward them along with some kind of giant winged creature of white-golden
+ flame so Harry wrenched the broomstick back toward the sky but now he was
+ still sliding toward another wall so he tilted the broom slightly and he
+ stopped approaching but he was too close so he tilted it again and then
+ the distant Aurors on their broomsticks weren't very distant at all and
+ he was going to crash into that woman so he spun his broomstick straight
+ away from her and then in another instant he realized his rocket was an
+ extremely powerful flamethrower and in a fraction of a second it would
+ be pointing directly at the Auror so he spun the broomstick sideways as
+ he kept going up and he couldn't remember if it was pointing at any Aurors
+ now but at least it wasn't pointing at 
+\emph on
+her
+\end_layout
+
+\begin_layout Standard
+Harry missed another Auror by about a meter, zipping past him on a sideways-poin
+ted flamethrower moving upward at, Harry would later guess, around 300 kilometer
+s per hour.
+\end_layout
+
+\begin_layout Standard
+If there were any screams of roasted Aurors he didn't hear them, but this
+ was not evidence one way or another, because all that Harry was hearing
+ at the moment was an extremely loud noise.
+\end_layout
+
+\begin_layout Standard
+A couple of 
+\emph on
+calmer if not quieter
+\emph default
+ seconds later, there didn't seem to be any Aurors around, or any Dementors,
+ or any giant winged flame creatures, and the vast and terrible edifice
+ of Azkaban looked surprisingly tiny from this height.
+\end_layout
+
+\begin_layout Standard
+Harry got the broomstick pointed toward the Sun, faintly visible through
+ the clouds, it wasn't high in the sky at this time of day and month of
+ winter, and the broomstick accelerated for another two seconds in that
+ direction and picked up an amazing amount of speed very quickly before
+ the solid-fuel rocket burned itself out.
+\end_layout
+
+\begin_layout Standard
+After that, once Harry could hear himself think again, when there was only
+ the howling wind from their ridiculous speed, and Harry's enchantment-assisted
+ fingers gripping the broomstick were merely resisting the decelerating
+ drag of moving way faster than terminal velocity, 
+\emph on
+that
+\emph default
+ was when Harry actually thought all that stuff about Newtonian mechanics
+ and Aristotelian physics and broomsticks and rocketry and the importance
+ of curiosity and how he was never going to do anything this Gryffindor
+ ever again or at least not until after he learned the Dark Lord's secret
+ of immortality and 
+\emph on
+why
+\emph default
+ had he listened to Professor Quirinus “
+\emph on
+I asssure you, boy, I would not attempt thisss if I did not anticipate my
+ own ssurvival
+\emph default
+” Quirrell instead of Professor Michael “Son, if you try anything to do
+ with rockets on your own, I mean 
+\emph on
+anything whatsoever
+\emph default
+ without a trained professonal watching, you will die and that will make
+ Mum sad” Verres-Evans.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+WHAT?
+\emph default
+” shrieked Amelia at the mirror.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The wind had died down to a bearable level as the air resistance slowed
+ them, giving Harry plenty of opportunity to listen to the buzzing, ringing
+ sound that seemed to fill his whole brain.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell had been supposed to cast a Quieting Charm on the rocket
+ exhaust… apparently there were limits to what Quieting Charms could do…
+ in retrospect, Harry should have Transfigured a pair of earplugs, not just
+ trusted to the Quieting Charm, though that probably wouldn't have been
+ enough either…
+\end_layout
+
+\begin_layout Standard
+Well, magical healing probably had something to treat permanent hearing
+ damage.
+\end_layout
+
+\begin_layout Standard
+No, really, magical healing probably had something to treat that.
+ He'd seen students go to Madam Pomfrey with injuries that sounded a lot
+ worse…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Is there some way of transplanting an imaginary personality to someone else's
+ head?
+\emph default
+ asked Hufflepuff.
+ 
+\emph on
+I don't want to live in yours anymore.
+\end_layout
+
+\begin_layout Standard
+Harry shoved it all into the back of his mind, there really wasn't anything
+ he could do about it right now.
+ Was there anything he 
+\emph on
+should
+\emph default
+ be worrying about 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Then Harry glanced behind him, remembering for the first time to check whether
+ Bellatrix or Professor Quirrell had been blown off the broomstick.
+\end_layout
+
+\begin_layout Standard
+But the green snake was still in its harness, and the emaciated woman was
+ still clinging to the broomstick, her face still charged with unhealthy
+ color and her eyes still bright and dangerous.
+ Her shoulders were shaking like she was laughing hysterically, and her
+ lips were moving as though to shout, but no sound was coming out 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Oh, right.
+\end_layout
+
+\begin_layout Standard
+Harry took off the hood of his cloak, tapped his ears to let her know he
+ couldn't hear.
+\end_layout
+
+\begin_layout Standard
+Whereupon Bellatrix grasped her wand, pointed it at Harry, and suddenly
+ the ringing in his ears diminished, he could hear her.
+\end_layout
+
+\begin_layout Standard
+A moment later he regretted it; the imprecations she was screaming at Azkaban,
+ Dementors, Aurors, Dumbledore, Lucius, Bartemy Couch, something called
+ the Order of the Phoenix, and all who stood in the way of her Dark Lord,
+ et cetera, were not suitable for younger and more sensitive listeners;
+ and her laughter was hurting his newly healed ears.
+\end_layout
+
+\begin_layout Standard
+“Enough, Bella,” Harry finally said, and her voice stopped on the instant.
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+ Harry pulled the Cloak back over his head, just on general principles;
+ and realized in the same instant that they might have telescopes down there
+ or something, in retrospect pulling down his hood for even a moment had
+ been an incredibly dumb move, he hoped the whole mission didn't end up
+ failing because of that one error…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+We're not really cut out for this, are we?
+\emph default
+ observed Slytherin.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hey,
+\emph default
+ Hufflepuff objected in sheer reflex, 
+\emph on
+we can't expect to do anything perfectly the first time, we probably just
+ need more practice FORGET I SAID THAT.
+\end_layout
+
+\begin_layout Standard
+Harry looked back again, saw Bellatrix looking around with a puzzled, wondering
+ look on her face.
+ Her head kept turning, turning.
+\end_layout
+
+\begin_layout Standard
+And finally Bellatrix said, her voice now lower, “My Lord, where are we?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What do you mean?
+\emph default
+ was what Harry wanted to say, but the Dark Lord would never admit to not
+ understanding anything, so Harry replied, dryly, “We are on a broomstick.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Does she think she's dead, that this is Heaven?
+\end_layout
+
+\begin_layout Standard
+Bellatrix's hands were still chained to the broomstick, so it was only a
+ finger that came up and pointed when she said, “What is 
+\emph on
+that?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry followed the direction of her finger and saw… nothing in particular,
+ actually…
+\end_layout
+
+\begin_layout Standard
+Then Harry realized.
+ After they'd gone up high enough, there hadn't been any clouds to obscure
+ it any more.
+\end_layout
+
+\begin_layout Standard
+“That is the Sun, dear Bella.”
+\end_layout
+
+\begin_layout Standard
+It came out remarkably controlled, the Dark Lord sounding perfectly calm
+ and maybe a little impatient with her, even as the tears started down Harry's
+ cheeks.
+\end_layout
+
+\begin_layout Standard
+In the endless cold, in the pitch blackness, the Sun would surely have been…
+\end_layout
+
+\begin_layout Standard
+A happy memory…
+\end_layout
+
+\begin_layout Standard
+Bellatrix's head kept turning.
+\end_layout
+
+\begin_layout Standard
+“And the fluffy things?” she said.
+\end_layout
+
+\begin_layout Standard
+“Clouds.”
+\end_layout
+
+\begin_layout Standard
+There was a pause, and then Bellatrix said, “But what 
+\emph on
+are
+\emph default
+ they?”
+\end_layout
+
+\begin_layout Standard
+Harry didn't answer her, there was no way his voice could have been steady,
+ would have been steady, it was all he could do to keep his breathing perfectly
+ regular while he cried.
+\end_layout
+
+\begin_layout Standard
+After a while, Bellatrix breathed, so softly Harry almost didn't hear, “Pretty…”
+\end_layout
+
+\begin_layout Standard
+Her face slowly relaxed, the color leaving its paleness almost as quickly
+ as it had arrived.
+\end_layout
+
+\begin_layout Standard
+Her skeletal body slumped down against the broomstick.
+\end_layout
+
+\begin_layout Standard
+The borrowed wand dangled lifelessly from the strap attached to her unmoving
+ hand.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+YOU HAVE GOT TO BE KIDDING 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's mind remembered then, the Pepper-Up potion came at a cost; Bellatrix
+ would 
+\emph on
+ssleep for a conssiderable time,
+\emph default
+ Professor Quirrell had said.
+\end_layout
+
+\begin_layout Standard
+And in the same instant another part of Harry became utterly convinced,
+ looking back at the chalk-white emaciated woman, seeming deader in the
+ bright sunlight than anything Harry had ever seen alive, that she 
+\emph on
+was
+\emph default
+ dead, that she had just uttered her last word, that Professor Quirrell
+ had misjudged the dosage 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ or deliberately sacrificed Bellatrix to guard their own escape 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Is she breathing?
+\end_layout
+
+\begin_layout Standard
+Harry couldn't see if she was breathing.
+\end_layout
+
+\begin_layout Standard
+There was no way, on the broomstick, to reach back and take her pulse.
+\end_layout
+
+\begin_layout Standard
+Harry looked ahead to make sure they weren't about to run into any flying
+ rocks, kept on steering the broomstick toward the Sun, the invisible boy
+ and the possibly dead woman riding off into the afternoon, while his fingers
+ gripped the wood so hard they turned white.
+\end_layout
+
+\begin_layout Standard
+He couldn't reach back and perform artificial respiration.
+\end_layout
+
+\begin_layout Standard
+He couldn't use anything from his healer's kit.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Trust Professor Quirrell to have not endangered her?
+\end_layout
+
+\begin_layout Standard
+Strange, it was strange, that even genuinely believing that Professor Quirrell
+ hadn't meant to kill the Auror (for it 
+\emph on
+would
+\emph default
+ have been stupid), thinking of the Defense Professor's reassurances no
+ longer felt reassuring.
+\end_layout
+
+\begin_layout Standard
+Then it occurred to Harry that he had yet to check 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry looked back, and hissed, “
+\emph on
+Teacher?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The snake did not stir within its harness, and said no word.
+\end_layout
+
+\begin_layout Standard
+…maybe the snake, not being an actual rider, hadn't been protected from
+ the acceleration.
+ Or maybe coming that close to the Dementors without a shield, even for
+ a moment in Animagus form, had knocked out the Defense Professor.
+\end_layout
+
+\begin_layout Standard
+That wasn't good.
+\end_layout
+
+\begin_layout Standard
+It was to have been Professor Quirrell who told Harry when it was safe to
+ use the portkey.
+\end_layout
+
+\begin_layout Standard
+Harry steered the broomstick with whitened fingers, and thought, he thought
+ very hard for a small unmeasured length of time, during which Bellatrix
+ might or might not have been breathing, during which Professor Quirrell
+ himself might have already been not-breathing for a while.
+\end_layout
+
+\begin_layout Standard
+And Harry decided that while it was possible to recover from the error of
+ wasting the portkey in his possession, it was not possible to recover from
+ the error of letting a brain go too long without oxygen.
+\end_layout
+
+\begin_layout Standard
+So Harry took the next portkey in the sequence from his pouch, as he slowed
+ his broomstick to a halt in the bright blue air (Harry didn't know, when
+ he thought about it, whether a portkey's ability to adjust for the Earth's
+ rotation also included the ability to match velocity in general with its
+ new surroundings), touched the portkey to the broomstick, and…
+\end_layout
+
+\begin_layout Standard
+Harry paused, still holding the twig, the mate of the twig he had snapped
+ what seemed like two weeks ago.
+ He was feeling a sudden reluctance; his brain seemed to have learned the
+ rule, by some purely neural process of negative reinforcement, that Snapping
+ Twigs Is A Bad Idea.
+\end_layout
+
+\begin_layout Standard
+But that wasn't actually logical, so Harry snapped the twig anyway.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a thunderous boom from behind the nearby metal door, causing Amelia
+ to drop the mirror she was holding and spin around with her wand in hand,
+ and then that door burst open to reveal Albus Dumbledore, standing there
+ in front of a great smoking hole in the prison wall.
+\end_layout
+
+\begin_layout Standard
+“Amelia,” said the old wizard.
+ There was no trace of any of his customary levity, his eyes were hard as
+ sapphires beneath his half-moon glasses.
+ “I must leave Azkaban and I must do so 
+\emph on
+now
+\emph default
+.
+ Is there any faster way than a broomstick to get beyond the wards?”
+\end_layout
+
+\begin_layout Standard
+“No 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Then I require your fastest broomstick, at once!”
+\end_layout
+
+\begin_layout Standard
+The place where Amelia 
+\emph on
+wanted
+\emph default
+ to be was with the Auror who had been injured by that Fiendfyre or whatever
+ it had been.
+\end_layout
+
+\begin_layout Standard
+What she 
+\emph on
+needed
+\emph default
+ to do was find out what Dumbledore knew.
+\end_layout
+
+\begin_layout Standard
+“You!” the old witch barked at the team around her.
+ “Keep clearing the corridors until you're at bottom, they may not all have
+ escaped yet!” And then, to the old wizard, “Two broomsticks.
+ You can brief me once we're in the air.”
+\end_layout
+
+\begin_layout Standard
+There was a match of stares, but not a long one.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A sickeningly hard yank caught at Harry's abdomen, considerably harder than
+ the yank that had transported him to Azkaban, and this time the distance
+ traversed was great enough that he could hear an instant of silence, watch
+ the unseeable space between spaces, in the crack between one place and
+ another.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Sun, which had shone on the two only briefly, was swiftly occluded by
+ a raincloud as they shot away from Azkaban, in the direction of the wind
+ and faster than the wind.
+\end_layout
+
+\begin_layout Standard
+“Who's behind it?” shouted Amelia to the broomstick flying a pace away from
+ her.
+\end_layout
+
+\begin_layout Standard
+“One of two people,” Dumbledore said back, “I know not, at this instant,
+ who.
+ If the first, then we are in trouble.
+ If the second, we are all in far greater trouble.”
+\end_layout
+
+\begin_layout Standard
+Amelia didn't spare any breath for sighs.
+ “When will you know?”
+\end_layout
+
+\begin_layout Standard
+The old wizard's voice was grim, quiet and yet somehow rising above the
+ wind.
+ “Three things they need for perfection, if it is that one: The flesh of
+ the Dark Lord's most faithful servant, the blood of the Dark Lord's greatest
+ foe, and access to a certain grave.
+ I had thought Harry Potter safe, with their attempt on Azkaban all but
+ failed 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ though I still set guards upon him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but now I am fearful indeed.
+ They have access to Time, someone with a Time-Turner is sending messages
+ for them; and I suspect the kidnap attempt on Harry Potter has already
+ taken place some hours ago.
+ Which is why 
+\emph on
+we
+\emph default
+ have not heard about it, being in Azkaban where Time cannot knot itself.
+ That past came after our own future, you see.”
+\end_layout
+
+\begin_layout Standard
+“And if it is the other?” shouted Amelia.
+ What she had heard already was worrying enough; that sounded like the darkest
+ of Dark rituals, and centering on the dead Dark Lord himself.
+\end_layout
+
+\begin_layout Standard
+The old wizard, his face now even grimmer, said nothing, only shook his
+ head.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When the portkey's yank had subsided, the Sun was only just peeking over
+ the horizon, looking more like dawn than sunset, as their broom hovered
+ low above a brief expanse of dark-orange rock and sand, arranged into lumpy
+ hills like someone had kneaded the land's dough a few times and then forgotten
+ to roll it flat.
+ In the near distance, waves rolled past in an endless vista of water, though
+ the ground over which the broomstick hovered was above sea level by meters
+ at the least.
+\end_layout
+
+\begin_layout Standard
+Harry blinked at the dawn colors, and then realized the portkey had been
+ international.
+\end_layout
+
+\begin_layout Standard
+“Oy!” came a brisk, female shout from behind him, and Harry spun the broomstick
+ to look.
+ A middle-aged lady was holding up one hand to her mouth in a deliberate
+ calling gesture, and bustling forward.
+ Her kindly features, narrow eyes, and umber skin marked a race unfamiliar
+ to Harry; she was clad in brilliant purple robes of a style Harry had never
+ seen before; and when her lips opened again she spoke with an accent that
+ Harry couldn't place, for he was not widely traveled.
+ “Where were you? You're two hours late! I almost gave up on the lot of
+ you… hello?”
+\end_layout
+
+\begin_layout Standard
+There was a brief pause.
+ Harry's thoughts seemed to be moving oddly, too slow, everything felt distant,
+ like there was a thick pane of glass between himself and the world, and
+ another thick pane of glass between himself and his feelings, so that he
+ could see, but not touch.
+ It had come over him upon seeing the dawn's light and the kindly witch,
+ and thinking that it all seemed like a proper end to the adventure.
+\end_layout
+
+\begin_layout Standard
+Then the witch was rushing forward and drawing her wand; a muttered word
+ severed the cuffs that bound the emaciated woman to the broomstick, and
+ Bellatrix was being floated down onto the sandy rock with her skeletal
+ arms and pale legs dangling like lifeless things.
+ “Oh, Merlin,” whispered the witch, “Merlin, Merlin, Merlin…”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+She appears concerned,
+\emph default
+ thought an abstract, distant thing between two panes of glass.
+ 
+\emph on
+Is that what a real healer would say, or is it what someone told to put
+ on a performance would say?
+\end_layout
+
+\begin_layout Standard
+As though it wasn't Harry who spoke, but some other part of himself behind
+ yet another pane of glass, a whisper came from his lips.
+ “The green snake on her back is an Animagus.” Not high the whisper, not
+ cold, only quiet.
+ “He is unconscious.”
+\end_layout
+
+\begin_layout Standard
+The witch's head twitched up, to look at where that voice had seemed to
+ speak out of empty air, and then looked back down at Bellatrix.
+ “You're not Mister Jaffe.”
+\end_layout
+
+\begin_layout Standard
+“That would be the Animagus,” whispered Harry's lips.
+ 
+\emph on
+Oh,
+\emph default
+ thought the Harry behind glass, listening to the sound of his own lips,
+ 
+\emph on
+that makes sense; Professor Quirrell must have used a different name.
+\end_layout
+
+\begin_layout Standard
+“Since when is 
+\emph on
+he
+\emph default
+ a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ bah, forget it.” The witch laid her wand on the snake's nose for a moment,
+ then shook her head sharply.
+ “Nothing wrong with him that a day's rest won't cure.
+ 
+\emph on
+Her…
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Can you wake him up now?” whispered Harry's lips.
+ 
+\emph on
+Is that a good idea?
+\emph default
+ thought Harry, but his lips definitely seemed to think so.
+\end_layout
+
+\begin_layout Standard
+Again the sharp headshake.
+ “If an Innervate didn't work on him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” began the witch.
+\end_layout
+
+\begin_layout Standard
+“I did not attempt one,” whispered Harry's lips.
+\end_layout
+
+\begin_layout Standard
+“What? Why 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ oh, never mind.
+ 
+\emph on
+Innervate.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a pause, and then a snake slowly crawled out of its harness.
+ Slowly the green head came up, looked around.
+\end_layout
+
+\begin_layout Standard
+A blur later, Professor Quirrell was standing, and a moment later had sagged
+ to his knees.
+\end_layout
+
+\begin_layout Standard
+“Lie down,” said the witch without looking up from Bellatrix.
+ “That you in there, Jeremy?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said the Defense Professor rather hoarsely, as he carefully laid
+ himself down on a relatively flat patch of sandy orange rock.
+ He was not so pale as Bellatrix, but his face was bloodless in the dim
+ dawn light.
+ “Salutations, Miss Camblebunker.”
+\end_layout
+
+\begin_layout Standard
+“I told you,” said the witch, sharpness in her voice and a slight smile
+ on her face, “call me Crystal, this isn't Britain and we'll have none of
+ your formality here.
+ 
+\emph on
+And
+\emph default
+ it's Doctor now, not Miss.”
+\end_layout
+
+\begin_layout Standard
+“My apologies, Doctor Camblebunker.” This was followed by a dry chuckle.
+\end_layout
+
+\begin_layout Standard
+The witch's smile grew a little wider, her voice that much sharper.
+ “Who's your friend?”
+\end_layout
+
+\begin_layout Standard
+“You don't need to know.” The Defense Professor's eyes were closed, where
+ he lay on the ground.
+\end_layout
+
+\begin_layout Standard
+“How wrong did it go?”
+\end_layout
+
+\begin_layout Standard
+Very dryly indeed: “You can read about it tomorrow in any newspaper with
+ an international section.”
+\end_layout
+
+\begin_layout Standard
+The witch's wand was tapping here, there, poking and prodding all over Bellatrix
+'s body.
+ “I missed you, Jeremy.”
+\end_layout
+
+\begin_layout Standard
+“Truly?” said the Defense Professor, sounding slightly surprised.
+\end_layout
+
+\begin_layout Standard
+“Not even a tiny little bit.
+ If I didn't owe you 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor started to laugh, and then it turned into more of
+ a coughing fit.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What do you think?
+\emph default
+ said Slytherin to the Inner Critic, while Harry listened from behind the
+ glass walls.
+ 
+\emph on
+Performance, or reality?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Can't tell,
+\emph default
+ said Harry's Inner Critic.
+ 
+\emph on
+I'm not in top critical form right now.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Can anyone think of a good probe to gather more information?
+\emph default
+ said Ravenclaw.
+\end_layout
+
+\begin_layout Standard
+Again that whisper from the empty air above the broomstick: “What is the
+ chance of undoing all that was done to her?”
+\end_layout
+
+\begin_layout Standard
+“Oh, let's see.
+ Legilimency and unknown Dark rituals, ten years for that to set in place,
+ followed by ten years of Dementor exposure? Undo 
+\emph on
+that?
+\emph default
+ You're out of your skull, Mister Whoever-You-Are.
+ The question is whether there's anything 
+\emph on
+left,
+\emph default
+ and I'd call that maybe one chance in three
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ The witch suddenly cut herself off.
+ Her voice, when it spoke again, was quieter.
+ “If you were her friend, before… then no, you're never getting her back.
+ Best understand that now.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I'm voting that this is a performance,
+\emph default
+ said the Inner Critic.
+ 
+\emph on
+She wouldn't just blurt all that out in response to one question unless
+ she was looking for an opportunity.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Noted, but I'm putting a low weight of confidence on that,
+\emph default
+ said Ravenclaw.
+ 
+\emph on
+It's very hard not to let your suspicions control your perceptions when
+ you're trying to weigh evidence that subtle.
+\end_layout
+
+\begin_layout Standard
+“What potion did you give her?” the witch said after opening Bellatrix's
+ mouth and peering inside, her wand flashing multiple colors of illumination.
+\end_layout
+
+\begin_layout Standard
+The man lying on the ground calmly said, “Pepper-Up 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Were you out of your mind?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Again the coughing laugh.
+\end_layout
+
+\begin_layout Standard
+“She'll sleep for a week if she's lucky,” the witch said, and clucked her
+ tongue.
+ “I'll owl you when she opens her eyes, I suppose, so you can come back
+ and talk her into that Unbreakable Vow.
+ Have you got anything to stop her from killing me on the spot, if she manages
+ to even move for another month?”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor, eyes still closed, took a sheet of paper from his
+ robes; a moment later, words began to appear on it, accompanied by tiny
+ wisps of smoke.
+ When the smoke had stopped rising, the paper floated over toward the woman.
+\end_layout
+
+\begin_layout Standard
+The woman looked over the paper with raised eyebrows, gave a sardonic snort.
+ “This had better work, Jeremy, or my last will and testament says that
+ my whole estate goes into putting a bounty on your head.
+ Speaking of which 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor reached again into his robes and tossed the witch
+ a bag that made a clinking sound.
+ The witch caught it, weighed it, made a pleased sound.
+\end_layout
+
+\begin_layout Standard
+Then she stood up, and the pale skeletal woman floated off the ground beside
+ her.
+ “I'm heading back,” said the witch.
+ “I can't start my work here.”
+\end_layout
+
+\begin_layout Standard
+“Wait,” said the Defense Professor, and with a gesture retrieved his wand
+ from Bellatrix's hand and harness.
+ Then his hand pointed the wand at Bellatrix, and moved in a small circular
+ gesture, accompanied by a quiet, “
+\emph on
+Obliviate
+\emph default
+.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+That's it
+\emph default
+,” snapped the witch, “I'm taking her out of here before anyone does her
+ any more damage 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+” One arm came around to hug the bony form of Bellatrix Black to her side,
+ and they both disappeared with the loud POP! of Apparition.
+\end_layout
+
+\begin_layout Standard
+And there was silence in that lumpy place, but for the gentle rush of the
+ passing waves, and a little breath of wind.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I think the performance is finished,
+\emph default
+ said the Inner Critic.
+ 
+\emph on
+I give it two and a half out of five stars.
+ She's probably not a very experienced actor.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I wonder if a real healer would seem more fake than an actor told to play
+ one?
+\emph default
+ mused Ravenclaw.
+\end_layout
+
+\begin_layout Standard
+Like watching a television show, that was how it felt, like watching a televisio
+n show whose characters you didn't particularly empathize with, that was
+ all that could be seen and felt from behind the glass walls.
+\end_layout
+
+\begin_layout Standard
+Somehow, Harry managed to move his lips himself, send his own voice out
+ into the still dawn air, and then was surprised to hear his own question.
+ “How many different people are you, anyway?”
+\end_layout
+
+\begin_layout Standard
+The pale man lying on the ground didn't laugh, but from the broomstick Harry's
+ eyes saw the sides of Professor Quirrell's lips curling up, the edge of
+ that familiar sardonic smile.
+ “I cannot say that I bothered keeping count.
+ How many are you?”
+\end_layout
+
+\begin_layout Standard
+It shouldn't have shaken the inner Harry so much, hearing that response,
+ and yet he felt 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ he felt 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ unstable, like his own center had been subtracted
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Oh.
+\end_layout
+
+\begin_layout Standard
+“Excuse me,” said Harry's voice.
+ It now sounded as distant and detached as the fading Harry felt.
+ “I'm going to faint in a few seconds, I think.”
+\end_layout
+
+\begin_layout Standard
+“Use the fourth portkey I gave you, the one I said was our fallback refuge,”
+ said the man lying on the ground, calmly but swiftly.
+ “It will be safer there.
+ And continue wearing your cloak.”
+\end_layout
+
+\begin_layout Standard
+Harry's free hand retrieved another twig from his pouch and snapped it.
+\end_layout
+
+\begin_layout Standard
+There was another portkey yank, internationally long, and then he was somewhere
+ black.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Lumos
+\emph default
+,” said Harry's lips, some part of him looking out for the safety of the
+ whole.
+\end_layout
+
+\begin_layout Standard
+He was inside what looked like a Muggle warehouse, a deserted one.
+\end_layout
+
+\begin_layout Standard
+Harry's legs climbed off the broomstick, lay on the floor.
+ His eyes closed, and some tidy fraction of self willed his light to fail,
+ before the darkness took him.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Where will you go?” yelled Amelia.
+ They were almost at the edge of the wards.
+\end_layout
+
+\begin_layout Standard
+“Backward in time to protect Harry Potter,” said the old wizard, and before
+ Amelia could even open her lips to ask if he wanted help, she felt the
+ boundary of the wards as they crossed them.
+\end_layout
+
+\begin_layout Standard
+There was a pop of Apparition, and the wizard and the phoenix vanished,
+ leaving behind the borrowed broomstick.
+\end_layout
+
+\end_body
+\end_document

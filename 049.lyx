@@ -1,0 +1,2098 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume2_16x23.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25in
+\paperheight 10.75in
+\leftmargin 0.5in
+\topmargin 0.875in
+\rightmargin 0.625in
+\bottommargin 0.875in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Prior Information
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+A
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ boy waits at a small clearing at the edge of the non-forbidden forest,
+ beside a dirt trail that runs back to the gates of Hogwarts in one direction,
+ and off into the distance in another.
+ There is a carriage nearby, and the boy is standing well away from it,
+ looking at it, his eyes seldom wavering from its direction.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the distance, a figure is approaching along the dirt path: A man wearing
+ professorial robes, trudging slowly with his shoulders slumped low, his
+ formal shoes kicking up small clouds of dust as he walks.
+\end_layout
+
+\begin_layout Standard
+Half a minute later, the boy darts another quick glance before returning
+ to his surveillance; and this glimpse shows that the man's shoulders have
+ straightened, his face unslackened, and that his shoes are now walking
+ lightly across the dirt, leaving not a trace of dust in the air behind.
+\end_layout
+
+\begin_layout Standard
+“Hello, Professor Quirrell,” Harry said without letting his eyes move again
+ from the direction of their carriage.
+\end_layout
+
+\begin_layout Standard
+“Salutations,” said the calm voice of Professor Quirrell.
+ “You seem to be keeping your distance, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ I don't suppose you see something odd about our conveyance?”
+\end_layout
+
+\begin_layout Standard
+“Odd?” Harry echoed.
+ “Why no, I can't say I see anything odd.
+ There seem to be even numbers of everything.
+ Four seats, four wheels, two huge skeletal winged horses…”
+\end_layout
+
+\begin_layout Standard
+A skin-wrapped skull turned to look at him and flashed teeth, solid and
+ white in that black cavernous mouth, as though to indicate that it was
+ just about as fond of him as he was of it.
+ The other black leathery horse-skeleton tossed its head like it was whickering,
+ but there was no sound.
+\end_layout
+
+\begin_layout Standard
+“They are Thestrals, and they have always drawn the carriage,” Professor
+ Quirrell said, sounding quite undisturbed as he climbed into the front
+ bench of the carriage, sitting down as far to the right as possible.
+ “They are visible only to those who have seen death and comprehended it,
+ a useful defense against most animal predators.
+ Hm.
+ I suppose that the first time you went in front of the Dementor, your worst
+ memory proved to be the night of your encounter with He-Who-Must-Not-Be-Named?”
+\end_layout
+
+\begin_layout Standard
+Harry nodded grimly.
+ It was the right guess, even if for the wrong reasons.
+ 
+\emph on
+Those who have seen Death…
+\end_layout
+
+\begin_layout Standard
+“Did you recall anything of interest, thereby?”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said, “I did,” only that and nothing more, for he was not ready
+ as yet to make accusations.
+\end_layout
+
+\begin_layout Standard
+The Defense Professor smiled one of his dry smiles, and beckoned with an
+ impatient finger.
+\end_layout
+
+\begin_layout Standard
+Harry closed the distance and climbed into the carriage, wincing.
+ The sense of doom had grown significantly stronger after the day of the
+ Dementor, even though it had been slowly weakening before then.
+ The greatest distance that the carriage allowed him from Professor Quirrell
+ no longer seemed like nearly far enough.
+\end_layout
+
+\begin_layout Standard
+Then the skeletal horses trotted forward and the carriage started in motion,
+ taking them toward the outer bounds of Hogwarts.
+ As it did, Professor Quirrell slumped back down into zombie-mode, and the
+ sense of doom retreated, though it still hovered at the edge of Harry's
+ perceptions, unignorable…
+\end_layout
+
+\begin_layout Standard
+The forest scrolled by as the carriage rolled along, the trees moving past
+ at a speed that seemed positively glacial by comparison to broomsticks
+ or even cars.
+ There was something oddly relaxing, Harry thought, about traveling that
+ slowly.
+ It had certainly relaxed the Defense Professor, who was slumped over with
+ a small stream of drool coming out of his slack mouth and puddling on his
+ robes.
+\end_layout
+
+\begin_layout Standard
+Harry still hadn't decided what he was allowed to eat for lunch.
+\end_layout
+
+\begin_layout Standard
+His library research hadn't turned up any sign of wizards speaking to nonmagical
+ plants.
+ Or any other nonmagical animals besides snakes, although 
+\emph on
+Spell and Speak
+\emph default
+ by Paul Breedlove had recounted the probably-mythical tale of a sorceress
+ called the Lady of Flying Squirrels.
+\end_layout
+
+\begin_layout Standard
+What Harry 
+\emph on
+wanted
+\emph default
+ to do was ask Professor Quirrell.
+ The problem was that Professor Quirrell was 
+\emph on
+too smart
+\emph default
+.
+ Judging by what Draco had said, the Heir of Slytherin business was a major
+ bombshell, and Harry wasn't sure he wanted anyone else to know.
+ And the instant Harry asked about Parseltongue, Professor Quirrell would
+ fix him with those pale blue eyes and say, `I see, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, so you taught Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Malfoy the Patronus Charm and accidentally spoke to his snake.'
+\end_layout
+
+\begin_layout Standard
+It wouldn't 
+\emph on
+matter
+\emph default
+ that it shouldn't be enough evidence to locate the true explanation as
+ a hypothesis, let alone overcome its burden of prior improbability.
+ Somehow the Defense Professor would deduce it 
+\emph on
+anyway
+\emph default
+.
+ There were times when Harry suspected that Professor Quirrell had way more
+ background information than he was telling, his priors were simply too
+ good.
+ Sometimes he got his amazing deductions right even when his 
+\emph on
+reasons
+\emph default
+ were wrong.
+ The problem was that Harry couldn't see how Professor Quirrell could've
+ snuck in an extra clue about half the stuff he guessed.
+ Just 
+\emph on
+once
+\emph default
+ Harry would have liked to make some sort of incredible deduction from something
+ Professor Quirrell said which would catch 
+\emph on
+him
+\emph default
+ completely off guard.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“I shall have a bowl of green lentil soup, with soy sauce,” Professor Quirrell
+ said to the waitress.
+ “And for Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, a plate of Tenorman's family chili.”
+\end_layout
+
+\begin_layout Standard
+Harry hesitated in sudden dismay.
+ He'd resolved to stick to vegetarian dishes for the moment, but he'd forgotten
+ in his deliberations that Professor Quirrell did the 
+\emph on
+actual ordering
+\emph default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ and it would be awkward if he protested now 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The waitress bowed to them, and turned to go 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Erm, excuse me, any meat in that from snakes or flying squirrels?”
+\end_layout
+
+\begin_layout Standard
+The waitress didn't so much as blink an eye, only turned back to Harry,
+ shook her head, bowed politely to him again, and resumed her walk toward
+ the door.
+\end_layout
+
+\begin_layout Standard
+(The other parts of Harry were snickering at him.
+ Gryffindor was making sardonic comments about how a little social discomfort
+ was enough to get him to resort to 
+\emph on
+Cannibalism!
+\emph default
+ (shouted by Hufflepuff), and Slytherin was remarking on how nice it was
+ that Harry's ethics were flexible when it came to important goals like
+ maintaining his relationship with Professor Quirrell.)
+\end_layout
+
+\begin_layout Standard
+After the waitress had closed the door behind her, Professor Quirrell waved
+ a hand to slide home the locking bar, spoke the usual four Charms to ensure
+ privacy, and then said, “An interesting question, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ I wonder why you asked it?”
+\end_layout
+
+\begin_layout Standard
+Harry kept his face steady.
+ “I was looking up some facts about the Patronus Charm earlier,” he said.
+ “According to 
+\emph on
+The Patronus Charm: Wizards Who Could and Couldn't,
+\emph default
+ it turns out that Godric couldn't and Salazar could.
+ I was surprised, so I looked up the reference, in 
+\emph on
+Four Lives of Power.
+
+\emph default
+ And 
+\emph on
+then
+\emph default
+ I discovered that Salazar Slytherin could supposedly talk to snakes.” (Temporal
+ sequence wasn't the same as causation, it wasn't Harry's fault if Professor
+ Quirrell missed that.) “Further research turned up an old story about a
+ mother goddess type who could talk to flying squirrels.
+ I was a bit worried about the prospect of eating something that could talk.”
+\end_layout
+
+\begin_layout Standard
+And Harry took a casual sip of his water 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ just as Professor Quirrell said, “Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, would I be correct in guessing that you are also a Parselmouth?”
+\end_layout
+
+\begin_layout Standard
+When Harry was done coughing, he set his glass of water back down on the
+ table, fixed his gaze on Professor Quirrell's chin rather than looking
+ him in the eyes, and said, “So you are able to perform Legilimency through
+ my Occlumency barriers, then.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was grinning widely.
+ “I shall take that as a compliment, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, but no.”
+\end_layout
+
+\begin_layout Standard
+“I'm not buying this anymore,” Harry said.
+ “There's no 
+\emph on
+way
+\emph default
+ you came to that conclusion based on that evidence.”
+\end_layout
+
+\begin_layout Standard
+“Of course not,” Professor Quirrell said equably.
+ “I had planned to ask you that question today in any case, and simply chose
+ an opportune moment.
+ I have suspected since December, in fact 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+December?
+\emph default
+” said Harry.
+ “I found out 
+\emph on
+yesterday!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“Ah, so you did not realize the Sorting Hat's message to you was in Parseltongue
+?”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor had timed it exactly right the second time, too, just
+ as Harry was taking a gulp of water to clear out his throat from the first
+ coughing fit.
+\end_layout
+
+\begin_layout Standard
+Harry 
+\emph on
+hadn't
+\emph default
+ realized, not until just now.
+ Of course it was obvious the instant Professor Quirrell said it.
+ Right, Professor McGonagall had even 
+\emph on
+told
+\emph default
+ him not to talk to snakes where anyone could see him, but he'd thought
+ she'd meant not to be seen talking to any statues or architectural features
+ in Hogwarts that looked like snakes.
+ Double illusion of transparency, he'd thought he understood her, she'd
+ thought he understood her 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ but 
+\emph on
+how
+\emph default
+ the 
+\emph on
+hell 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“So,” Harry said, “you performed Legilimency on me during my first Defense
+ class, to find out what happened with the Sorting Hat 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Then I would not have found out in December.” Professor Quirell leaned back,
+ smiling.
+ “This is not a puzzle you can solve on your own, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, so I will reveal the answer.
+ Over the winter holiday, I was alerted to the fact that the Headmaster
+ had filed a request for a closed judicial panel to review the case of one
+ Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Rubeus Hagrid, whom you know as the Keeper of Keys and Grounds at Hogwarts,
+ and who was accused of the murder of Abigail Myrtle in 1943.”
+\end_layout
+
+\begin_layout Standard
+“Oh, of course,” said Harry, “that makes it downright 
+\emph on
+obvious
+\emph default
+ that I'm a Parselmouth.
+ Professor, 
+\emph on
+what
+\emph default
+ the sweet slithering snakes 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“The 
+\emph on
+other
+\emph default
+ suspect for that murder was Slytherin's Monster, the legendary inhabitant
+ of Slytherin's Chamber of Secrets.
+ Which is why certain sources alerted me to the fact, and why it caught
+ my attention sufficiently that I spent a good deal of bribe money to learn
+ the details of the case.
+ Now in point of fact, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid is innocent.
+ Ridiculously obviously innocent.
+ He is the most blatantly innocent bystander to be convicted by the magical
+ British legal system since Grindelwald's Confunding of Neville Chamberlain
+ was pinned on Amanda Knox.
+ Headmaster Dippet prompted a student puppet to accuse Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid because Dippet needed a scapegoat to take the blame for the death
+ of Miss Myrtle, and our marvelous justice system agreed that this was plausible
+ enough to warrant Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid's expulsion and the snapping of his wand.
+ Our current Headmaster needs merely provide some new item of evidence significa
+nt enough to reconvene the case; and with Dumbledore applying pressure instead
+ of Dippet, the result is a foregone conclusion.
+ Lucius Malfoy has no particular reason to fear Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid's vindication; thus Lucius Malfoy will only resist to the extent
+ that he can do so costlessly in order to impose costs on Dumbledore, and
+ Dumbledore is clearly willing to prosecute the case regardless.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell took a sip of his water.
+ “But I digress.
+ The new evidence that the Headmaster promises to provide is to exhibit
+ a previously undetected spell on the Sorting Hat, which, the Headmaster
+ asserts, he has personally determined to respond only to Slytherins who
+ are also Parselmouths.
+ The Headmaster further argues that this favors the interpretation that
+ the Chamber of Secrets was indeed opened in 1943, approximately the right
+ time frame for He-Who-Must-Not-Be-Named, a known Parselmouth, to have attended
+ Hogwarts.
+ It is a rather questionable logic, but a judicial panel may rule that it
+ swings the case far enough to bring Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid's guilt into doubt, if they can manage to keep a straight face as
+ they say it.
+ And now we come to the key question: 
+\emph on
+how
+\emph default
+ did the Headmaster discover this hidden spell on the Sorting Hat?”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was smiling thinly now.
+ “Well now, let us suppose that there was a Parselmouth in this year's crop
+ of students, a potential Heir of Slytherin.
+ You must admit, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, that you stand out as a possibility whenever extraordinary people
+ are considered.
+ And if I then further ask myself which new Slytherin would be most likely
+ to have his mental privacy invaded by the Headmaster, specifically hunting
+ the memories of his Sorting, why, you stand out even more.” The smile vanished.
+ “So you see, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, it was not 
+\emph on
+I
+\emph default
+ who invaded your mind, though I will not ask you to apologize.
+ It is not your fault that you believed Dumbledore's protestations of respecting
+ your mental privacy.”
+\end_layout
+
+\begin_layout Standard
+“My sincere apologies,” Harry said, keeping his face expressionless.
+ The rigid control was a confession in its own right, as was the sweat beading
+ his forehead; but he didn't think the Defense Professor would take any
+ evidence from that.
+ Professor Quirrell would just think Harry was nervous at having been discovered
+ as the Heir of Slytherin.
+ Rather than being nervous that Professor Quirrell might realize that Harry
+ had deliberately betrayed Slytherin's secret… which itself was no longer
+ seeming like such a smart move.
+\end_layout
+
+\begin_layout Standard
+“So, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ Any progress on finding the Chamber of Secrets?”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No,
+\emph default
+ thought Harry.
+ But to maintain plausible deniability, you needed a general policy of sometimes
+ evading questions even when you had nothing to hide… “With respect, Professor
+ Quirrell, if I had made such progress, it is not 
+\emph on
+quite
+\emph default
+ obvious to me that I should tell you about it.”
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell sipped from his own waterglass again.
+ “Well then, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, I shall freely tell you what I know or suspect.
+ First, I believe the Chamber of Secrets is real, as is Slytherin's Monster.
+ Miss Myrtle's death was not discovered until hours after her demise, even
+ though the wards should have alerted the Headmaster instantly.
+ Therefore her murder was performed either by Headmaster Dippet, which is
+ unlikely, or by some entity which Salazar Slytherin keyed into his wards
+ at a higher level than the Headmaster himself.
+ Second, I suspect that contrary to popular legend, the purpose of Slytherin's
+ Monster was 
+\emph on
+not
+\emph default
+ to rid Hogwarts of Muggleborns.
+ Unless Slytherin's Monster were powerful enough to defeat the Headmaster
+ of Hogwarts and all the teachers, it could not triumph by force.
+ Multiple murders in secrecy would result in the school's closure, as nearly
+ happened in 1943, or in the placing of new wards.
+ So why Slytherin's Monster, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter? What true purpose does it serve?”
+\end_layout
+
+\begin_layout Standard
+“Ah…” Harry dropped his gaze to his waterglass and tried to think.
+ “To kill anyone who got into the Chamber and didn't belong there 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“A monster powerful enough to defeat a team of wizards that had broken past
+ the best wards Salazar could place on his Chamber? Unlikely.”
+\end_layout
+
+\begin_layout Standard
+Harry was feeling a bit pressured now.
+ “Well, it's called the Chamber of Secrets, so maybe the Monster has a secret,
+ or 
+\emph on
+is
+\emph default
+ a secret?” For that matter, just what sort of secrets were in the Chamber
+ of Secrets in the first place? Harry hadn't done a lot of research on the
+ subject, in part because he'd gotten the impression that nobody knew anything
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell was smiling.
+ “Why not just write the secret down?”
+\end_layout
+
+\begin_layout Standard
+“Ahhh…” said Harry.
+ “Because if the Monster spoke Parseltongue, that would ensure that only
+ a true descendant of Slytherin could hear the secret?”
+\end_layout
+
+\begin_layout Standard
+“Easy enough to key the wards on the Chamber to a phrase spoken in Parseltongue.
+ Why go to the trouble of creating Slytherin's Monster? It cannot have been
+ easy to create a creature with a lifespan of centuries.
+ Come, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, it should be obvious; what are the secrets that can be told from
+ one living mind to another, but never written down?”
+\end_layout
+
+\begin_layout Standard
+Harry saw it then, with a burst of adrenaline that started his heart racing,
+ his breath coming faster.
+ “
+\emph on
+Oh.
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Salazar Slytherin had been very cunning indeed.
+ Cunning enough to come up with a way to bypass the Interdict of Merlin.
+\end_layout
+
+\begin_layout Standard
+Powerful wizardries couldn't be transmitted through books or ghosts, but
+ if you could create a long-lived enough sentient creature with a good enough
+ memory 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“It seems very probable to me,” said Professor Quirrell, “that He-Who-Must-Not-B
+e-Named began his climb to power with secrets obtained from Slytherin's
+ Monster.
+ That Salazar's lost knowledge is the source of You-Know-Who's extraordinarily
+ powerful wizardry.
+ Hence my interest in the Chamber of Secrets and the case of Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Hagrid.”
+\end_layout
+
+\begin_layout Standard
+“I 
+\emph on
+see
+\emph default
+,” Harry said.
+ And if 
+\emph on
+he,
+\emph default
+ Harry, could find Salazar's Chamber of Secrets… then all of the lost knowledge
+ that Lord Voldemort had obtained would be 
+\emph on
+his
+\emph default
+ as well.
+\end_layout
+
+\begin_layout Standard
+Yes.
+ That was 
+\emph on
+just
+\emph default
+ how the story should go.
+\end_layout
+
+\begin_layout Standard
+Add in Harry's superior intelligence and some original magical research
+ and some Muggle rocket launchers, and the resulting fight would be completely
+ one-sided, which was exactly how Harry wanted it.
+\end_layout
+
+\begin_layout Standard
+Harry was grinning now, a very evil grin.
+ 
+\emph on
+New priority: Find everything in Hogwarts that looks remotely like a snake
+ and try speaking to it.
+ Starting with everything you've already tried, only this time be sure to
+ use Parseltongue instead of English 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ get Draco to let you into the Slytherin dorms 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“Don't become too excited, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” said Professor Quirrell.
+ His own face had become expressionless, now.
+ “You must 
+\emph on
+continue
+\emph default
+ thinking.
+ What were the Dark Lord's parting words to Slytherin's Monster?”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” Harry said.
+ “How could either of us possibly know that?”
+\end_layout
+
+\begin_layout Standard
+“Visualize the scene, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter.
+ Let your imagination fill in the details.
+ Slytherin's Monster 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ probably some great serpent, so that only a Parselmouth may speak to it
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ has finished imparting all of the knowledge it possesses to He-Who-Must-Not-Be-
+Named.
+ It conveys to him Salazar's final benediction, and warns him that the Chamber
+ of Secrets must now remain closed until the next descendant of Salazar
+ should prove cunning enough to open it.
+ And he who will become the Dark Lord nods, and says to it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Avada Kedavra,” said Harry, suddenly feeling sick to his stomach.
+\end_layout
+
+\begin_layout Standard
+“Rule Twelve,” Professor Quirrell said quietly.
+ “Never leave the source of your power lying around where someone else can
+ find it.”
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 049-riddle_killed_his_own_basilisk_by_dinosaurusgede-d33p5i6.png
+	lyxscale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+
+\size small
+“Slytherin's Monster warns He-Who-Must-Not-Be-Named that the Chamber of
+ Secrets must now remain closed until the next descendant of Salazar should
+ prove cunning enough to open it.
+ And he who will become the Dark Lord nods, and says to it 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+“Avada Kedavra,” said Harry, suddenly feeling sick to his stomach.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry's gaze dropped to the tablecloth, which had decorated itself in a
+ mournful pattern of black flowers and shadows.
+ Somehow that seemed… too sad to be imagined, Slytherin's great snake had
+ only wanted to help Lord Voldemort, and Lord Voldemort had just… there
+ was something unbearably sorrowful about it, what sort of person would
+ 
+\emph on
+do
+\emph default
+ that to a being who'd offered them nothing but friendship… “
+\emph on
+Do
+\emph default
+ you think the Dark Lord would have 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Professor Quirrell said flatly.
+ “He-Who-Must-Not-Be-Named left quite a trail of bodies behind him, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter; I doubt he would have omitted that one.
+ If there were any artifacts left there that could be moved, the Dark Lord
+ would have taken those with him as well.
+ There might still be something worth seeing in the Chamber of Secrets,
+ and to find it would prove yourself the true Heir of Slytherin.
+ But do not raise your hopes too high.
+ I suspect that all you will find is the remains of Slytherin's Monster
+ resting quietly in its grave.”
+\end_layout
+
+\begin_layout Standard
+They sat in silence for a while.
+\end_layout
+
+\begin_layout Standard
+“I could be wrong,” said Professor Quirrell.
+ “In the end it is only a guess.
+ But I did wish to warn you, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter, so that you would not be too sorely disappointed.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded shortly.
+\end_layout
+
+\begin_layout Standard
+“One might even regret your infant self's victory,” said Professor Quirrell.
+ His smile twisted.
+ “If only You-Know-Who had lived, you might have persuaded him to teach
+ you some of the knowledge that would have been your heritage, from one
+ Heir of Slytherin to another.” The smile twisted further, as though to mock
+ the obvious impossibility, even given the premise.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Note to self,
+\emph default
+ thought Harry, with a slight chill and an edge of anger, 
+\emph on
+make sure to extract my heritage out of the Dark Lord's mind, one way or
+ another.
+\end_layout
+
+\begin_layout Standard
+There was another silence.
+ Professor Quirrell was looking at Harry as though waiting for him to ask
+ something.
+\end_layout
+
+\begin_layout Standard
+“Well,” said Harry, “so long as we're on the topic, can I ask how you think
+ the whole Parselmouth business actually 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\begin_layout Standard
+There came a knock at the door, then.
+ Professor Quirrell raised a cautionary finger, then opened the door with
+ a wave.
+ The waitress entered, balancing a huge platter with their meals as though
+ the whole assembly weighed nothing (which was in fact probably the case).
+ She gave Professor Quirrell his bowl of green soup, and a glass of his
+ usual Chianti; and set down before Harry a plate of small meat strips smothered
+ in a heavy-looking sauce, plus a glass of his accustomed treacle soda.
+ Then she bowed, managing to make it seem like sincere respect rather than
+ perfunctory acknowledgment, and departed.
+\end_layout
+
+\begin_layout Standard
+When she was gone, Professor Quirrell held up a finger for silence again,
+ and drew his wand.
+\end_layout
+
+\begin_layout Standard
+And then Professor Quirrell began performing a certain series of incantations
+ that Harry recognized, making him take a sharp breath.
+ It was the series and ordering that Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Bester had used, the full set of twenty-seven spells that you would perform
+ before discussing anything of truly great import.
+\end_layout
+
+\begin_layout Standard
+If the discussion of the Chamber of Secrets 
+\emph on
+hadn't
+\emph default
+ counted as important
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When Professor Quirrell was done 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ he'd performed 
+\emph on
+thirty
+\emph default
+ spells, three of which Harry hadn't heard before 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ the Defense Professor said, “Now we shall not be interrupted for a time.
+ Can you keep a secret, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter?”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+\end_layout
+
+\begin_layout Standard
+“A serious secret, Mr.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Potter,” Professor Quirrell said.
+ His eyes were intent, his face grave.
+ “One which could potentially send me to Azkaban.
+ Think about it before you reply.”
+\end_layout
+
+\begin_layout Standard
+For a moment Harry didn't even see why the question should be hard, given
+ his growing collection of secrets.
+ Then 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+If this secret could send Professor Quirrell to Azkaban, that means he's
+ done something illegal…
+\end_layout
+
+\begin_layout Standard
+Harry's brain performed a few calculations.
+ Whatever the secret, Professor Quirrell did not think his illegal act would
+ reflect badly on him in Harry's eyes.
+ There was no advantage to be gained from 
+\emph on
+not
+\emph default
+ hearing it.
+ And if it did reveal something wrong with Professor Quirrell, then it was
+ very much to Harry's advantage to know it, even if he had promised not
+ to tell anyone.
+\end_layout
+
+\begin_layout Standard
+“I never had very much respect for authority,” Harry said.
+ “Legal and governmental authority included.
+ I will keep your secret.”
+\end_layout
+
+\begin_layout Standard
+Harry didn't bother asking whether the revelation was worth the danger it
+ would pose to Professor Quirrell.
+ The Defense Professor wasn't stupid.
+\end_layout
+
+\begin_layout Standard
+“Then I must test whether you are truly a descendant of Salazar,” said Professor
+ Quirrell, and stood up from his chair.
+ Harry, prompted more by reflex and instinct than calculation, shoved himself
+ up out of his own chair as well.
+\end_layout
+
+\begin_layout Standard
+There was a blur, a shift, a sudden motion.
+\end_layout
+
+\begin_layout Standard
+Harry aborted his panicked backward leap halfway through, leaving him windmillin
+g his arms and trying not to fall over, a frantic flush of adrenaline running
+ through him.
+\end_layout
+
+\begin_layout Standard
+At the other end of the room swayed a snake a meter high, bright green and
+ intricately banded in white and blue.
+ Harry didn't know enough snakelore to recognize it, but he knew that `brightly
+ colored' meant `poisonous'.
+\end_layout
+
+\begin_layout Standard
+The constant sense of doom had diminished, ironically enough, after the
+ Defense Professor of Hogwarts had turned into a venomous snake.
+\end_layout
+
+\begin_layout Standard
+Harry swallowed hard and said, “Greetings 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ ah, hssss, no, ah, 
+\emph on
+greetingss.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Sso,
+\emph default
+“ hissed the snake.
+ “
+\emph on
+You sspeak, I hear.
+ I sspeak, you hear?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Yess, I hear,
+\emph default
+“ hissed Harry.
+ “
+\emph on
+You are an Animaguss?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Obvioussly,
+\emph default
+“ hissed the snake.
+ “
+\emph on
+Thirty-sseven ruless, number thirty-four: Become Animaguss.
+ All ssensible people do, if can.
+ Thuss,
+\emph default
+ 
+\emph on
+very rare.
+\emph default
+“ The snake's eyes were flat surfaces ensconced within dark pits, sharp
+ black pupils in dark gray fields.
+ “
+\emph on
+This iss mosst ssecure way to sspeak.
+ You ssee? No otherss undersstand uss.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Even if they are ssnake Animagi?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Not unlesss heir of Sslytherin willss.
+\emph default
+“ The snake gave a series of short hisses which Harry's brain translated
+ as sardonic laughter.
+ “
+\emph on
+Sslytherin not sstupid.
+ Ssnake Animaguss not ssame as Parsselmouth.
+ Would be huge flaw in sscheme.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+Well 
+\emph on
+that
+\emph default
+ definitely argued that Parseltongue was personal magic, not snakes being
+ sentient beings with a learnable language 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+I am not regisstered,
+\emph default
+“ hissed the snake.
+ The dark pits of its eyes stared at Harry.
+ “
+\emph on
+Animaguss musst be regisstered.
+ Penalty is two yearss imprissonment.
+ Will you keep my ssecret, boy?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Yess,
+\emph default
+“ hissed Harry.
+ “
+\emph on
+Would never break promisse.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+The snake seemed to hold still, as though in shock, and then began to sway
+ again.
+ “
+\emph on
+We come here next in sseven dayss.
+ Bring cloak to passs unsseen, bring hourglasss to move through time 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You know?
+\emph default
+” hissed Harry in shock.
+ “
+\emph on
+How 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+Again the series of short quick hisses that translated as sardonic laughter.
+ “
+\emph on
+You arrive in my firsst classs while sstill in other classs, sstrike down
+ enemy with pie, two ballss of memory 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Never mind,
+\emph default
+“ hissed Harry.
+ “
+\emph on
+Sstupid question, forgot you were ssmart.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Foolissh thing to forget,
+\emph default
+“ said the snake, but the hiss did not seem offended.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Hourglasss is resstricted,
+\emph default
+“ Harry said.
+ “
+\emph on
+Cannot usse until ninth hour.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+The snake twitched its head, a snakish nod.
+ “
+\emph on
+Many resstrictionss.
+ Locked to your usse only, cannot be sstolen.
+ Cannot transsport other humanss.
+ But ssnake carried in pouch, I ssuspect will go with.
+ Think posssible to hold hourglasss motionlesss within sshell, without dissturbi
+ng wardss, while you turn sshell around it.
+ We will tesst in sseven dayss.
+ Will not sspeak of planss beyond thiss.
+ You ssay nothing, to no one.
+ Give no ssign of expectancy, none.
+ Undersstand?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Ansswer in sspeech.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Yess.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Will do as I ssaid?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Yess.
+ But,”
+\emph default
+ Harry gave a wobbling rasp that was how his mind had translated a hesitant
+ `Ahhh' into snakish, “
+\emph on
+I do not promisse to do whatever thiss iss, you have not ssaid 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+The snake performed a shiver that Harry's mind translated as a severe glare.
+ “
+\emph on
+Of coursse not.
+ Will disscusss sspecificss at next meeting.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+The blur and motion reversed itself, and Professor Quirrell was standing
+ there once more.
+ For a moment the Defense Professor himself seemed to sway, as the snake
+ had swayed, and his eyes seemed cold and flat; and then his shoulders straighte
+ned and he was human once more.
+\end_layout
+
+\begin_layout Standard
+And the aura of doom had returned.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's chair scooted back for him, and he sat down in it.
+ “No sense in letting this go to waste,” Professor Quirrell said as he picked
+ up his spoon, “though at the moment I would much prefer a live mouse.
+ One can never quite disentangle the mind from the body it wears, you see…”
+\end_layout
+
+\begin_layout Standard
+Harry slowly took his seat and began eating.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“So the line of Salazar did not die with You-Know-Who after all,” said Professor
+ Quirrell after a time.
+ “It would seem that rumors have already begun to spread, among our fine
+ student body, that you are Dark; I wonder what they would think, if they
+ knew that.”
+\end_layout
+
+\begin_layout Standard
+“Or if they knew that I had destroyed a Dementor,” Harry said, and shrugged.
+ “I figure all the fuss will blow over over the next time I do something
+ interesting.
+ Hermione is having trouble, though, and I was wondering if you might have
+ any suggestions for her.”
+\end_layout
+
+\begin_layout Standard
+The Defense Professor ate several spoonfuls of soup in silence, then; and
+ when he spoke again, his voice was oddly flat.
+ “You really care about that girl.”
+\end_layout
+
+\begin_layout Standard
+“Yes,” Harry said quietly.
+\end_layout
+
+\begin_layout Standard
+“I suppose that is why she was able to bring you out of your Dementation?”
+\end_layout
+
+\begin_layout Standard
+“More or less,” Harry said.
+ The statement was true in a way, just not exact; it was not that his Demented
+ self had cared, but that it had been confused.
+\end_layout
+
+\begin_layout Standard
+“I did not have any friends like that when I was young.” Still the same emotionle
+ss voice.
+ “What would have become of you, I wonder, if you had been alone?”
+\end_layout
+
+\begin_layout Standard
+Harry shivered before he could stop himself.
+\end_layout
+
+\begin_layout Standard
+“You must be feeling grateful to her.”
+\end_layout
+
+\begin_layout Standard
+Harry just nodded.
+ Not quite exact, but true.
+\end_layout
+
+\begin_layout Standard
+“Then here is what I might have done at your age, if there had been anyone
+ to do it for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+”
+\end_layout
+
+\end_body
+\end_document
