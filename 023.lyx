@@ -187,18 +187,11 @@ Harry Potter's fist struck a desk, hard.
  “Damn it.
  All right.
  My own experiment was a failure, Draco.
- There's something called the Interdict of Merlin 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ There's something called the Interdict of Merlin
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -206,18 +199,11 @@ Draco hit himself on the forehead, realizing.
 \end_layout
 
 \begin_layout Standard
-“
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“--
+\begin_inset space ~
 \end_inset
 
- which stops anyone from getting knowledge of powerful spells out of books,
+which stops anyone from getting knowledge of powerful spells out of books,
  even if you find and read a powerful wizard's notes they won't make sense
  to you, it has to go from one living mind to another.
  I couldn't find any powerful spells that we had the instructions for but
@@ -228,18 +214,11 @@ status open
 \end_layout
 
 \begin_layout Standard
-Draco started to hand the parchment over 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+Draco started to hand the parchment over
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -566,7 +545,11 @@ Harry Potter slowly smiled.
 \emph on
 brilliant.
 \emph default
-“
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

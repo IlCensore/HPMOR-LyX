@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume2.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -1814,7 +1814,7 @@ Aftermath: Lesath Lestrange.
 \end_layout
 
 \begin_layout Standard
-Harry was standing in the unused classroom next to Transfiguration at 8AM,
+Harry was standing in the unused classroom next to Transfiguration at 8am,
  waiting, he'd at least managed to get some food into himself before facing
  the next disaster, Luna Lovegood…
 \end_layout
@@ -1852,11 +1852,11 @@ Lesath Lestrange's face was streaked with tears, fresh tears and half-dried
 \emph on
 Quietus,
 \emph default
-“ said the older boy, and then “
+” said the older boy, and then “
 \emph on
 Homenum Revelio
 \emph default
-“ and some other things, while Harry thought frantically and without much
+” and some other things, while Harry thought frantically and without much
  luck.
 \end_layout
 

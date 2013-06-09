@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume3_16x23.lyx
+\master hpmor_volume3.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -1295,7 +1295,19 @@ status open
 Behind the rows of beds were five doors, leading into the private rooms
  where they stored the patients who would be staying for days instead of
  hours, but whose condition didn't warrant a transfer to St.
- Mungos.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Mungos.
 \end_layout
 
 \begin_layout Standard

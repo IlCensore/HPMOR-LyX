@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume2.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -1585,7 +1585,7 @@ status open
 \emph on
 then,
 \emph default
-“ spat Harry, the fury coming fully into his voice, the cold rage at the
+” spat Harry, the fury coming fully into his voice, the cold rage at the
  universe for being like that and at himself for being so stupid, “I asked
  Hermione and she said that they were just 
 \emph on
@@ -2043,7 +2043,7 @@ Slowly the old wizard's face relaxed out of its anger, though the worry
 \emph on
 Headmaster,
 \emph default
-“ Harry said coldly, his own anger rising, “but let's not forget that 
+” Harry said coldly, his own anger rising, “but let's not forget that 
 \emph on
 I'm
 \emph default

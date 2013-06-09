@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume2.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -1098,7 +1098,7 @@ Thirty seconds later Harry was the proud new owner of a curved mirror, and…
 \emph on
 Wingardium Leviosa,
 \emph default
-“ Harry whispered as quietly as he could.
+” Harry whispered as quietly as he could.
 \end_layout
 
 \begin_layout Standard

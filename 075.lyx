@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume3_16x23.lyx
+\master hpmor_volume3.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -137,7 +137,11 @@ certain,
 \emph on
 sacrifices
 \emph default
- a sealed horror for 
+ a sealed horror for
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset ERT
 status open
 
@@ -2351,15 +2355,9 @@ She looked at the Head Table for a few seconds longer, at Professor Flitwick
  and Professor Sprout and the empty place where Professor McGonagall should've
  been.
  Then Hermione Granger turned and began walking toward the Ravenclaw table.
-\end_layout
-
-\begin_layout Standard
-There was a babble of voices starting up, as the students came unfrozen
+ There was a babble of voices starting up, as the students came unfrozen
  from where they'd sat.
-\end_layout
-
-\begin_layout Standard
-And then, as she was almost to the Ravenclaw table 
+ And then, as she was almost to the Ravenclaw table 
 \begin_inset ERT
 status open
 
@@ -2384,15 +2382,9 @@ Hermione almost fell over her own feet; and then she continued forward,
  back in his chair and began to laugh, even as Dumbledore's voice was saying
  something she didn't catch and then she was sitting down at the Ravenclaw
  table again next to Harry Potter.
-\end_layout
-
-\begin_layout Standard
-Harry Potter was frozen beside her, he looked like someone who didn't dare
+ Harry Potter was frozen beside her, he looked like someone who didn't dare
  move.
-\end_layout
-
-\begin_layout Standard
-“It's all right,” her voice said to him, automatically without there being
+ “It's all right,” her voice said to him, automatically without there being
  any choice or thought involved, although really it wasn't right at all.
  “But can you see if you can get me out of Snape's detentions, like you
  did yourself that time?”
@@ -2479,7 +2471,7 @@ ridiculous
 \end_layout
 
 \begin_layout Quote
-\align center
+\align left
 Non est salvatori salvator,
 \begin_inset Newline newline
 \end_inset
@@ -2493,10 +2485,10 @@ nec pater nec mater,
 \end_inset
 
 nihil supernum.
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Quote
-\align center
+
 \begin_inset ERT
 status open
 
@@ -2507,11 +2499,7 @@ status open
 
 \end_inset
 
- Godric Gryffindor,
-\begin_inset Newline newline
-\end_inset
-
-1202 C.E.
+ Godric Gryffindor, 1202 C.E.
  
 \end_layout
 

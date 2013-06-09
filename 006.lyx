@@ -386,7 +386,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -531,7 +530,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -574,7 +572,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -738,7 +735,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1156,7 +1152,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1600,7 +1595,7 @@ The tall witch pointed her wand at the main street and spoke,
 Quietus
 \emph default
 
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
  she said, and a screen of silence descended around them, blocking out all
@@ -1629,7 +1624,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1643,7 +1637,11 @@ Potter,
 \begin_inset Quotes erd
 \end_inset
 
- she said, "that there was a war in this country not ten years ago.
+ she said, 
+\begin_inset Quotes eld
+\end_inset
+
+that there was a war in this country not ten years ago.
  Everyone has lost someone, and to speak of friends dying in your arms 
 \begin_inset ERT
 status open
@@ -1756,7 +1754,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1818,7 +1815,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1867,7 +1863,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1897,7 +1892,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1984,7 +1978,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -2012,7 +2005,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -2120,7 +2112,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -2170,7 +2161,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -2350,7 +2340,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -2565,7 +2554,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -3032,7 +3020,7 @@ I
  could,
 \emph default
 
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
  Harry said, 
@@ -3137,7 +3125,7 @@ Please cast that silencing spell.
 Quietus.
 \emph default
 
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
 
@@ -3186,7 +3174,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -3393,7 +3380,11 @@ Harry, it's all right,
 \end_inset
 
  she said.
- "I believe you.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I believe you.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3409,7 +3400,7 @@ Harry, it's all right,
 Do you,
 \emph default
 
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
  Harry hissed.
@@ -3565,7 +3556,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -3610,7 +3600,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -3702,7 +3691,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -3761,7 +3749,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -4494,7 +4481,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -4566,7 +4552,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -4652,7 +4637,7 @@ The Dark Lord is alive.
  pessimism.
 \emph default
 
-\begin_inset Quotes eld
+\begin_inset Quotes erd
 \end_inset
 
 
@@ -4670,7 +4655,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -4734,7 +4718,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -4843,7 +4826,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -4892,7 +4874,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -5147,7 +5128,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -5218,7 +5198,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -6083,7 +6062,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -6157,7 +6135,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -6223,7 +6200,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  

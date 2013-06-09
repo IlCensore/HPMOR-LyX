@@ -604,7 +604,11 @@ plan
 \emph on
 favor.
 \emph default
-“
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1053,7 +1057,11 @@ that
 \emph on
 me.
 \emph default
-“
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

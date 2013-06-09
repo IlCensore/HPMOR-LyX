@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume3_16x23.lyx
+\master hpmor_volume3.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -1339,7 +1339,7 @@ The boy poked his head back in.
 
 \begin_layout Standard
 (Some time later, an earlier version of Harry, who had invisibly waited
- next to the gargoyles since 9PM, followed the Deputy Headmistress through
+ next to the gargoyles since 9pm, followed the Deputy Headmistress through
  the opening that parted for her, stood quietly behind her on the turning
  stairs until they came to the top, and then, still under the Cloak, spun
  his Time-Turner thrice.)

@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume2.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -298,7 +298,7 @@ Harry swallowed his chocolate, and said in that empty voice, “They're stupid.
 \emph on
 mmmppphhh
 \emph default
-“ as another piece of chocolate entered his mouth.
+” as another piece of chocolate entered his mouth.
 \end_layout
 
 \begin_layout Standard
@@ -325,7 +325,7 @@ status open
 
 
 \emph default
-“ and she shut up before she said anything more, but she 
+” and she shut up before she said anything more, but she 
 \emph on
 had
 \emph default

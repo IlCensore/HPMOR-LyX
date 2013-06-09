@@ -131,7 +131,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -154,7 +153,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -414,10 +412,25 @@ status open
 
 \end_inset
 
- because I begged her.
+ because I 
+\emph on
+begged
+\emph default
+ her.
  For years, I begged her.
- Lily had always been prettier than me, and I’d… been mean to her, because
- of that, and then she got magic, can you imagine how I felt? And I begged
+ Lily had 
+\emph on
+always
+\emph default
+ been prettier than me, and I’d… been mean to her, because of that, and
+ then she got 
+\emph on
+magic
+\emph default
+, can you imagine how I felt? And I 
+\emph on
+begged
+\emph default
  her to use some of that magic on me so that I could be pretty too, even
  if I couldn’t have her magic, at least I could be pretty.
 \begin_inset Quotes erd
@@ -488,7 +501,10 @@ Petunia stopped.
 Anyway,” Petunia said, her voice small, “she gave in.
  She told me it was dangerous, and I said I didn’t care any more, and I
  drank this potion and I was sick for weeks, but when I got better my skin
- cleared up and I finally filled out and… I was beautiful, people were nice
+ cleared up and I finally filled out and… I was beautiful, people were 
+\emph on
+nice
+\emph default
  to me,” her voice broke, “and after that I couldn’t hate my sister any
  more, especially when I learned what her magic brought her in the end 
 \begin_inset ERT
@@ -982,7 +998,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1247,7 +1262,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  
@@ -1375,7 +1389,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 
 \backslash
  

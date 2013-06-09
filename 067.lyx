@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume3_16x23.lyx
+\master hpmor_volume3.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -640,7 +640,7 @@ status collapsed
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename 067-grey_knights_of_chaos_2_by_dinosaurusgede-d38jgwj.png
+	filename 067-grey_knights_of_chaos_2_BLACK.png
 	lyxscale 30
 
 \end_inset
@@ -686,7 +686,7 @@ status collapsed
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename 067-grey_knights_of_chaos_4_by_dinosaurusgede-d38jfyo.png
+	filename 067-grey_knights_of_chaos_4_BLACK.png
 	lyxscale 30
 
 \end_inset
@@ -732,7 +732,7 @@ status collapsed
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename 067-grey_knights_of_chaos_6_by_dinosaurusgede-d38jems.png
+	filename 067-grey_knights_of_chaos_6_BLACK.png
 	lyxscale 30
 
 \end_inset

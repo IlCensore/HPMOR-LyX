@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume3_16x23.lyx
+\master hpmor_volume3.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -226,7 +226,7 @@ status open
 \end_layout
 
 \begin_layout Standard
-“I explained to them that Wednesday at 7PM would be fine,” said Minerva.
+“I explained to them that Wednesday at 7pm would be fine,” said Minerva.
  She took back the button from the Headmaster's desk, favored Albus with
  a honeyed smile, and turned to the door.
 \end_layout

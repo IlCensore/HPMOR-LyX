@@ -434,7 +434,19 @@ Do you realize what kind of week I've had?
 \emph default
 ” said Harry Potter.
  “Any lesser being would have been hard-pressed to read eight Dr.
- Seuss books!”
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ 
+\end_layout
+
+\end_inset
+
+Seuss books!”
 \end_layout
 
 \begin_layout Standard

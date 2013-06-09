@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume2.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -779,7 +779,7 @@ do
 \emph on
 mudblood,
 \emph default
-“ said Pansy, sounding confused.
+” said Pansy, sounding confused.
  “Of 
 \emph on
 course

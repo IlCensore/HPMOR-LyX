@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume3_16x23.lyx
+\master hpmor_volume3.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -74,7 +74,11 @@ initials
 \begin_body
 
 \begin_layout Chapter
-Self Actualization, The Sacred and the Mundane, Part VIII
+Self Actualization,
+\begin_inset Newline newline
+\end_inset
+
+The Sacred and the Mundane, Part VIII
 \begin_inset Argument
 status open
 
@@ -155,7 +159,11 @@ status open
 \end_inset
 
  her mouth was just opening in indignation, maybe because she hadn't gotten
- a chance to declaim her speech 
+ a chance to declaim her speech
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset ERT
 status open
 

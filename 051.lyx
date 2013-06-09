@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume2.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -275,7 +275,7 @@ Harry's eyes were a bit wide, but he hissed, “
 \emph on
 I ate well at breakfasst,
 \emph default
-“ and then rapidly began forking noodles into his mouth.
+” and then rapidly began forking noodles into his mouth.
 \end_layout
 
 \begin_layout Standard
@@ -294,7 +294,7 @@ Do not wissh to explain here.
 \emph on
 Sso no one can track uss,
 \emph default
-“ hissed Harry.
+” hissed Harry.
 \end_layout
 
 \begin_layout Standard
@@ -379,7 +379,7 @@ clear-thinking
 \emph on
 I trusst you,
 \emph default
-“ hissed Harry.
+” hissed Harry.
 \end_layout
 
 \begin_layout Standard

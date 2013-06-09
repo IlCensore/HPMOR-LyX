@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume2.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -582,7 +582,7 @@ Harry drew a wand from his robes, and laid it against the globe.
 \emph on
 Dulak.
 \emph default
-“ The light went out, and Harry whispered the first two phrases of the Continual
+” The light went out, and Harry whispered the first two phrases of the Continual
  Light enchantment, recasting that part of it, though neither of them could
  have cast the whole thing by themselves.
  Then Harry tapped the globe again, and the room lit with a silver radiance,
@@ -1071,7 +1071,7 @@ status open
 
 
 \emph default
-“ Draco had once asked Father if it would be cleverer to get Sorted into
+” Draco had once asked Father if it would be cleverer to get Sorted into
  some other House so that everyone would trust him, and Father had smiled
  and said that he'd thought of that too at Draco's age, but there was no
  way to fool the Sorting Hat…
@@ -1127,7 +1127,7 @@ status open
 \emph on
 of course,
 \emph default
-“ said Harry.
+” said Harry.
  “Though come to think, Severus did ask me how I managed to stay out of
  his House, and whether I had something the Sorting Hat wanted.
  I suppose you could say you're number three.
@@ -2284,7 +2284,7 @@ status open
 
 
 \emph default
-“ Draco stopped there, because he was crying.
+” Draco stopped there, because he was crying.
 \end_layout
 
 \begin_layout Standard
@@ -3300,7 +3300,7 @@ Draco touched his chest with his wand, slid his fingers in a practiced motion,
 \emph on
 Thermos.
 \emph default
-“ A warmth spread through him, starting from his heart; the wind went on
+” A warmth spread through him, starting from his heart; the wind went on
  blowing on his face, but he was no longer cold.
 \end_layout
 
@@ -3309,7 +3309,7 @@ Thermos.
 \emph on
 Thermos,
 \emph default
-“ Harry's voice said behind him.
+” Harry's voice said behind him.
 \end_layout
 
 \begin_layout Standard
@@ -4089,7 +4089,7 @@ status open
 \emph on
 Hsssss ssss sshsshssss,
 \emph default
-“ said Harry.
+” said Harry.
 \end_layout
 
 \begin_layout Standard

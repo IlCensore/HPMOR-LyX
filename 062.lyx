@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume2.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -600,7 +600,7 @@ after
 
 \begin_layout Standard
 And an invisible Harry Potter would be waiting in that classroom from three
- PM to three-thirty, just in case someone tried the obvious test.
+ pm to three-thirty, just in case someone tried the obvious test.
 \end_layout
 
 \begin_layout Standard
@@ -624,8 +624,8 @@ knowing
 \emph default
  that it had already succeeded.
  Now there remained only the confrontation with Dumbledore, and then he
- was done for the day… he'd go to the Headmaster's gargoyles at 9PM, since
- doing it at 8PM would seem more suspicious.
+ was done for the day… he'd go to the Headmaster's gargoyles at 9pm, since
+ doing it at 8pm would seem more suspicious.
  This way he could claim that he'd just misunderstood what Professor McGonagall
  had meant by “afterward"…
 \end_layout
