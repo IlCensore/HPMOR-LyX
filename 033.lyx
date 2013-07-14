@@ -181,8 +181,12 @@ Dumbledore gazed out at the tables with a distant look.
 \emph on
 In every city,
 \emph default
-” the old wizard quoted softly,”
+” the old wizard quoted softly, 
 \emph on
+
+\begin_inset Quotes eld
+\end_inset
+
 the population has been divided for a long time past into the Blue and the
  Green factions…
 \emph default
@@ -201,7 +205,11 @@ So there grows up in them against their fellow men a hostility which has
  I, for my part, am unable to call this anything except a disease of the
  soul…
 \emph default
-“
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -343,11 +351,7 @@ worse
 
 \begin_layout Standard
 “Professor Quirrell, this is insanity,” Draco said flatly.
- “This isn't Slytherin any more, it's just..
-\emph on
-.
-\emph default
-” Draco was at a loss for words.
+ “This isn't Slytherin any more, it's just…” Draco was at a loss for words.
  He waved his hands helplessly.
  “You can't possibly do any real plots with all this stuff going on.
  Last battle, one of my soldiers faked his own suicide.
@@ -3106,7 +3110,11 @@ General order!
 \emph on
 us.
 \emph default
-“
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
