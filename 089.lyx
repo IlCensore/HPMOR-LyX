@@ -1,0 +1,919 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{88}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{}{\textsc{\chaptername\ \Numberstringnum{\thechapter}}}{}
+  \makeoddhead{myheadings}{}{\leftmark}{}
+  \makeheadrule{myheadings}{\textwidth}{0.4pt}
+  \makeevenfoot{myheadings}{}{\thepage}{}
+  \makeoddfoot{myheadings}{}{\thepage}{}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\usepackage{fmtcount}
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage{xcolor} %per il titolo in rosso
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+\usepackage{shapepar} %paragrafi con una certa forma
+\usepackage{url}%url lunga
+\renewcommand*{\parttitlefont}{\normalfont\HUGE\sffamily}
+
+\frenchspacing
+\end_preamble
+\use_default_options true
+\master hpmor_volume4_16x23.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Garamond Premier Pro
+\font_sans Cronos Pro
+\font_typewriter Inconsolata
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 16cm
+\paperheight 23cm
+\leftmargin 2.1cm
+\topmargin 1.8cm
+\rightmargin 1.8cm
+\bottommargin 2.1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Time Pressure, Part
+\begin_inset space ~
+\end_inset
+
+II
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:89Time-Pressure,-Part2"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+C
+\end_layout
+
+\end_inset
+
+ool
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ blue fires clung to the floor in small masses, surrounding a blazing pool
+ that seemed to burn with a deadlier, hotter blue.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In one narrow circle the marble tiles were scorched and shattered by some
+ explosive spell that only the most prodigious of first-year witches could
+ have cast, with the last of her strength.
+\end_layout
+
+\begin_layout Standard
+On the terrace, 
+\emph on
+still moving
+\emph default
+ beneath the open sunlight, stood a great lumpy creature of dull granite-grey.
+ Body like a boulder with small bald head perched on top like a stone, short
+ legs thick as tree trunks with flat, horny feet.
+ One hand held a tremendous stone club as long and as wide as an adult human,
+ and the other hand held
+\end_layout
+
+\begin_layout Standard
+The Weasley twins screamed.
+\end_layout
+
+\begin_layout Standard
+Harry's Patronus shattered.
+\end_layout
+
+\begin_layout Standard
+The troll snorted and spun around to face them, dropping
+\end_layout
+
+\begin_layout Standard
+into the red pool that had spread out beneath its feet, raising its club
+ high.
+\end_layout
+
+\begin_layout Standard
+Then a Weasley cried an incantation and the club was torn from the troll's
+ hand, smashed into its face so hard it drove the troll back for one of
+ its steps, a blow that might have killed a Muggle.
+ The troll gave a bellow of anger, its nose squashed and blood-spattered,
+ and then the nose straightened once more, regenerated.
+ The troll grabbed with both hands for the club, which shot away through
+ the air but only barely dodged the grab.
+\end_layout
+
+\begin_layout Standard
+“Lead it away, keep it off me,” said a voice.
+\end_layout
+
+\begin_layout Standard
+The levitated club moved backwards from the troll, from the terrace onto
+ the wide-open floor beneath the ceiling; and the troll made a great prodigious
+ leap that almost brought the club into its hands.
+ Then the troll made another great leap as the club moved to one side; and
+ the broomstick moved forwards and Harry jumped off and ran towards where
+ Hermione Granger was lying in a pool of her own blood with her legs eaten
+ away to the upper thighs.
+\end_layout
+
+\begin_layout Standard
+Harry's hands tore open the healer's kit from his pouch, grabbed one of
+ the self-tightening tourniquets, wrapped them around one ragged tooth-marked
+ stump, his hands briefly slipping in the blood, they didn't tremble, there
+ wasn't any allowance for his hands to tremble.
+ As the tourniquet formed a complete loop it tightened hard and more blood
+ came out, but then the bleeding stopped on that thigh-stump, and Harry
+ turned to the other.
+ Part of his mind was screaming, screaming, screaming and even the part
+ of him picking up the other self-tightening tourniquet heard it, but that
+ also wasn't allowed.
+\end_layout
+
+\begin_layout Standard
+The two Weasley twins were shouting spells, one after another in rapid-fire
+ casting that would have had Harry unconscious in sixty seconds, sometimes
+ the twins shouted two spells simultaneously in perfect coordination, but
+ most of the spells were disrupting in harmless showers of sparks against
+ the troll's skin.
+ As the other tourniquet tightened itself in another pulse of blood, Harry
+ looked up at a “
+\emph on
+Diffindo!
+\emph default
+” / “
+\emph on
+Reducto!
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ that made the troll's vulnerable eyes explode in twin showers of vitreous
+ humor, but the troll only bellowed once more, its eyes already reforming.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Fire and acid!
+\emph default
+” Harry shouted.
+ “
+\emph on
+Use fire or acid!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“Fuego!
+\emph default
+” / “
+\emph on
+Incendio!
+\emph default
+” Harry heard, but he wasn't looking, he was reaching for the syringe of
+ glowing orange liquid that was the oxygenating potion, pushing it into
+ Hermione's neck at what Harry hoped was the carotid artery, to keep her
+ brain alive even if her lungs or heart stopped, so long as her brain stayed
+ intact everything else could be fixed, it had to be possible for magic
+ to fix it, it had to be possible for magic to fix it, it had to be possible
+ for magic to fix it, and Harry pushed the plunger of the syringe all the
+ way down, creating a faint glow beneath the pale skin of her neck.
+ Harry then pushed down on her chest, where her heart should be, hard compressio
+ns that he hoped was moving the oxygenated blood around to where it could
+ reach her brain, even if her heart might have stopped beating, he hadn't
+ actually thought to check her pulse.
+\end_layout
+
+\begin_layout Standard
+Then Harry stared at the other things in his medical kit, his mind going
+ blank as he tried to figure out what else of what was there, if anything,
+ he could use.
+ The screaming in that distant corner of his mind was getting louder, much
+ louder, now that his hands had stopped their frantic motions.
+ He was suddenly aware of the liquid sensation where blood had soaked through
+ his robes and the knees of his pants.
+\end_layout
+
+\begin_layout Standard
+From behind Harry came the sound of another bellow from the troll, and he
+ heard one of the Weasley twins shout “
+\emph on
+Deligitor prodeas!
+\emph default
+” and then, “
+\emph on
+\noun on
+Help
+\noun default
+! Do something!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry twisted his head back to look, and saw that one of the Weasley twins
+ was somehow now wearing the Sorting Hat on his head, facing off against
+ the troll which held the huge stone club in both its hands, looking somewhat
+ scorched now and with one or two smoking scars across its arms, but still
+ intact.
+\end_layout
+
+\begin_layout Standard
+And then the voice of the Hat bellowed in a voice so loud it seemed to shake
+ the walls,
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+\noun on
+Gryffindor
+\noun default
+!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+A pulse of power burned the air, magic feeling almost tangible even to Harry's
+ young senses, the troll jumped back a pace with a snort of surprise.
+ Fred or George, with a strange look on his face, swept the Hat off his
+ head with a motion smooth as a magician's trick, and reached in with one
+ hand and drew forth a hilt whose pommel was a glowing ruby, followed by
+ a wide crossguard of gleaming white metal, and a blade as long as a tall
+ child.
+ As the sword was revealed the air seemed to fill with a silent scream of
+ fury.
+\end_layout
+
+\begin_layout Standard
+Upon the blade was written in golden script, 
+\emph on
+nihil supernum.
+\end_layout
+
+\begin_layout Standard
+Then the Weasley twin raised the sword aloft as though the huge blade weighed
+ nothing, and screamed and charged.
+\end_layout
+
+\begin_layout Standard
+Harry's lips opened to say something, some long sentence like,
+\emph on
+ No, stop, you have no idea how to use a sword
+\emph default
+ but not even a single syllable left his lips before the sword sliced off
+ the troll's right arm through the elbow, cutting through skin and flesh
+ and bone like jelly; just as the already-swinging arc of the stone club
+ smashed into the charging Weasley twin and sent him flying through the
+ air above the marble floor, over the gap out of which they'd risen on the
+ broomstick, until that Weasley hit the wall on the opposite side and then
+ collapsed into an unmoving heap.
+\end_layout
+
+\begin_layout Standard
+The bright sword vanished down into the opening in the floor, clattering
+ distantly as it dropped.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Fred!
+\emph default
+” screamed George Weasley, and then
+\emph on
+ 
+\emph default
+“
+\emph on
+\noun on
+Ventus
+\noun default
+!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+An invisible blow caught the troll and hurled it sideways through the air.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+\noun on
+Ventus
+\noun default
+!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The troll was hit again, blown to the edge of the floor and the gap leading
+ downwards.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+\noun on
+Ventus
+\noun default
+!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+But the troll had reached down and grabbed at the floor, its remaining hand
+ crushing through marble to gain a firm hold.
+ The third blow sent the troll's body over the gap; but the hand remained
+ at the edge.
+ And then the troll was pulling itself back up single-handedly, roaring.
+\end_layout
+
+\begin_layout Standard
+George Weasley staggered, almost falling, his hand dropping to his side.
+ “Harry
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--”}
+\end_layout
+
+\end_inset
+
+ the Weasley twin said in a strained voice, “Run
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+The remaining Weasley twin took a step sideways, slumped against the wall,
+ and slid to the ground.
+\end_layout
+
+\begin_layout Standard
+Time was fractured in Harry's mind, the world around him seemed to move
+ slowly, distorted, or perhaps it was his own mind twisting and folding.
+ He should have been moving, doing something, but a strange paralysis seemed
+ to be stopping all his muscles, all his motions.
+ Without any time for words, thoughts came in flashes of concepts: that
+ if Harry ran away the troll would eat the Weasley twins as well as Hermione,
+ that if Bludgers didn't kill wizards then Fred should still be alive, that
+ the Weasley twins were more powerful spellcasters than him and they hadn't
+ been able to hold back the troll, there was no time to Transfigure anything
+ he didn't already possess, the troll seemed too agile to be lured over
+ the edge of the terrace to fall off the sides of the Hogwarts castle, someone
+ had enchanted the troll against sunlight before using it as a murder weapon
+ and might also have strengthened it in other ways.
+ And then a mental image of Hermione running from the troll, running for
+ sunlight, finally reaching the bright terrace with the troll hot on her
+ heels, only to find that someone else had thought of that possibility,
+ too.
+\end_layout
+
+\begin_layout Standard
+The screaming horror in his mind was drowned out by another emotion.
+\end_layout
+
+\begin_layout Standard
+Harry stood up.
+\end_layout
+
+\begin_layout Standard
+On the other side of the room, the enemy had also risen, the unregenerating
+ stump of one sword-cut arm still bloody.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+intent to kill
+\end_layout
+
+\begin_layout Standard
+The troll grasped its fallen club in its remaining hand, and gave a huge
+ bellow, smashing the club into the floor and sending marble chips flying.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+think purely of killing
+\end_layout
+
+\begin_layout Standard
+The troll began to lumber towards where George had fallen, a thin string
+ of drool trailing from the side of its lips.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+grasp at any means to do so
+\end_layout
+
+\begin_layout Standard
+Harry took five strides forward, and the enemy gave another bellow and turned
+ away from George, its eyes focusing squarely on him.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+censors off, do not flinch
+\end_layout
+
+\begin_layout Standard
+The third most perfect killing machine in nature bounded towards him in
+ leaping steps.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\noun on
+kill
+\end_layout
+
+\begin_layout Standard
+Harry's left hand already held the Transfigured diamond from his ring, his
+ right hand already held his wand.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Wingardium Leviosa.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry's wand directed the tiny jewel into the troll's mouth.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Finite Incantatem.
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+The troll's head blew off its spine as the rock expanded back into its old
+ form, and Harry stepped aside as the Enemy's body crashed where he'd been
+ standing.
+\end_layout
+
+\begin_layout Standard
+The enemy's head was already beginning to regenerate, the ragged stump of
+ the jaw and spine smoothing over, the mouth completing itself and replacing
+ its teeth.
+\end_layout
+
+\begin_layout Standard
+Harry bent down and picked up the troll's head by its left ear.
+ His wand jammed through the troll's left eye, plunging through the jelly-like
+ material and passing through the wide socket in the bone.
+ Harry visualized a one-millimeter-wide cross-section through the enemy's
+ brain, and Transfigured it into sulfuric acid.
+\end_layout
+
+\begin_layout Standard
+The enemy stopped regenerating.
+\end_layout
+
+\begin_layout Standard
+Harry threw the corpse over the edge of the terrace and turned back to Hermione.
+\end_layout
+
+\begin_layout Standard
+Her eyes were moving, and focused on him.
+\end_layout
+
+\begin_layout Standard
+Harry scrambled down beside her, ignoring the blood soaking more of his
+ already-soaked robes.
+ 
+\emph on
+You'll be all right,
+\emph default
+ his brain formed the sentence, but his lips wouldn't move.
+ 
+\emph on
+You'll be all right, we'll find some magic to fix all this, put you back
+ to normal, just hold on, don't
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+Hermione's lips were moving, just a tiny bit but they were moving.
+\end_layout
+
+\begin_layout Standard
+“your… fault…”
+\end_layout
+
+\begin_layout Standard
+Time froze.
+ Harry should have told her not to talk, to save her breath, only he couldn't
+ unblock his lips.
+\end_layout
+
+\begin_layout Standard
+Hermione drew in another breath, and her lips whispered, “Not your fault.”
+\end_layout
+
+\begin_layout Standard
+Then she exhaled, and closed her eyes.
+\end_layout
+
+\begin_layout Standard
+Harry stared at her with his mouth half-open, his breath caught in his throat.
+\end_layout
+
+\begin_layout Standard
+“Don't do this,” said his voice.
+ He'd only been two minutes late.
+\end_layout
+
+\begin_layout Standard
+Hermione suddenly convulsed, her arms twitching into the air as though reaching
+ up for something, and her eyes flew open again.
+ There was a burst of 
+\emph on
+something
+\emph default
+ that was magic and also more, a shout louder than an earthquake and containing
+ a thousand books, a thousand libraries, all spoken in a single cry that
+ was Hermione; too vast to be understood, except that Harry suddenly knew
+ that Hermione had whited out the pain, and was glad not to be dying alone.
+ For a moment it seemed like the outpouring of magic might hold, take root
+ in the castle's stone; but then the outpouring ended and the magic faded,
+ her body stopped moving and all motion halted as Hermione Jean Granger
+ ceased to exist
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+No.
+\end_layout
+
+\begin_layout Standard
+Harry stood up from the body, swaying.
+\end_layout
+
+\begin_layout Standard
+No.
+\end_layout
+
+\begin_layout Standard
+There was a burst of flame and Dumbledore was standing there with Fawkes,
+ his eyes filled with horror.
+ “I felt a student die! What
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+The old wizard's eyes saw what lay upon the ground.
+\end_layout
+
+\begin_layout Standard
+“Oh, no,” whispered Albus Dumbledore.
+ Fawkes gave a sad, mournful croon.
+\end_layout
+
+\begin_layout Standard
+“Bring her back.”
+\end_layout
+
+\begin_layout Standard
+There was silence on the terrace.
+ Fred Weasley had risen up into the air at a gesture from Dumbledore's wand
+ and was floating towards them, surrounded by a reassuring pink glow.
+\end_layout
+
+\begin_layout Standard
+“Harry --” the old wizard began.
+ His voice cracked.
+ “Harry
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“Have Fawkes cry on her or whatever.
+ Hurry up.” The voice that spoke sounded perfectly calm.
+\end_layout
+
+\begin_layout Standard
+“I, I can't, Harry, it's too late, she's dead
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“I don't want to hear about it.
+ If it was me lying there, you'd pull some kind of amazing rabbit out of
+ your hat and save me, right, because the hero isn't allowed to die before
+ the story's over.
+ Well, she's the hero too, so whatever you were saving for that extra-special
+ occasion, just go ahead and use it now.
+ I promise I'll pay you back.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+There isn't anything I can do! Her soul has departed, she's passed on!
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+Harry opened his mouth to scream out all his fury, and then closed it again.
+ There wasn't any point in screaming, it wouldn't accomplish anything.
+ The unbearable pressure rising inside him couldn't be let out that way.
+\end_layout
+
+\begin_layout Standard
+Harry turned away from Dumbledore and looked down at where the remains of
+ Hermione Granger were lying in a pool of blood.
+ Part of his mind was hammering at the world around him, trying to make
+ it go away, wake up from the nightmare and find himself back in his Ravenclaw
+ dorm room with the morning sun shining through the curtains.
+ But the blood remained and Harry didn't wake up, and another part of him
+ already knew that this event was real, part of the same flawed world that
+ included Azkaban and the Wizengamot chamber and
+\end_layout
+
+\begin_layout Standard
+No
+\end_layout
+
+\begin_layout Standard
+With a fracturing feeling, as though time was still torn to pieces around
+ him, Harry turned away from Dumbledore and looked down at the remains of
+ Hermione Granger lying in a pool of blood with two tourniquets tied around
+ her thigh-stumps, and decided
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+I do not accept this.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+There isn't any reason to accept it, not when there's magic in the world.
+\end_layout
+
+\begin_layout Standard
+Harry would learn whatever he had to learn, invent whatever he had to invent,
+ rip the knowledge of Salazar Slytherin from the Dark Lord's mind, discover
+ the secret of Atlantis, open any gates or break any seals necessary, find
+ his way to the root of all magic and reprogram it.
+\end_layout
+
+\begin_layout Standard
+He would rip apart the foundations of reality itself to get Hermione Granger
+ back.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“The crisis is over,” the Defense Professor said.
+ “You may dismount, Madam.”
+\end_layout
+
+\begin_layout Standard
+Trelawney, who had been sitting behind him on the two-person broomstick
+ that had just blazed through Hogwarts burning directly through all the
+ walls and floors in their way, hastily pulled herself off and then sat
+ down hard on the floor, a pace away from the red-glowing edges of a newly
+ made gap in the wall.
+ The woman was still breathing in gasps, bending over herself as though
+ she were on the verge of vomiting out something larger than she was.
+\end_layout
+
+\begin_layout Standard
+The Defense Professor had felt the boy's horror, through the link that existed
+ between the two of them, the resonance in their magic; and he had realized
+ that the boy had sought the troll and found it.
+ The Defense Professor had tried to send an impulse to retreat, to don the
+ Cloak of Invisibility and flee; but he'd never been able to influence the
+ boy through the resonance, and hadn't succeeded that time either.
+\end_layout
+
+\begin_layout Standard
+He'd felt the boy give himself over fully to the killing intention.
+ That was when the Defense Professor had begun burning through the substance
+ of Hogwarts, trying to reach the battle in time.
+\end_layout
+
+\begin_layout Standard
+He'd felt the boy exterminate his enemy in seconds.
+\end_layout
+
+\begin_layout Standard
+He'd felt the boy's dismay as one of his friends died.
+\end_layout
+
+\begin_layout Standard
+He'd felt the fury the boy had directed at some annoyance who was likely
+ Dumbledore; followed by an unknown resolution whose unyielding hardness
+ even he found adequate.
+ With any luck, the boy had just discarded his foolish little reluctances.
+\end_layout
+
+\begin_layout Standard
+Unseen by anyone, the Defense Professor's lips curved up in a thin smile.
+ Despite its little ups and downs, on the whole this had been a surprisingly
+ good day
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\size large
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+\noun on
+he is here.
+ the one who will tear apart the very stars in heaven.
+ he is here.
+ he is the end of the world.
+\emph default
+\noun default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

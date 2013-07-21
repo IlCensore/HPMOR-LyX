@@ -58,7 +58,7 @@ initials
 \fontencoding 
 \font_roman Garamond Premier Pro
 \font_sans Cronos
-\font_typewriter default
+\font_typewriter Inconsolata
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
@@ -491,6 +491,13 @@ filename "088.lyx"
 \end_inset
 
 
+\begin_inset CommandInset include
+LatexCommand include
+filename "089.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -689,7 +696,7 @@ LaTeX
 \begin_inset Newline newline
 \end_inset
 
-using Adobe Garamond Pro and 
+using Garamond Premier Pro and 
 \family sans
 Chronos
 \end_layout
