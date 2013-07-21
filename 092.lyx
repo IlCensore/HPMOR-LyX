@@ -1,0 +1,754 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{90}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{}{\textsc{\chaptername\ \Numberstringnum{\thechapter}}}{}
+  \makeoddhead{myheadings}{}{\leftmark}{}
+  \makeheadrule{myheadings}{\textwidth}{0.4pt}
+  \makeevenfoot{myheadings}{}{\thepage}{}
+  \makeoddfoot{myheadings}{}{\thepage}{}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\usepackage{fmtcount}
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage{xcolor} %per il titolo in rosso
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+\usepackage{shapepar} %paragrafi con una certa forma
+\usepackage{url}%url lunga
+\renewcommand*{\parttitlefont}{\normalfont\HUGE\sffamily}
+
+\frenchspacing
+\end_preamble
+\use_default_options true
+\master hpmor_volume4_16x23.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Garamond Premier Pro
+\font_sans Cronos Pro
+\font_typewriter Inconsolata
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 16cm
+\paperheight 23cm
+\leftmargin 2.1cm
+\topmargin 1.8cm
+\rightmargin 1.8cm
+\bottommargin 2.1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Roles, Part
+\begin_inset space ~
+\end_inset
+
+III
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:92Roles-Part3"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+T
+\end_layout
+
+\end_inset
+
+here
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ was nothing left to do.
+\begin_inset Newline newline
+\end_inset
+
+There was nothing left to plan.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was nothing left to think.
+\end_layout
+
+\begin_layout Standard
+Into that emptiness rose the new worst memory
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+The Boy-Who-Lived-Unlike-His-Best-Friend trudged the long, echoing corridors
+ toward the Great Hall.
+ With all his energies of thought exhausted, his mind was starting to throw
+ out thoughts like an image of Hermione walking beside him and wordless
+ concepts like
+\emph on
+ That will never happen again
+\emph default
+ until another part yelled
+\emph on
+ No
+\emph default
+ and shouted it down with determination to bring her back, only that part's
+ voice was getting tired and the other part seemed tireless.
+ Another part of his mind insisted on reviewing what he'd said to Professor
+ McGonagall and Dad and Mum, even though he'd only been trying to get them
+ out of there as quickly as possible and had been running on limited mental
+ energy.
+ As though somehow he could have done better, by an act of his defective
+ will.
+ What would be left of his relationship with his parents now, Harry couldn't
+ guess.
+\end_layout
+
+\begin_layout Standard
+He came finally to a junction where there waited a older boy in green-fringed
+ black robes, silently reading a textbook, on the path that anyone would
+ pick if they wanted to intercept someone going from the healer's chambers
+ to the Great Hall.
+\end_layout
+
+\begin_layout Standard
+Harry was wearing the Cloak of Invisibility, of course, he'd put it on after
+ leaving the office, rendering himself immune to almost all forms of magical
+ detection.
+ There was no point in making it easy for anyone trying to find him and
+ kill him.
+ And Harry was almost set to continue past without bothering to find out
+ what was going on, when he recognized the Slytherin boy's face.
+\end_layout
+
+\begin_layout Standard
+Realization dawned on Harry then.
+ Of course, one of the students who had stayed in school over the Easter
+ holiday would naturally have been
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+“You were waiting for me,” Harry said out loud, without removing the Cloak.
+\end_layout
+
+\begin_layout Standard
+The Slytherin boy jerked back, hitting his head against the wall, his fifth-year
+ Charms textbook dropping from his hands, before he looked up with wide
+ eyes.
+\end_layout
+
+\begin_layout Standard
+“You're
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“Invisible.
+ Yes.
+ Say what you mean to say.”
+\end_layout
+
+\begin_layout Standard
+Lesath Lestrange scrambled to his feet, a position of attention, then blurted
+ out, “My lord, did I do the right thing -- I thought you would not wish
+ me to step forward before all those others, that they might suspect our
+ connection -- I thought, surely if you wished my help you would call on
+ me
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+It was amazing how many different ways there were to kill your best friend
+ by being stupid.
+\end_layout
+
+\begin_layout Standard
+“I
+\begin_inset space ~
+\end_inset
+
+--” Lesath hesitated, then said in a small voice, “I was wrong, wasn't I?”
+\end_layout
+
+\begin_layout Standard
+“You acted exactly as you should have, under the circumstances.
+ It is I who was a fool.”
+\end_layout
+
+\begin_layout Standard
+“I'm sorry, my lord,” whispered Lesath.
+\end_layout
+
+\begin_layout Standard
+“If you 
+\emph on
+had
+\emph default
+ come with me, would you have been able to kill the troll?” It wasn't even
+ the correct question, the correct question was whether Harry himself would
+ have considered Lesath as sufficient and flown out sixty seconds earlier,
+ but still…
+\end_layout
+
+\begin_layout Standard
+“I… I'm not sure, my lord… I am not much welcome to duelling practices in
+ Slytherin, I have not learned the gestures to the Killing Curse -- should
+ I study those arts to better serve you, my lord?”
+\end_layout
+
+\begin_layout Standard
+“I continue to insist that I am not your lord,” Harry said.
+\end_layout
+
+\begin_layout Standard
+“Yes, my lord.”
+\end_layout
+
+\begin_layout Standard
+“Although,” Harry said, “and this is not any kind of order, just a remark,
+ anyone ought to know how to defend themselves, especially you.
+ I'm sure the Defense Professor would help you with that on general principles,
+ if you asked.”
+\end_layout
+
+\begin_layout Standard
+Lesath Lestrange bowed and said, “Yes, my lord, I will follow your orders
+ if I can, my lord.”
+\end_layout
+
+\begin_layout Standard
+Harry would have complained about being misunderstood, if he hadn't been
+ understood perfectly.
+\end_layout
+
+\begin_layout Standard
+Lesath left.
+\end_layout
+
+\begin_layout Standard
+Harry stared at the wall.
+\end_layout
+
+\begin_layout Standard
+He'd honestly thought that he'd already figured out all the different ways
+ that he'd been stupid, after spending half a day thinking about it.
+\end_layout
+
+\begin_layout Standard
+Apparently this had just been more overconfidence on his part.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Do we understand what we did wrong?
+\emph default
+ his Slytherin side said coldly.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yes,
+\emph default
+ Harry thought.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Your ethical qualms don't even make sense.
+ You're not tricking Lesath.
+ You did exactly what Lesath thinks you did.
+ You wouldn't have to make excuses for why Lesath was helping you, you could
+ just say you were calling in the debt from rescuing him from bullies, there
+ were six witnesses to that.
+ Hermione died because you forgot about an extremely valuable resource,
+ and you forgot about Lesath because… why?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Because having Lesath Lestrange for a minion seemed sort of Dark-Lordish?
+\emph default
+ Hufflepuff said in a small mental voice.
+ 
+\emph on
+I mean… that decision was probably mostly me…
+\end_layout
+
+\begin_layout Standard
+Harry's Slytherin side didn't answer that in words, just radiated contempt
+ and flashed an image of Hermione's corpse.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Stop it!
+\emph default
+ Harry screamed internally.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Next time,
+\emph default
+ Slytherin said icily, 
+\emph on
+I suggest that we spend more time worrying about what is efficient and effective
+, and less time worrying about what seems sort of Dark-Lordish.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Point made,
+\emph default
+ Harry thought, 
+\emph on
+I will.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No, you won't,
+\emph default
+ said Slytherin.
+ 
+\emph on
+You'll come up with more rationalisations for your petty qualms.
+ You'll start listening to me after your
+\emph default
+ next 
+\emph on
+friend dies.
+\end_layout
+
+\begin_layout Standard
+Harry was starting to worry that he was going insane.
+ The conversations he had with the voices in his head weren't usually like
+ this.
+\end_layout
+
+\begin_layout Standard
+The Boy-Who-Lived
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+pain
+\end_layout
+
+\begin_layout Standard
+Harry Verres trudged on alone
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+hurts
+\end_layout
+
+\begin_layout Standard
+Harry walked on through the silent corridors.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“How is Mr.
+ Potter doing?” demanded Professor Quirrell.
+ There was a tension about the man, you could not quite call it
+\emph on
+ concern,
+\emph default
+ more like an ambusher measuring the time to strike.
+ The Grangers had hardly left with Madam Pomfrey before the Defense Professor
+ had knocked upon the door to her office and then entered without waiting
+ for her answer, and spoken before she could say a word.
+ Part of Minerva wondered distantly whether Harry Potter had picked up that
+ habit from his Defense Professor, being unaware of others' pain when there
+ was something else on his mind, or if it was only a childish flaw which
+ this man had somehow failed to grow out of.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+ Potter has ceased guarding Miss Granger's body,” she said, putting some
+ of the chill she felt into her voice.
+ She felt certain that the Defense Professor was not experiencing as much
+ grief as she was, the man had spoken not a single word of Hermione Granger.
+ For 
+\emph on
+him
+\emph default
+ to put demands on her -- “I believe he has gone down to dinner.”
+\end_layout
+
+\begin_layout Standard
+“I am not asking after the boy's 
+\emph on
+physical
+\emph default
+ state! Have you -- has he
+\begin_inset space ~
+\end_inset
+
+--” Professor Quirrell made a sharp gesture, as though to indicate a concept
+ for which he had no words.
+\end_layout
+
+\begin_layout Standard
+“Not particularly,” she said.
+ She was around thirty seconds away from ordering the Defense Professor
+ out of her office.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell began to pace within the small confines of her office.
+ “Miss Granger was the only one whose worries he truly heeded -- with her
+ gone -- all checks on the boy's recklessness are removed.
+ I see it now.
+ Who else is there? Mr.
+ Longbottom? Mr.
+ Potter does not pretend that they are peers.
+ Flitwick? His goblin blood would only cry for vengeance.
+ Mr.
+ Malfoy, if he were returned? To what end? Snape? A walking disaster.
+ Dumbledore? Pfah.
+ Events are already set for catastrophe, they must be steered along some
+ course they would not naturally go.
+ Who might Mr.
+ Potter heed, who would not ordinarily speak to him? Cedric Diggory has
+ taught him, but what would Mr.
+ Diggory say in advice? An unknown.
+ Mr.
+ Potter spent long in speech with Remus Lupin.
+ To him I have paid little heed.
+ Would Lupin know the words to speak, the act which must be done, the sacrifice
+ which must be made to change the boy's course?” Professor Quirrell whirled
+ on her.
+ “Did Remus Lupin comfort those in grief or stay those moved to rash deeds,
+ during his time with the Order of the Phoenix?”
+\end_layout
+
+\begin_layout Standard
+“It is not a poor thought,” she said slowly.
+ “I believe that Mr.
+ Lupin was often a voice of restraint to James Potter in his Hogwarts days.”
+\end_layout
+
+\begin_layout Standard
+“James Potter,” said Professor Quirrell, his eyes narrowing.
+ “The boy is not much like James Potter.
+ Are you confident in the success of this plan? No, that is the wrong question,
+ we are not limited to a single plan.
+ Are you certain that this plan will be
+\emph on
+ enough,
+\emph default
+ that we need essay no others? Asked in such fashion, the question answers
+ itself.
+ The path leading to disaster must be averted along every possible point
+ of intervention.” The Defense Professor had resumed pacing the confines
+ of her office, reaching one wall, turning on his heel, pacing to the other.
+\end_layout
+
+\begin_layout Standard
+“My apologies, Professor,” she did not bother keeping the sharpness from
+ her voice, “but I have quite reached my limits for the day.
+ You may go.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+You
+\emph default
+.” Professor Quirrell spun, and she found herself gazing directly into eyes
+ of icy blue.
+ “
+\emph on
+You
+\emph default
+ would be the first one I would think of after Miss Granger, to stay the
+ boy from a folly.
+ Have you already done your utmost? Of course you have not.”
+\end_layout
+
+\begin_layout Standard
+How 
+\emph on
+dare
+\emph default
+ he suggest that.
+ “If you have nothing more to say, Professor, then you 
+\emph on
+will
+\emph default
+ go.”
+\end_layout
+
+\begin_layout Standard
+“Has your confederacy deduced who I really am?” The words were spoken with
+ deceptive mildness.
+\end_layout
+
+\begin_layout Standard
+“Yes, in fact.
+ Now
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+Pure magic, pure power crashed into the room like a flash of lightning,
+ like a thunderclap echoing about her ears that deafened her other senses,
+ the papers on her desk blown aside not by any conjured wind but by the
+ sheer raw force of arcane might.
+\end_layout
+
+\begin_layout Standard
+Then the power subsided, leaving only Hermione Granger's death certificates
+ drifting down through the air to the floor.
+\end_layout
+
+\begin_layout Standard
+“I am David Monroe, who fought Voldemort,” the man said, still in mild tones.
+ “Heed my words.
+ The boy cannot be allowed to continue in this state of mind.
+ He will become 
+\emph on
+dangerous
+\emph default
+.
+ It is possible that you have already done everything you can.
+ Yet I find this a very rare event indeed, and more often said than done.
+ I suspect rather that you have only done what you customarily do.
+ I cannot truly comprehend what drives others to break their bounds, since
+ I never had them.
+ People remain surprisingly passive when faced with the prospect of death.
+ Fear of public ridicule or losing one's livelihood is more likely to drive
+ men to extremes and the breaking of their customary habits.
+ On the other side of the war, the Dark Lord had excellent results from
+ the Cruciatus Curse, judiciously used on Marked servants who cannot escape
+ punishment except by success, with no reasonable efforts accepted.
+ Imagine their state of mind within yourself, and ask yourself whether you
+ have truly done 
+\emph on
+all that you can
+\emph default
+ to wrench Harry Potter from his course.”
+\end_layout
+
+\begin_layout Standard
+“I am a Gryffindor and not much given to being moved by fear,” she snapped
+ back.
+ “
+\emph on
+You
+\emph default
+ will exercise courtesy within my office!”
+\end_layout
+
+\begin_layout Standard
+“I find fear an excellent motivation, and indeed it is fear that moves me
+ now.
+ You-Know-Who, for all his horror, still abided by certain boundaries.
+ It is my professional judgment, speaking as a learned wizard almost on
+ par with Dumbledore or He-Who-Must-Not-Be-Named, that the boy could join
+ the ranks of those whose rituals are inscribed upon the tombstones of countries.
+ This is not an idle worry, McGonagall, I have already heard words to produce
+ the gravest apprehensions.”
+\end_layout
+
+\begin_layout Standard
+“Are you mad? You think that Mr.
+ Potter could -- this is ridiculous.
+ Mr.
+ Potter cannot possibly
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+A wordless image crossed her mind of a patch of glass on a steel ball.
+\end_layout
+
+\begin_layout Standard
+“-- Mr.
+ Potter 
+\emph on
+would
+\emph default
+ not do such a thing!”
+\end_layout
+
+\begin_layout Standard
+“His deliberate choice is not required.
+ Wizards rarely set out to invoke their own dooms.
+ Mr.
+ Potter may not strike you as malicious.
+ Does he strike you as reckless once he is resolved upon a goal? I say again
+ that I have specific reason for the gravest
+\emph on
+ possible
+\emph default
+ concerns!”
+\end_layout
+
+\begin_layout Standard
+“Have you spoken to the Headmaster of this?” she said slowly.
+\end_layout
+
+\begin_layout Standard
+“That would be worse than pointless.
+ Dumbledore cannot reach the boy.
+ At best he is wise enough to know this and make things no worse.
+ I lack the requisite frame of mind.
+ 
+\emph on
+You
+\emph default
+ are the one who -- but I see that you still look for others to save you.”
+ The Defense Professor turned from her, and strode to the door.
+ “I think I shall consult with Severus Snape.
+ The man may be a walking disaster, but he knows the fact, and he may possess
+ a greater understanding of that boy's mood.
+ As for you, madam, imagine yourself at the end of your life, knowing that
+ Britain -- but no, Britain is not your true country, is it? Imagine yourself
+ at the end of your life as the darkness eats through the fading walls of
+ Hogwarts, knowing that your students will die with you, remembering this
+ day and realizing there was something else you could have done.”
+\end_layout
+
+\end_body
+\end_document
