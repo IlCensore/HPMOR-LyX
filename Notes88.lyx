@@ -154,5 +154,22 @@ in practice
  just do it for a while.
 \end_layout
 
+\begin_layout Section*
+Chapter 96 
+\begin_inset CommandInset ref
+LatexCommand nameref
+reference "chap:96Roles-Part7"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For those who have not read canon: The wooden sign has somewhat changed,
+ but the inscription here is the same as in J.K.
+ Rowling's original.
+\end_layout
+
 \end_body
 \end_document

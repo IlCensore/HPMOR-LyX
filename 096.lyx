@@ -1,0 +1,1247 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{95}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{}{\textsc{\chaptername\ \Numberstringnum{\thechapter}}}{}
+  \makeoddhead{myheadings}{}{\leftmark}{}
+  \makeheadrule{myheadings}{\textwidth}{0.4pt}
+  \makeevenfoot{myheadings}{}{\thepage}{}
+  \makeoddfoot{myheadings}{}{\thepage}{}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\usepackage{fmtcount}
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage{xcolor} %per il titolo in rosso
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+\usepackage{shapepar} %paragrafi con una certa forma
+\usepackage{url}%url lunga
+\renewcommand*{\parttitlefont}{\normalfont\HUGE\sffamily}
+
+\frenchspacing
+\end_preamble
+\use_default_options true
+\master hpmor_volume4_16x23.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language british
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Garamond Premier Pro
+\font_sans Cronos Pro
+\font_typewriter Inconsolata
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 16cm
+\paperheight 23cm
+\leftmargin 2.1cm
+\topmargin 1.8cm
+\rightmargin 1.8cm
+\bottommargin 2.1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Roles, Part
+\begin_inset space ~
+\end_inset
+
+VII
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:96Roles-Part7"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+
+\emph on
+The fourth meeting
+\begin_inset Newline newline
+\end_inset
+
+(4:38pm, April 17th 1992)
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+T
+\end_layout
+
+\end_inset
+
+he
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ man wearing the worn, warm coat, with three faint scars etched forever
+ into his cheek, observed Harry Potter as closely as he could while the
+ boy looked around politely at the rows of cottages.
+ For someone whose best friend had died yesterday, Harry Potter seemed strangely
+ composed, though not in any way reminiscent of unfeelingness, or normality.
+ 
+\emph on
+I don't wish to talk about that,
+\emph default
+ the boy had said, 
+\emph on
+with you or anyone.
+
+\emph default
+ Saying `wish' and not `want', as though to emphasize that he was able to
+ use grownup words and make grownup decisions.
+ There had been only one thing Remus Lupin had thought of that might help,
+ after he'd received the owls from Professor McGonagall and that strange
+ man Quirinus Quirrell.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“There's a lot of empty houses,” the boy said, glancing around again.
+\end_layout
+
+\begin_layout Standard
+Godric's Hollow had changed, in the decade since Remus Lupin had been a
+ frequent visitor.
+ Many of the old, peaked cottages looked deserted, with green leafy vines
+ growing across their windows and their doors.
+ Britain had contracted noticeably, in the aftermath of the Wizarding War,
+ having lost not only the dead but the fled.
+ Godric's Hollow had been hard-hit.
+ And afterward still more families had moved elsewhere, to Hogsmeade or
+ magical London, the deserted houses too uncomfortable a reminder.
+\end_layout
+
+\begin_layout Standard
+Others had remained.
+ Godric's Hollow was older than Hogwarts, older than Godric Gryffindor whose
+ name it had taken, and there were families which would reside here until
+ the end of the world and its magic.
+\end_layout
+
+\begin_layout Standard
+The Potters had been one such family, and would be again, if the last Potter
+ so chose.
+\end_layout
+
+\begin_layout Standard
+Remus Lupin tried to explain all that, simplifying it as best he could for
+ the young boy.
+ The Ravenclaw nodded thoughtfully and said nothing, as though he had understood
+ it all without need of questions.
+ Perhaps that was so; the child of James Potter and Lily Evans, the Head
+ Boy and Head Girl of Hogwarts, would hardly be stupid.
+ The child had certainly seemed highly intelligent, for the little time
+ that they had spoken in January, though at that time Remus had done most
+ of the talking.
+\end_layout
+
+\begin_layout Standard
+(There was also that business with the Wizengamot which Remus had heard
+ rumours about, but Remus didn't believe a single word of that, any more
+ than he'd believed it about James betrothing his son to Molly's youngest.)
+\end_layout
+
+\begin_layout Standard
+“There's the monument,” Remus said, pointing ahead of them.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry walked beside Mr.
+ Lupin toward the black marble obelisk, thinking silently.
+ It seemed to Harry that this adventure was essentially misguided; he had
+ no use for grief counselling, that was not Harry's chosen path.
+ So far as Harry was concerned, the five stages of grief were Rage, Remorse,
+ Resolve, Research, and Resurrection.
+ (Not that the usual `five stages of grief' had any experimental evidence
+ whatsoever that Harry had ever heard about.) But Mr.
+ Lupin had seemed too sincere to refuse; and visiting James and Lily's home
+ was something Harry felt he ought not to turn down.
+ So Harry walked, feeling oddly detached; walking silently through a play
+ whose script he was not interested in reading.
+\end_layout
+
+\begin_layout Standard
+Harry had been told that he wasn't to wear the Cloak of Invisibility for
+ this journey, so that Mr.
+ Lupin could keep track of him.
+\end_layout
+
+\begin_layout Standard
+Harry was morally certain that Dumbledore, or both Dumbledore and Mad-Eye
+ Moody, were following them invisibly to see if anyone tried for the bait.
+ There was no way Harry would have been let out of Hogwarts with only Remus
+ Lupin for a guard.
+ Harry didn't expect anything to happen, though.
+ He'd seen nothing to contradict the hypothesis that all the danger centred
+ on Hogwarts and only Hogwarts.
+\end_layout
+
+\begin_layout Standard
+As the two of them walked closer toward the centre of town, the marble obelisk
+ transformed into
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+Harry drew in a breath.
+ He'd been expecting a heroic pose of James Potter with wand levelled against
+ Lord Voldemort, and Lily Potter with arms outstretched in front of the
+ crib.
+\end_layout
+
+\begin_layout Standard
+Instead there was a man with untidy hair and glasses, and a woman with her
+ hair let down and a baby in her arms, and that was all.
+\end_layout
+
+\begin_layout Standard
+“It looks very… normal,” Harry said, feeling an odd catch in his throat.
+\end_layout
+
+\begin_layout Standard
+“Madam Longbottom and Professor Dumbledore put their foot down hard,” said
+ Mr.
+ Lupin, who was looking more at Harry than at the monument.
+ “They said that the Potters should be remembered as they had lived, not
+ as they had died.”
+\end_layout
+
+\begin_layout Standard
+Harry looked at the statue, thinking.
+ Very strange, to see himself as a baby of stone, with no scar upon his
+ forehead.
+ It was a glimpse at an alternate universe, one where Harry James Potter
+ (no Evans-Verres to his name) became an intelligent but ordinary wizarding
+ scholar, maybe Sorted into Gryffindor like his parents.
+ A Harry Potter who grew up a proper young wizard, knowing little of science
+ for all that his mother was Muggleborn.
+ Ultimately changing… not much.
+ James and Lily wouldn't have raised their son with what Professor Quirrell
+ would have called 
+\emph on
+ambition
+\emph default
+ and what Professor Verres-Evans would have called 
+\emph on
+the common endeavour.
+
+\emph default
+ His birth parents would have loved him very much, and that would not have
+ been much help to anyone in the world except Harry.
+ If someone had undone their death
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+“You were their friend,” Harry said, turning to look at Lupin.
+ “For a long time, since you were children.”
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Lupin nodded silently.
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell's voice resounded in Harry's approximate memory: 
+\emph on
+The most likely difference is not that you care more.
+ Rather it is that, being a more logical creature than they, only you are
+ aware that the role of Friend ought to require this of you…
+\end_layout
+
+\begin_layout Standard
+“When Lily and James died,” Harry said, “did you think at all of whether
+ there might be some magical way to get them back? Like Orpheus and Eurydice?
+ Or the, what was it, Elrin brothers?”
+\end_layout
+
+\begin_layout Standard
+“There is no magic which can undo death,” Mr.
+ Lupin said quietly.
+ “There are some mysteries which wizardry cannot touch.”
+\end_layout
+
+\begin_layout Standard
+“Did you do a mental check of what you thought you knew, how you thought
+ you knew it, and how high the probability was of that conclusion?”
+\end_layout
+
+\begin_layout Standard
+“What?” said Mr.
+ Lupin.
+ “Could you repeat that, Harry?”
+\end_layout
+
+\begin_layout Standard
+“I'm saying, did you think about it anyway?”
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Lupin shook his head.
+\end_layout
+
+\begin_layout Standard
+“Why not?”
+\end_layout
+
+\begin_layout Standard
+“Because it was already done, and over,” Remus Lupin said gently.
+ “Because wherever James and Lily are now, they would wish me to act for
+ the sake of the living, not the dead.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded silently.
+ He'd been pretty sure of the answer to that question before he'd asked.
+ He'd already read that script.
+ But he'd asked anyway, just in case Mr.
+ Lupin had spent a week obsessing about it, because Harry could have been
+ wrong.
+\end_layout
+
+\begin_layout Standard
+The soft voice of the Defense Professor seemed to speak in Harry's mind.
+ 
+\emph on
+Surely, if Lupin truly cared, he would not need special instruction for
+ something as simple as thinking for five minutes before giving up…
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Yes, he would,
+\emph default
+ Harry answered the mental voice.
+
+\emph on
+ Human beings wouldn't suddenly obtain a skill like that just because they
+ cared.
+ I learned about it because I'd read library books, produced by a huge scientifi
+c edifice
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+--
+\end_layout
+
+\begin_layout Standard
+And that other part of Harry said, in that soft voice, 
+\emph on
+But there is also another hypothesis, Mr.
+ Potter, and it fits the data in a much less complicated way.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+No it doesn't! How would people even know what to pretend, if nobody had
+ ever cared?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+They don't know.
+ That is what you observe.
+\end_layout
+
+\begin_layout Standard
+The two of them walked onward toward a certain house, past a long row of
+ occupied wizard cottages and other cottages overgrown with vines.
+\end_layout
+
+\begin_layout Standard
+Coming finally to the house with half its top blown off, and green leaves
+ growing over into the inside; behind a shoulder-high wild-growing hedge
+ lining the side-walk, and a narrow metal gate (Mr.
+ Hagrid had probably stepped right over it, being unable to fit through).
+ The gap in the roof was like a giant mouth had taken a circular bite from
+ the house, leaving spines of wood, what had maybe been support beams, sticking
+ out.
+ To the right side a single chimney still stood upright, uneaten by the
+ giant bite, but leaning dangerously without its former support.
+ Windows were shattered.
+ Where there should have been a front door were only splinters of wood.
+\end_layout
+
+\begin_layout Standard
+To this place Lord Voldemort had come, 
+\emph on
+silently, making less noise than the dead leaves slithering along the pavement…
+\end_layout
+
+\begin_layout Standard
+Remus Lupin put a hand upon Harry's shoulder.
+ “Touch the gate,” Mr.
+ Lupin urged.
+\end_layout
+
+\begin_layout Standard
+Harry reached out a hand and did so.
+\end_layout
+
+\begin_layout Standard
+Like a fast-growing flower a sign burst from the tangled weeds in the ground
+ behind the gate, a wooden sign with golden letters, and it said:
+\end_layout
+
+\begin_layout Quote
+\align center
+On this spot, on the night of 31 October 1981,
+\begin_inset Newline newline
+\end_inset
+
+Lily and James Potter lost their lives.
+\end_layout
+
+\begin_layout Quote
+\align center
+They were survived by their son, Harry Potter,
+\begin_inset Newline newline
+\end_inset
+
+the only wizard ever to withstand the Killing Curse,
+\begin_inset Newline newline
+\end_inset
+
+the Boy-Who-Lived, who broke You-Know-Who's power.
+\end_layout
+
+\begin_layout Quote
+\align center
+This house has been left in its ruined state,
+\begin_inset Newline newline
+\end_inset
+
+as a monument to the Potters,
+\begin_inset Newline newline
+\end_inset
+
+as a reminder of their sacrifice.
+\end_layout
+
+\begin_layout Standard
+In a blank space below the golden letters were written other messages, dozens
+ of them, magical ink that rose to the surface and gleamed brightly enough
+ to be read before fading and giving way to other messages.
+\end_layout
+
+\begin_layout Quote
+\align center
+So my Gideon is avenged.
+\end_layout
+
+\begin_layout Quote
+\align center
+Thank you, Harry Potter.
+ Fare well wherever you are.
+\end_layout
+
+\begin_layout Quote
+\align center
+We will always be in the Potters' debt.
+\end_layout
+
+\begin_layout Quote
+\align center
+Oh James, oh Lily, I am sorry.
+\end_layout
+
+\begin_layout Quote
+\align center
+I hope you're alive, Harry Potter.
+\end_layout
+
+\begin_layout Quote
+\align center
+There is always a price.
+\end_layout
+
+\begin_layout Quote
+\align center
+I wish our last words had been kinder, James.
+ I'm sorry.
+\end_layout
+
+\begin_layout Quote
+\align center
+There is always a dawn after the night.
+\end_layout
+
+\begin_layout Quote
+\align center
+Rest well, Lily.
+\end_layout
+
+\begin_layout Quote
+\align center
+Bless you, Boy-Who-Lived.
+ You were our miracle.
+\end_layout
+
+\begin_layout Standard
+“I guess
+\begin_inset space ~
+\end_inset
+
+--” Harry said.
+ “I guess that's what people do -- instead of trying to make it better
+\begin_inset space ~
+\end_inset
+
+--” Harry stopped.
+ The thought seemed unworthy of this place.
+ He looked up, and saw Remus Lupin gazing at him with a look so gentle that
+ Harry wrenched his eyes away to the blasted and broken roof.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You were our miracle.
+
+\emph default
+ Harry had always heard the word `miracle' in the context of how, in the
+ natural universe, there was no such thing.
+ And yet looking at the ruined house, he suddenly knew exactly what the
+ word meant, the note of grace all unexplained, the blessing inexplicable.
+ The Dark Lord had almost won, and then in one night all the darkness and
+ terror had ended, salvation without justification, a sudden dawn from out
+ of the darkness and even now nobody knew 
+\emph on
+why
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+If Lily Potter had lived beyond her confrontation with Lord Voldemort, she
+ would have felt that way when she saw her baby alive, afterwards.
+\end_layout
+
+\begin_layout Standard
+“Let's go,” whispered the baby boy, ten years later.
+\end_layout
+
+\begin_layout Standard
+They went.
+\end_layout
+
+\begin_layout Standard
+The graveyard's entrance was guarded by a lockless gate of the sort that
+ kept out animals, with a place to stand while you moved the door from one
+ side of the standing-place to the other.
+ Remus took out his wand (Harry was already holding his) and there was a
+ brief blur as they stepped through.
+\end_layout
+
+\begin_layout Standard
+Some of the stones rising up from the ground looked as old as the wall in
+ Oxford that his father had said was around a thousand years old.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hallie Fleming,
+\emph default
+ said the first stone that Harry saw, in a carving almost invisibly faded
+ with the erosion of time.
+
+\emph on
+ Vienna Wood,
+\emph default
+ said another.
+\end_layout
+
+\begin_layout Standard
+It had been a long time since Harry had visited a graveyard.
+ His mind had still been childlike the last time he'd come to one, long
+ before he'd seen within Death's shadow.
+ Coming here now was… strange, and sad, and puzzling, and 
+\emph on
+this has been happening for so long, why haven't wizards tried to stop it,
+ why aren't they putting all their strength into that like Muggles do with
+ medical research, only more so, wizards have more reason to hope…
+\end_layout
+
+\begin_layout Standard
+“The Dumbledores lived in Godric's Hollow too?” Harry said, as they walked
+ past a pair of relatively new stones saying 
+\emph on
+Kendra Dumbledore
+\emph default
+ and 
+\emph on
+Ariana Dumbledore.
+\end_layout
+
+\begin_layout Standard
+“For a long, long time,” Mr.
+ Lupin said.
+\end_layout
+
+\begin_layout Standard
+They walked further into the graveyard, far toward the end, past many deaths
+ that had been mourned.
+\end_layout
+
+\begin_layout Standard
+Then Mr.
+ Lupin pointed at a linked double headstone, of marble still white and unaged.
+\end_layout
+
+\begin_layout Standard
+“Are there going to be messages there?” Harry said.
+ He didn't want to deal any more with the way that other people dealt with
+ death.
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Lupin shook his head.
+\end_layout
+
+\begin_layout Standard
+They walked toward the linked white stones.
+\end_layout
+
+\begin_layout Standard
+And stood before
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+“What is this?” Harry whispered.
+ “Who… 
+\emph on
+who wrote this?
+\emph default
+”
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+JAMES POTTER
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\noun on
+
+\backslash
+
+\backslash
+*
+\end_layout
+
+\end_inset
+
+Born 27 March 1960
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\noun on
+
+\backslash
+
+\backslash
+*
+\end_layout
+
+\end_inset
+
+Died 31 October 1981
+\end_layout
+
+\begin_layout Standard
+“Wrote what?” said Mr.
+ Lupin, puzzled.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+LILY POTTER
+\begin_inset Newline newline
+\end_inset
+
+Born 30 January 1960
+\begin_inset Newline newline
+\end_inset
+
+Died 31 October 1981
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+This!
+\emph default
+” Harry cried.
+ “The 
+\emph on
+inscription!
+\emph default
+” There were tears welling up in Harry's eyes, at the brightness out of
+ place and unexplained, the touch of grace where no grace should have been,
+ the mysterious blessing, tears welling up at
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+the last enemy that shall be destroyed is death
+\end_layout
+
+\begin_layout Standard
+“That?” Mr.
+ Lupin said.
+ “That's the… motto, I suppose you could call it, of the Potters.
+ Though I don't think it was ever something as formal as that.
+ Just a saying handed down from long, long ago…”
+\end_layout
+
+\begin_layout Standard
+“This -- that
+\begin_inset space ~
+\end_inset
+
+--” Harry scrambled down to kneel beside the grave, touched the inscription
+ with a trembling hand.
+ “
+\emph on
+How?
+\emph default
+ Things like that can't just be, be 
+\emph on
+genetic
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+Then Harry saw what tears had blurred, the faint carving of a line, within
+ a circle, within a triangle.
+\end_layout
+
+\begin_layout Standard
+The symbol of the Deathly Hallows.
+\end_layout
+
+\begin_layout Standard
+And Harry understood.
+\end_layout
+
+\begin_layout Standard
+“They tried,” Harry whispered.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The three Peverell brothers.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Had they lost someone precious to them, was that where it had begun?
+\end_layout
+
+\begin_layout Standard
+“With all their lives, they tried, and they made progress
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The Cloak of Invisibility, that could defeat the Dementors' sight.
+\end_layout
+
+\begin_layout Standard
+“-- but their research wasn't finished
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hiding from Death's shadow is not defeating Death itself.
+ The Resurrection Stone couldn't really bring anyone back.
+ The Elder Wand couldn't protect you from old age.
+\end_layout
+
+\begin_layout Standard
+“-- so they passed on the mission to their children, and their children's
+ children.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Generation after generation.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Until it came to me.
+\end_layout
+
+\begin_layout Standard
+Could Time echo like that, rhyming, between this far into the future, and
+ that far in the past? It 
+\emph on
+couldn't
+\emph default
+ be coincidence, could it? Not this message, not in this place.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+My family.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You really were, my mother and my father.
+\end_layout
+
+\begin_layout Standard
+“It doesn't mean resurrecting the dead, Harry,” Mr.
+ Lupin said.
+ “It means accepting death, and so being beyond death, mastering it.”
+\end_layout
+
+\begin_layout Standard
+“Did James tell you that?” Harry said, his voice strange.
+\end_layout
+
+\begin_layout Standard
+“No,” said Mr.
+ Lupin, “but
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“Good.”
+\end_layout
+
+\begin_layout Standard
+Harry rose up slowly from where he had been kneeling, feeling as though
+ he were pushing up a sun upon his shoulders, raising the dawn above the
+ horizon.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Of
+\emph default
+ course 
+\emph on
+other wizards have tried.
+ I am not unique.
+ I was never alone.
+ These feelings in my heart, they're not so special, not in the wizard world
+ or the Muggle one.
+\end_layout
+
+\begin_layout Standard
+“Harry, your wand!” There was a sudden excitement in Mr.
+ Lupin's voice, and when Harry raised his wand to look at it closely, he
+ saw that it was gleaming ever so faintly with a silver light, welling out
+ of the wood.
+\end_layout
+
+\begin_layout Standard
+“Cast the Patronus Charm!” urged Mr.
+ Lupin.
+ “Try casting it again, Harry!”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Oh, right.
+ So far as Mr.
+ Lupin knows, I can't
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+--
+\end_layout
+
+\begin_layout Standard
+Harry smiled, and even laughed a little.
+ “I'd better not,” Harry said.
+ “If I tried to cast the spell in this state of mind, it'd probably kill
+ me.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“What?
+\emph default
+” said Mr.
+ Lupin.
+ “The Patronus Charm doesn't do that!”
+\end_layout
+
+\begin_layout Standard
+Harry James Potter-Evans-Verres raised his left hand, still laughing, and
+ wiped away some more tears.
+\end_layout
+
+\begin_layout Standard
+“You know, Mr.
+ Lupin,” Harry said, “it really takes a
+\emph on
+ baroque
+\emph default
+ interpretation to think that somebody would be walking around, pondering
+ how death is just something we all have to accept, and communicate their
+ state of mind by saying, `The last enemy that shall be destroyed is death.'
+ Maybe someone else thought it sounded poetic and picked up the phrase and
+ tried to interpret it differently, but whoever said it first didn't like
+ death much.” Sometimes it puzzled Harry how most people didn't seem to even
+\emph on
+ notice
+\emph default
+ when they were twisting something around to the 180-degree opposite of
+ its first obvious reading.
+ It couldn't be a raw brainpower thing, people could see the obvious reading
+ of most other English sentences.
+ “Also `shall be destroyed' refers to a change of future state, so it can't
+ be about the way things are now.”
+\end_layout
+
+\begin_layout Standard
+Remus Lupin was staring at him with wide eyes.
+ “You certainly are James and Lily's child,” the man said, sounding rather
+ shocked.
+\end_layout
+
+\begin_layout Standard
+“Yes, I am,” Harry said.
+ But that wasn't enough, he had to do something more, so Harry raised his
+ wand in the air and said, his voice as steady as he could make it, “I am
+ Harry James Potter-Evans-Verres, the son of Lily and James, of the house
+ of Potter, and I accept my family's quest.
+ Death is my enemy, and I will defeat it.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thrayen beyn Peverlas soona ahnd thrih heera toal thissoom Dath bey yewoonen.
+\end_layout
+
+\begin_layout Standard
+“What?” Harry said aloud.
+ The words had popped up into his stream of consciousness as though from
+ his own thoughts, unexplained.
+\end_layout
+
+\begin_layout Standard
+“What was that?” said Remus Lupin at the same time.
+\end_layout
+
+\begin_layout Standard
+Harry turned, scanning the graveyard, but he didn't see anything.
+ Beside him, Mr.
+ Lupin was doing the same.
+\end_layout
+
+\begin_layout Standard
+Neither of them noticed the tall stone worn as though from a thousand years
+ of age, upon it a line within a circle within a triangle glowing ever so
+ faintly silver, like the light which had shone from Harry's wand, invisible
+ at that distance beneath the still-bright Sun.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+
+\emph on
+Some time later:
+\end_layout
+
+\begin_layout Standard
+\noindent
+“Thank you again, Mr.
+ Lupin,” Harry said, the tall, faintly scarred man was about to depart once
+ more.
+ “Though I really wish you hadn't
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“Professor Dumbledore said that I was to portkey us back to Hogwarts if
+ anything unusual happened, whether or not it seemed like an attack,” Mr.
+ Lupin said firmly.
+ “Which is eminently sensible.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ And then, having carefully saved this question for last, “Do you have any
+ idea of what the words meant?”
+\end_layout
+
+\begin_layout Standard
+“If I did, I wouldn't tell you,” Mr.
+ Lupin said, looking rather severe.
+ “Certainly not without Professor Dumbledore's permission.
+ I can understand your eagerness, but you should not go trying to uncover
+ any ancestral secrets of the Potters until you are an adult.
+ That means after you've passed your 
+\noun on
+newt
+\noun default
+s, Harry, or at least your 
+\noun on
+owl
+\noun default
+s.
+ And I still think you've picked up entirely the wrong idea of what your
+ family motto is meant to say!”
+\end_layout
+
+\begin_layout Standard
+Harry nodded, sighing internally, and bid Mr.
+ Lupin farewell.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry went back through Hogwarts, to the Ravenclaw Tower, feeling strange,
+ and strengthened.
+ He would not have expected any of that, but it had been all to the good.
+\end_layout
+
+\begin_layout Standard
+He was passing through the Ravenclaw common room, on the way to his dorm.
+\end_layout
+
+\begin_layout Standard
+That was when the shining creature came to him, gleaming soft white beneath
+ the candle-fires of the Ravenclaw common room, as it slithered out from
+ nowhere, the silver snake.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Þregen béon Pefearles suna and þrie hira tól þissum Déað béo gewunen.
+\end_layout
+
+\begin_layout Standard
+\align center
+Three shall be Peverell's sons and three their devices by which Death shall
+ be defeated.
+\end_layout
+
+\begin_layout Standard
+\align center
+--- Spoken in the presence of the three Peverell brothers,
+\begin_inset Newline newline
+\end_inset
+
+in a small tavern on the outskirts of what would later be called Godric's
+ Hollow.
+\end_layout
+
+\end_body
+\end_document
