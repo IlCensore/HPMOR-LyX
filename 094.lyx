@@ -1,0 +1,1204 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{93}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{}{\textsc{\chaptername\ \Numberstringnum{\thechapter}}}{}
+  \makeoddhead{myheadings}{}{\leftmark}{}
+  \makeheadrule{myheadings}{\textwidth}{0.4pt}
+  \makeevenfoot{myheadings}{}{\thepage}{}
+  \makeoddfoot{myheadings}{}{\thepage}{}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\usepackage{fmtcount}
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage{xcolor} %per il titolo in rosso
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+\usepackage{shapepar} %paragrafi con una certa forma
+\usepackage{url}%url lunga
+\renewcommand*{\parttitlefont}{\normalfont\HUGE\sffamily}
+
+\frenchspacing
+\end_preamble
+\use_default_options true
+\master hpmor_volume4_16x23.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language british
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Garamond Premier Pro
+\font_sans Cronos Pro
+\font_typewriter Inconsolata
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 16cm
+\paperheight 23cm
+\leftmargin 2.1cm
+\topmargin 1.8cm
+\rightmargin 1.8cm
+\bottommargin 2.1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Roles, Part
+\begin_inset space ~
+\end_inset
+
+V
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:94Roles-Part5"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+
+\emph on
+The first meeting:
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+A
+\end_layout
+
+\end_inset
+
+t
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ 6:07am on April 17th, 1992 the Sun was just rising above the horizon as
+ seen from the castle Hogwarts, filtering in through drawn curtains in the
+ Ravenclaw first-year boys' dorm to provide a gentle light, red-orange for
+ dawn and little-changed by the white fabric covering the windows, not yet
+ waking boys more accustomed to winter's schedule.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In one bed among many, Harry Potter slept the sleep of the just exhausted.
+\end_layout
+
+\begin_layout Standard
+Quietly the door opened.
+\end_layout
+
+\begin_layout Standard
+Quietly a figure walked across the floor.
+\end_layout
+
+\begin_layout Standard
+That figure came to Harry Potter's bed.
+\end_layout
+
+\begin_layout Standard
+The figure laid a hand on the shoulder of the sleeping boy, who started
+ and shrieked.
+\end_layout
+
+\begin_layout Standard
+No others heard.
+\end_layout
+
+\begin_layout Standard
+“Mr.
+ Potter,” the small man squeaked, “the Headmaster has requested your presence
+ immediately.”
+\end_layout
+
+\begin_layout Standard
+Slowly the boy sat up in bed, his hands momentarily fiddling beneath the
+ covers.
+ He'd expected to feel much worse, waking up this morning.
+ It felt… wrong, that his brain functioned now, that his thoughts still
+ moved, that he wasn't incapacitated with weeping for at least a week.
+ The boy knew that it wouldn't have been an adaptive response, for brains
+ to evolve to do that.
+ His dark side, certainly, would not do that.
+ Even so, it still felt wrong to be alive and lucid, this morning.
+\end_layout
+
+\begin_layout Standard
+But his resolution to revive Hermione Granger felt -- sufficient, like he
+ was already doing the right thing, bent on the right path, and she would
+ be brought back, and that was all there was to it; grief would have been
+ giving up.
+ There was nothing left to decide, no ambiguity, no conflict to tear at
+ him, and no need to remember what he'd 
+\emph on
+seen
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--
+\end_layout
+
+\begin_layout Standard
+“I'll get dressed,” Harry said.
+\end_layout
+
+\begin_layout Standard
+Professor Flitwick looked rather reluctant, but said in his high voice,
+ “The Headmaster specified you were to be brought to his office directly
+ and without pause, Mr.
+ Potter.
+ I'm sorry.”
+\end_layout
+
+\begin_layout Standard
+Less than a minute later -- Professor Flitwick had sent him straight to
+ the Headmaster's office through the Hogwarts internal Floo -- Harry found
+ himself, still in his pajamas, facing Albus Dumbledore.
+ The Deputy Headmistress was also sitting in another chair, and the Potions
+ Master lurked nearby amid the weird devices, caught in a gaping yawn just
+ as Harry had entered through the fireplace.
+\end_layout
+
+\begin_layout Standard
+“Harry,” the Headmaster said without preamble, “before I say what I must
+ say next, I tell you that Hermione Granger did truly die.
+ The wards recorded it and informed me.
+ The very stones spoke that a witch had died.
+ I tested her body where it lay and those were Hermione Granger's true mortal
+ remains, not any doll or likeness.
+ There is no way known to wizardry by which death may be undone.
+ All this being said, Hermione Granger's remains are now missing from the
+ storeroom where they were placed, and where you guarded them.
+ Did you take them, Harry Potter?”
+\end_layout
+
+\begin_layout Standard
+“No,” Harry said, narrowing his eyes.
+ A glance showed him that Severus was watching him intently.
+\end_layout
+
+\begin_layout Standard
+Dumbledore's gaze was also keen, though not unfriendly.
+ “Is Hermione Granger's body in your possession?”
+\end_layout
+
+\begin_layout Standard
+“No.”
+\end_layout
+
+\begin_layout Standard
+“Do you know where it is?”
+\end_layout
+
+\begin_layout Standard
+“No.”
+\end_layout
+
+\begin_layout Standard
+“Do you know who took it?”
+\end_layout
+
+\begin_layout Standard
+“No,” Harry said, then hesitated.
+ “Besides the obvious probabilistic speculations which are not based upon
+ any specific knowledge of mine.”
+\end_layout
+
+\begin_layout Standard
+The old wizard nodded.
+ “Do you know why it was taken?”
+\end_layout
+
+\begin_layout Standard
+“No.
+ Besides the obvious speculations etcetera.”
+\end_layout
+
+\begin_layout Standard
+“What would those be?” Sharp the ancient eyes.
+\end_layout
+
+\begin_layout Standard
+“If the enemy can notice you running off to consult the Weasley twins during
+ class after Hermione was arrested, and find out about that magic map you
+ said was stolen, then the enemy can wonder why I was guarding Hermione
+ Granger's body.
+ My turn.
+ Did you arrange for Hermione's death in hopes of getting the money back
+ from Lucius?”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+What?
+\emph default
+” said Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+“No,” said the old wizard.
+\end_layout
+
+\begin_layout Standard
+“Did you know or suspect that Hermione Granger would die?”
+\end_layout
+
+\begin_layout Standard
+“I did not know.
+ As for suspicions, I placed her in the most strongly defended position
+ I could, against Voldemort.
+ I did not will her death, nor allow it, nor plan to benefit from it, Harry
+ Potter.
+ Now show me your pouch.”
+\end_layout
+
+\begin_layout Standard
+“It's in my trunk
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--” Harry began.
+\end_layout
+
+\begin_layout Standard
+“Severus,” said the old wizard, and the Potions Master moved forward.
+ “Check his trunk as well, every compartment.”
+\end_layout
+
+\begin_layout Standard
+“My trunk has wards.”
+\end_layout
+
+\begin_layout Standard
+Severus Snape grinned mirthlessly and strode into the green flame.
+\end_layout
+
+\begin_layout Standard
+Dumbledore took out his long dark-grey wand and began to wave it close around
+ Harry's hair, looking like a Muggle using a metal-detector.
+ Before he had reached as far as Harry's neck, Dumbledore stopped.
+\end_layout
+
+\begin_layout Standard
+“The gem upon your ring,” Dumbledore said.
+ “It is no longer a clear diamond.
+ It is brown, the color of Hermione Granger's eyes, and the color of her
+ hair.”
+\end_layout
+
+\begin_layout Standard
+A sudden tension filled the room.
+\end_layout
+
+\begin_layout Standard
+“That's my father's rock,” Harry said.
+ “Transfigured the same as before.
+ I just did it to remember Hermione
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--”
+\end_layout
+
+\begin_layout Standard
+“I must be sure.
+ Take off that ring, Harry, and place it upon my desk.”
+\end_layout
+
+\begin_layout Standard
+Slowly, Harry did so, removing the gem and setting the ring off to the other
+ side of the desk.
+\end_layout
+
+\begin_layout Standard
+Dumbledore pointed his wand at the gem and
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--
+\end_layout
+
+\begin_layout Standard
+A large, undistinguished grey rock jumped into the air from the force of
+ its sudden expansion, hit some invisible barrier in the air above, and
+ then fell with a loud crack upon the Headmaster's desk,
+\end_layout
+
+\begin_layout Standard
+“There's another half-hour of work for me, Transfiguring it again,” Harry
+ said evenly.
+\end_layout
+
+\begin_layout Standard
+Dumbledore resumed his examination.
+ Harry had to remove his left shoe, and take off the toe-ring that was his
+ emergency portkey if someone kidnapped him and took him outside the wards
+ of Hogwarts (and didn't put up anti-Apparition, anti-portkey, anti-phoenix,
+ and anti-time-looping wards, which Severus had warned Harry that any inner-circ
+le Death Eater would certainly do).
+ It was verified that the magic radiating from the toe-ring was indeed the
+ magic of a portkey, and not the magic of a Transfiguration.
+ The rest of Harry was deemed clear.
+\end_layout
+
+\begin_layout Standard
+Not long after, the Potions Master returned, bearing Harry's pouch, and
+ several other magical things which had been in Harry's trunk, which the
+ Headmaster also examined, one by one, even to all the items remaining within
+ the healer's kit.
+\end_layout
+
+\begin_layout Standard
+“Can I go now?” Harry said when it was all done, putting as much cold as
+ he could into his voice.
+ He took up his pouch, and began the process of feeding the grey rock into
+ it.
+ The empty ring went back on his finger.
+\end_layout
+
+\begin_layout Standard
+The old wizard breathed out, slipping his wand back into his sleeve.
+ “I 
+\emph on
+am
+\emph default
+ sorry,” he said.
+ “I had to know.
+ Harry… the Dark Lord has taken Hermione Granger's remains, it seems.
+ I cannot think of anything he would gain thereby, except to send her corpse
+ against you as an Inferius.
+ Severus shall give you certain potions to keep about your person.
+ Be warned now, and be prepared for when you must do what must be done.”
+\end_layout
+
+\begin_layout Standard
+“Will the Inferius have Hermione's mind?”
+\end_layout
+
+\begin_layout Standard
+“No
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--”
+\end_layout
+
+\begin_layout Standard
+“Then it's not her.
+ Can I go? At least to change out of my pyjamas.”
+\end_layout
+
+\begin_layout Standard
+“There is other news, but I shall be brief.
+ The wards of Hogwarts record that no foreign creature has entered, and
+ that it was the Defense Professor who killed Hermione Granger.”
+\end_layout
+
+\begin_layout Standard
+“Um,” Harry said.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thought 1: But I saw the troll kill Hermione.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thought 2: Professor Quirrell Memory-Charmed me and set up the scene that
+ Dumbledore saw when he arrived.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thought 3: Professor Quirrell can't do that, his magic can't touch mine.
+ I saw that in Azkaban
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thought 4: Can I trust those memories?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thought 5: There was clearly some sort of debacle at Azkaban, we wouldn't
+ have needed a rocket if Professor Quirrell hadn't fallen unconscious, and
+ why'd he be unconscious if not
+\begin_inset space ~
+\end_inset
+
+--
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thought 6: Did I ever actually go to Azkaban at all?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thought 7: I clearly practiced controlling Dementors at some point before
+ I scared that Dementor in the Wizengamot.
+ And
+\emph default
+ that 
+\emph on
+was in the newspapers.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Thought 8: Am I accurately remembering the newspapers?
+\end_layout
+
+\begin_layout Standard
+“Um,” Harry said again.
+ “That spell seriously ought to be Unforgiveable.
+ You think Professor Quirrell could have Memory-Charmed
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--”
+\end_layout
+
+\begin_layout Standard
+“No.
+ I went back through time and placed certain instruments to record Hermione's
+ last battle, which I could not quite bear to watch in my own person.” The
+ old wizard looked very grim indeed.
+ “Your guess was right, Harry Potter.
+ Voldemort sabotaged everything we gave Hermione to protect her.
+ Her broomstick lay dead in her hands.
+ Her invisibility cloak did not conceal her.
+ The troll walked in the sunlight unharmed; it was no stray creature, but
+ a weapon pure and aimed.
+ And it was indeed the troll who killed her, with strength alone, so that
+ my wards and webs to detect hostile magics went for naught.
+ The Defense Professor never crossed her path.”
+\end_layout
+
+\begin_layout Standard
+Harry swallowed, shut his eyes, and thought.
+ “So this was an attempted frame on Professor Quirrell.
+ Somehow.
+ It does seem to be the enemy's 
+\emph on
+modus operandi.
+
+\emph default
+ Troll eats Hermione Granger, check the wards, oh look actually the Defense
+ Professor did it, same as last year… no.
+ No, that can't be right.”
+\end_layout
+
+\begin_layout Standard
+“Why not, Mr.
+ Potter?” said the Potions Master.
+ “It seems obvious enough to me
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--”
+\end_layout
+
+\begin_layout Standard
+“That's the problem.”
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The enemy is smart.
+\end_layout
+
+\begin_layout Standard
+Slowly the fog of sleep was drifting out of Harry's mind, and after a full
+ night's sleep his brain could see the things which hadn't been obvious
+ the day before.
+\end_layout
+
+\begin_layout Standard
+Under standard literary convention… the enemy wasn't supposed to look over
+ what you'd done, sabotage the magic items you'd handed out, and then send
+ out a troll rendered undetectable by some means the heroes couldn't figure
+ out even after the fact, so that you might as well have not defended yourself
+ at all.
+ In a book, the point-of-view usually stayed on the main characters.
+ Having the enemy just bypass all the protagonists' work, as a result of
+ planning and actions taken out of literary sight, would be a
+\emph on
+ diabolus ex machina,
+\emph default
+ and dramatically unsatisfying.
+\end_layout
+
+\begin_layout Standard
+But in real life the enemy would think that they were the main character,
+ and they would also be clever, and think things through in advance, even
+ if you didn't see them do it.
+ That was why everything about this felt so disjointed, with parts unexplained
+ and seemingly inexplicable.
+ How had Lucius felt, when Harry had threatened Dumbledore with breaking
+ Azkaban? How had the Aurors above Azkaban felt, seeing the broomstick rise
+ up on a torch of fire?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The enemy is smart.
+\end_layout
+
+\begin_layout Standard
+“The enemy knew perfectly well that you'd turn back time to check what really
+ happened to Hermione, especially since the troll getting into Hogwarts
+ at all tells us that somebody can fool the wards.” Harry shut his eyes,
+ thinking harder, trying to put himself into the enemy's shoes.
+ Why would he, or his dark side, have done something like -- “We're meant
+ to conclude that the enemy has control of what the wards tell us.
+ But that's actually something the enemy can only do with difficulty, or
+ under special conditions; they're trying to create a false appearance of
+ omnipotence.”
+\emph on
+ Like I would.
+
+\emph default
+ “Later, hypothetically, the wards show Professor Sinistra killing someone.
+ We think the wards are just being fooled again, but really, Professor Sinistra
+ was Legilimized and she 
+\emph on
+did
+\emph default
+ do it.”
+\end_layout
+
+\begin_layout Standard
+“Unless that is precisely what the Dark Lord expects us to think,” said
+ Severus Snape, his brow furrowed in concentration.
+ “In which case he does have control of the wards, and Professor Sinistra
+ will be innocent.”
+\end_layout
+
+\begin_layout Standard
+“Does the Dark Lord 
+\emph on
+really
+\emph default
+ use plots with that many levels of meta
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--”
+\end_layout
+
+\begin_layout Standard
+“Yes,” said Dumbledore and Severus.
+\end_layout
+
+\begin_layout Standard
+Harry nodded distantly.
+ “Then this could be a setup to either make us think the wards are telling
+ the truth when they're lying, or a setup to make us think the wards are
+ lying when they're telling the truth, depending on what level the enemy
+ expects us to reason at.
+ But if the enemy is planning to make us trust the wards -- we would have
+ trusted the wards anyway, if we'd been given no reason to distrust them.
+ So there's no need to go to all the work of framing Professor Quirrell
+ in a way that we would realize we were intended to discover, just to trick
+ us into going meta
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--”
+\end_layout
+
+\begin_layout Standard
+“Not so,” said Dumbledore.
+ “If Voldemort has not fully mastered the wards, then the wards had to believe
+ that some Professor's hand was at work.
+ Else they would have cried out at Miss Granger's injury, and not only upon
+ her death.”
+\end_layout
+
+\begin_layout Standard
+Harry reached up a hand and rubbed at his brow, just beneath his hair.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Okay, serious question.
+ If the enemy is that smart, why the heck am I still alive? Is it seriously
+ that hard to poison someone, are there Charms and Potions and bezoars which
+ can cure me of literally anything that could be slipped into my breakfast?Would
+ the wards record it, trace the magic of the murderer?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Could my
+\emph default
+ scar 
+\emph on
+contain the fragment of soul that's keeping the Dark Lord anchored to the
+ world, so he doesn't want to kill me? Instead he's trying to drive off
+ all my friends to weaken my spirit so he can take over my body? It'd explain
+ the Parselmouth thing.
+ The Sorting Hat might not be able to detect a lich-phylactery-thingy.
+ Obvious problem 1, the Dark Lord is supposed to have made his lich-phylactery-t
+hingy in 1943 by killing whatshername and framing Mr.
+ Hagrid.
+ Obvious problem 2, there's no such thing as souls.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Though Dumbledore also thought that my blood was a key ingredient in a ritual
+ to restore the Dark Lord's full strength, which would require keeping me
+ alive until then… now there's a cheery thought.
+\end_layout
+
+\begin_layout Standard
+“Well…” Harry said.
+ “I'm sure of one thing.”
+\end_layout
+
+\begin_layout Standard
+“And that is?”
+\end_layout
+
+\begin_layout Standard
+“Neville needs to be taken out of Hogwarts 
+\emph on
+now.
+
+\emph default
+ He's the obvious next target and no first-year student can survive this
+ level of offence.
+ We're lucky Neville wasn't assassinated yesterday evening, the enemy doesn't
+ have to wait until we're finished mourning to make their next move.” 
+\emph on
+Why didn't the enemy strike while we were distracted?
+\end_layout
+
+\begin_layout Standard
+Dumbledore exchanged glances with Severus, and then with the suddenly tight
+ expression of Professor McGonagall.
+ “Harry,” said the old wizard, “if you send all your friends away yourself,
+ that is just the same as if Voldemort
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--”
+\end_layout
+
+\begin_layout Standard
+“I will be 
+\emph on
+fine
+\emph default
+ I can do without Neville for a couple of extra months it's not like you
+ were planning to make my friends stay here over the summer and that is
+ just plain 
+\emph on
+not sufficient justification
+\emph default
+ to let him get killed! Professor McGonagall
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+--”
+\end_layout
+
+\begin_layout Standard
+“I quite agree,” said the Scottish witch.
+ She frowned.
+ “I extremely agree.
+ I agree to the point where… I'm having some trouble figuring out how to
+ express this, Albus…”
+\end_layout
+
+\begin_layout Standard
+“To the point where you're going to haul him out of there yourself, regardless
+ of what anyone else says, because it's no excuse to say you were only following
+ orders if Neville gets killed?” Harry said.
+\end_layout
+
+\begin_layout Standard
+Professor McGonagall closed her eyes briefly.
+ “Yes, but surely there ought to be some way to be responsible without threats
+ of unilateral action.”
+\end_layout
+
+\begin_layout Standard
+The Headmaster sighed.
+ “No need.
+ Go, Minerva.”
+\end_layout
+
+\begin_layout Standard
+“Wait,” the Potions Master said, just as Professor McGonagall, moving rather
+ swiftly, was taking a pinch of green dust from the Floo-vase.
+ “We should not call attention to the boy, as the Headmaster called attention
+ to the Weasley twins.
+ It would be wiser, I think, if Mr.
+ Longbottom's grandmother took him from Hogwarts.
+ Let him stay in his Common Room for now; the Dark Lord does not seem able
+ to act so openly.”
+\end_layout
+
+\begin_layout Standard
+There was another long exchange of glances among the four, and finally Harry
+ nodded, followed by Professor McGonagall.
+\end_layout
+
+\begin_layout Standard
+“In that case,” said Harry, “I'm sure of one other thing.”
+\end_layout
+
+\begin_layout Standard
+“And that is?” said Dumbledore.
+\end_layout
+
+\begin_layout Standard
+“I very much need to visit the washroom, and I would also like to change
+ out of these pyjamas.”
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“By the way,” Harry said as he and the Headmaster emerged from Floo into
+ the empty office of the Ravenclaw Head of House.
+ “One last quick question I wanted to ask just you.
+ That sword the Weasley twins pulled out of the Sorting Hat.
+ That was the Sword of Gryffindor, wasn't it?”
+\end_layout
+
+\begin_layout Standard
+The old wizard turned, face neutral.
+ “What makes you think that, Harry?”
+\end_layout
+
+\begin_layout Standard
+“The Sorting Hat yelled 
+\emph on
+Gryffindor!
+\emph default
+ just before handing it out, the sword had a ruby pommel and gold letters
+ on the blade, and the Latin script said 
+\emph on
+Nothing better
+\emph default
+.
+ Just a hunch.”
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Nihil supernum,
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ said the old wizard.
+ “That is not
+\emph on
+ quite
+\emph default
+ what it means.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded.
+ “Mmhm.
+ What'd you do with it?”
+\end_layout
+
+\begin_layout Standard
+“I retrieved it from where it fell, and placed it in a secure place,” the
+ old wizard said.
+ He gave Harry a stern look.
+ “I hope you are not greedy for it yourself, young Ravenclaw.”
+\end_layout
+
+\begin_layout Standard
+“Not at all, just want to make sure you're not keeping it permanently from
+ its rightful wielders.
+ So the Weasley twins are the Heir of Gryffindor, then?”
+\end_layout
+
+\begin_layout Standard
+“The Heir of Gryffindor?” Dumbledore said, looking surprised.
+ Then the old wizard smiled, blue eyes twinkling brightly.
+ “Ah, Harry, Salazar Slytherin may have built a Chamber of Secrets into
+ Hogwarts, but Godric Gryffindor was not much given to such extravagances.
+ We have seen only that Godric left his Sword to the defence of Hogwarts,
+ if a worthy student ever faced a foe they could not defeat alone.”
+\end_layout
+
+\begin_layout Standard
+“That's not the same as saying no.
+ Don't think I didn't notice that you didn't actually say no.”
+\end_layout
+
+\begin_layout Standard
+“I did not live in those years, Harry, and I do not know all that Godric
+ Gryffindor may or may not have done
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“Do you in fact assign greater than fifty percent subjective probability
+ that there is something like a Heir of Gryffindor and one or both Weasley
+ twins are it.
+ Yes or no, evasion means yes.
+ You're not going to succeed in distracting me, no matter how much I have
+ to go to the bathroom.”
+\end_layout
+
+\begin_layout Standard
+The old wizard sighed.
+ “Yes, Fred and George Weasley are the Heir of Gryffindor.
+ I beg you not to speak of it to them, not yet.”
+\end_layout
+
+\begin_layout Standard
+Harry nodded, and turned to go.
+ “I'm surprised,” Harry said.
+ “I read a little about Godric Gryffindor's historical life.
+ The Weasley twins are… well, they're awesome in various ways, but they
+ don't seem much like the Godric in the history books.”
+\end_layout
+
+\begin_layout Standard
+“Only a man exceedingly proud and vain,” Dumbledore said quietly, as he
+ turned back to the Floo roaring up again with green flames, “would believe
+ that his heir should be like himself, rather than like who he wished that
+ he could be.”
+\end_layout
+
+\begin_layout Standard
+The Headmaster stepped into green fire, and was gone.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+
+\emph on
+The second meeting (in a small cubby off the Hufflepuff Common Room):
+\end_layout
+
+\begin_layout Standard
+\noindent
+Neville Longbottom's face was drawn up in anguish, as he spoke with no one
+ to hear, to the empty air.
+\end_layout
+
+\begin_layout Standard
+“Seriously,” the empty air said back to him.
+ “I'm wearing an invisibility cloak with extra anti-detection charms just
+ to walk through the hallways because 
+\emph on
+I
+\emph default
+ don't want to be killed.
+ My parents would have me out of Hogwarts in an instant if the Headmaster
+ allowed it.
+ Neville, your getting the heck out of Hogwarts is common sense, it has
+ 
+\emph on
+nothing to do
+\emph default
+ with
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“I betrayed you, General,” Neville said, his voice around as hollow as any
+ normal eleven-year-old boy could reasonably manage.
+ “I didn't even do it the Chaotic way.
+ I conformed to authority and tried to make you conform to authority too.
+ What's that you always say, about how in the Chaos Legion, a soldier who
+ can only obey orders is useless?”
+\end_layout
+
+\begin_layout Standard
+“Neville,” the empty air said firmly.
+ The pressure of two hands, beneath thin cloth, came firmly to bear on Neville's
+ shoulders; and the voice moved closer to him.
+ “You weren't blindly obeying authority, you were trying to protect me.
+ It's true that in this chaotic world, soldiers who can only follow rules
+ and regulations are worthless.
+ However, soldiers who follow rules for the sake of protecting their friends
+ are
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“Slightly better than worthless?” Neville said bitterly.
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Significantly
+\emph default
+ better than worthless.
+ Neville, you made an error of judgement.
+ It cost me around six seconds.
+ Now it could be that Hermione's injuries were just barely fatal, but even
+ then, I don't think six seconds was actually enough time for the troll
+ to take an extra bite of Hermione.
+ In the counter-factual world where you didn't step in front of me, Hermione
+ still died.
+ Now, I could stand here listing out the first dozen ways that Hermione
+ would be alive if I hadn't been stupid
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“You? 
+\emph on
+You
+\emph default
+ ran right out after her.
+ 
+\emph on
+I'm
+\emph default
+ the one who tried to stop you.
+ It's my fault if it's anyone's,” Neville said bitterly.
+\end_layout
+
+\begin_layout Standard
+The empty air went silent at this for a while.
+\end_layout
+
+\begin_layout Standard
+“Wow,” the empty air finally said.
+ “Wow.
+ That puts a pretty different perspective on things, I have to say.
+ I'm going to remember this the next time I feel an impulse to blame myself
+ for something.
+ Neville, the term in the literature for this is `egocentric bias', it means
+ that you experience everything about your own life but you don't get to
+ experience everything else that happens in the world.
+ There was way, way more going on than you running in front of me.
+ You're going to spend weeks remembering that thing you did there for six
+ seconds, I can tell, but nobody else is going to bother thinking about
+ it.
+ Other people spend a lot less time thinking about your past mistakes than
+ you do, just because you're not the centre of their worlds.
+ I 
+\emph on
+guarantee
+\emph default
+ to you that nobody except you has even 
+\emph on
+considered
+\emph default
+ blaming Neville Longbottom for what happened to Hermione.
+ Not for a fraction of a second.
+ You are being, if you will pardon the phrase, a silly-dilly.
+ Now shut up and say goodbye.”
+\end_layout
+
+\begin_layout Standard
+“I don't want to say goodbye,” Neville said.
+ His voice was trembling, but he managed not to cry.
+ “I want to stay here and fight with you against -- against whatever's happening.
+”
+\end_layout
+
+\begin_layout Standard
+The empty air moved closer to him, and embraced him in a hug, and Harry
+ Potter's voice whispered, “Tough luck.”
+\end_layout
+
+\end_body
+\end_document

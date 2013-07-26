@@ -526,6 +526,13 @@ filename "093.lyx"
 \end_inset
 
 
+\begin_inset CommandInset include
+LatexCommand include
+filename "094.lyx"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
