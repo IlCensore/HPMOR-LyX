@@ -735,9 +735,16 @@ And Harry, still invisible, fallen to his knees.
  The greater danger had passed, and now Harry was just trying not to collapse,
  to keep the spell going at the lower level.
  He'd drained something, hopefully not lost something 
-\emph on
--
-\emph default
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
  he should have known, should have remembered, that it wasn't mere magic
  that fueled the Patronus Charm 
 \begin_inset ERT
@@ -1199,7 +1206,11 @@ The form of the sallow, bearded man became visible then.
 \emph on
 Now.
 \emph default
-“
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1590,7 +1601,6 @@ status open
 
 \begin_layout Plain Layout
 
-\emph on
 --
 \end_layout
 
