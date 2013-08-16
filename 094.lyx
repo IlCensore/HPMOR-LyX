@@ -580,14 +580,25 @@ Thought 8: Am I accurately remembering the newspapers?
 “Um,” Harry said again.
  “That spell seriously ought to be Unforgiveable.
  You think Professor Quirrell could have Memory-Charmed
-\emph on
+\lang english
 
 \begin_inset space ~
 \end_inset
 
 
-\emph default
---”
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--”}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

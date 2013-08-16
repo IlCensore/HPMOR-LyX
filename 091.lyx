@@ -580,7 +580,28 @@ fairness
 real
 \emph default
  government has to say about that.
- I know an MP or three --”
+ I know an 
+\noun on
+mp
+\noun default
+ or three
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--”}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
