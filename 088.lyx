@@ -233,8 +233,17 @@ Seems to have gone and dropped an entire soup tureen on herself
 \begin_inset space ~
 \end_inset
 
---
-\begin_inset Quotes erd
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--”}
+\end_layout
+
 \end_inset
 
 
@@ -2405,12 +2414,12 @@ can't
 , this could all be a trap, they could be after 
 \emph on
 you
+\emph default
+
 \begin_inset space ~
 \end_inset
 
--
-\emph default
--
+--
 \begin_inset Quotes erd
 \end_inset
 
@@ -2988,7 +2997,11 @@ Young man, I insist that you
 \begin_layout Standard
 Harry's brain flagged this as 
 \emph on
-I'm talking to NPCs again
+I'm talking to 
+\noun on
+npc
+\noun default
+s again
 \emph default
  and he spun on his heel and dashed back for the broomstick.
 \end_layout
