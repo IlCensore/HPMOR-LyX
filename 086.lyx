@@ -8230,7 +8230,25 @@ status open
 
 \end_inset
 
- the door swung shot and locked behind the departing students.
+ the door swung shut
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Changed from 
+\begin_inset Quotes eld
+\end_inset
+
+swung shot
+\begin_inset Quotes erd
+\end_inset
+
+ on 2013-08-27.
+\end_layout
+
+\end_inset
+
+ and locked behind the departing students.
 \end_layout
 
 \begin_layout Standard
