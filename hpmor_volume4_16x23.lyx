@@ -46,6 +46,7 @@
 
 
 \frenchspacing
+\usepackage{microtype}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -57,7 +58,7 @@ initials
 \inputencoding auto
 \fontencoding 
 \font_roman Garamond Premier Pro
-\font_sans Cronos
+\font_sans Myriad Pro
 \font_typewriter Inconsolata
 \font_default_family default
 \use_non_tex_fonts true
