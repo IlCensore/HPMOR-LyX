@@ -57,7 +57,7 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding 
-\font_roman Garamond Premier Pro
+\font_roman Minion Pro
 \font_sans Myriad Pro
 \font_typewriter Inconsolata
 \font_default_family default
@@ -231,9 +231,7 @@ baselineskip}
 \backslash
 HUGE
 \backslash
-sffamily 
-\backslash
-textbf {Harry Potter}}
+sffamily Harry Potter}
 \backslash
 
 \backslash
@@ -265,9 +263,7 @@ baselineskip]
 \backslash
 HUGE
 \backslash
-sffamily 
-\backslash
-textbf {METHODS of RATIONALITY}}
+sffamily METHODS of RATIONALITY}
 \backslash
 
 \backslash
@@ -417,7 +413,6 @@ url{http://dinosaurusgede.deviantart.com/}
 \align center
 
 \family sans
-\series bold
 \size larger
 Harry Potter and the Methods of Rationality
 \end_layout
@@ -551,6 +546,13 @@ filename "096.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "097.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "098.lyx"
 
 \end_inset
 
