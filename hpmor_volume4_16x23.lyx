@@ -57,8 +57,8 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding 
-\font_roman Minion Pro
-\font_sans Myriad Pro
+\font_roman Garamond Premier Pro
+\font_sans Gill Sans Std
 \font_typewriter Inconsolata
 \font_default_family default
 \use_non_tex_fonts true
@@ -757,7 +757,7 @@ LaTeX
 
 using Garamond Premier Pro and 
 \family sans
-Chronos
+Gill Sans
 \end_layout
 
 \end_body
