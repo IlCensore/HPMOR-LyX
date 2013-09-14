@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume3.lyx
+\master hpmor_volume3_16x23.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
