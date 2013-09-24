@@ -727,9 +727,13 @@ If I try to change it, if
 \emph on
 tries to change it, really terrible, awful, no good, extremely bad things
  will happen.
- And then it'll come to pass anyway…
+ And then it'll come to pass anyway
 \emph default
-"Why are you doing this?”
+… 
+\begin_inset Quotes eld
+\end_inset
+
+Why are you doing this?”
 \end_layout
 
 \begin_layout Standard
@@ -848,7 +852,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Three
+Three
 \emph default
  older bullies, Daphne's eyes recognized Reese Belka who was a top lieutenant
  in one of the seventh-year armies, and Randolph Lee who was number two
