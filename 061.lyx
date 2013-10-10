@@ -2242,8 +2242,25 @@ is
  Animagus potion.
  It is too clever and too impossible, which was ever Voldemort's signature
  since the days he was known as Tom Riddle.
- Anyone who wished to forge that signature must needs be as cunning as Voldemort
- himself to do so.
+ Anyone who wished to forge that signature must 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Removed 
+\begin_inset Quotes eld
+\end_inset
+
+needs
+\begin_inset Quotes erd
+\end_inset
+
+, probably a mistake.
+\end_layout
+
+\end_inset
+
+ be as cunning as Voldemort himself to do so.
  And there is no one else in the world who would accidentally overestimate
  my wit, and leave me a message I cannot understand at all.”
 \end_layout
