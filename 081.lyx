@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass memoir
+\begin_preamble
+\setcounter{chapter}{80}
+\end_preamble
 \use_default_options true
 \master hpmor_volume3_16x23.lyx
 \begin_modules
@@ -2012,7 +2015,25 @@ It does not occur to them to second-guess the application of such reasoning
  Indeed, they are not consciously aware that they are using story-reasoning
  on real life.
  As for scrutinizing the Boy-Who-Lived with the same careful logic they
- would use on an political alliance or a business arrangement 
+ would use on a
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+was 
+\begin_inset Quotes eld
+\end_inset
+
+an
+\begin_inset Quotes erd
+\end_inset
+
+, corrected by EY on 20131030
+\end_layout
+
+\end_inset
+
+ political alliance or a business arrangement 
 \begin_inset ERT
 status open
 
