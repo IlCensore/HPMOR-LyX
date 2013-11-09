@@ -332,8 +332,13 @@ status open
  
 \emph on
 He knows I won't remember.
+
 \emph default
-"Why 
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why 
 \emph on
 did
 \emph default
@@ -542,13 +547,13 @@ status open
 \begin_layout Standard
 
 \emph on
- Sad.
+Sad.
 \end_layout
 
 \begin_layout Standard
 
 \emph on
- Just too pitiful.
+Just too pitiful.
 \end_layout
 
 \begin_layout Standard
@@ -1025,7 +1030,7 @@ The Sorting Hat had never offered her Gryffindor…
 \begin_layout Standard
 
 \emph on
- If you can't
+If you can't
 \emph default
  
 \emph on
