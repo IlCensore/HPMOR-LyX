@@ -1926,9 +1926,14 @@ status open
 ” A frantic, nerve-racking moment while he figured out how to say it without
  using Harry-words like 
 \emph on
-false positive.
+false positive
 \emph default
-"It can get the witches to go there if any of them is just 
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It can get the witches to go there if any of them is just 
 \emph on
 friends
 \emph default
