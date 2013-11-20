@@ -2847,7 +2847,11 @@ her
 \emph on
 on?
 \emph default
-"That's 
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's 
 \begin_inset ERT
 status open
 
