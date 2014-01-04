@@ -1554,7 +1554,11 @@ status open
 \end_inset
 
 Thank you, Mr.
- Potter."
+ Potter.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2007,7 +2011,7 @@ Harry's eyebrows went up before he could stop himself.
 \begin_layout Standard
 
 \emph on
- Um,
+Um,
 \emph default
  said the voice of Ravenclaw within him.
  
@@ -2058,7 +2062,7 @@ His Ravenclaw side divided into three.
 \begin_layout Standard
 
 \emph on
- Probability estimate,
+Probability estimate,
 \emph default
  said Ravenclaw One, who was acting as moderator.
  
@@ -2070,7 +2074,7 @@ That the Dark Lord is alive, and as smart as we are, and hence a genuine
 \begin_layout Standard
 
 \emph on
- Why aren't all his enemies already dead?
+Why aren't all his enemies already dead?
 \emph default
  said Ravenclaw Two, who was prosecuting.
 \end_layout
@@ -2078,7 +2082,7 @@ That the Dark Lord is alive, and as smart as we are, and hence a genuine
 \begin_layout Standard
 
 \emph on
- Note,
+Note,
 \emph default
  said Ravenclaw One, 
 \emph on
@@ -2092,7 +2096,7 @@ we had already thought of that argument so we can't use it to shift belief
 \begin_layout Standard
 
 \emph on
- But what's the actual flaw in the logic?
+But what's the actual flaw in the logic?
 \emph default
  said Ravenclaw Two.
  
@@ -2106,7 +2110,7 @@ In worlds with a smart Lord Voldemort, everyone in the Order of the Phoenix
 \begin_layout Standard
 
 \emph on
- Is that really certain?
+Is that really certain?
 \emph default
  asked Ravenclaw Three, who'd been appointed as the defender.
  
@@ -2132,7 +2136,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Like what?
+Like what?
 \emph default
  demanded Ravenclaw Two.
  
@@ -2155,7 +2159,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Let Three talk,
+Let Three talk,
 \emph default
  said Ravenclaw One.
 \end_layout
@@ -2163,7 +2167,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Okay… look,
+Okay… look,
 \emph default
  said Ravenclaw Three.
  
@@ -2191,7 +2195,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Imperius them too,
+Imperius them too,
 \emph default
  interjected Ravenclaw Two.
 \end_layout
@@ -2234,7 +2238,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Complexity penalty!
+Complexity penalty!
 \emph default
  cried Ravenclaw Two.
  
@@ -2275,7 +2279,7 @@ anyone taking over the Ministry with a couple of well-placed Imperius curses.
 \begin_layout Standard
 
 \emph on
- But,
+But,
 \emph default
  said Ravenclaw Two, 
 \emph on
@@ -2293,7 +2297,7 @@ even taking that into account… it really seems like there should've been
 \begin_layout Standard
 
 \emph on
- Maybe Lord Voldemort did have more creative ideas,
+Maybe Lord Voldemort did have more creative ideas,
 \emph default
  replied Ravenclaw Three, 
 \emph on
@@ -2320,7 +2324,7 @@ the other major governments simultaneously.
 \begin_layout Standard
 
 \emph on
- You're assuming he wants to conquer the whole world,
+You're assuming he wants to conquer the whole world,
 \emph default
  noted Ravenclaw Two.
 \end_layout
@@ -2328,7 +2332,7 @@ the other major governments simultaneously.
 \begin_layout Standard
 
 \emph on
- Trelawney prophesized that he would be our equal,
+Trelawney prophesized that he would be our equal,
 \emph default
  intoned Ravenclaw Three solemnly.
  
@@ -2339,7 +2343,7 @@ Therefore, he wanted to take over the world.
 \begin_layout Standard
 
 \emph on
- And if he is your equal, and you do have to fight him 
+And if he is your equal, and you do have to fight him 
 \begin_inset ERT
 status open
 
@@ -2389,7 +2393,7 @@ Then Harry shook his head, dismissing the gloomy line his reasoning had
 \begin_layout Standard
 
 \emph on
- Prior odds that someone attempting an immortality ritual would actually
+Prior odds that someone attempting an immortality ritual would actually
  have it work…
 \end_layout
 
@@ -2403,7 +2407,7 @@ Call it one to a thousand, at a generous overestimate; it was not the case
 \begin_layout Standard
 
 \emph on
- What if the Dark Lord
+What if the Dark Lord
 \emph default
  is 
 \emph on
@@ -2594,7 +2598,7 @@ In the fireplace at one side of the Headmaster's office, the flames suddenly
 \begin_layout Standard
 
 \emph on
- Hypothesis: Hermione Granger
+Hypothesis: Hermione Granger
 \emph default
 
 \begin_inset Newline newline
@@ -2602,7 +2606,7 @@ In the fireplace at one side of the Headmaster's office, the flames suddenly
 
 
 \emph on
- (April 8th, 1992, 6:53pm)
+(April 8th, 1992, 6:53pm)
 \end_layout
 
 \begin_layout Quote
@@ -3163,12 +3167,12 @@ Dean and Seamus nodded solemnly.
 \begin_layout Standard
 
 \emph on
- Hypothesis: G.
+Hypothesis: G.
  L.
 \begin_inset Newline newline
 \end_inset
 
- (April 8th, 1992, 8:08pm)
+(April 8th, 1992, 8:08pm)
 \end_layout
 
 \begin_layout Quote
@@ -4550,12 +4554,18 @@ your
 \end_layout
 
 \begin_layout Standard
-
-\emph on
 \begin_inset Quotes eld
 \end_inset
 
-Neither of you?"
+
+\emph on
+Neither of you?
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4929,7 +4939,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Hypothesis: Gilderoy Lockhart: END
+Hypothesis: Gilderoy Lockhart: END
 \end_layout
 
 \begin_layout Quote
@@ -4946,7 +4956,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Hypothesis: Dumbledore
+Hypothesis: Dumbledore
 \emph default
 
 \begin_inset Newline newline
@@ -4954,7 +4964,7 @@ status open
 
 
 \emph on
- (April 9th, 1992, 5:32pm)
+(April 9th, 1992, 5:32pm)
 \end_layout
 
 \begin_layout Quote
@@ -5154,7 +5164,7 @@ had
 \begin_layout Standard
 
 \emph on
- But if it's you behind all of this, Professor, you might have shaped your
+But if it's you behind all of this, Professor, you might have shaped your
  plans to frame the Headmaster, and taken care to cast suspicion on him
  in advance.
 \end_layout
@@ -5257,7 +5267,7 @@ The Defense Professor was giving Harry one of those slit-eyed
 \begin_layout Standard
 
 \emph on
- Draco?
+Draco?
 \emph default
  Draco had been interrogated under Veritaserum 
 \begin_inset ERT
@@ -5722,7 +5732,7 @@ were
 \begin_layout Standard
 
 \emph on
- HE IS COMING.
+HE IS COMING.
  THE ONE WHO WILL TEAR APART THE VERY
 \begin_inset space ~
 \end_inset
@@ -6031,7 +6041,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Hypothesis: The Defense Professor
+Hypothesis: The Defense Professor
 \emph default
 
 \begin_inset Newline newline
@@ -6039,7 +6049,7 @@ status open
 
 
 \emph on
- (April 8th, 1992, 8:37pm)
+(April 8th, 1992, 8:37pm)
 \end_layout
 
 \begin_layout Quote
@@ -6154,7 +6164,7 @@ vroop-vroop-vroop
 \begin_layout Standard
 
 \emph on
- Vroop… vroop… vroop
+Vroop… vroop… vroop
 \emph default
 …
 \end_layout
@@ -6413,7 +6423,7 @@ paranoid.
 \begin_layout Standard
 
 \emph on
- You don't know Professor Quirrell,
+You don't know Professor Quirrell,
 \emph default
  Harry did not say.
  “It's an easy theory to test,” Harry said out loud.
@@ -6604,7 +6614,7 @@ There seemed to be a fight going on inside Harry's mind between Hufflepuff
 \begin_layout Standard
 
 \emph on
- It
+It
 \emph default
  is 
 \emph on
@@ -6624,7 +6634,7 @@ I mean, do you actually believe that under natural circumstances, anyone
 \begin_layout Standard
 
 \emph on
- This from an orphan who was raised unaware of his heritage,
+This from an orphan who was raised unaware of his heritage,
 \emph default
  commented Harry's Inner Critic.
  
@@ -6648,7 +6658,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Yes,
+Yes,
 \emph default
  replied the central Harry over the distant vroop-ing noise in the background,
  
@@ -6659,7 +6669,7 @@ it's a very sad life we lead and YOU'RE NOT HELPING.
 \begin_layout Standard
 
 \emph on
- There's only one thing to do at this point,
+There's only one thing to do at this point,
 \emph default
  said Ravenclaw.
  
@@ -6670,7 +6680,7 @@ And we all know what it is, so why argue?
 \begin_layout Standard
 
 \emph on
- But,
+But,
 \emph default
  Harry replied, 
 \emph on
@@ -7106,7 +7116,7 @@ couldn't
 \begin_layout Standard
 
 \emph on
- It only takes a little cracking…
+It only takes a little cracking…
 \end_layout
 
 \begin_layout Standard
@@ -7282,7 +7292,7 @@ Professor McGonagall nodded firmly.
 \begin_layout Standard
 
 \emph on
- Hypothesis: Severus Snape
+Hypothesis: Severus Snape
 \begin_inset Newline newline
 \end_inset
 
@@ -7970,13 +7980,17 @@ status open
 \end_layout
 
 \begin_layout Standard
-
-\emph on
 \begin_inset Quotes eld
 \end_inset
 
-No!"
+
+\emph on
+No!
 \emph default
+
+\begin_inset Quotes erd
+\end_inset
+
  said Professor McGonagall.
  “Oh, for pity's sake 
 \begin_inset ERT
@@ -8012,7 +8026,7 @@ The other shoe finally dropped.
 \begin_layout Standard
 
 \emph on
- He was
+He was
 \emph default
  still 
 \emph on
@@ -8031,7 +8045,7 @@ third
 \begin_layout Standard
 
 \emph on
- Of course, that was before I gave him my helpful relationship advice.
+Of course, that was before I gave him my helpful relationship advice.
 \end_layout
 
 \begin_layout Standard
@@ -8078,7 +8092,7 @@ There was a long silence.
 \begin_layout Standard
 
 \emph on
- What would he do then?
+What would he do then?
 \end_layout
 
 \begin_layout Standard
@@ -8102,7 +8116,7 @@ g the Potions Master for years.
 \begin_layout Standard
 
 \emph on
- Surely
+Surely
 \emph default
  Severus was no longer the man he'd once been, that angry and terribly foolish
  young man who'd brought the prophecy before Voldemort in exchange for being
@@ -8336,7 +8350,7 @@ The Potions Master's voice was almost a whisper.
 \begin_layout Standard
 
 \emph on
- You know,
+You know,
 \emph default
  said Harry's Slytherin side, 
 \emph on
@@ -8358,7 +8372,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Shut up.
+Shut up.
  Overruled.
 \end_layout
 
@@ -8545,7 +8559,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Stand aside, woman! For you I am not come, only the boy.
+Stand aside, woman! For you I am not come, only the boy.
 \end_layout
 
 \begin_layout Standard
@@ -8585,7 +8599,7 @@ status open
 \begin_layout Standard
 
 \emph on
- I give you this rare chance to flee.
+I give you this rare chance to flee.
 \end_layout
 
 \begin_layout Standard
@@ -8675,7 +8689,7 @@ status open
 \begin_layout Standard
 
 \emph on
- Very well, I accept the bargain.
+Very well, I accept the bargain.
 \end_layout
 
 \begin_layout Standard
@@ -8776,7 +8790,7 @@ Slowly, like a body floating to the surface of water, Harry returned from
 \begin_layout Standard
 
 \emph on
- She died thinking that she'd failed, and that the Dark Lord was going to
+She died thinking that she'd failed, and that the Dark Lord was going to
  kill her baby next.
  That's pain.
 \end_layout
