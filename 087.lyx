@@ -2123,7 +2123,15 @@ status open
 \begin_layout Standard
 “You were being 
 \emph on
-careful."
+careful
+\emph default
+.
+\emph on
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \emph default
  She would have
 \emph on
@@ -2147,9 +2155,12 @@ more.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
 
 \emph on
- "What?
+What?
 \emph default
 ” she screeched at him, at the top of her lungs inside their Quieting barrier.
 \end_layout
@@ -2303,7 +2314,15 @@ Harry shoved himself up from the table and took a staggering step back,
  even as he brought up his arms to wave frantically.
 
 \emph on
- "That's not why I did it! I did it because we're friends!
+ 
+\emph default
+
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+That's not why I did it! I did it because we're friends!
 \emph default
 ”
 \end_layout
@@ -2474,8 +2493,12 @@ status open
 “It's okay to not be normal,” she said, feeling increasingly desperate and
  confused.
  
+\begin_inset Quotes eld
+\end_inset
+
+
 \emph on
-"I'm
+I'm
 \emph default
  okay with it 
 \begin_inset ERT
