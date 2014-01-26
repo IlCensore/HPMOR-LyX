@@ -138,28 +138,8 @@ The fourth meeting
 (4:38pm, April 17th 1992)
 \end_layout
 
-\begin_layout Initial
-\begin_inset Argument
-status open
-
-\begin_layout Plain Layout
-T
-\end_layout
-
-\end_inset
-
-he
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- man wearing the worn, warm coat, with three faint scars etched forever
+\begin_layout Standard
+The man wearing the worn, warm coat, with three faint scars etched forever
  into his cheek, observed Harry Potter as closely as he could while the
  boy looked around politely at the rows of cottages.
  For someone whose best friend had died yesterday, Harry Potter seemed strangely
@@ -178,17 +158,6 @@ with you or anyone.
  There had been only one thing Remus Lupin had thought of that might help,
  after he'd received the owls from Professor McGonagall and that strange
  man Quirinus Quirrell.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -757,7 +726,6 @@ status open
 
 \begin_layout Plain Layout
 
-\noun on
 
 \backslash
 
@@ -773,7 +741,6 @@ status open
 
 \begin_layout Plain Layout
 
-\noun on
 
 \backslash
 
