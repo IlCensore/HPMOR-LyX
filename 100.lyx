@@ -1075,7 +1075,7 @@ Go
 \begin_layout Standard
 
 \emph on
-Draco turned and fled headlong into the woods,with the branches whipping
+Draco turned and fled headlong into the woods, with the branches whipping
  at his face.
  Behind him, Draco heard another terrible hiss, and Harry's voice rising,
  crying something that Draco couldn't make out from the distance; Draco
@@ -1433,9 +1433,11 @@ There was a sharp tearing sound, and a cut appeared across the wood.
 \end_layout
 
 \begin_layout Standard
-
+“
 \emph on
-“Diffindo!”
+Diffindo!
+\emph default
+”
 \end_layout
 
 \begin_layout Standard
@@ -1448,9 +1450,9 @@ Another cut.
 \end_layout
 
 \begin_layout Standard
-
+“
 \emph on
-“Diffindo!
+Diffindo!
 \emph default
 ” Harry had aimed at a branch this time, and it plummeted to the ground
  with a sound of twigs and leaves.
