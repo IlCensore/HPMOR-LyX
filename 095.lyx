@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
@@ -59,13 +59,13 @@ initials
 \font_roman Garamond Premier Pro
 \font_sans Cronos Pro
 \font_typewriter Inconsolata
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
 \font_osf true
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format pdf4
 \output_sync 0
@@ -76,15 +76,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -139,7 +148,7 @@ The third meeting
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -626,8 +635,27 @@ can't
  I speak not of blood, I speak of how you spent your childhood years.
  There is a freedom of thought in that, true.
  But there is also wisdom in the caution of wizardkind.
- It has been three hundred and twenty-three years since the country of magical
- Italy was ruined by one man's folly.
+ It has been three hundred and twenty-three years since the magical territories
+ of Sicily were
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+EY 2014-07-15.
+ Previously: 
+\begin_inset Quotes eld
+\end_inset
+
+the country of magical Italy was
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ ruined by one man's folly.
  Such incidents were more common in the years when Hogwarts was raised.
  Commoner still, in the aftertime of Merlin.
  Of the time before Merlin, little remains to study.”
