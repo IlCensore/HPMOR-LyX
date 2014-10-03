@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass memoir
+\begin_preamble
+\usepackage{url}
+\end_preamble
 \use_default_options true
 \master hpmor_volume2_16x23.lyx
 \begin_modules
@@ -16,14 +19,14 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman times
-\font_sans default
-\font_typewriter default
+\font_roman EB Garamond
+\font_sans Lato
+\font_typewriter Latin Modern Mono
 \font_math auto
 \font_default_family default
-\use_non_tex_fonts false
+\use_non_tex_fonts true
 \font_sc false
-\font_osf false
+\font_osf true
 \font_sf_scale 100
 \font_tt_scale 100
 \graphics default
@@ -926,6 +929,20 @@ Now if you'll pardon me, my little ponies, I have an eternal night to rule
 
 \begin_layout Section*
 THE VILLAGE HIDDEN IN THE CLARITY
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+(This has now inspired an extended fanfiction, 
+\emph on
+Lighting Up the Dark
+\emph default
+ by Velorien.)
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1433,14 +1450,14 @@ I have a truly marvelous story for this crossover which this margin is too
 \begin_layout Section*
 UTILITARIAN TWILIGHT
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Written after I heard Alicorn was writing a Twilight fanfic, but before
  I read 
-\bar under
+\emph on
 Luminosity
-\bar default
+\emph default
 .
  It's obvious if you're one of us.
 \end_layout
@@ -1600,7 +1617,7 @@ Go back to what you were doing.
 \begin_layout Section*
 RATIONALIST HAMLET
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1615,6 +1632,25 @@ Contributed by
 HonoreDB
 \shape default
  on LessWrong, reposted with permission.
+ HonoreDB has now extended this to a complete ebook entitled 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+A Will Most Incorrect to Heaven: The Tragedy of Prince Hamlet and the Philosophe
+r's Stone
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ available for $3 at 
+\family typewriter
+makefoil.com
+\family default
+.
+ yes, really.
 \end_layout
 
 \end_inset
