@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
@@ -19,13 +19,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -36,15 +36,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -78,7 +87,7 @@ Taboo Tradeoffs, Aftermath III, Distance
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -1326,39 +1335,25 @@ Let's go.
 All he had to do was step forward and touch the phoenix's talons, and it
  would take him where he needed to be, where he kept thinking he ought to
  be, down into the central pit of Azkaban.
- Harry could see the image in his mind, shining with unbearably clarity,
+ Harry could see the image in his mind, shining with unbearable clarity,
  the image of himself suddenly smiling with joyous release as he threw all
  his fears away and 
 \emph on
 chose
 \emph default
- 
-\begin_inset ERT
-status open
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
-“But I 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“But I
+\begin_inset space ~
 \end_inset
 
-” Harry whispered, not even aware of what he was saying.
+--” Harry whispered, not even aware of what he was saying.
  Harry lifted his shaking hands to wipe at his eyes from which tears had
  sprung, as the phoenix hovered before him with great wing-sweeps.
  “But I 
@@ -1372,18 +1367,11 @@ status open
 
 \end_inset
 
- there's other people I also have to save, other things I have to do 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ there's other people I also have to save, other things I have to do
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1391,18 +1379,13 @@ The fire-bird let out a piercing scream, and the boy flinched back as though
  from a blow.
  It wasn't a command, it wasn't an objection, it was the 
 \emph on
-knowledge 
-\begin_inset ERT
-status open
+knowledge
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1482,18 +1465,11 @@ status open
 
 \end_inset
 
- in six months, maybe 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ in six months, maybe
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1510,18 +1486,11 @@ There was silence on the top of the Ravenclaw tower.
 \end_layout
 
 \begin_layout Standard
-Slowly, the boy turned 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+Slowly, the boy turned
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1603,18 +1572,11 @@ A strange apprehension was beginning to fill Harry, welling up in him like
 \end_layout
 
 \begin_layout Standard
-“I don't 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“I don't
+\begin_inset space ~
 \end_inset
 
-” Harry said, and then his voice stopped.
+--” Harry said, and then his voice stopped.
 \end_layout
 
 \begin_layout Standard
@@ -1678,18 +1640,13 @@ The old wizard walked across the top of the Ravenclaw tower to where a boy
 \emph on
 In my duel with Grindelwald I could not win, only fight him for long hours
  until he collapsed in exhaustion; and I would have died of it afterward,
- if not for Fawkes 
-\begin_inset ERT
-status open
+ if not for Fawkes
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1716,18 +1673,11 @@ status open
 \emph on
 could
 \emph default
- have 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ have
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
