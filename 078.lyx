@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
@@ -19,13 +19,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -36,15 +36,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -78,7 +87,7 @@ Taboo Tradeoffs Prelude: Cheating
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -87,29 +96,17 @@ I
 
 \end_inset
 
-t
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+t was Saturday
 \end_layout
 
 \end_inset
 
- was Saturday, on the 4th of April, in the year 1992.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
+, on the 4th of April, in the year 1992.
 \end_layout
 
 \begin_layout Standard
@@ -1721,7 +1718,25 @@ Finite
  almost anything you tried.
  The Sunshine Regiment might have missed that tactic with the Transfigured
  chainmail, but nobody would miss it again now that Professor Quirrell had
- spelled it out.
+ pointed
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+changed 
+\begin_inset Quotes eld
+\end_inset
+
+spelled
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ it out.
  And 
 \emph on
 Finite Incantatem
@@ -1769,8 +1784,26 @@ status open
 \begin_layout Standard
 And then, after the screaming and the shouting had subsided, after Harry
  had stopped trying to argue about Unbreakable Vows and just given up the
- whole thing as clearly impossible from a public relations standpoint, Harry
- had realized that he hadn't even needed to go there.
+ whole thing as
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+removed 
+\begin_inset Quotes eld
+\end_inset
+
+clearly
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ impossible from a public relations standpoint, Harry had realized that
+ he hadn't even needed to go there.
  They taught you how to invoke potencies far beyond your own strength in
  ordinary Hogwarts classes.
 \end_layout
@@ -2381,10 +2414,16 @@ precisely
 \begin_layout Standard
 Nobody in any army had tried brewing any potions up until then.
  But Professor Quirrell would let you get away with nearly anything, if
- it was something you 
-\emph on
-could
-\emph default
+ it was something you could also
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+added
+\end_layout
+
+\end_inset
+
  have done in a real war.
 
 \emph on
@@ -2678,15 +2717,57 @@ Arresto Momentum!'
 else
 \emph default
  he'd just gotten a puzzled look.
- So Harry had kept a desperate eye out for 
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
+
+So
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ Harry had kept an increasingly
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+was: 
+\begin_inset Quotes eld
+\end_inset
+
+a
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ desperate eye out for 
 \emph on
 some
 \emph default
- kind of conservation principle in magic, 
-\emph on
-anywhere
-\emph default
-…
+ kind of conservation principle in magic, anywhere whatsoever…
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+added
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2749,8 +2830,18 @@ Harry had kept scanning through
 Moste Potente Potions,
 \emph default
  looking for something that might disprove his shiny new theory.
- After five minutes he'd flipped the older boy another Sickle, over his
- protests, and kept going.
+ After five minutes he'd flipped the older boy another Sickle, (over his
+ protests),
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+added parenthesis
+\end_layout
+
+\end_inset
+
+ and kept going.
 \end_layout
 
 \begin_layout Standard
@@ -2971,7 +3062,29 @@ long
  as Quidditch matches, once they actually started.
  To this Professor Quirrell had replied only, 
 \emph on
-Such is real life,
+Such is realism
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\emph off
+changed: 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+real life
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+,
 \emph default
  and that had been that.)
 \end_layout
@@ -3229,8 +3342,25 @@ Across the forest battleground, their eyes met.
 \begin_layout Standard
 Draco had only a fraction of a second to wonder, in the back of his mind,
  what Hermione Granger was so angry about, before the shout went up from
- both their armies; and they were all running forward to the charge, himself
- and Granger on a direct collision course for each other.
+ both their armies; and they were all running forward to the charge
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
+
+, himself and Granger on a direct collision course for each other
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Quote
@@ -3364,8 +3494,25 @@ There was a universal silence composed of astonishment, concern, and sheer
 \end_layout
 
 \begin_layout Standard
-And then Neville Longbottom slowly rose to his feet, and leveled his wand,
- still in hand, at the Sunshine Soldiers.
+And then Neville Longbottom slowly rose to his feet, and leveled his wand
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
+
+, still in hand,
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ at the Sunshine Soldiers.
 \end_layout
 
 \begin_layout Standard
@@ -3628,34 +3775,13 @@ status open
 \begin_layout Standard
 “Dear Merlin,” said Lady Greengrass.
  Her voice seemed unsteady, the aristocratic poise well-punctured.
- “My daughter is
-\emph on
- fighting
-\emph default
- with the Charm of the Most Ancient Blade, in her first year.
- I never knew 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ “My daughter is fighting with the Charm of the Most Ancient Blade.
+ In her first year.
+ I never knew she possessed -- such extraordinary talent
+\begin_inset space ~
 \end_inset
 
- she possessed such extraordinary talent 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
-\end_inset
-
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -3665,17 +3791,42 @@ status open
 \begin_layout Standard
 “My good Lady,” said Professor Quirrell, sounding grave.
  “Do not wrong your daughter so.
- That is not mere 
-\emph on
-talent
-\emph default
- which you see.” His voice grew a little dryer.
+ That is not mere talent which you see.” His voice grew a little dryer.
  “
-\emph on
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 That
-\emph default
- is what happens when young wizards and witches put their competitive efforts
- into a game which, unlike Quidditch or Exploding Snap, involves 
+\end_layout
+
+\end_inset
+
+Rather, it is what happens when children
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+young wizards and witches
+\end_layout
+
+\end_inset
+
+ put their competitive efforts into a game which
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+, unlike Quidditch or Exploding Snap,
+\end_layout
+
+\end_inset
+
+ involves 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -3693,6 +3844,11 @@ status open
 \begin_layout Plain Layout
 
 --
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -4649,8 +4805,35 @@ But it didn't.
 \end_layout
 
 \begin_layout Standard
-Instead the padlocked glove on Draco's hand flashed briefly grey, and then
- the padlock clicked and fell off.
+Instead the 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
+
+padlocked glove on Draco's hand flashed briefly grey, and then the
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ padlock clicked and fell off the glove.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+added
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5015,22 +5198,47 @@ It kept on playing in Draco's mind, over and over again, even as he walked
 \end_layout
 
 \begin_layout Standard
-The grey flash coming from his glove, the lock clicking and falling away
-\begin_inset space ~
-\end_inset
-
-
-\begin_inset ERT
+The padlock on
+\begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
 
---
+grey flash coming from
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_inset
 
+ his glove
+\begin_inset Note Note
+status open
 
+\begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
+
+, the lock
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ clicking and falling away
+\begin_inset space ~
+\end_inset
+
+--
 \end_layout
 
 \begin_layout Standard
@@ -5178,11 +5386,49 @@ And now there was only one move left, and the thing about a forced move
 had
 \emph default
  to make it, even if it meant getting detention and losing House points.
- Professor Snape would certainly 
+ Professor Snape would know and understand
+\emph on
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
+
+certainly 
 \emph on
 understand
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \emph default
- but there were limits (Father had warned him) to what Snape would overlook.
+ but there were limits (Father had warned him) to what the Potions Master
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
+
+Snape
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ would overlook.
 \end_layout
 
 \begin_layout Standard
@@ -5302,7 +5548,25 @@ real
 \end_layout
 
 \begin_layout Standard
-…his first equal opponent.
+…an
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+removed: 
+\begin_inset Quotes eld
+\end_inset
+
+his first
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ equal opponent.
 \end_layout
 
 \begin_layout Standard
@@ -5422,7 +5686,17 @@ I, Draco, of Most Ancient House, demand redress, for
 Draco paused, carefully moving the quill aside so that it wouldn't drip.
  He needed a pretext for this, at least if he wanted to impose the duel's
  conditions.
- The challenged had the choice of terms, 
+ The challenged had the choice of terms
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+,
+\end_layout
+
+\end_inset
+
+ 
 \emph on
 unless
 \emph default
@@ -5567,7 +5841,7 @@ If you don't know how the rules work, Granger, here's how it is.
 \begin_layout Quote
 
 \emph on
-Draco Malfoy
+Draco Malfo
 \end_layout
 
 \begin_layout Standard
@@ -5648,12 +5922,65 @@ But Hermione didn't look like she was in a mood where somebody going over
 Later, looking backward, Harry would think of how, in his SF and fantasy
  novels, people always made their big, important choices for big, important
  reasons.
- Hari Seldon had built his Foundation to rebuild the ashes of the Galactic
- Empire, rather than because he would look more important if he could be
- in charge of his own research group.
+ Hari Seldon had created
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+was: 
+\begin_inset Quotes eld
+\end_inset
+
+built
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ his Foundation to rebuild the ashes of the Galactic Empire, not
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+was: 
+\begin_inset Quotes eld
+\end_inset
+
+rather than
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ because he would look more important if he could be in charge of his own
+ research group.
  Raistlin Majere had severed ties with his brother because he wanted to
  become a god, not because he was incompetent at personal relationships
- and unwilling to take advice on how to do better.
+ and unwilling to ask for
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+was: 
+\begin_inset Quotes eld
+\end_inset
+
+take
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ advice on how to do better.
  Frodo Baggins had taken the Ring because he was a hero who wanted to save
  Middle-Earth, not because it would've been too awkward not to.
  If anyone ever wrote a true history of the world 
