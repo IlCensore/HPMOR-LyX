@@ -134,6 +134,13 @@ status open
 pagestyle{empty}
 \end_layout
 
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter
+\end_layout
+
 \end_inset
 
 
@@ -535,6 +542,13 @@ status open
 pagestyle{empty}
 \end_layout
 
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter
+\end_layout
+
 \end_inset
 
 
@@ -543,8 +557,6 @@ pagestyle{empty}
 \begin_layout Standard
 \align center
 
-\family sans
-\series bold
 \size larger
 Harry Potter and the Methods of Rationality
 \end_layout
@@ -585,11 +597,18 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 cleardoublepage  % 
 \backslash
 phantomsection if hyperref is used
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
 \end_layout
 
 \begin_layout Plain Layout
@@ -601,9 +620,6 @@ addcontentsline{toc}{part}{Arc Set One}
 
 \begin_layout Plain Layout
 
-
-\backslash
-part*{Arc Set One}
 \end_layout
 
 \end_inset
@@ -611,7 +627,15 @@ part*{Arc Set One}
 
 \end_layout
 
+\begin_layout Part*
+Arc Set One
+\end_layout
+
 \begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \begin_inset ERT
 status open
 
@@ -976,6 +1000,13 @@ status open
 
 \backslash
 pagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+backmatter
 \end_layout
 
 \end_inset
