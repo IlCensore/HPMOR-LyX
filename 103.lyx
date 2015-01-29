@@ -1,0 +1,785 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume4_16x23.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Crimson
+\font_sans Lato
+\font_typewriter Liberation Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing other 1.3
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.5in
+\topmargin 0.75in
+\rightmargin 1in
+\bottommargin 1.5in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Tests
+\end_layout
+
+\begin_layout Subsubsection*
+
+\emph on
+June 4th, 1992.
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+D
+\end_layout
+
+\end_inset
+
+aphne
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Greengrass was in the Slytherin's common room, writing a letter to her
+ Lady Mother (who was surprisingly intransigent about power-sharing, despite
+ not even 
+\emph on
+being
+\emph default
+ in Hogwarts to exercise control) when she saw Draco Malfoy stagger in through
+ the portrait door carrying what must have been a dozen books, Vincent and
+ Gregory behind him each carrying a dozen more.
+ The Auror who'd accompanied Malfoy stuck his head in briefly, then withdrew
+ to who-knew-where.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Draco looked around, then seemed to be struck by a bright idea as he staggered
+ toward her, Vincent and Gregory following after.
+ 
+\end_layout
+
+\begin_layout Standard
+“Can you help me read these?
+\begin_inset Quotes erd
+\end_inset
+
+ said Draco, sounding slightly out of breath as he approached.
+ 
+\end_layout
+
+\begin_layout Standard
+“What.” Lessons were over
+\emph on
+,
+\emph default
+ only the exams were left now, and since when did 
+\emph on
+Malfoys
+\emph default
+ ask 
+\emph on
+Greengrasses
+\emph default
+ for help with their homework? 
+\end_layout
+
+\begin_layout Standard
+“These,” Draco Malfoy said importantly, 
+\begin_inset Quotes eld
+\end_inset
+
+are all the library books Miss Granger borrowed between April 1st and April
+ 16th.
+ I thought I'd go through them in case there are any Clues there, only then
+ I thought, maybe 
+\emph on
+you
+\emph default
+ should help because you knew Miss Granger better.” 
+\end_layout
+
+\begin_layout Standard
+Daphne stared at the books.
+ “The General read all that in 
+\emph on
+two weeks?
+\emph default
+” A twinge of pain went through her heart, but she suppressed it.
+ 
+\end_layout
+
+\begin_layout Standard
+“Well, I don't know if Miss Granger finished them all,” Draco said.
+ He held up a cautioning finger.
+ “In fact, we don't know if she read any of them, or if she really borrowed
+ them, I mean, all we've 
+\emph on
+observed
+\emph default
+ is that the library ledger says she checked them out
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+Daphne suppressed a groan.
+ Malfoy had been talking like this for weeks.
+ There were some people who clearly were not meant to be involved with mysteriou
+s murders because it did 
+\emph on
+strange things to their minds
+\emph default
+.
+ “Mr.
+ Malfoy, I couldn't read all these if I spent my whole summer doing nothing
+ else.” 
+\end_layout
+
+\begin_layout Standard
+“Then just skim through them, please?” Draco said.
+ “Especially if there's, you know, mysterious words scribbled in her handwriting
+, or a bookmark left inside, or
+\begin_inset space ~
+\end_inset
+
+--”
+\end_layout
+
+\begin_layout Standard
+“I've seen those plays too, Mr.
+ Malfoy.” Daphne rolled her eyes.
+ “Don't we have 
+\emph on
+Aurors
+\emph default
+ now for
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+We're doomed!
+\emph default
+” shrieked Millicent Bulstrode, as she burst up from the lower chambers
+ into the Slytherin common's room.
+ 
+\end_layout
+
+\begin_layout Standard
+People paused to look at her.
+ 
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+It's Professor Quirrell!
+\emph default
+” 
+\end_layout
+
+\begin_layout Standard
+A sudden air of attentiveness, as of long-standing disputes about to be
+ settled.
+ “Well, finally,” someone said, as Millicent tried to catch her breath.
+ “He's only got, what, ten days left to go bad?” 
+\end_layout
+
+\begin_layout Standard
+“Eleven days,” said the seventh-year who was running the betting pool.
+ 
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+He's gotten a little better suddenly and he's going to summon the first-years
+ for our Defense final! By surprise! In fifty minutes!
+\emph default
+” 
+\end_layout
+
+\begin_layout Standard
+“A Defense final?” Pansy said blankly.
+ “But Professor Quirrell doesn't give exams.” 
+\end_layout
+
+\begin_layout Standard
+“The 
+\emph on
+Ministry
+\emph default
+ Defense final!” shrieked Millicent.
+ 
+\end_layout
+
+\begin_layout Standard
+“But Professor Quirrell doesn't teach anything from the Ministry curriculum,”
+ objected Pansy.
+ 
+\end_layout
+
+\begin_layout Standard
+Daphne was already fleeing to her room, racing for the first-year Defense
+ textbook that she hadn't touched since September and screaming curses inside
+ her mind.
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	display false
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One desk back of her, someone was crying, their soft sobs providing a background
+ chant of despair for the classroom.
+ Daphne looked back, expecting to see a Hufflepuff and hoping it wasn't
+ Hannah, and was surprised at first (though not on further reflection) to
+ see it was a Ravenclaw.
+ 
+\end_layout
+
+\begin_layout Standard
+Before them were set the exam parchments, turned over, waiting for the bell.
+ 
+\end_layout
+
+\begin_layout Standard
+Fifty minutes hadn't been nearly enough preparation time, but it was something,
+ and Daphne was now feeling ashamed that she hadn't thought to send messengers
+ to warn the Hufflepuff, Ravenclaw, and Gryffindor Houses.
+ They'd started giving House Points again just three days ago, at the beginning
+ of June, but the Auxiliary Protective Special Committee still ought to
+ promote House unity.
+ 
+\end_layout
+
+\begin_layout Standard
+Another Ravenclaw, sitting four desks to her left, also started to cry.
+ That was Katherine Tung of Dragon Army, if she recalled correctly, whom
+ she'd once seen take on three Sunshine Soldiers simultaneously without
+ a flinch.
+ 
+\end_layout
+
+\begin_layout Standard
+Daphne had calmed down after the first couple of minutes of frantic reading.
+ It was just a test, not a 
+\emph on
+murder
+\emph default
+ or anything; and if almost all the first-year students turned in mostly
+ blank parchments then it stood to reason that nobody would be shamed.
+ But Daphne could understand, if not exactly sympathize, that Ravenclaws
+ and Hufflepuffs might not see it that way.
+ 
+\end_layout
+
+\begin_layout Standard
+“He's evil,” another Ravenclaw witch said in a shaking voice.
+ “One hundred percent pure Dark Wizard to the bone.
+ The Dark Lord Grindelwald wouldn't do this, not to children, he's worse
+ than You-Know-Who.” 
+\end_layout
+
+\begin_layout Standard
+Daphne looked reflexively at where Professor Quirrell was sitting, slumped
+ to one side but his eyes alert; and she thought she saw the Defense Professor
+ smile for one tiny instant.
+ No, that had to be her imagination, there was no way the Defense Professor
+ could have heard that.
+ 
+\end_layout
+
+\begin_layout Standard
+The bell rang.
+ 
+\end_layout
+
+\begin_layout Standard
+Daphne flipped the parchment over.
+ 
+\end_layout
+
+\begin_layout Standard
+The top was stamped with the seals for the Ministry, the Hogwarts Board
+ of Governors, and the Department of Magical Education, and runes to detect
+ cheating.
+ Below that was a line for her to write her name, and a list of exam rules
+ with a picture of Lindsay Gagnon, the Director of the Department of Magical
+ Education, shaking an admonishing finger at everyone.
+ 
+\end_layout
+
+\begin_layout Standard
+Halfway down the page was the first exam question.
+ 
+\end_layout
+
+\begin_layout Standard
+It was, 
+\emph on
+Why is it important for children to stay away from strange creatures?
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+There was a stunned pause.
+ 
+\end_layout
+
+\begin_layout Standard
+One student began laughing, she thought it was from the Gryffindor section
+ of the class.
+ Professor Quirrell made no motion to censor it, and the laughter spread.
+ 
+\end_layout
+
+\begin_layout Standard
+Nobody spoke aloud, but the students looked around at each other, exchanging
+ glances as the laughter died down, and then as if by some unspoken agreement
+ they all looked at Professor Quirrell, who was smiling down at them benevolentl
+y.
+ 
+\end_layout
+
+\begin_layout Standard
+Daphne bent over her exam, wearing a defiant evil smile that would have
+ done proud to either Godric Gryffindor or Grindelwald; and she wrote down,
+ 
+\emph on
+Because my Stunning Hex, my Most Ancient Blade, and my Patronus Charm won't
+ work against everything.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Quote
+\align center
+\begin_inset Graphics
+	filename fleur.png
+	display false
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Harry Potter turned over the last page of his Defense exam.
+ 
+\end_layout
+
+\begin_layout Standard
+Even Harry had needed to quash a small bit of nervousness, some tiny remnant
+ of his childhood, upon reading the first real question (`How can you make
+ a Shrieking Eel be silent?').
+ Professor Quirrell's lessons had spent roughly zero time on the surprising
+ yet useless trivia that some idiot had imagined a `Defense class' should
+ look like.
+ In principle, Harry could have used his Time-Turner to read through the
+ first-year Defense book after being notified of the surprise exam; but
+ that might have unfairly skewed the grading curve for others.
+ After staring at the question for a couple of seconds, Harry had written
+ down `Quieting Charm', and included the casting directions in case the
+ Ministry grader didn't believe that Harry knew it.
+ 
+\end_layout
+
+\begin_layout Standard
+Once Harry had decided to just answer all the questions 
+\emph on
+correctly,
+\emph default
+ the exam had gone by very quickly.
+ The most realistic answer to more than half the questions was `Stunning
+ Hex', and many of the other questions had optimal solutions along the lines
+ of `Turn around and walk in the opposite direction' or `Throw away the
+ cheese and buy a new pair of shoes.'
+\end_layout
+
+\begin_layout Standard
+The last question on the test was “What would you do if you suspected there
+ might be a Bogeysnake underneath your bed?” The Ministry-approved answer,
+ Harry could in fact recall from his read-through of the textbook at the
+ start of the year, was 
+\emph on
+Tell your parents.
+
+\emph default
+ The problem with this had occurred to Harry right away, which was why Harry
+ had remembered it.
+ 
+\end_layout
+
+\begin_layout Standard
+After some pondering, Harry wrote down: 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Dear Ministry grader: I'm afraid the real answer to that is a secret, but
+ rest assured that a Bogeysnake would present no more trouble to me than
+ a mountain troll, a Dementor, or You-Know-Who.
+ Please inform your superiors that I find your standard answer prejudicial
+ to Muggleborns, and that I expect this failing will be corrected at once
+ without any need for my direct intervention.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Sincerely, the Boy-Who-Lived.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+Harry signed the last parchment with a broad flourish, turned it over into
+ his stack, put down his pen, and sat up.
+ 
+\end_layout
+
+\begin_layout Standard
+Looking around, Harry saw that Professor Quirrell seemed to be looking in
+ his rough direction, though the Defense Professor's head had nodded to
+ one side.
+ The other students were still writing.
+ Some of them were silently crying, but they were still writing.
+ 
+\emph on
+Continuing to fight
+\emph default
+ was also a lesson Professor Quirrell had taught.
+ 
+\end_layout
+
+\begin_layout Standard
+Interminably later, the official exam time was up.
+ A seventh-year student went from desk to desk, collecting the exams in
+ Professor Quirrell's place.
+ 
+\end_layout
+
+\begin_layout Standard
+The last exam parchment was collected, and Professor Quirrell sat up straight.
+ 
+\end_layout
+
+\begin_layout Standard
+“My young students,” he said softly.
+ The seventh-year student had her wand trained on the Defense Professor's
+ mouth, so that they all heard his voice seeming to come from right beside
+ them.
+ “I know...
+ that probably seemed very fearsome to some of you...
+ it is a different kind of fear from facing the enemy's wand...
+ you must conquer it separately.
+ So I...
+ shall tell you this now.
+ It is the custom of Hogwarts...
+ that grades are given in the second week of June.
+ But for my case...
+ they can make an exception, I think.” The Defense Professor smiled his familiar
+ dry smile, tinged now as though by a suppressed grimace.
+ “I know you are worried...
+ that you were not prepared for this exam...
+ that my lessons have not covered this material...
+ and I quite forgot to mention...
+ that it was approaching...
+ though you should have known...
+ it would come in time.
+ But I have just now magically checked...
+ the answers you have given on that...
+ terribly, terribly important final exam...
+ though of course only the Ministry grade is official...
+ and assigned your full-year grades taking the results into account...
+ and magically written your full grades down on these parchments,” Professor
+ Quirrell tapped a stack of parchments on the side of his desk, “which will
+ now be handed out...
+ an incredible spell...
+ is it not?” 
+\end_layout
+
+\begin_layout Standard
+A few students on the Ravenclaw side were looking indignant, but for the
+ most part the students just looked relieved, and some Slytherins were chuckling.
+ Harry would have laughed too, if not for the pain of watching Professor
+ Quirrell gasp out the words.
+ 
+\end_layout
+
+\begin_layout Standard
+The seventh-year student standing beside Professor Quirrell pointed her
+ wand and spoke an incantation in magical pseudo-Latin.
+ The parchments rose up and started to drift through the air, separating
+ in mid-flow to drift toward each student.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry waited until his parchment had arrived on his desk, and then unfolded
+ it.
+ 
+\end_layout
+
+\begin_layout Standard
+The parchment said 
+\noun on
+ee
+\noun default
++, which stood for Exceeds Expectations.
+ It was the second-highest grade letter, the highest being Outstanding.
+ 
+\end_layout
+
+\begin_layout Standard
+In another world, a distant vanished world, a little boy named Harry would
+ have shouted with indignation about receiving only the second-highest grade.
+ This Harry sat quietly and thought.
+ Professor Quirrell was making some point, and it wasn't as though the exact
+ grade letter mattered in any other way.
+ Was Professor Quirrell saying that Harry had done relatively well, but
+ not lived up to his full potential? Or was the grade meant to be read literally
+, that Harry had in fact exceeded the Defense Professor's expectations?
+ 
+\end_layout
+
+\begin_layout Standard
+“All of you...
+ pass,” Professor Quirrell said, as the students all looked at their final
+ grades, as sighs of relief rose from desks and Lavender Brown raised her
+ parchment in a clenched fist held high with triumph.
+ “Every student in first-year Battle Magic has passed...
+ except for one.” 
+\end_layout
+
+\begin_layout Standard
+A number of students looked up in sudden terror.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry sat there silently.
+ He had seen the point immediately, and even if it was a wrong point, he
+ knew Professor Quirrell would never, ever be talked out of making it.
+ 
+\end_layout
+
+\begin_layout Standard
+“All of you in this room...
+ have received grades of at least Acceptable.
+ Neville Longbottom...
+ who took this test in the Longbottom home...
+ received a grade of Outstanding.
+ But the other student who is not here...
+ has had a Dreadful grade entered on her record...
+ for failing the only important test...
+ that was given her this year.
+ I would have marked her even lower...
+ but that would have been in poor taste.” 
+\end_layout
+
+\begin_layout Standard
+The room was very quiet, though a number of students were staring angrily
+ at the Professor.
+ 
+\end_layout
+
+\begin_layout Standard
+“You may think that a grade of Dreadful...
+ is not fair.
+ That Miss Granger was faced with a test...
+ for which her lessons...
+ had not prepared her.
+ That she was not told...
+ that the exam was coming on that day.” 
+\end_layout
+
+\begin_layout Standard
+The Defense Professor drew in a shaking breath.
+ 
+\end_layout
+
+\begin_layout Standard
+“Such is realism,” said Professor Quirrell.
+ “The only important test...
+ may come at any time...
+ be better prepared for it...
+ than she was.
+ As for the rest of you...
+ those who have received Exceeds Expectations or above...
+ have received my letters of recommendation...
+ to certain organizations beyond Britain's shores...
+ where your training might be completed.
+ They will contact you...
+ when you are old enough...
+ if you still appear worthy...
+ and if you have not failed an important test.
+ And remember...
+ from this day...
+ you must train yourselves...
+ you cannot rely...
+ on future Defense professors.
+ Your first year of Battle Magic is over...
+ you are dismissed.” 
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell sat back with his eyes closed, seeming to ignore the
+ excited babble that broke out around him.
+ 
+\end_layout
+
+\begin_layout Standard
+In time most of the students had departed, and one remained, staying a prescribe
+d distance from the Defense Professor.
+ 
+\end_layout
+
+\begin_layout Standard
+The Defense Professor opened his eyes.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry raised the parchment with its 
+\emph on
+\noun on
+ee
+\noun default
++
+\emph default
+, still silent.
+\end_layout
+
+\begin_layout Standard
+The Defense Professor smiled, and it went all the way to those tired eyes.
+ 
+\end_layout
+
+\begin_layout Standard
+“It is the same grade...
+ that I received in my own first year.” 
+\end_layout
+
+\begin_layout Standard
+“Th, th, th,” Harry couldn't make the words 
+\emph on
+thank you
+\emph default
+ come out, they were stuck in his suddenly closed throat, the Defense Professor
+ tilting his head and giving him an inquiring stare, so Harry just bowed
+ jerkily and then left the room.
+ 
+\end_layout
+
+\begin_layout Standard
+Nine days yet remained.
+\end_layout
+
+\end_body
+\end_document
