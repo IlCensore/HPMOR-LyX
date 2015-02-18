@@ -6,7 +6,7 @@
 \begin_preamble
 \setcounter{chapter}{87}
 
-\usepackage{fmtcount}
+%\usepackage{fmtcount}
 \usepackage{graphicx}
 
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
@@ -36,7 +36,6 @@
   \renewcommand*{\afterchaptertitle}{\par\vspace\par}
 \chapterstyle{hpmor}
 
-\usepackage{fmtcount}
 \usepackage{changepage} %per cambiare la dimensione del paragrafo
 \usepackage{xcolor} %per il titolo in rosso
 \setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
@@ -58,7 +57,7 @@ initials
 \inputencoding auto
 \fontencoding \font_roman Garamond Premier Pro
 \font_roman Crimson
-\font_sans Gill Sans MT
+\font_sans Gillius ADF
 \font_typewriter Liberation Mono
 \font_math auto
 \font_default_family default
@@ -607,6 +606,33 @@ filename "103.lyx"
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "104.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "105.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "106.lyx"
+
+\end_inset
+
+
 \begin_inset Newpage cleardoublepage
 \end_inset
 

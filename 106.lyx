@@ -1,0 +1,512 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master hpmor_volume4_16x23.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans Lato
+\font_typewriter Liberation Mono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing other 1.3
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.5in
+\topmargin 0.75in
+\rightmargin 1in
+\bottommargin 1.5in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+The Truth, Part III
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+A
+\end_layout
+
+\end_inset
+
+fter
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ a single step into Dumbledore's forbidden chamber, Harry shrieked and jumped
+ back and collided with Professor Snape, sending the two of them down in
+ a heap.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Professor Snape picked himself up and resumed standing in front of the door.
+ His head tracked to look at Harry.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I am guarding this door at the Headmaster’s orders,
+\begin_inset Quotes erd
+\end_inset
+
+ said Professor Snape in his usual sardonic tones.
+ “Be off with you at once, or I shall deduct House Points.” 
+\end_layout
+
+\begin_layout Standard
+This was bone-chillingly creepy, but Harry’s attention was occupied by the
+ gigantic three-headed dog which had lunged forward, only to be stopped
+ meters from Harry by the chains upon its three collars.
+ 
+\end_layout
+
+\begin_layout Standard
+“That -- that -- that
+\begin_inset space ~
+\end_inset
+
+--” Harry said.
+ 
+\end_layout
+
+\begin_layout Standard
+“Yes,” Professor Quirrell said from a ways behind him, “that is indeed the
+ usual occupant of that chamber, which is off-limits to all students, especially
+ first-years.” 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+“That’s not safe even by wizard standards!
+\emph default
+”
+\emph on
+ 
+\emph default
+Within the chamber, the enormous black beast gave a multi-voiced bellow,
+ flecks of white saliva flying from three fanged mouths.
+ 
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell sighed.
+ “It is enchanted not to eat students, just spit them back out through the
+ door.
+ Now, boy, how would you recommend that we deal with this dangerous creature?”
+ 
+\end_layout
+
+\begin_layout Standard
+“Uh,” Harry stuttered, trying to think over the continued roaring of the
+ chamber’s guardian.
+ “Uh.
+ If it’s like the Cerberus from the Muggle legend of Orpheus and Eurydice,
+ then we have to sing it to sleep so we can pass
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“
+\emph on
+Avada Kedavra.
+\emph default
+” 
+\end_layout
+
+\begin_layout Standard
+The three-headed beast fell over.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry looked back at Professor Quirrell, who was giving him a look of extreme
+ disappointment, as if to ask whether Harry had attended any of his classes,
+ ever.
+ 
+\end_layout
+
+\begin_layout Standard
+“I sort of 
+\emph on
+assumed
+\emph default
+,” Harry said, still trying to catch his breath, “that going through this
+ challenge in any way except the one used by first-years, might perhaps
+ trigger an 
+\emph on
+alarm
+\emph default
+.” 
+\end_layout
+
+\begin_layout Standard
+“That is a lie, boy, you simply did not remember your lessons when you faced
+ the occasion in true life.
+ As for alarms, I have spent months befuddling all the wards and tripsigns
+ upon these chambers.” 
+\end_layout
+
+\begin_layout Standard
+“Then why did you send me in first, exactly?” 
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell just smiled.
+ It looked significantly more evil than usual.
+ 
+\end_layout
+
+\begin_layout Standard
+“Never mind,” Harry said, and walked slowly into the chamber, his limbs
+ still shaking.
+ 
+\end_layout
+
+\begin_layout Standard
+The chamber was all of stone, illuminated by a pale blue light that shone
+ from arched nooks carved into the wall; as if the light of a grey sky were
+ passing through windows, though there were no windows.
+ At the far end of the chamber was a wooden trapdoor upon the floor, with
+ a single ring attached.
+ In the middle of the chamber lay a gigantic dead dog with three lifeless
+ heads.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry turned toward one of the arched nooks and looked inside it.
+ There was nothing there but the sourceless blue glow, so he walked over
+ and looked in the next one, also scrutinizing the wall as he passed.
+ 
+\end_layout
+
+\begin_layout Standard
+“What,” said Professor Quirrell, “are you doing?” 
+\end_layout
+
+\begin_layout Standard
+“Searching the room,” Harry said.
+ “There could be a clue, or an inscription, or a key we’ll need later, or
+ something
+\begin_inset space ~
+\end_inset
+
+--” 
+\end_layout
+
+\begin_layout Standard
+“Are you serious, or are you deliberately trying to slow us down? Answer
+ in Parseltongue.” 
+\end_layout
+
+\begin_layout Standard
+Harry looked back.
+ “
+\emph on
+Wass sseriouss,
+\emph default
+” hissed Harry.
+ “
+\emph on
+Would have done ssame if came by mysself.
+\emph default
+” 
+\end_layout
+
+\begin_layout Standard
+Professor Quirrell briefly massaged his forehead.
+ “I confess,” he said, “that your approach would serve you well in, say,
+ exploring the tomb of Amon-Set, so I will not quite call you an idiot,
+ but still.
+ The false puzzle, the outer form of the challenge, is a game meant for
+ first-years.
+ We simply go down through the trapdoor.” 
+\end_layout
+
+\begin_layout Standard
+Beneath the trapdoor was a gigantic plant, something like an enormous dieffenbac
+hia with wide leaves emerging from the central stem like a spiral staircase,
+ but darker-colored than a normal dieffenbacchia, and with tendril-like
+ vines emerging from the central stem and hanging down.
+ The base spread out wide with bigger leaves and tendrils, as though promising
+ to cushion anyone’s fall.
+ Beneath was another stone chamber like the first, with the same nooks like
+ false arched windows, emitting the same grey-blue light.
+ 
+\end_layout
+
+\begin_layout Standard
+“The obvious thought is to fly down on the broomstick in my pouch, or toss
+ something heavy to see if those tendrils are traps,” Harry said, peering
+ down.
+ “But I’m guessing you’ll say that we just walk down the leaves.” They certainly
+ looked like they were meant to be a spiral staircase.
+ 
+\end_layout
+
+\begin_layout Standard
+“After you,” said Professor Quirrell.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry carefully put a foot down on a leaf and found that it indeed supported
+ his weight.
+ Then Harry took a last look around the room before departing, to see if
+ there was anything worth noticing.
+ 
+\end_layout
+
+\begin_layout Standard
+The enormous dead dog called enough attention to itself that it was hard
+ to focus on anything else.
+ 
+\end_layout
+
+\begin_layout Standard
+“Professor Quirrell,” Harry said, omitting the phrase 
+\emph on
+your approach to dealing with obstacles has certain drawbacks,
+\emph default
+ “what if somebody looks in the door and sees that the Cerberus is dead?”
+ 
+\end_layout
+
+\begin_layout Standard
+“Then they have probably already noticed something wrong with Snape,” said
+ Professor Quirrell.
+ “But since you insist...” The Defense Professor walked over to the three-headed
+ corpse and placed his wand against it.
+ He began a Latin-sounding incantation that was accompanied by a sense of
+ rising apprehension, the Boy-Who-Lived feeling the Dark Lord’s power as
+ he always had.
+ 
+\end_layout
+
+\begin_layout Standard
+The last word spoken was “
+\emph on
+Inferius” 
+\emph default
+and it was accompanied by a final surge of 
+\emph on
+\noun on
+stop, don’t
+\emph default
+\noun default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+And the three-headed dog rose to a stand, its six eyes dull and blank, turning
+ to watch the door once more.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry stared at the huge Inferi with a horrible sinking sensation in his
+ stomach, the second-worst feeling he’d ever felt in his life.
+ 
+\end_layout
+
+\begin_layout Standard
+He knew then that he’d seen and sensed this procedure before, only without
+ the spoken Latin.
+ 
+\end_layout
+
+\begin_layout Standard
+The centaur who’d confronted him in the Forbidden Forest was dead.
+ The Defense Professor had hit it with a real Avada Kedavra, not a fake
+ one.
+ 
+\end_layout
+
+\begin_layout Standard
+Somewhere in the back of his mind, Harry had still thought that if he could
+ just get Hermione 
+\emph on
+back
+\emph default
+ then he could return to the code of nobody dying, the ethic of Batman,
+ most people went through their whole lives without anyone getting killed
+ on whatever adventures they had.
+ 
+\end_layout
+
+\begin_layout Standard
+And that was not to be.
+ 
+\end_layout
+
+\begin_layout Standard
+He hadn’t even noticed, the day he lost his last chance to win.
+ Even if Hermione was resurrected, now, Harry wouldn’t have come through
+ the whole mess without anyone getting killed.
+ 
+\end_layout
+
+\begin_layout Standard
+He hadn’t even learned the centaur’s name.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry said nothing aloud.
+ The Defense Professor would either confirm the accusation in Parseltongue
+ or lie in plain speech, and either way the Defense Professor would have
+ more reason to suspect Harry’s next actions.
+ But Harry knew that -- although he didn’t know 
+\emph on
+how
+\emph default
+ he would stop Professor Quirrell, although he didn’t dare any positive
+ act of betrayal, maybe not even making the 
+\emph on
+decision,
+\emph default
+ until it was almost time to win -- there would never be an amicable settlement
+ between him and Lord Voldemort, for those two different spirits could not
+ exist in the same world.
+ 
+\end_layout
+
+\begin_layout Standard
+And it was like that resolution, that knowledge of opposition, invoked a
+ strength from what Harry had thought of as his dark side.
+ Harry had stopped trying to call deliberately on his dark side after the
+ day he’d killed the troll.
+ But his dark side had never been something separate from him.
+ It had been something remembered from Tom Riddle.
+ Harry didn’t know how that had happened, but taking the assumption and
+ running with it, whatever echoes of cognitive skill were in his dark side
+ should be there for him to use.
+ Not as a separate mode, as Harry had conceptualized at first, but just
+ as neural patterns with a strong tendency to chain into one another since
+ they had once formed part of a connected whole.
+ 
+\end_layout
+
+\begin_layout Standard
+This unfortunately did not change that Professor Quirrell had the same skills
+ with far more life experience backing them up, and also had the gun.
+ 
+\end_layout
+
+\begin_layout Standard
+Harry turned, and set foot on the giant plant, and began to walk down the
+ spiral staircase provided by the leaves.
+ It had taken Harry too long this time, but he’d recovered himself to some
+ degree, despite the grief still weighing him down like thick water.
+ It wasn’t a cold steel rod in his spine, but it was something straight
+ and solid nonetheless.
+ He was going to play this through, see Hermione returned to life first,
+ and then, somehow, stop Professor Quirrell.
+ Or stop Professor Quirrell first and then get the Stone himself.
+ There had to be something, some possibility, some opportunity that would
+ present itself, some way to stop Voldemort 
+\emph on
+and
+\emph default
+ return Hermione to life...
+ 
+\end_layout
+
+\begin_layout Standard
+Harry continued his descent.
+ 
+\end_layout
+
+\begin_layout Standard
+Behind him, the three-headed dog waited, guarding the gate.
+\end_layout
+
+\end_body
+\end_document
