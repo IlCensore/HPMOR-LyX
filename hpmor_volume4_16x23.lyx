@@ -803,16 +803,22 @@ small
 \backslash
 diamondpar{Here ends 
 \backslash
-textit{Harry Potter and the Methods of Rationality, Volume IV}.
+textit{Harry Potter and the Methods of Rationality, Volume 
+\backslash
+textsc{iv}}.
  Thanks to Dinosaurusgede for the funny and moving art; to Eneasz Brodski
- of HPMOR podcast fame and his collaborators, whose work has been both entertain
-ing and motivating (this is my contribution to the diffusion of rationality,
- I don't want Hermione to be sad!); to the community of 
+ of 
+\backslash
+textsc{hpmor} podcast fame and his collaborators, whose work has been both
+ entertaining and motivating (this is my contribution to the diffusion of
+ rationality, I don't want Hermione to be sad!); to the community of 
 \backslash
 LaTeX and LyX, without whom this work would have been impossibile.
  Last but not least, a heartfelt thank you to Eliezer Yudkowsky for the
- wonderful world of HPMOR, that provided me with several hours of entertainment
- and food for thought in equal parts.}
+ wonderful world of 
+\backslash
+textsc{hpmor}, that provided me with several hours of entertainment and
+ food for thought in equal parts.}
 \end_layout
 
 \end_inset
