@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
@@ -16,13 +16,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -33,15 +33,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -169,6 +178,686 @@ reference "chap:96Roles-Part7"
 For those who have not read canon: The wooden sign has somewhat changed,
  but the inscription here is the same as in J.K.
  Rowling's original.
+\end_layout
+
+\begin_layout Section*
+Chapter 113 
+\begin_inset CommandInset ref
+LatexCommand nameref
+reference "chap:113-Final-Exam"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+This is your final exam.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+You have 60 hours.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Your solution must at least allow Harry to evade immediate death,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+despite being naked, holding only his wand, facing 36 Death Eaters
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+plus the fully resurrected Lord Voldemort.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\emph on
+If a viable solution is posted before
+\series default
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\series bold
+\emph on
+*12:01
+\noun on
+am
+\noun default
+ Pacific Time* (8:01AM 
+\noun on
+utc
+\noun default
+) on Tuesday, March 3rd, 2015,
+\series default
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\series bold
+\emph on
+the story will continue to Ch.
+ 121.
+
+\series default
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\emph on
+Otherwise you will get a shorter and sadder ending.
+
+\series default
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Keep in mind the following:
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+1.
+ Harry must succeed via his own efforts.
+ The cavalry is not coming.
+\begin_inset Newline newline
+\end_inset
+
+ Everyone who might want to help Harry thinks he is at a Quidditch game.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+2.
+ Harry may only use capabilities the story has already shown him to have;
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+he cannot develop wordless wandless Legilimency in the next 60 seconds.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+3.
+ Voldemort is evil and cannot be persuaded to be good;
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+the Dark Lord's utility function cannot be changed by talking to him.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+4.
+ If Harry raises his wand or speaks in anything except Parseltongue,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+the Death Eaters will fire on him immediately.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+5.
+ If the simplest timeline is otherwise one where Harry dies --
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+if Harry cannot reach his Time-Turner without Time-Turned help --
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+then the Time-Turner will not come into play.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+6.
+ It is impossible to tell lies in Parseltongue.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Within these constraints,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+Harry is allowed to attain his full potential as a rationalist,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+now in this moment or never,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+regardless of his previous flaws.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Of course `the rational solution’,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+if you are using the word `rational’ correctly,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+is just a needlessly fancy way of saying `the best solution
+\emph default
+’
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+or `the solution I like’ or `the solution I think we should use’,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+and you should usually say one of the latter instead.
+\begin_inset Newline newline
+\end_inset
+
+ (We only need the word `rational’ to talk about ways of thinking,
+\begin_inset Newline newline
+\end_inset
+
+ considered apart from any particular solutions.)
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+And by Vinge’s Principle,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+if you know exactly what a smart mind would do,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+you must be at least that smart yourself.
+\begin_inset Newline newline
+\end_inset
+
+ Asking someone “What would an optimal player think is the best move?“
+\begin_inset Newline newline
+\end_inset
+
+ should produce answers no better than “What do you think is best?” 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+So what I mean in practice,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+when I say Harry is allowed to attain his full potential as a rationalist,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+is that Harry is allowed to solve this problem
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+the way 
+\noun on
+you
+\noun default
+ would solve it.
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+If you can tell me exactly how to do something,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+Harry is allowed to think of it.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+But it does not serve as a solution to say, for example,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ “
+\emph on
+Harry should persuade Voldemort to let him out of the box“
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+if you can't yourself figure out how.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\emph on
+The rules on Fanfiction dot Net allow at most one review per chapter.
+\series default
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\series bold
+\emph on
+Please submit *
+\noun on
+only one
+\noun default
+* review of Ch.
+ 113,
+\begin_inset Newline newline
+\end_inset
+
+ to submit one suggested solution.
+
+\series default
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+For the best experience, if you have not already been following
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+Internet conversations about recent chapters, I suggest
+\emph default
+ 
+\series bold
+\emph on
+not
+\series default
+\emph default
+ 
+\emph on
+doing so,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+trying to complete this exam on your own,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+not looking at other reviews,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+and waiting for Ch.
+ 114 to see how you did.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+I wish you all the best of luck, or rather the best of skill.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Ch.
+ 114 will post at
+\emph default
+ 
+\series bold
+\emph on
+10AM Pacific (6PM 
+\noun on
+utc
+\noun default
+) on Tuesday, March 3rd, 2015.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+\noun on
+added
+\noun default
+:
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+If you have pending exams,
+\begin_inset Newline newline
+\end_inset
+
+ then even though the bystander effect is a thing,
+\begin_inset Newline newline
+\end_inset
+
+I expect that the collective effect of
+\begin_inset Newline newline
+\end_inset
+
+`everyone with more urgent life
+\emph default
+ 
+\emph on
+issues stays out of the effort'
+\begin_inset Newline newline
+\end_inset
+
+ shifts the probabilities very little
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+(because diminishing marginal returns on more eyes
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+and an already-huge population that is participating).
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\emph on
+So if you can't take the time, then please don't.
+\series default
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+Like any author, I enjoy the delicious taste of my readers' suffering,
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\emph on
+finer than any chocolate; but I don't want to *hurt* you.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Likewise, if you hate hate hate this sort of thing, then don't participate!
+\begin_inset Newline newline
+\end_inset
+
+ Other people 
+\noun on
+are
+\noun default
+ enjoying it.
+ Just come back in a few days.
+\begin_inset Newline newline
+\end_inset
+
+ I shouldn't even need to point this out.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+I remind you again that you have hours to think.
+\begin_inset Newline newline
+\end_inset
+
+ Use the Hold Off On Proposing Solutions, Luke.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+And really truly, I do mean it,
+\begin_inset Newline newline
+\end_inset
+
+ Harry cannot develop any new magical powers
+\begin_inset Newline newline
+\end_inset
+
+ or transcend previously stated constraints on them
+\begin_inset Newline newline
+\end_inset
+
+ in the next sixty seconds.
 \end_layout
 
 \end_body

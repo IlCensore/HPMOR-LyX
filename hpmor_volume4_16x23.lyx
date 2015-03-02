@@ -22,7 +22,8 @@
   \renewcommand*{\chapterheadstart}{}
   \renewcommand*{\chapnumfont}{\normalfont}
   \renewcommand*{\printchaptername}{%
-     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+     \centerline{\chapnumfont \textsc{\chaptername\ %\Numberstringnum{\thechapter}}}}
+}}}
   \renewcommand*{\chapternamenum}{}
   \renewcommand*{\printchapternum}{}
   \renewcommand*{\afterchapternum}{%
@@ -56,8 +57,8 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding \font_roman Garamond Premier Pro
-\font_roman Crimson
-\font_sans Gillius ADF
+\font_roman EB Garamond
+\font_sans Lato
 \font_typewriter Liberation Mono
 \font_math auto
 \font_default_family default
@@ -677,6 +678,13 @@ filename "111.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "112.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "113.lyx"
 
 \end_inset
 
