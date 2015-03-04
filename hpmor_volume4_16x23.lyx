@@ -6,7 +6,7 @@
 \begin_preamble
 \setcounter{chapter}{87}
 
-%\usepackage{fmtcount}
+\usepackage{fmtcount}
 \usepackage{graphicx}
 
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
@@ -22,8 +22,8 @@
   \renewcommand*{\chapterheadstart}{}
   \renewcommand*{\chapnumfont}{\normalfont}
   \renewcommand*{\printchaptername}{%
-     \centerline{\chapnumfont \textsc{\chaptername\ %\Numberstringnum{\thechapter}}}}
-}}}
+     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+%}}}
   \renewcommand*{\chapternamenum}{}
   \renewcommand*{\printchapternum}{}
   \renewcommand*{\afterchapternum}{%
@@ -685,6 +685,23 @@ filename "112.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "113.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "114.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "115.lyx"
 
 \end_inset
 
