@@ -256,7 +256,11 @@ If a viable solution is posted before
 \noun on
 am
 \noun default
- Pacific Time* (8:01AM 
+ Pacific Time* (8:01
+\noun on
+am
+\noun default
+ 
 \noun on
 utc
 \noun default
@@ -708,7 +712,15 @@ Ch.
  
 \series bold
 \emph on
-10AM Pacific (6PM 
+10
+\noun on
+am
+\noun default
+ Pacific (6
+\noun on
+pm
+\noun default
+ 
 \noun on
 utc
 \noun default

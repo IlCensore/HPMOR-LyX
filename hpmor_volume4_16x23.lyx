@@ -73,11 +73,11 @@ initials
 \bibtex_command default
 \index_command default
 \float_placement bp
-\paperfontsize 12
+\paperfontsize 10
 \spacing single
 \use_hyperref false
 \papersize custom
-\use_geometry false
+\use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 0
@@ -103,10 +103,10 @@ initials
 \end_index
 \paperwidth 16cm
 \paperheight 23cm
-\leftmargin 2.1cm
-\topmargin 1.8cm
-\rightmargin 1.8cm
-\bottommargin 2.1cm
+\leftmargin 3.2cm
+\topmargin 1.6cm
+\rightmargin 3.2cm
+\bottommargin 3.2cm
 \secnumdepth 0
 \tocdepth 0
 \paragraph_separation indent
@@ -702,6 +702,13 @@ filename "114.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "115.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "116.lyx"
 
 \end_inset
 
