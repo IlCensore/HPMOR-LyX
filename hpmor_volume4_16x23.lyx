@@ -58,7 +58,7 @@ initials
 \inputencoding auto
 \fontencoding \font_roman Garamond Premier Pro
 \font_roman EB Garamond
-\font_sans Lato
+\font_sans Gillius ADF
 \font_typewriter Liberation Mono
 \font_math auto
 \font_default_family default
@@ -272,7 +272,7 @@ baselineskip]
 \backslash
 HUGE
 \backslash
-sffamily METHODS of RATIONALITY}
+sffamily Methods of Rationality}
 \backslash
 
 \backslash
@@ -465,6 +465,13 @@ addcontentsline{toc}{part}{Arc Set Five}
 
 \backslash
 part*{Arc Set Five}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+clearpage
 \end_layout
 
 \end_inset
@@ -781,11 +788,6 @@ pagestyle{empty}
 \end_layout
 
 \begin_layout Standard
-\align center
-Notes and Contents
-\end_layout
-
-\begin_layout Standard
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -819,6 +821,22 @@ pagestyle{simple}
 \begin_inset CommandInset include
 LatexCommand include
 filename "Notes88.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
 
 \end_inset
 
@@ -887,8 +905,6 @@ status open
 
 
 \backslash
-small
-\backslash
 diamondpar{Here ends 
 \backslash
 textit{Harry Potter and the Methods of Rationality, Volume 
@@ -934,7 +950,7 @@ textsc{hpmor}, that provided me with several hours of entertainment and
 \align center
 
 \size footnotesize
-2013
+2013--2015
 \begin_inset Newline newline
 \end_inset
 

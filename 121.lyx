@@ -100,18 +100,17 @@ A
 
 \end_inset
 
-
-\begin_inset ERT
+ 
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+somber
 \end_layout
 
 \end_inset
 
- somber mood pervaded the Headmistress's office.
+ mood pervaded the Headmistress's office.
  Minerva had returned after dropping off Draco and Narcissa/Nancy at St.
  Mungo's, where the Lady Malfoy was being examined to see if a decade living
  as a Muggle had done any damage to her health; and Harry had come up to
@@ -130,17 +129,6 @@ much
 next
 \emph default
  first thing that needed to happen...
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

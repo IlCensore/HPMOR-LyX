@@ -99,13 +99,12 @@ D
 
 \end_inset
 
-aphne
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+aphne
 \end_layout
 
 \end_inset
@@ -121,17 +120,6 @@ being
  Gregory behind him each carrying a dozen more.
  The Auror who'd accompanied Malfoy stuck his head in briefly, then withdrew
  to who-knew-where.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

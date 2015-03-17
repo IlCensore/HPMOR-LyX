@@ -100,13 +100,12 @@ T
 
 \end_inset
 
-he
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+he
 \end_layout
 
 \end_inset
@@ -114,17 +113,6 @@ status open
  Sun shone down on the Scottish green, striking sparks of reflected white
  from every passing dewdrop or reflective leaf that happened to position
  itself correctly, a clear blue sky for a funeral.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

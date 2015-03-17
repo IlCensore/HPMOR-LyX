@@ -965,5 +965,118 @@ We'll have ourselves a last look back
 And toast an absent friend.
 \end_layout
 
+\begin_layout Section*
+Chapter 122 
+\begin_inset CommandInset ref
+LatexCommand nameref
+reference "chap:122-Something-HG"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+This is the end of Harry Potter and the Methods of Rationality.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+I will write no sequel myself; I have said what I set out to say, and it
+ is done.
+\begin_inset Newline newline
+\end_inset
+
+You have my enthusiastic consent to write within this universe yourself,
+ if you wish.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\family sans
+\emph on
+Please subscribe to the notification email list at hpmor dot com
+\family default
+, if you want to see the separate epilogue when it appears (not for months,
+ at least), or any side stories I might or might not write some day, 
+\family sans
+and to be notified when I embark on my next major work of fiction
+\family default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+Over the next week or two, I may publish some of my thoughts upon the project
+ now that it's done, and venture an Opinion of God on some questions, at
+ 
+\family sans
+hpmor dot com slash notes
+\family default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+The Wrap Parties have already begun, in some parts of the globe.
+ Several have been added since last time.
+ Please check the page indicated in the Author's Notes to see if there is
+ one in your city, and if not, you can always try any local Pi Day celebration.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+I am happy to have written this book for you,
+\begin_inset Newline newline
+\end_inset
+
+and I am honored that you read it.
+\begin_inset Newline newline
+\end_inset
+
+Many of you have declared yourselves my friends,
+\begin_inset Newline newline
+\end_inset
+
+and that knowledge is shining warmly inside me.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+I wish for you to live long, and prosper
+\begin_inset space ~
+\end_inset
+
+--
+\begin_inset Newline newline
+\end_inset
+
+
+\noun on
+Expecto Patronum
+\noun default
+!
+\end_layout
+
 \end_body
 \end_document

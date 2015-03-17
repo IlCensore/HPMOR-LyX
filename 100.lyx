@@ -102,13 +102,12 @@ A
 
 \end_inset
 
-rgus
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+rgus
 \end_layout
 
 \end_inset
@@ -118,17 +117,6 @@ status open
  Behind them the doors of Hogwarts quickly receded, and the dark grounds
  moved closer.
  The track they now walked was muddy and indistinct.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

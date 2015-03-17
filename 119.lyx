@@ -100,13 +100,12 @@ H
 
 \end_inset
 
-arry
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+arry
 \end_layout
 
 \end_inset
@@ -115,17 +114,6 @@ status open
  Headmistress's office.
  He had been summoned by Professor Sinistra, told that it was an emergency,
  but the gates were not opening for him.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

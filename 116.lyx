@@ -100,13 +100,12 @@ A
 
 \end_inset
 
-t
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+t
 \end_layout
 
 \end_inset
@@ -132,17 +131,6 @@ awful
  At professional levels the sport of Quidditch had been reduced to a contest
  of who had the deepest pockets for their Seeker's experimental racing broom,
  and the rest of the players might as well have been watching from the stands.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

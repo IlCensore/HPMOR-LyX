@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
@@ -16,13 +16,13 @@ initials
 \font_roman palatino
 \font_sans avant
 \font_typewriter courier
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -33,15 +33,24 @@ initials
 \use_hyperref false
 \papersize a4paper
 \use_geometry false
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -88,7 +97,7 @@ name "chap:97Roles-Part8"
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -97,13 +106,12 @@ F
 
 \end_inset
 
-or
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+or
 \end_layout
 
 \end_inset
@@ -114,17 +122,6 @@ status open
  his arms like a live thing; and stumbled off in the direction of his dorm
  room, heading half-blindly for the bottom of his trunk, as the silver snake
  waited silently in his arms.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -141,7 +138,15 @@ status open
 \begin_layout Subsubsection*
 
 \emph on
-The fifth meeting: 10:12am, Sunday, April 19th.
+The fifth meeting: 10:12
+\noun on
+
+\begin_inset space ~
+\end_inset
+
+am
+\noun default
+, Sunday, April 19th.
 \end_layout
 
 \begin_layout Standard

@@ -99,13 +99,12 @@ I
 
 \end_inset
 
-t
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+t
 \end_layout
 
 \end_inset
@@ -114,17 +113,6 @@ status open
  alive, barely.
  The Defense Professor himself would be in a healer's bed, this day, as
  he'd been for almost the last week.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2286,7 +2274,11 @@ In the back of Harry's mind, fragments of abstract thought flitted past,
 \end_layout
 
 \begin_layout Standard
--- 
+--
+\begin_inset space ~
+\end_inset
+
+
 \emph on
 what do I notice I am confused by
 \begin_inset space ~
@@ -2298,7 +2290,15 @@ what do I notice I am confused by
 \begin_layout Standard
 
 \emph on
--- the first place to look for a problem is whatever aspect of the situation
+--
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+the first place to look for a problem is whatever aspect of the situation
  seems most improbable
 \begin_inset space ~
 \end_inset
@@ -2309,7 +2309,15 @@ what do I notice I am confused by
 \begin_layout Standard
 
 \emph on
--- simple explanations are more probable, eliminate separate improbabilities
+--
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+simple explanations are more probable, eliminate separate improbabilities
  that must be postulated
 \begin_inset space ~
 \end_inset
@@ -2461,9 +2469,13 @@ But there was no time allowed for hesitation.
 \end_layout
 
 \begin_layout Standard
--- and that was also far too much coincidence just too much improbability
- if your mind didn't write it off as an amazing plot twist like you were
- inside a story.
+--
+\begin_inset space ~
+\end_inset
+
+and that was also far too much coincidence just too much improbability if
+ your mind didn't write it off as an amazing plot twist like you were inside
+ a story.
 \end_layout
 
 \begin_layout Standard
@@ -2561,8 +2573,12 @@ There are Aurors in Hogwarts, and your target Harry Potter is now fully
 \end_layout
 
 \begin_layout Standard
--- forge a supposedly Time-Turned message to Harry Potter from himself,
- telling Harry Potter 
+--
+\begin_inset space ~
+\end_inset
+
+forge a supposedly Time-Turned message to Harry Potter from himself, telling
+ Harry Potter 
 \emph on
 not
 \emph default

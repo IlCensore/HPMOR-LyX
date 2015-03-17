@@ -100,13 +100,12 @@ T
 
 \end_inset
 
-he
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+he
 \end_layout
 
 \end_inset
@@ -114,17 +113,6 @@ status open
  gibbous moon riding higher in the cloudless sky, the stars and wash of
  the Milky Way visible in all their majesty within the darkness, all these
  shone down upon the graveyard to bear witness from their unimaginable distances.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

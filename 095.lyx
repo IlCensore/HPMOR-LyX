@@ -144,7 +144,15 @@ The third meeting
 \begin_inset Newline newline
 \end_inset
 
-(10:31am, April 17th 1992)
+(10:31
+\begin_inset space ~
+\end_inset
+
+
+\noun on
+am
+\noun default
+, April 17th 1992)
 \end_layout
 
 \begin_layout Initial
@@ -157,13 +165,12 @@ S
 
 \end_inset
 
-pring
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+pring
 \end_layout
 
 \end_inset
@@ -177,17 +184,6 @@ status open
  unicorns at the least, and Harry had heard allegations of werewolves.
  Though from what Harry had read of real-life werewolves, that did not make
  the slightest bit of sense.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

@@ -93,13 +93,12 @@ A
 
 \end_inset
 
-fter
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+fter
 \end_layout
 
 \end_inset
@@ -107,17 +106,6 @@ status open
  a single step into Dumbledore's forbidden chamber, Harry shrieked and jumped
  back and collided with Professor Snape, sending the two of them down in
  a heap.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

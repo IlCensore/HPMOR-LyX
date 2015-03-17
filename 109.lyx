@@ -97,36 +97,20 @@ E
 
 
 \emph on
-ven
-\emph default
 
-\begin_inset ERT
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
 
 \emph on
- the greatest artifact can be defeated by a counter-artifact that is lesser,
- but specialized.
-\emph default
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
+ven
 \end_layout
 
 \end_inset
 
-
+ the greatest artifact can be defeated by a counter-artifact that is lesser,
+ but specialized.
 \end_layout
 
 \begin_layout Standard

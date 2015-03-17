@@ -80,7 +80,7 @@ initials
 \begin_body
 
 \begin_layout Chapter
-Shut Up and Do The Impossible, Part I
+Shut Up and Do The Impossible, Part II
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:115-Shut-Up-Do-Impossible-p2"
@@ -100,13 +100,12 @@ S
 
 \end_inset
 
-omething
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+omething
 \end_layout
 
 \end_inset
@@ -120,17 +119,6 @@ status open
 \end_inset
 
 --
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

@@ -100,13 +100,12 @@ T
 
 \end_inset
 
-he
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+he
 \end_layout
 
 \end_inset
@@ -126,17 +125,6 @@ status open
  He would not have been able to act the part of a Malfoy.
  The feeling of emptiness that filled him up was so profound that it left
  no room even for pretended courtesy.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
