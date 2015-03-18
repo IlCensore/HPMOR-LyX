@@ -6,9 +6,6 @@
 \use_default_options true
 \master hpmor_volume3_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -101,12 +98,12 @@ I
 status open
 
 \begin_layout Plain Layout
-t was Saturday
+t
 \end_layout
 
 \end_inset
 
-, on the 4th of April, in the year 1992.
+ was Saturday, on the 4th of April, in the year 1992.
 \end_layout
 
 \begin_layout Standard

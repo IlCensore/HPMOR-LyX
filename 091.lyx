@@ -799,7 +799,20 @@ The man rubbed at his head again.
 \begin_inset space ~
 \end_inset
 
---”
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--”}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -819,7 +832,7 @@ The boy slumped back against the wall.
 \begin_layout Standard
 “Adolescence doesn't necessarily work like that, Harry.
  It may still take a while for you to notice girls.
- If, in fact, you haven't noticed one alrea--” and the man abruptly stopped.
+ If, in fact, you haven't noticed one alrea-” and the man abruptly stopped.
 \end_layout
 
 \begin_layout Standard

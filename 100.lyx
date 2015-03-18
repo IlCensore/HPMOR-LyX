@@ -1420,7 +1420,24 @@ Of course that was why Professor Quirrell wouldn't be able to teach Battle
 
 \begin_layout Standard
 “No,” Harry said, his voice a little shaky.
- “There has to be a way --”
+ “There has to be a way
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--”}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

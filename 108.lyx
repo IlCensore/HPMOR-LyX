@@ -757,7 +757,20 @@ ted walls of the room.
 \begin_inset space ~
 \end_inset
 
---”
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{--”}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1091,7 +1104,7 @@ ns, until I finally stole it.” Professor Quirrell dropped a pale beige-pink
 \begin_inset space ~
 \end_inset
 
---” 
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1104,12 +1117,11 @@ ns, until I finally stole it.” Professor Quirrell dropped a pale beige-pink
  “It should come as no surprise that I spent years trying to master that
  false recipe.
  Next you will ask why I did not kidnap, torture, and kill Perenelle after
- I learned the truth.” 
+ I learned the truth.”
 \end_layout
 
 \begin_layout Standard
 This had not in fact been a question that had come into Harry's mind.
- 
 \end_layout
 
 \begin_layout Standard
@@ -1144,7 +1156,7 @@ Professor Quirrell continued to speak.
  once into the potion, and they seemed to merge as they touched the bubbling
  liquid.
  “But now I am sure of my creation, and so I have decided that the time
- has come to take the Stone by force.” 
+ has come to take the Stone by force.”
 \end_layout
 
 \begin_layout Standard

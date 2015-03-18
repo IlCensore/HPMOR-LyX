@@ -112,9 +112,9 @@ nd
 
  it was evening and it was morning, the last day.
  June 15th, 1992.
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
 The beginning light of morning, the pre-dawn before sunrise, was barely
  brightening the sky.
  To the east of Hogwarts, where the Sun would rise, that faintest tinge
@@ -2803,7 +2803,14 @@ Upon a roof floored in square stony tiles, the brilliant morning Sun blazes
 \emph on
 do
 \emph default
- choose this, now.” 
+ choose this, now.”
+\end_layout
+
+\begin_layout Quote
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2853,12 +2860,11 @@ And if the world or its magic ends, we'll deal with that together.
 \end_layout
 
 \begin_layout Quote
-\align center
-\begin_inset Graphics
-	filename fleur.png
-	display false
-	scale 50
 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -2887,9 +2893,6 @@ This is the end of Harry Potter and the Methods of Rationality.
 \emph on
 I will write no sequel myself; I have said what I set out to say, and it
  is done.
-\begin_inset Newline newline
-\end_inset
-
  You have my enthusiastic consent to write within this universe yourself,
  if you wish.
 
@@ -2903,26 +2906,15 @@ I will write no sequel myself; I have said what I set out to say, and it
 \emph on
 I am happy to have written this book for you,
 \emph default
-
-\begin_inset Newline newline
-\end_inset
-
  
 \emph on
 and I am honored that you read it.
+
 \emph default
-
-\begin_inset Newline newline
-\end_inset
-
  
 \emph on
 Many of you have declared yourselves my friends,
 \emph default
-
-\begin_inset Newline newline
-\end_inset
-
  
 \emph on
 and that knowledge is shining warmly inside me.
@@ -2935,16 +2927,15 @@ and that knowledge is shining warmly inside me.
 \align center
 
 \emph on
-I wish for you to live long, and prosper -
+I wish for you to live long, and prosper --
 \emph default
 
 \begin_inset Newline newline
 \end_inset
 
 
-\noun on
- 
 \emph on
+\noun on
 Expecto Patronum!
 \end_layout
 

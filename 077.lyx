@@ -1,14 +1,11 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
 \use_default_options true
 \master hpmor_volume3_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -19,13 +16,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -36,15 +33,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -79,7 +85,7 @@ Self Actualization, Aftermaths: Surface
 \end_inset
 
 Appearances
-\begin_inset Argument
+\begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
@@ -94,22 +100,15 @@ SA, Aftermaths: Surface Appearances
 \begin_layout Standard
 
 \emph on
-Aftermath: Albus Dumbledore and 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
+Aftermath: Albus Dumbledore and
+\begin_inset space ~
+\end_inset
 
 --
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -118,13 +117,12 @@ T
 
 \end_inset
 
-he
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+he
 \end_layout
 
 \end_inset
@@ -139,17 +137,6 @@ status open
  of the enigmatic devices.
  You might have observed that the face looked a little sad, a little tired,
  but then Albus Dumbledore always looked like that when he was alone.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -163,36 +150,22 @@ In the Floo hearth there were only scattered ashes without a hint of flame,
 
 \begin_layout Standard
 Then, even as the quill was in the middle of penning a word, even as it
- was in the middle of scratching a letter 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ was in the middle of scratching a letter
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
 The old wizard shot to his feet with a speed that would have shocked anyone
  watching, abandoning the quill in mid-letter to fall onto the parchment;
  like lightning he spun on the oaken door, his yellow robes whirling around
- him and a wand of dread power leaping into his hand 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ him and a wand of dread power leaping into his hand
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -289,18 +262,11 @@ The boy advanced further into the room, his head tilting back further to
  “So this Lord Jugson is a Death Eater?” the boy said softly.
  “Good.
  His life is already bought and paid for, then, and I can do anything I
- want to him without ethical problems 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ want to him without ethical problems
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -429,18 +395,11 @@ The boy smiled, now with a touch of coldness again.
 \end_layout
 
 \begin_layout Standard
-“Harry 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“Harry
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -450,18 +409,11 @@ get creative
 \emph default
 , Headmaster.
  It doesn't mean you abandon the children you're supposed to protect.
- Let the Light win, and if trouble comes of it 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ Let the Light win, and if trouble comes of it
+\begin_inset space ~
 \end_inset
 
-” The boy shrugged.
+--” The boy shrugged.
  “Let Light win again.”
 \end_layout
 
@@ -795,18 +747,11 @@ actually worked.
 not
 \emph default
  to give Czechoslovakia to Hitler in exchange for a peace treaty, that they
- should fight right away 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ should fight right away
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -999,18 +944,11 @@ Nothing
 \end_layout
 
 \begin_layout Standard
-Harry had uttered the question without quite thinking 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+Harry had uttered the question without quite thinking
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1114,18 +1052,11 @@ It lasted for some many long seconds, and finally was broken by a single
 
 \begin_layout Standard
 “What?” said the old wizard.
- “No! I would not have done that even to him 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ “No! I would not have done that even to him
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Quote
@@ -1359,18 +1290,13 @@ The boy poked his head back in.
 \begin_layout Standard
 
 \emph on
-Aftermath: Professor Quirrell and 
-\begin_inset ERT
-status open
+Aftermath: Professor Quirrell and
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1392,18 +1318,11 @@ In a shadowy clearing the Defense Professor waited, his back leaned negligently
 \begin_layout Standard
 Then came the faintest sound of footsteps, almost inaudible even on the
  forest ground; the gait of a man accustomed to passing unseen.
- No twig snapped, nor leaf rustled 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ No twig snapped, nor leaf rustled
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1540,18 +1459,11 @@ There was an expectant pause.
 \emph on
 investigating…
 \emph default
- the third-floor corridor 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ the third-floor corridor
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1613,18 +1525,10 @@ who
 \emph default
  Dumbledore fears,” Snape said.
  “But I know what bait he has set out, and somewhat of how it is truly guarded
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1698,18 +1602,13 @@ status open
 \begin_layout Standard
 
 \emph on
-Aftermath: Draco Malfoy and 
-\begin_inset ERT
-status open
+Aftermath: Draco Malfoy and
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1738,18 +1637,11 @@ He couldn't remember making the decision, there'd just been the two older
  boys about to hex Millicent, the common room silently staring, and then
  Draco's hand had just drawn his wand and cast the barrier, leaving his
  heart to pump itself full of shocked adrenaline while his poor sad brain
- frantically racked itself for explanations 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ frantically racked itself for explanations
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1844,18 +1736,11 @@ Did
  Miss Bulstrode, you may consider the favor you did me in February to have
  been repaid.” And Draco turned back to his Potions homework, hoping to Merlin
  and back again that Millicent didn't say anything incredibly stupid like
- `What favor?' 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ `What favor?'
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1872,18 +1757,11 @@ Sweating even more, Draco lifted his head again to look at where Randolph
 \end_layout
 
 \begin_layout Standard
-Randolph Lee opened his mouth, hesitated for a fractional second 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+Randolph Lee opened his mouth, hesitated for a fractional second
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1912,18 +1790,11 @@ status open
 
 \end_inset
 
- it can 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ it can
+\begin_inset space ~
 \end_inset
 
-” A frantic, nerve-racking moment while he figured out how to say it without
+--” A frantic, nerve-racking moment while he figured out how to say it without
  using Harry-words like 
 \emph on
 false positive
@@ -2010,18 +1881,11 @@ each other,
 quite
 \emph default
  the right kind of warm and happy thought.
- But thinking of protecting someone beside you 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ But thinking of protecting someone beside you
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2213,18 +2077,11 @@ A slow pulse of silence through Draco's bedroom.
 \end_layout
 
 \begin_layout Standard
-And then 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+And then
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2306,18 +2163,13 @@ It's not
 \emph default
  your 
 \emph on
-job to decide what Father will like, Goyle 
-\begin_inset ERT
-status open
+job to decide what Father will like, Goyle
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2421,18 +2273,13 @@ Draco nodded again, ignoring the hollow feeling inside himself at the lies
 \begin_layout Standard
 
 \emph on
-Aftermath: Hermione Granger and 
-\begin_inset ERT
-status open
+Aftermath: Hermione Granger and
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2642,18 +2489,11 @@ Hermione began ascending a short spiral of yellow marble steps protruding
 After her pouch had swallowed the cloak, Hermione turned right and started
  to walk down a short passageway, now automatically keeping an eye out in
  all directions without really thinking about it, and her constantly-scanning
- eyes glanced into a shadowy alcove 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ eyes glanced into a shadowy alcove
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2709,18 +2549,10 @@ true
 \emph default
  friend you have in all Hogwarts, Hermione.
  For you have now seen how the others stayed silent when you were in need
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2802,18 +2634,11 @@ The black mist seemed to darken slightly, the voice sounded lower when it
 “One hundred and eighty-seven,” she said.
  “I tried it once and that's how many it came out to.” Her hand was almost
  slipping on her wand, there was a sense of fatigue in her fingers like
- she'd been holding the wand for hours instead of minutes 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ she'd been holding the wand for hours instead of minutes
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2851,18 +2676,11 @@ on?
 \begin_inset Quotes eld
 \end_inset
 
-That's 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+That's
+\begin_inset space ~
 \end_inset
 
-” Hermione said.
+--” Hermione said.
  Her voice was quavering.
  “That's extremely serious business, if it's really true.
  Why are you telling something like that to
@@ -2899,18 +2717,11 @@ status open
 \emph on
 this
 \emph default
- was his helpful ghost 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ was his helpful ghost
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2940,18 +2751,7 @@ protect
 \begin_inset space ~
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
-
-\end_inset
-
-
 \begin_inset Quotes erd
 \end_inset
 
@@ -2982,18 +2782,11 @@ Double
 \end_layout
 
 \begin_layout Standard
-“Time 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“Time
+\begin_inset space ~
 \end_inset
 
-” The voice seemed to catch itself.
+--” The voice seemed to catch itself.
  “Time enough for that later.
  For now, for today, indeed Harry Potter is not your enemy.
  And yet you are in gravest danger.”
@@ -3054,18 +2847,11 @@ Hermione took a step backward, away from the shadowy alcove.
 Why not, Hermione?
 \emph default
 ” demanded the voice, rising to a hiss.
- “You owe me that much! Tell me, and then 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ “You owe me that much! Tell me, and then
+\begin_inset space ~
 \end_inset
 
-” The voice caught, and came back quieter.
+--” The voice caught, and came back quieter.
  “And then you can go, I suppose.
  Only tell me 
 \begin_inset ERT
@@ -3082,18 +2868,11 @@ status open
 \emph on
 why
 \emph default
- 
-\begin_inset ERT
-status open
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -3147,40 +2926,27 @@ are
 \emph default
  the clever one,” said the voice, and the black mist evaporated away, no
  longer obscuring; she saw the face beneath, and recognition sent a jolt
- of terrified adrenaline bursting through her 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ of terrified adrenaline bursting through her
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
 
 \emph on
- (fleeting disorientation)
+(fleeting disorientation)
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- and then a rush of shock and fear hit her like a Stunning Hex over her
- whole body, she found that without any thought or any conscious decision
- her wand had leaped into her hand and was already pointed at…
+and then a rush of shock and fear hit her like a Stunning Hex over her whole
+ body, she found that without any thought or any conscious decision her
+ wand had leaped into her hand and was already pointed at…
 \end_layout
 
 \begin_layout Standard
@@ -3200,18 +2966,11 @@ Hermione stared open-mouthed at the gentle sight, wondering why her heart
  behind the veil.
  “I've been sent to help you, so please don't be afraid.
  I am your servant in all things; for you, my Lady, are the bearer of a
- most marvelous destiny 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ most marvelous destiny
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \end_body

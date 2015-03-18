@@ -1,14 +1,11 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
 \use_default_options true
 \master hpmor_volume3_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -19,13 +16,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -36,15 +33,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -252,6 +258,7 @@ end{samepage}
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -266,13 +273,22 @@ Hypothesis: Voldemort
 \begin_inset Newline newline
 \end_inset
 
-(April 8th, 1992, 7:22pm)
+(April 8th, 1992, 7:22
+\begin_inset space ~
+\end_inset
+
+
+\noun on
+pm
+\noun default
+)
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -281,7 +297,7 @@ Hypothesis: Voldemort
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -290,13 +306,12 @@ T
 
 \end_inset
 
-he
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+he
 \end_layout
 
 \end_inset
@@ -307,29 +322,7 @@ status open
  Headmistress Shehla had once gotten lost in that desk, and was, in fact,
  still there, and wouldn't be let out again until she got her files organized.
  Minerva didn't particularly look forward to inheriting those drawers, when
- she inherited that desk someday 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
-\end_inset
-
- if any of them survived.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
+ she inherited that desk someday -- if any of them survived.
 \end_layout
 
 \begin_layout Standard
@@ -505,20 +498,13 @@ Harry was listening with a frown.
 “
 \emph on
 The one with the power to vanquish the Dark Lord approaches, born to those
- who have thrice defied him, born as the seventh month 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ who have thrice defied him, born as the seventh month
+\begin_inset space ~
 \end_inset
 
 
 \emph default
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -530,18 +516,7 @@ carefully
 
 
 \emph default
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
-\end_inset
-
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -562,18 +537,15 @@ me.
 \emph default
  This scar is an obvious candidate for the mark…” Harry touched his forehead.
  “Then there's the power the Dark Lord knows not, which probably refers
- to my scientific background 
-\begin_inset ERT
-status open
+ to my scientific background
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -701,30 +673,24 @@ one
 \end_layout
 
 \begin_layout Standard
-“But 
-\begin_inset ERT
-status open
+“But
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” Minerva blurted.
- “But the raid on Azkaban 
-\begin_inset ERT
-status open
 
-\begin_layout Plain Layout
+\emph default
+--” Minerva blurted.
+ “But the raid on Azkaban
+\emph on
 
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -835,18 +801,15 @@ Albus paused.
  Albus said slowly.
  “That much, anyone can discern within history and legend.
  And yet those books are missing, I could not find them; it was Voldemort
- who removed them, I am sure 
-\begin_inset ERT
-status open
+ who removed them, I am sure
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -883,18 +846,15 @@ status open
 
  missing from the Restricted Section of the Hogwarts library.
  An ancient scroll which should have been at Borgin and Burkes, with only
- an empty place on a shelf to show where it was 
-\begin_inset ERT
-status open
+ an empty place on a shelf to show where it was
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” The old wizard stopped.
+
+\emph default
+--” The old wizard stopped.
  “But I suppose,” the old wizard said, as though to himself, “you will say
  that even if Voldemort tried to make himself immortal, it does not prove
  that he succeeded…”
@@ -990,18 +950,15 @@ a priori
  versus false, you should update to believing the hypothesis is twenty times
  as likely to be false as true.
  Odds of a hundred to one, times a likelihood ratio of one to five, equals
- odds of twenty to one that the Dark Lord is dead 
-\begin_inset ERT
-status open
+ odds of twenty to one that the Dark Lord is dead
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1337,18 +1294,15 @@ status open
 
 \end_inset
 
- better yet, cover it with a layer of fake skin 
-\begin_inset ERT
-status open
+ better yet, cover it with a layer of fake skin
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1372,18 +1326,15 @@ status open
 \end_layout
 
 \begin_layout Standard
-“Well 
-\begin_inset ERT
-status open
+“Well
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” The boy stopped, frowning.
+
+\emph default
+--” The boy stopped, frowning.
  “It seems unnecessarily complicated, more like a tactic a villain would
  use in a role-playing game than something you'd try in a real-life war.
  But I suppose you could put fake Dark Marks on people who aren't really
@@ -1533,18 +1484,15 @@ any
  spies.
  Once you've identified at least one magically censored secret of the Dark
  Mark, you can test someone for the Dark Mark by seeing if they can reveal
- that secret to somebody who doesn't already know it 
-\begin_inset ERT
-status open
+ that secret to somebody who doesn't already know it
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1625,18 +1573,13 @@ Harry Potter sat still for a long moment.
 \end_layout
 
 \begin_layout Standard
-Then 
-\begin_inset ERT
-status open
+Then
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1658,18 +1601,15 @@ near
 \emph default
  the level of what Muggle scientists do for a living.
  And second, for all I know, it took the Dark Lord five months of thinking
- to invent the puzzle I just solved in five seconds 
-\begin_inset ERT
-status open
+ to invent the puzzle I just solved in five seconds
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1740,6 +1680,7 @@ status open
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -1899,20 +1840,13 @@ All
  of you.
  You'd have died 
 \emph on
-instantly 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+instantly
+\begin_inset space ~
 \end_inset
 
 
 \emph default
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2119,18 +2053,11 @@ Maybe there was some reason Lord Voldemort
 \emph default
  wasn't 
 \emph on
-fighting all-out back then 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+fighting all-out back then
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2142,18 +2069,11 @@ Like what?
  
 \emph on
 Furthermore, whatever your excuse, I demand that the probability of your
- hypothesis be penalized in accordance with its added complexity 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ hypothesis be penalized in accordance with its added complexity
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2178,18 +2098,11 @@ First of all, we don't
 \emph on
 that anyone can take over the Ministry just with mind control.
  Maybe magical Britain is really an oligarchy and you need enough military
- power to intimidate the family heads into submission 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ power to intimidate the family heads into submission
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2202,18 +2115,14 @@ Imperius them too,
 
 \begin_layout Standard
 
-\emph on
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
+\emph on
+\lang english
 
+\begin_inset space ~
 \end_inset
 
- and the oligarchs have Thief's Downfall in the entrances to
+and the oligarchs have Thief's Downfall in the entrances to
 \emph default
  their 
 \emph on
@@ -2221,18 +2130,7 @@ homes
 \begin_inset space ~
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2247,18 +2145,12 @@ More epicycles!
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
+\emph on
 
+\begin_inset space ~
 \end_inset
 
- 
-\emph on
 oh, be reasonable,
 \emph default
  said Ravenclaw Three.
@@ -2343,18 +2235,11 @@ Therefore, he wanted to take over the world.
 \begin_layout Standard
 
 \emph on
-And if he is your equal, and you do have to fight him 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+And if he is your equal, and you do have to fight him
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -2588,6 +2473,7 @@ In the fireplace at one side of the Headmaster's office, the flames suddenly
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -2606,13 +2492,22 @@ Hypothesis: Hermione Granger
 
 
 \emph on
-(April 8th, 1992, 6:53pm)
+(April 8th, 1992, 6:53
+\begin_inset space ~
+\end_inset
+
+
+\noun on
+pm
+\noun default
+)
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -2627,18 +2522,7 @@ Meanwhile in the Great Hall of Hogwarts, as the students who didn't have
 \begin_inset space ~
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2660,18 +2544,15 @@ he
 \end_layout
 
 \begin_layout Standard
-“But now 
-\begin_inset ERT
-status open
+“But now
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” Dean said sadly.
+
+\emph default
+--” Dean said sadly.
  “We 
 \emph on
 can't
@@ -2733,18 +2614,15 @@ status open
 \emph on
 how
 \emph default
- many possibilities there are 
-\begin_inset ERT
-status open
+ many possibilities there are
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2867,18 +2745,11 @@ status open
 \emph on
 couldn't
 \emph default
- fall in love 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ fall in love
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -3085,18 +2956,11 @@ made
 \end_layout
 
 \begin_layout Standard
-“You don't mean 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“You don't mean
+\begin_inset space ~
 \end_inset
 
-” gasped Sarah.
+--” gasped Sarah.
 \end_layout
 
 \begin_layout Standard
@@ -3125,18 +2989,11 @@ status open
 
 \begin_layout Standard
 “That's what I think too,” Chloe said.
- “After all 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ “After all
+\begin_inset space ~
 \end_inset
 
-” She glanced around rapidly.
+--” She glanced around rapidly.
  “Ever since that thing with the bullies and the ceiling 
 \begin_inset ERT
 status open
@@ -3154,20 +3011,13 @@ shaking,
 \emph default
  like they're 
 \emph on
-afraid 
-\begin_inset ERT
-status open
+afraid
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
-\emph default
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -3227,6 +3077,7 @@ Dean and Seamus nodded solemnly.
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -3242,13 +3093,22 @@ Hypothesis: G.
 \begin_inset Newline newline
 \end_inset
 
-(April 8th, 1992, 8:08pm)
+(April 8th, 1992, 8:08
+\begin_inset space ~
+\end_inset
+
+
+\noun on
+pm
+\noun default
+)
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -3259,18 +3119,11 @@ Hypothesis: G.
 \begin_layout Standard
 The Floo-Fire of the Headmaster's office blazed a bright pale-green, the
  fire concentrating in on itself into a spinning emeraldine whirlwind, and
- then flared even brighter and spit a human figure into the air 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ then flared even brighter and spit a human figure into the air
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -3300,18 +3153,13 @@ One part of Harry's mind realized that the person whom Professor McGonagall
  had named `Mad-Eye Moody' was the same as the one Dumbledore had called
  `Alastor', within the memory Dumbledore had shown Harry; an image from
  before whatever event had scarred every inch of the man's body and taken
- a chunk out of his nose 
-\begin_inset ERT
-status open
+ a chunk out of his nose
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -3461,18 +3309,11 @@ The scarred man turned back to face the Headmaster, though his wand stayed
 \emph on
 certain
 \emph default
- 
-\begin_inset ERT
-status open
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” Dumbledore began.
+--” Dumbledore began.
 \end_layout
 
 \begin_layout Standard
@@ -3494,18 +3335,11 @@ what?
 “If the tales speak true,” Dumbledore said, “there is some device of power
  which binds Voldemort's shade to this world; and by that means he may bargain
  with a host for possession of their body, conferring on them some portion
- of his power and his pride 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ of his power and his pride
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -3588,18 +3422,13 @@ There must have been something in Harry's voice that gave him away, because
 \end_layout
 
 \begin_layout Standard
-Harry paused, trying to figure out how to phrase this to the stranger 
-\begin_inset ERT
-status open
+Harry paused, trying to figure out how to phrase this to the stranger
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -3629,18 +3458,15 @@ certain
 \emph on
 not
 \emph default
- sure and you're heading off to kill him 
-\begin_inset ERT
-status open
+ sure and you're heading off to kill him
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -3701,20 +3527,13 @@ try
 \emph default
  not to hurt this person, in case he's 
 \emph on
-not 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+not
+\begin_inset space ~
 \end_inset
 
 
 \emph default
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -3737,18 +3556,15 @@ The scarred man leaned over the Headmaster's desk.
  Naive.
  Doesn't know a bloody thing about what war's like.
  I want him out of here and all his memories of the Order wiped before one
- of Voldie's servants plucks them straight out of his mind 
-\begin_inset ERT
-status open
+ of Voldie's servants plucks them straight out of his mind
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -3793,18 +3609,13 @@ pretending
 \emph default
  to be the imaginary person that was screaming in shock and pain as the
  Legilimency tore apart his sanity and reshaped him to believe that he was
- on fire 
-\begin_inset ERT
-status open
+ on fire
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -3868,18 +3679,15 @@ Harry strengthened his shields, and looked once more into the dark grey
 “My parents,” Harry said evenly.
  “I recovered the memory in January when I went in front of a Dementor to
  learn the Patronus Charm.
- I remember You-Know-Who's voice 
-\begin_inset ERT
-status open
+ I remember You-Know-Who's voice
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” A chill went through Harry's body, his wand twitching in his hand.
+
+\emph default
+--” A chill went through Harry's body, his wand twitching in his hand.
  “My main tactical report is that You-Know-Who could speak the Killing Curse
  in less than half a second, but you probably already knew that.”
 \end_layout
@@ -3953,24 +3761,22 @@ l's inhalation and the Potions Master's snort of disbelief.
  Dumbledore's eyebrows had lifted, and Moody was grinning like a tiger.
  “Be sure to wake me up in forty minutes if he does get me.” Harry settled
  into a duelist's starting stance, his wand held low.
- “Let's go, then 
-\begin_inset ERT
-status open
+ “Let's go, then
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -4061,6 +3867,7 @@ It had then shown around twenty-three minutes after eight, and now it was
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -4138,18 +3945,14 @@ Mad-Eye's own chuckle was lower and grimmer.
 was
 \emph default
  the boy thinking? Why, I ought to give him a scar, to remember this occasion
- 
-\begin_inset ERT
-status open
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -4179,24 +3982,20 @@ Sagitta Magica,
 \emph on
 something
 \emph default
- that fell to the floor with a thud 
-\begin_inset ERT
-status open
+ that fell to the floor with a thud
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -4225,6 +4024,7 @@ believe
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -4233,39 +4033,33 @@ believe
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
+\emph on
 
+\begin_inset space ~
 \end_inset
 
- and then Mad-Eye ducked hard and fast, his hands hitting flat on the floor.
+
+\emph default
+and then Mad-Eye ducked hard and fast, his hands hitting flat on the floor.
  She almost didn't see the two tiny white threads passing through the space
  he'd been, but her eyes went to the blue spark when the threads impacted
  on one of the Headmaster's devices, and by the time she managed to turn
  her eyes back, Mad-Eye had spun smoothly up to his feet, his wand was dancing
- unseeably fast and there was another thudding sound 
-\begin_inset ERT
-status open
+ unseeably fast and there was another thudding sound
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -4280,24 +4074,22 @@ status open
 \begin_layout Standard
 “Pardon me, Headmaster, but could you let me go down your stairs, and then
  come back up again, before I make the final jump backward? This is going
- to take longer than one hour of preparation 
-\begin_inset ERT
-status open
+ to take longer than one hour of preparation
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -4368,18 +4160,15 @@ Moody's tiger-grin grew wider.
 \begin_layout Standard
 “It's my final attempt because I decided to stake my last three hours on
  one shot,” said Harry Potter.
- “As for whether I win 
-\begin_inset ERT
-status open
+ “As for whether I win
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -4395,18 +4184,13 @@ Stuporfy!
 \begin_layout Standard
 Three shimmers in the air went past Harry's moving head, just as a red bolt
  erupted from Harry's location, shooting past Moody as he dodged in yet
- another direction 
-\begin_inset ERT
-status open
+ another direction
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -4429,24 +4213,22 @@ Minerva McGonagall said, “What in
 \emph on
 Merlin's name
 \emph default
- just 
-\begin_inset ERT
-status open
+ just
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -4463,18 +4245,15 @@ status open
 \begin_layout Standard
 Harry Potter nodded, now sitting in his own chair instead of perched on
  an armrest.
- “I tried the Defense Professor first, but 
-\begin_inset ERT
-status open
+ “I tried the Defense Professor first, but
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” The boy grimaced.
+
+\emph default
+--” The boy grimaced.
  “He… wasn't available.
  Well, I'd decided it was worth risking five House points, and if you say
  a risk is worth it, you can't complain when you have to pay up.
@@ -4529,18 +4308,15 @@ status open
 
 \end_inset
 
- he's a champion duellist as well as a Charms Master 
-\begin_inset ERT
-status open
+ he's a champion duellist as well as a Charms Master
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -4574,18 +4350,15 @@ status open
 \end_layout
 
 \begin_layout Standard
-“But 
-\begin_inset ERT
-status open
+“But
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” said Professor McGonagall.
+
+\emph default
+--” said Professor McGonagall.
  She glanced at Mad-Eye Moody, who was nodding his approval, and at Severus,
  who was keeping his face decidedly blank.
  “Mr.
@@ -4836,18 +4609,15 @@ Moody could've turned
 \emph on
 himself
 \emph default
- invisible, or put up shields 
-\begin_inset ERT
-status open
+ invisible, or put up shields
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -4889,18 +4659,15 @@ Harry opened his mouth, then paused.
  “I don't have any experience at that.
  All I know is that there are consequences.
  Please be advised that my own assessment is that Lockhart is probably innocent,
- so if you can avoid hurting him without too much risk 
-\begin_inset ERT
-status open
+ so if you can avoid hurting him without too much risk
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” The boy shrugged.
+
+\emph default
+--” The boy shrugged.
  “I don't know the cost.
  Just please, if you can, be careful not to hurt him if he's innocent.”
 \end_layout
@@ -4992,18 +4759,15 @@ not
 
 \begin_layout Standard
 “Yes,” said Moody.
- “About that Defense Professor of yours 
-\begin_inset ERT
-status open
+ “About that Defense Professor of yours
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -5016,6 +4780,7 @@ Hypothesis: Gilderoy Lockhart: END
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -5034,13 +4799,22 @@ Hypothesis: Dumbledore
 
 
 \emph on
-(April 9th, 1992, 5:32pm)
+(April 9th, 1992, 5:32
+\begin_inset space ~
+\end_inset
+
+
+\noun on
+pm
+\noun default
+)
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -5284,18 +5058,13 @@ status open
 
 \begin_layout Standard
 “Then who is?” Harry said, somewhat puzzled.
- Professor Quirrell surely wasn't about to reply `You-Know-Who' 
-\begin_inset ERT
-status open
+ Professor Quirrell surely wasn't about to reply `You-Know-Who'
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -5311,19 +5080,12 @@ status open
 “You're not seriously trying to convince me that
 \emph on
  Hermione
-\emph default
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -5807,18 +5569,7 @@ HE IS COMING.
 \begin_inset space ~
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -5860,18 +5611,11 @@ Potter, what is this mysterious
 \emph default
  other 
 \emph on
-prophecy you went to such lengths to deny 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+prophecy you went to such lengths to deny
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -6101,6 +5845,7 @@ status open
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -6119,13 +5864,22 @@ Hypothesis: The Defense Professor
 
 
 \emph on
-(April 8th, 1992, 8:37pm)
+(April 8th, 1992, 8:37
+\begin_inset space ~
+\end_inset
+
+
+\noun on
+pm
+\noun default
+)
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -6162,18 +5916,15 @@ required
 \emph on
 quite
 \emph default
- phrase it in that fashion 
-\begin_inset ERT
-status open
+ phrase it in that fashion
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -6275,18 +6026,15 @@ not
  From within his leather armor, the scarred man took out a black folder.
  “This is a copy of what Amelia's people put together.
  She almost certainly knows we've got it, but it's all off the books, that
- clear? Anyway 
-\begin_inset ERT
-status open
+ clear? Anyway
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -6295,18 +6043,13 @@ And Moody told them who the Department of Magical Law Enforcement thought
  A seemingly ordinary Hogwarts student (though talented enough that he'd
  been only narrowly beaten out for the Head Boy position) who'd gone vacationing
  in Albania after his graduation, disappeared, returned after 25 years,
- and then been caught up in the Wizarding War 
-\begin_inset ERT
-status open
+ and then been caught up in the Wizarding War
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -6507,18 +6250,15 @@ pretending
 \emph on
 pretend
 \emph default
- he's pretending he doesn't know what you're talking about 
-\begin_inset ERT
-status open
+ he's pretending he doesn't know what you're talking about
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -6711,18 +6451,11 @@ This from an orphan who was raised unaware of his heritage,
 \emph on
 With a prophecy about him.
  You know, I don't think we've ever read a story about two equally destined
- heroes competing to see who's cliched enough to take down the villain 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ heroes competing to see who's cliched enough to take down the villain
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -6766,18 +6499,15 @@ we test experimentally whether or not Professor Quirrell is the original
 \begin_layout Standard
 “What do you want me to do about it, Mad-Eye?” Professor McGonagall was
  demanding.
- “I can't 
-\begin_inset ERT
-status open
+ “I can't
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -6818,18 +6548,15 @@ be
 \emph on
  actually
 \emph default
- be 
-\begin_inset ERT
-status open
+ be
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -6998,18 +6725,15 @@ reason
 
 \begin_layout Standard
 “Ah,” said Harry.
- “That does seem like an excellent reason to ban 
-\begin_inset ERT
-status open
+ “That does seem like an excellent reason to ban
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -7229,18 +6953,15 @@ status open
 \emph on
 you
 \emph default
- teach the classes, if 
-\begin_inset ERT
-status open
+ teach the classes, if
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -7293,18 +7014,15 @@ status open
 
 Moody, even if Professor Quirrell isn't the original Monroe, I'm not sure
  that getting rid of him is a free action.
- He saved my life twice 
-\begin_inset ERT
-status open
+ He saved my life twice
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -7352,6 +7070,7 @@ Professor McGonagall nodded firmly.
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -7366,13 +7085,22 @@ Hypothesis: Severus Snape
 \begin_inset Newline newline
 \end_inset
 
-(April 8th, 1992, 9:03pm)
+(April 8th, 1992, 9:03
+\begin_inset space ~
+\end_inset
+
+
+\noun on
+pm
+\noun default
+)
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -7412,18 +7140,15 @@ status open
 \emph on
 do
 \emph default
- anything which conflicts with my duties to 
-\begin_inset ERT
-status open
+ anything which conflicts with my duties to
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -7661,18 +7386,13 @@ The stairs they were upon ceased rotating, and they were before the backs
 \end_layout
 
 \begin_layout Standard
-Harry stepped out 
-\begin_inset ERT
-status open
+Harry stepped out
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -7772,19 +7492,16 @@ status open
 
 \end_inset
 
-Potter 
-\begin_inset ERT
-status open
+Potter
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” began Professor McGonagall, and then exhaled, the flash of sharpness disappear
-ing as quickly as it had come.
+
+\emph default
+--” began Professor McGonagall, and then exhaled, the flash of sharpness
+ disappearing as quickly as it had come.
  “Never mind.
  If you cannot say, you cannot say.”
 \end_layout
@@ -7798,18 +7515,13 @@ you
 \end_layout
 
 \begin_layout Standard
-Professor McGonagall seemed to hesitate 
-\begin_inset ERT
-status open
+Professor McGonagall seemed to hesitate
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -7828,18 +7540,15 @@ him
 \end_layout
 
 \begin_layout Standard
-“Harry 
-\begin_inset ERT
-status open
+“Harry
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” the Transfiguration Professor said, and then closed her mouth.
+
+\emph default
+--” the Transfiguration Professor said, and then closed her mouth.
 \end_layout
 
 \begin_layout Standard
@@ -7889,18 +7598,15 @@ all
 \emph on
  certain sort of girl
 \emph default
- that stares at him with longing eyes 
-\begin_inset ERT
-status open
+ that stares at him with longing eyes
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -7928,18 +7634,15 @@ very
 I'll
 \emph default
  find Professor Snape attractive, and the important thing is for me to just
- accept whatever I 
-\begin_inset ERT
-status open
+ accept whatever I
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -7966,19 +7669,17 @@ Potter,
 \emph default
  Severus has always been entirely indifferent to the stares of those young
  girls.
- But now 
-\begin_inset ERT
-status open
+ But now
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” Professor McGonagall seemed to realize something, and hastily said, her
- hands rising in warding, “Please don't mistake me, Professor Snape 
+
+\emph default
+--” Professor McGonagall seemed to realize something, and hastily said,
+ her hands rising in warding, “Please don't mistake me, Professor Snape
+ 
 \emph on
 certainly
 \emph default
@@ -8035,18 +7736,7 @@ Snape and Dumbledore?
 \begin_inset space ~
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
-\end_inset
-
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -8152,6 +7842,7 @@ There was a long silence.
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -8210,6 +7901,7 @@ anyone
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -8275,6 +7967,7 @@ Professor McGonagall looked away from him, staring at the wall.
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -8398,18 +8091,15 @@ not mocking
 \emph default
  the pleading look that Harry had never expected to see from that person.
  “I wouldn't think that would be a pleasant thing for you to hear either,
- Professor 
-\begin_inset ERT
-status open
+ Professor
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -8425,18 +8115,11 @@ You know,
  said Harry's Slytherin side, 
 \emph on
 it might not be such a good idea to give him closure, if his guilt-based
- loyalties are already wavering 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ loyalties are already wavering
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -8465,18 +8148,15 @@ exactly
 \emph on
  will
 \emph default
- tell you afterward, only, it could be really important 
-\begin_inset ERT
-status open
+ tell you afterward, only, it could be really important
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -8567,18 +8247,15 @@ Harry swallowed twice, and began his recounting.
 \end_layout
 
 \begin_layout Standard
-“You-Know-Who said 
-\begin_inset ERT
-status open
+“You-Know-Who said
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” Harry stopped, the chills going all over his own skin, his own muscles
+
+\emph default
+--” Harry stopped, the chills going all over his own skin, his own muscles
  tightening as if in preparing for a seizure.
  The memory was returning strongly, now, accompanied by cold and darkness
  in association.
@@ -8612,18 +8289,15 @@ status open
 
 \end_inset
 
- the Dark Lord said 
-\begin_inset ERT
-status open
+ the Dark Lord said
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -8673,18 +8347,15 @@ I give you this rare chance to flee.
 \end_layout
 
 \begin_layout Standard
-“
-\begin_inset ERT
-status open
+“--
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- that he was being generous and giving her a chance to run, but he wouldn't
+
+\emph default
+that he was being generous and giving her a chance to run, but he wouldn't
  bother fighting her, and even if she died, she couldn't save me 
 \begin_inset ERT
 status open
@@ -8742,18 +8413,15 @@ status open
 
 \end_inset
 
- and his voice was lower this time, like he was dropping a pose 
-\begin_inset ERT
-status open
+ and his voice was lower this time, like he was dropping a pose
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -8763,18 +8431,15 @@ Very well, I accept the bargain.
 \end_layout
 
 \begin_layout Standard
-“
-\begin_inset ERT
-status open
+“--
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- he said that he accepted her offer, and that she should drop her wand so
+
+\emph default
+he said that he accepted her offer, and that she should drop her wand so
  he could kill her.
  And then the Dark Lord waited, just waited.
  I, I don't know what Lily Potter was thinking, it hadn't even made sense
@@ -8827,19 +8492,12 @@ status open
  
 \emph on
 and then
-\emph default
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -8877,18 +8535,15 @@ status open
 
 \end_inset
 
- the Dark Lord didn't torture her 
-\begin_inset ERT
-status open
+ the Dark Lord didn't torture her
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-” Harry said.
+
+\emph default
+--” Harry said.
  “If that's what you're asking.”
 \end_layout
 

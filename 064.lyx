@@ -9,9 +9,6 @@
 \use_default_options true
 \master hpmor_volume2_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false

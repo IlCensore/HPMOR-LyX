@@ -1,14 +1,11 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
 \use_default_options true
 \master hpmor_volume3_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -19,13 +16,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -36,15 +33,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -84,7 +90,7 @@ Thursday, April 16th, 1992.
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -93,13 +99,12 @@ T
 
 \end_inset
 
-he
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+he
 \end_layout
 
 \end_inset
@@ -134,17 +139,6 @@ relaxing
 \emph default
  to spend a free hour around; and in any case, neither of those two had
  stayed over for the Easter hols.)
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -199,18 +193,15 @@ It would be a mistake to think that Hermione drooped about the corridors
 \begin_layout Standard
 A shadow fell over where Hermione was reading her current book and she whirled
  around, the wand hidden on her lap coming up to point directly at the surprised
- face of 
-\begin_inset ERT
-status open
+ face of
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
 
+\emph default
+--
 \end_layout
 
 \begin_layout Standard
@@ -311,18 +302,15 @@ status open
  she couldn't face him now, she just couldn't, she spent sleepless nights
  worrying what Harry thought of her now, and she was afraid, and she'd been
  avoiding the boy who'd spent all his money to save her, and she was a horrible
- ungrateful wretch, and a terrible person and 
-\begin_inset ERT
-status open
+ ungrateful wretch, and a terrible person and
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
 
+\emph default
+--
 \end_layout
 
 \begin_layout Standard
@@ -344,18 +332,15 @@ didn't
  want to let that run any longer without doing something about it, so I
  got ahold of a bag of chocolates from the Weasley twins and I'm just going
  to give you one every time you see me as a positive reinforcement if that's
- all right with you 
-\begin_inset ERT
-status open
+ all right with you
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -454,18 +439,15 @@ Everything!
 \begin_layout Standard
 Before she could stop him, them, Harry bent over the library-desk to see
  the book she was reading, leaning his head forward before she could think
- to grab the book away 
-\begin_inset ERT
-status open
+ to grab the book away
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
 
+\emph default
+--
 \end_layout
 
 \begin_layout Standard
@@ -538,18 +520,15 @@ couldn't
  do it on her own?) and meanwhile a much more sensible part of Hermione
  flipped back the book to page 37 which had the most promising entry she'd
  seen so far (though in her imagination she always did it on her own and
- took Harry completely by surprise) 
-\begin_inset ERT
-status open
+ took Harry completely by surprise)
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
 
+\emph default
+--
 \end_layout
 
 \begin_layout Standard
@@ -661,18 +640,15 @@ Everyone
  countries
 \emph default
  would be trying to capture the immortal wizard and get the secret out of
- him 
-\begin_inset ERT
-status open
+ him
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -828,18 +804,15 @@ know that,
  figure out how to do.
  I thought, maybe the difficult part about making a Philosopher's Stone
  was that the alchemical circle had to be super precise, and I could get
- it right by using a Muggle microscope 
-\begin_inset ERT
-status open
+ it right by using a Muggle microscope
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -854,18 +827,15 @@ Quietus,
 ” and then continued after the small noises of the rowdier books had died
  down.
  “Even if the Philosopher's Stone is just a myth, the same trick might work
- for other difficult alchemies 
-\begin_inset ERT
-status open
+ for other difficult alchemies
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1071,18 +1041,15 @@ right
 \end_layout
 
 \begin_layout Standard
-“Whoa, whoa, hold on there a second 
-\begin_inset ERT
-status open
+“Whoa, whoa, hold on there a second
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1367,20 +1334,13 @@ Draco Malfoy
 ,” she said.
  “Harry, do you have 
 \emph on
-any idea 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+any idea
+\begin_inset space ~
 \end_inset
 
 
 \emph default
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1388,18 +1348,15 @@ status open
 \end_layout
 
 \begin_layout Standard
-“
-\begin_inset ERT
-status open
+“--
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- the sort of things Malfoy has been 
+
+\emph default
+the sort of things Malfoy has been 
 \emph on
 saying
 \emph default
@@ -1463,19 +1420,12 @@ what
  a good person would
 \emph on
  never
-\emph default
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1500,18 +1450,15 @@ your
 \emph on
  his
 \emph default
- environment 
-\begin_inset ERT
-status open
+ environment
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1606,18 +1553,15 @@ status open
 \end_inset
 
  it was a popular village entertainment to take a wicker basket, or a bundle,
- with a dozen live cats in it, and 
-\begin_inset ERT
-status open
+ with a dozen live cats in it, and
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1626,17 +1570,14 @@ status open
 
 \begin_layout Standard
 “
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
+\emph on
 --
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- roast it over a bonfire.
+
+\emph default
+roast it over a bonfire.
  Just a regular celebration.
  Good clean fun.
  And I'll give them this, it was cleaner fun than burning women they thought
@@ -1647,34 +1588,24 @@ status open
 feel
 \emph default
  inside
+\emph on
+
 \begin_inset space ~
 \end_inset
 
 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
-\end_inset
-
-” Harry put a hand over his own heart, in the anatomically correct position,
+\emph default
+--” Harry put a hand over his own heart, in the anatomically correct position,
  then paused and moved his hand up to point toward his head at around the
  ear level, “
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
+\emph on
 --
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- is that they hurt when they see their 
+
+\emph default
+is that they hurt when they see their 
 \emph on
 friends
 \emph default
@@ -1722,18 +1653,15 @@ can
 tells
 \emph default
  you to do, you're the one who does it.
- Everyone knows that 
-\begin_inset ERT
-status open
+ Everyone knows that
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1844,19 +1772,12 @@ tell
  “If I'd
 \emph on
  known
-\emph default
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1932,18 +1853,15 @@ course
 \emph default
  she'll remember the exact wording.
  It doesn't matter if she's chained to her chair, on trial for murder in
- front of the entire Wizengamot 
-\begin_inset ERT
-status open
+ front of the entire Wizengamot
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1975,18 +1893,15 @@ You were doing SCIENCE with him?
 \end_layout
 
 \begin_layout Standard
-“Well 
-\begin_inset ERT
-status open
+“Well
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2020,18 +1935,15 @@ status open
 \end_inset
 
  it's not like I was doing original magical research with him, the way I
- was with you 
-\begin_inset ERT
-status open
+ was with you
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2049,18 +1961,15 @@ me,
 \begin_layout Standard
 “Um, of course not?” Harry said.
  “I've been doing science with him since October, and he wasn't exactly
- ready to hear about you then 
-\begin_inset ERT
-status open
+ ready to hear about you then
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2077,18 +1986,15 @@ That is not okay! You can't do science with two people at once!
 \end_layout
 
 \begin_layout Standard
-“Er 
-\begin_inset ERT
-status open
+“Er
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2106,18 +2012,15 @@ status open
 did
 \emph default
  think of that, and I was very careful not to get your research mixed together
- with anything I did with him 
-\begin_inset ERT
-status open
+ with anything I did with him
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2209,19 +2112,12 @@ status open
  And Draco would've been the one at risk if I'd told anyone else about 
 \emph on
 him
-\emph default
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2250,18 +2146,15 @@ only
 \emph on
 not
 \emph default
- why I 
-\begin_inset ERT
-status open
+ why I
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2295,18 +2188,15 @@ Is
 \emph on
 more
 \emph default
- so 
-\begin_inset ERT
-status open
+ so
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2362,18 +2252,15 @@ I'm
 \emph on
  you,
 \emph default
- but 
-\begin_inset ERT
-status open
+ but
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2383,18 +2270,15 @@ goodness.
 \emph default
 ” Harry brought up the sleeve of his robe and wiped across his forehead.
  “Look, Hermione, please don't misunderstand, I'm sure you're a wonderful
- person 
-\begin_inset ERT
-status open
+ person
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2403,6 +2287,14 @@ She took a staggering step back.
 
 \begin_layout Standard
 “
+\emph on
+--
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+but 
 \begin_inset ERT
 status open
 
@@ -2413,29 +2305,15 @@ status open
 
 \end_inset
 
- but 
-\begin_inset ERT
-status open
+ even with my dark side
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- even with my dark side 
-\begin_inset ERT
-status open
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
-\end_inset
-
-”
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2455,18 +2333,28 @@ status open
 
 \end_inset
 
- I wouldn't 
+ I wouldn't
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+
 \begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
---
+
+\backslash
+mbox{--”}
 \end_layout
 
 \end_inset
 
-”
+
 \end_layout
 
 \begin_layout Standard
@@ -2475,18 +2363,15 @@ status open
 \emph on
 know
 \emph default
- I'm not a normal child, not really 
-\begin_inset ERT
-status open
+ I'm not a normal child, not really
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2500,18 +2385,15 @@ status open
 \emph on
 I'm
 \emph default
- okay with it 
-\begin_inset ERT
-status open
+ okay with it
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2556,18 +2438,12 @@ queasily
  to deal with the inconveniences and 
 \emph on
 what was Harry even doing asking a poor innocent girl a question like that
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
 
+\emph default
+--
 \end_layout
 
 \begin_layout Standard
@@ -2579,18 +2455,15 @@ sorry
  “I really didn't mean most of that the way it sounded! I'm sure that anyone
  taking the outside view of the whole situation and offering betting odds
  on who I finally married would assign a higher probability to you than
- anyone else I can think of 
-\begin_inset ERT
-status open
+ anyone else I can think of
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2600,17 +2473,14 @@ Her intelligence, which had barely been starting to pull itself together,
 
 \begin_layout Standard
 “
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
+\emph on
 --
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- though not necessarily a probability higher than fifty percent, I mean,
+
+\emph default
+though not necessarily a probability higher than fifty percent, I mean,
  from the outside view there's a lot of other possibilities, and who I like
  before I hit puberty probably isn't all that strongly 
 \emph on
@@ -2631,18 +2501,15 @@ status open
 \emph on
 promising
 \emph default
- anything 
-\begin_inset ERT
-status open
+ anything
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Standard
@@ -2653,17 +2520,14 @@ Her throat was making some sort of high-pitched sounds and she wasn't really
 
 \begin_layout Standard
 “
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
+\emph on
 --
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
- and besides I've been reading about evolutionary psychology, and, well,
+
+\emph default
+and besides I've been reading about evolutionary psychology, and, well,
  there are all these suggestions that one man and one woman living together
  happily ever afterward may be more the exception rather than the rule,
  and in hunter-gatherer tribes it was more often just staying together for
@@ -2691,24 +2555,22 @@ status open
 
 \end_inset
 
- especially if we actually do solve immortality 
-\begin_inset ERT
-status open
+ especially if we actually do solve immortality
+\emph on
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+
+\emph default
+--”
 \end_layout
 
 \begin_layout Quote
 \align center
 \begin_inset Graphics
 	filename fleur.png
+	display false
 	scale 50
 
 \end_inset
@@ -2771,13 +2633,6 @@ Interruzione di pagina necessaria altrimenti il tailpiece sarebbe finito
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 The library doors slammed open again in the wake of another departure.
 \end_layout
 
@@ -2792,6 +2647,7 @@ The library doors slammed open again in the wake of another departure.
 \align center
 \begin_inset Graphics
 	filename tailpiece15.png
+	display false
 
 \end_inset
 

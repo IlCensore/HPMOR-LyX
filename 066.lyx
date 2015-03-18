@@ -6,9 +6,6 @@
 \use_default_options true
 \master hpmor_volume3_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -91,24 +88,27 @@ Self Actualization, Part I
 status open
 
 \begin_layout Plain Layout
+
+\emph on
 H
-\end_layout
-
-\end_inset
-
-essitation
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
 \end_layout
 
 \end_inset
 
 
 \emph on
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+essitation
+\end_layout
+
+\end_inset
+
  iss alwayss eassy, rarely usseful.
 \emph default
 
@@ -148,17 +148,6 @@ status open
 \end_inset
 
  there was no cunning plan which called for that.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

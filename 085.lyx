@@ -6,9 +6,6 @@
 \use_default_options true
 \master hpmor_volume3_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -96,13 +93,12 @@ S
 
 \end_inset
 
-low
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+low
 \end_layout
 
 \end_inset
@@ -113,17 +109,6 @@ status open
  You could only get to the top of the Ravenclaw tower by making that long
  climb without shortcuts, stone step by stone step; passing beneath Harry's
  shoes, pushed down by his wearying legs.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

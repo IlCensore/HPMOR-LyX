@@ -1,14 +1,11 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
 \use_default_options true
 \master hpmor_volume3_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -19,13 +16,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -36,15 +33,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -78,7 +84,7 @@ Interlude with the Confessor: Sunk Costs
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -87,13 +93,12 @@ R
 
 \end_inset
 
-ianne
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+ianne
 \end_layout
 
 \end_inset
@@ -105,17 +110,6 @@ Lumos
 \emph default
  lit through the distances between fire-sconces, holding aloft her wand
  through the gaps from light to light.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -139,18 +133,11 @@ status open
 
 \end_inset
 
- well 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ well
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -287,19 +274,7 @@ But Professor Snape opened his eyes then (to her inner disappointment and
 
 \begin_layout Standard
 She held out a trembling hand, hoping that Snape would press the ruby into
- her fingers, that she would feel a touch of his skin alive against hers
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
-\end_inset
-
-
+ her fingers, that she would feel a touch of his skin alive against hersianne
 \end_layout
 
 \begin_layout Standard
@@ -317,18 +292,11 @@ For a stretch there was only the faint crackling of the torch.
 \end_layout
 
 \begin_layout Standard
-“Why 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“Why
+\begin_inset space ~
 \end_inset
 
-” Rianne Felthorne said.
+--” Rianne Felthorne said.
  
 \emph on
 He knows I won't remember.
@@ -424,18 +392,11 @@ Snape shook his head, his face tightened.
 \end_layout
 
 \begin_layout Standard
-“Is 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“Is
+\begin_inset space ~
 \end_inset
 
-” Rianne said falteringly.
+--” Rianne said falteringly.
  “I mean 
 \begin_inset ERT
 status open
@@ -530,18 +491,11 @@ status open
 
 \end_inset
 
- would be 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ would be
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -567,18 +521,11 @@ Just too pitiful.
 \end_layout
 
 \begin_layout Standard
-She inhaled sharply 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+She inhaled sharply
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -761,18 +708,11 @@ power
 have
 \emph default
  to do it.
- It means you could do it if you tried 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ It means you could do it if you tried
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -945,29 +885,15 @@ must
 \end_layout
 
 \begin_layout Standard
-“I 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“I
+\begin_inset space ~
 \end_inset
 
-” she said, “I was glad to 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+--” she said, “I was glad to
+\begin_inset space ~
 \end_inset
 
-” and the words stuck in her throat.
+--” and the words stuck in her throat.
  The Potions Master had thanked her with a tone of finality, and she knew
  that the time of the Rianne Felthorne who remembered these moments was
  drawing to an end.
@@ -986,30 +912,16 @@ The Potions Master stood up from the sofa, the weight of his presence vanishing
 \end_layout
 
 \begin_layout Standard
-“Wait 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“Wait
+\begin_inset space ~
 \end_inset
 
-” she said.
- “Before that 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+--” she said.
+ “Before that
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -1100,18 +1012,11 @@ status open
 \emph on
  tight
 \emph default
- and 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ and
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -1120,18 +1025,11 @@ Only as the Potions Master straightened back up again, raising his wand
 \end_layout
 
 \begin_layout Standard
-“That wasn't 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+“That wasn't
+\begin_inset space ~
 \end_inset
 
-” she said in a wondering voice, looking up at him.
+--” she said in a wondering voice, looking up at him.
  “That wasn't 
 \begin_inset ERT
 status open
@@ -1158,18 +1056,11 @@ status open
 \emph on
 first
 \emph default
- 
-\begin_inset ERT
-status open
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
