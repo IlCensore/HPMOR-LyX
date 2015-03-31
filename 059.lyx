@@ -6,9 +6,6 @@
 \use_default_options true
 \master hpmor_volume2_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -110,13 +107,12 @@ B
 
 \end_inset
 
-roomsticks
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+roomsticks
 \end_layout
 
 \end_inset
@@ -124,17 +120,6 @@ status open
  had been invented during what a Muggle would have called the Dark Ages,
  supposedly by a legendary witch named Celestria Relevo, allegedly the great-gre
 at-granddaughter of Merlin.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

@@ -1,14 +1,11 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
 \use_default_options true
 \master hpmor_volume2_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -19,13 +16,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -36,15 +33,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -78,7 +84,7 @@ Humanism, Part II
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -87,29 +93,21 @@ status open
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 awkes,”
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
 \end_layout
 
 \end_inset
 
- said Albus Dumbledore, his voice cracking, “help him, please 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ said Albus Dumbledore, his voice cracking, “help him, please
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \begin_inset Newline newline
 \end_inset
 
@@ -150,18 +148,11 @@ status open
 
 \end_inset
 
- but I dare not take you back 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ but I dare not take you back
+\begin_inset space ~
 \end_inset
 
-”
+--”
 \end_layout
 
 \begin_layout Standard
@@ -205,18 +196,13 @@ he'd
 \emph default
  gotten a chance to do it for 
 \emph on
-her 
-\begin_inset ERT
-status open
+her
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -312,20 +298,13 @@ Hermione saw the looks of shock that crossed their faces.
 \begin_layout Standard
 “You don't understand,” Hermione said, her voice breaking, “
 \emph on
-that's not Harry 
-\begin_inset ERT
-status open
+that's not Harry
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
-\emph default
-” and she shut up before she said anything more, but she 
+--” and she shut up before she said anything more, but she 
 \emph on
 had
 \emph default
@@ -350,18 +329,11 @@ But if that person was
 \emph on
 already there
 \emph default
- 
-\begin_inset ERT
-status open
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -380,18 +352,7 @@ her
 \begin_inset space ~
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 --
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -428,18 +389,13 @@ I know.
 \begin_layout Standard
 
 \emph on
-What can we 
-\begin_inset ERT
-status open
+What can we
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
-
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -478,18 +434,11 @@ really
 \emph on
 much
 \emph default
- the Headmaster knew about Harry's dark side 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ the Headmaster knew about Harry's dark side
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -531,18 +480,11 @@ completely berserk
 \emph on
 kill
 \emph default
- the Headmaster 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ the Headmaster
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -560,18 +502,11 @@ That is protectiveness, that is love.
 \end_layout
 
 \begin_layout Standard
-The thought came to Hermione 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+The thought came to Hermione
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -586,18 +521,11 @@ and you may not like the way he reacts if you try.
 \end_layout
 
 \begin_layout Standard
-She hadn't really meant that seriously! It was too 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+She hadn't really meant that seriously! It was too
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Standard
@@ -646,18 +574,11 @@ Killing all those people would be difficult.
 \begin_layout Standard
 Then a person leaned over into the field of vision and did something completely
  strange, something that belonged to a foreign mode of thought, for which
- there was only a single response stored anywhere 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ there was only a single response stored anywhere
+\begin_inset space ~
 \end_inset
 
-
+--
 \end_layout
 
 \begin_layout Quote
@@ -677,7 +598,7 @@ She heard the gasps around her, and they didn't matter, she maintained the
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
