@@ -6,9 +6,6 @@
 \use_default_options true
 \master hpmor_volume1_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -96,13 +93,12 @@ E
 
 \end_inset
 
-very
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+very
 \end_layout
 
 \end_inset
@@ -117,17 +113,6 @@ status open
  And it still isn’t enough.
  Books are overflowing onto the tables and the sofas and making little heaps
  under the windows.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -830,18 +815,11 @@ mbox{--”}
  her head rose back up to stare at her husband.
  “I don’t want to win an argument with your father.
  I want my husband to, to listen to his wife who loves him, and trust her
- just this once 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
+ just this once
+\begin_inset space ~
 \end_inset
 
-
+--
 \begin_inset Quotes erd
 \end_inset
 

@@ -1,14 +1,11 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
 \use_default_options true
 \master hpmor_volume1_16x23.lyx
 \begin_modules
-theorems-ams
-eqs-within-sections
-figs-within-sections
 initials
 \end_modules
 \maintain_unincluded_children false
@@ -19,13 +16,13 @@ initials
 \font_roman times
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -36,15 +33,24 @@ initials
 \use_hyperref false
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date true
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -78,7 +84,7 @@ Self Awareness, Part II
 \end_layout
 
 \begin_layout Initial
-\begin_inset Argument
+\begin_inset Argument 2
 status open
 
 \begin_layout Plain Layout
@@ -87,13 +93,12 @@ status open
 
 \end_inset
 
-e
-\begin_inset ERT
+
+\begin_inset Argument 3
 status open
 
 \begin_layout Plain Layout
-
-}
+e
 \end_layout
 
 \end_inset
@@ -107,19 +112,6 @@ conscious
  Its song had implied so: 
 \emph on
 Oh, I'm the Sorting Hat and I'm okay, I sleep all year and I work one day…
-\emph default
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -249,7 +241,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
  !
 \end_layout
 
@@ -270,16 +264,12 @@ If you're placed on the head of anyone who so much as
  thinks 
 \emph on
 about the question of whether the Sorting Hat is aware of its own awareness
- 
-\begin_inset ERT
-status open
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
+\begin_inset space ~
 \end_inset
 
+--
 \end_layout
 
 \begin_layout Standard
@@ -301,16 +291,11 @@ He couldn't just let it go like that! Couldn't just
 forget
 \emph default
  having accidentally created a doomed consciousness that only wanted to
- die 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
+ die
+\begin_inset space ~
 \end_inset
 
+--
 \end_layout
 
 \begin_layout Standard
@@ -350,16 +335,13 @@ No promises.
 \emph default
  sure 
 \emph on
-that no future child ever does this by accident 
-\begin_inset ERT
-status open
+that no future child ever does this by accident
+\emph default
 
-\begin_layout Plain Layout
-
---
-\end_layout
+\begin_inset space ~
 \end_inset
 
+--
 \end_layout
 
 \begin_layout Standard
@@ -367,15 +349,14 @@ status open
 \emph on
 “That will suffice, I suppose.
  I can see that your intention is honest.
- Now, to get on with the Sorting 
-\begin_inset ERT
-status open
+ Now, to get on with the Sorting
+\emph default
 
-\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
 
 --
-\end_layout
-\end_inset
+\emph on
 ”
 \end_layout
 
@@ -416,7 +397,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -442,7 +425,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -466,7 +451,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 ”
 \end_layout
 
@@ -564,9 +551,10 @@ status open
 
 --
 \end_layout
+
 \end_inset
- mind, intelligence,
- memory, personality, or feelings 
+
+ mind, intelligence, memory, personality, or feelings 
 \begin_inset ERT
 status open
 
@@ -574,7 +562,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
  in your scar.
  Otherwise it would be participating in this conversation, being under my
  brim.
@@ -596,7 +586,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -618,7 +610,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -642,9 +636,10 @@ status open
 
 --
 \end_layout
+
 \end_inset
- just responding to the situations
- in which he found himself, that was all.
+
+ just responding to the situations in which he found himself, that was all.
  But Professor McGonagall seemed to think that there was more to it than
  that.
  And when he thought about it, even he had to admit that…
@@ -736,7 +731,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -777,7 +774,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 ”
 \end_layout
 
@@ -837,9 +836,10 @@ status open
 
 --
 \end_layout
+
 \end_inset
- in a strongly weighted
- component of its utility function.
+
+ in a strongly weighted component of its utility function.
 \end_layout
 
 \begin_layout Standard
@@ -860,12 +860,13 @@ status open
 
 --
 \end_layout
+
 \end_inset
- but do you think that you are the
- first potential Dark Lord to pass under my brim? I cannot know the individual
- cases, but I can know this: Of those who did not intend evil from the very
- beginning, some of them listened to my warnings, and went to Houses where
- they would find happiness.
+
+ but do you think that you are the first potential Dark Lord to pass under
+ my brim? I cannot know the individual cases, but I can know this: Of those
+ who did not intend evil from the very beginning, some of them listened
+ to my warnings, and went to Houses where they would find happiness.
  And some of them… some of them did not.”
 \end_layout
 
@@ -886,7 +887,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
  did they
 \emph default
  all 
@@ -981,7 +984,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 ”
 \end_layout
 
@@ -1012,7 +1017,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -1029,9 +1036,10 @@ status open
 
 --
 \end_layout
+
 \end_inset
- but I know what
- was truly happening inside your head.
+
+ but I know what was truly happening inside your head.
  The decisive pressure was that it was such a clever idea you couldn't stand
 \emph default
  not 
@@ -1076,7 +1084,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -1152,7 +1162,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -1259,9 +1271,11 @@ status open
 
 --
 \end_layout
+
 \end_inset
- you aren't letting yourself think it, but in some quiet corner
- of your mind you know just exactly
+
+ you aren't letting yourself think it, but in some quiet corner of your
+ mind you know just exactly
 \emph default
  what 
 \emph on
@@ -1273,7 +1287,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
  you
 \emph default
  know 
@@ -1428,7 +1444,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
  people probably expect it of you, even 
 \begin_inset ERT
 status open
@@ -1437,9 +1455,10 @@ status open
 
 --
 \end_layout
+
 \end_inset
- they'll be a little disappoint
-ed if you don't go 
+
+ they'll be a little disappointed if you don't go 
 \begin_inset ERT
 status open
 
@@ -1447,7 +1466,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
  and your new friends the Weasley twins are there 
 \begin_inset ERT
 status open
@@ -1456,7 +1477,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 ”
 \end_layout
 
@@ -1564,7 +1587,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
  and then, suddenly, he realised.
  He couldn't believe he'd managed to overlook it up until this point.
 \end_layout
@@ -1581,7 +1606,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -1607,7 +1634,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
@@ -1630,7 +1659,9 @@ status open
 
 --
 \end_layout
+
 \end_inset
+
 
 \end_layout
 
