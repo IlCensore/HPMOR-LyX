@@ -57,8 +57,8 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding \font_roman Garamond Premier Pro
-\font_roman EB Garamond
-\font_sans Gillius ADF
+\font_roman Crimson
+\font_sans Liberation Sans
 \font_typewriter Liberation Mono
 \font_math auto
 \font_default_family default
@@ -101,12 +101,12 @@ initials
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 16cm
-\paperheight 23cm
-\leftmargin 3.2cm
-\topmargin 1.6cm
-\rightmargin 3.2cm
-\bottommargin 3.2cm
+\paperwidth 14.81cm
+\paperheight 20.99cm
+\leftmargin 2.96cm
+\topmargin 2.22cm
+\rightmargin 2.96cm
+\bottommargin 2.96cm
 \secnumdepth 0
 \tocdepth 0
 \paragraph_separation indent
@@ -318,19 +318,6 @@ baselineskip]
 
 \begin_layout Plain Layout
 
-{
-\backslash
-textit{Illustrations by} Dinosaurusgede}
-\backslash
-
-\backslash
-[0.2
-\backslash
-baselineskip]
-\end_layout
-
-\begin_layout Plain Layout
-
 
 \backslash
 vfill
@@ -383,28 +370,30 @@ Harry Potter and the Methods of Rationality
 \emph default
  © E.
  Yukowsky.
- Text downloaded from http://hpmor.com on July 21, 2013; check the site for
- updates and new chapters.
 \end_layout
 
 \begin_layout Standard
 
 \size footnotesize
-Illustrations © Dinosaurusgede, released under Creative Commons Attribution-Non
- commercial 3.0 license, downloaded from 
+Text downloaded from 
+\noun on
+hpmor
+\noun default
+ website: 
 \begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
+\size footnotesize
 
 \backslash
-url{http://dinosaurusgede.deviantart.com/}
+url{hpmor.com}
 \end_layout
 
 \end_inset
 
-.
+
 \end_layout
 
 \begin_layout Standard
@@ -451,6 +440,13 @@ status open
 cleardoublepage  % 
 \backslash
 phantomsection if hyperref is used
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
 \end_layout
 
 \begin_layout Plain Layout
@@ -975,9 +971,7 @@ LaTeX
 \begin_inset Newline newline
 \end_inset
 
-using Garamond Premier Pro and 
-\family sans
-Gill Sans
+using Crimson and Liberation Sans.
 \end_layout
 
 \end_body
