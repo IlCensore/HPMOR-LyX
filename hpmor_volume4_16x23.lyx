@@ -57,8 +57,13 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding \font_roman Garamond Premier Pro
+<<<<<<< HEAD
+\font_roman Arno Pro
+\font_sans JohnSans Text Pro
+=======
 \font_roman Crimson
 \font_sans Liberation Sans
+>>>>>>> a82ff9414cdd8679432d250b9d800a9f52862253
 \font_typewriter Liberation Mono
 \font_math auto
 \font_default_family default
@@ -74,7 +79,7 @@ initials
 \index_command default
 \float_placement bp
 \paperfontsize 10
-\spacing single
+\spacing onehalf
 \use_hyperref false
 \papersize custom
 \use_geometry true
@@ -101,12 +106,21 @@ initials
 \shortcut idx
 \color #008000
 \end_index
+<<<<<<< HEAD
+\paperwidth 5.83in
+\paperheight 8.26in
+\leftmargin 1.166in
+\topmargin 0.8745in
+\rightmargin 1.166in
+\bottommargin 1.166in
+=======
 \paperwidth 14.81cm
 \paperheight 20.99cm
 \leftmargin 2.96cm
 \topmargin 2.22cm
 \rightmargin 2.96cm
 \bottommargin 2.96cm
+>>>>>>> a82ff9414cdd8679432d250b9d800a9f52862253
 \secnumdepth 0
 \tocdepth 0
 \paragraph_separation indent
@@ -353,33 +367,89 @@ vfill
 \end_layout
 
 \begin_layout Standard
+\align center
+
+\emph on
+Harry Potter and the Methods of Rationality
+\emph default
+ 
+\begin_inset Newline newline
+\end_inset
+
+© 2010--2015 Eliezer Yukowsky
+\end_layout
+
+\begin_layout Standard
 \begin_inset VSpace vfill*
 \end_inset
 
 
-\size footnotesize
-Harry Potter © J.K.
- Rowling.
 \end_layout
 
 \begin_layout Standard
+\align center
+The official website of this fanfic is
+\begin_inset Newline newline
+\end_inset
 
+hpmor.com
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Harry Potter names, characters and related indicia
+\begin_inset Newline newline
+\end_inset
+
+are copyright and trademark Warner Bros.
+ © 2000
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+<<<<<<< HEAD
+=======
 \size footnotesize
 \emph on
 Harry Potter and the Methods of Rationality
 \emph default
  © E.
  Yukowsky.
+>>>>>>> a82ff9414cdd8679432d250b9d800a9f52862253
 \end_layout
 
 \begin_layout Standard
+\align center
 
 \size footnotesize
+<<<<<<< HEAD
+Typesetted by
+\begin_inset Newline newline
+\end_inset
+
+Cato Philosophus
+\begin_inset Newline newline
+\end_inset
+
+with LyX & 
+=======
 Text downloaded from 
 \noun on
 hpmor
 \noun default
  website: 
+>>>>>>> a82ff9414cdd8679432d250b9d800a9f52862253
 \begin_inset ERT
 status open
 
@@ -388,12 +458,26 @@ status open
 \size footnotesize
 
 \backslash
+<<<<<<< HEAD
+LaTeX
+=======
 url{hpmor.com}
+>>>>>>> a82ff9414cdd8679432d250b9d800a9f52862253
 \end_layout
 
 \end_inset
 
+<<<<<<< HEAD
+,
+\begin_inset Newline newline
+\end_inset
 
+using Arno Pro and 
+\family sans
+Gill Sans
+=======
+
+>>>>>>> a82ff9414cdd8679432d250b9d800a9f52862253
 \end_layout
 
 \begin_layout Standard
@@ -508,13 +592,6 @@ filename "089.lyx"
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "090.lyx"
-
-\end_inset
-
-
-\begin_inset CommandInset include
-LatexCommand include
 filename "091.lyx"
 
 \end_inset
@@ -541,6 +618,9 @@ filename "094.lyx"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "095.lyx"
@@ -597,9 +677,6 @@ filename "102.lyx"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "103.lyx"
@@ -607,9 +684,6 @@ filename "103.lyx"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "104.lyx"
@@ -627,9 +701,6 @@ filename "105.lyx"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "106.lyx"
@@ -637,9 +708,6 @@ filename "106.lyx"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "107.lyx"
@@ -647,9 +715,6 @@ filename "107.lyx"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "108.lyx"
@@ -918,7 +983,8 @@ LaTeX and LyX, without whom this work would have been impossibile.
  wonderful world of 
 \backslash
 textsc{hpmor}, that provided me with several hours of entertainment and
- food for thought in equal parts.}
+ food for thought in equal parts.
+ The typesetting of this work is dedicated to my brother and my mother.}
 \end_layout
 
 \end_inset
@@ -950,28 +1016,11 @@ textsc{hpmor}, that provided me with several hours of entertainment and
 \begin_inset Newline newline
 \end_inset
 
-Typesetted
-\begin_inset Newline newline
-\end_inset
 
-with LyX & 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-LaTeX
-\end_layout
-
-\end_inset
-
-,
-\begin_inset Newline newline
-\end_inset
-
+<<<<<<< HEAD
+=======
 using Crimson and Liberation Sans.
+>>>>>>> a82ff9414cdd8679432d250b9d800a9f52862253
 \end_layout
 
 \end_body
